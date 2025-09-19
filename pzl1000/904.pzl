@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: druid,architect,poet,baker,dreamer,medium,oracle,fortune_teller,plague_doctor,bombardier,drunk,counsellor,poisoner,lilis
+1 dreamer #4 could be: Counsellor
+2 architect Left side is more Evil
+3 druid Among #1, #5, #7 there are NO Outcasts
+4 fortune_teller Is #10 or #8 Evil?: False
+6 oracle #3 or #2 is a Poisoner
+7 baker I was an Architect
+8 medium #10 is a real Baker
+[unknown] #killed_by_demon
+9 bombardier
+[unknown] #killed_by_demon

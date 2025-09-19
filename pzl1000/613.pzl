@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: lover,judge,scout,fortune_teller,medium,hunter,empress,doppelganger,drunk,wretch,twin_minion,pooka
+1 wretch
+2 judge #3 is saying Truth
+3 fortune_teller Is #2 or #9 Evil?: True
+4 scout Twin Minion is 3 cards away from closest Evil
+5 lover 2 Evils adjacent to me
+6 hunter I am 2 cards away from closest Evil
+7 medium #2 is a real Judge
+8 lover 2 Evils adjacent to me
+9 empress One is Evil: #2, #5 or #8

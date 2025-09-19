@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: fortune_teller,jester,architect,gemcrafter,alchemist,bard,plague_doctor,drunk,pooka
+1 plague_doctor #3 is Not Corrupted
+2 gemcrafter #2 is Good
+3 bard There are no Corrupted characters
+4 alchemist I cured 2 Corruptions
+5 architect Right side is more Evil
+6 jester Among: #7, #6, #4: There are 0 Evils
+7 fortune_teller Is #1 or #6 Evil?: False

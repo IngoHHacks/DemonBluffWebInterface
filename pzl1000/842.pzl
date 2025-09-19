@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: fortune_teller,slayer,enlightened,hunter,gemcrafter,alchemist,judge,plague_doctor,bombardier,doppelganger,minion,twin_minion,baa
+1 fortune_teller Is #2 or #9 Evil?: False
+2 gemcrafter #7 is Good
+3 alchemist I cured 2 Corruptions
+4 plague_doctor #3 is Not Corrupted
+5 enlightened Closest Evil is: Clockwise
+6 slayer I couldn't kill #8
+7 hunter I am 1 card away from closest Evil
+8 slayer I couldn't kill #4
+9 judge #8 is saying Truth

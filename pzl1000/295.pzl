@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: poet,alchemist,enlightened,hunter,medium,druid,scout,doppelganger,bombardier,witch,pooka
+1 poet #3 or #4 is a Witch
+2 alchemist I cured 0 Corruptions
+3 hunter I am 1 card away from closest Evil
+4 scout Pooka is 3 cards away from closest Evil
+5 medium #6 is a real Druid
+6 druid
+7 enlightened Closest Evil is: Clockwise
+[unknown]

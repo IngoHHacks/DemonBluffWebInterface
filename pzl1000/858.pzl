@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: scout,slayer,baker,jester,lover,empress,wretch,doppelganger,bombardier,poisoner,pooka
+1 baker I am the original Baker
+2 baker I was a Jester
+3 empress One is Evil: #4, #1 or #5
+4 baker I was a Scout
+5 wretch
+6 slayer I couldn't kill #3
+7 lover 2 Evils adjacent to me
+8 baker I was a Scout
+9 lover 2 Evils adjacent to me

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,confessor,baker,poet,bard,knight,druid,doppelganger,drunk,shaman,pooka
+1 druid
+2 poet I am 1 card away from Corrupted character
+3 confessor I am dizzy
+4 fortune_teller
+5 druid
+6 fortune_teller
+7 bard I am 2 cards away from Corrupted character
+8 baker I am the original Baker

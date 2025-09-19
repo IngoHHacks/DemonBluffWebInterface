@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: knight,witness,knitter,enlightened,confessor,hunter,empress,doppelganger,wretch,bombardier,counsellor,minion,lilis
+1 confessor I am dizzy
+2 empress One is Evil: #10, #3 or #4
+3 confessor I am Good
+4 hunter I am 2 cards away from closest Evil
+6 knitter There are 2 pairs of Evil
+7 wretch
+8 enlightened Closest Evil is: Clockwise
+9 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: lover,druid,poet,gemcrafter,confessor,bard,hunter,architect,judge,drunk,doppelganger,minion,puppeteer,lilis,puppet
+1 bard I am 2 cards away from Corrupted character
+2 lover NO Evils adjacent to me
+3 judge
+4 hunter I am 1 card away from closest Evil
+6 poet Between #3, #7, #2 there is: Outcast, Villager and Minion
+7 gemcrafter #5 is Good
+8 druid
+9 architect Left side is more Evil
+[unknown] #killed_by_demon
+10 confessor I am dizzy

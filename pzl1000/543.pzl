@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: hunter,scout,baker,bishop,poet,slayer,plague_doctor,bombardier,doppelganger,minion,lilis
+1 hunter I am 2 cards away from closest Evil
+2 baker I am the original Baker
+3 baker I was a Hunter
+4 scout Minion is 2 cards away from closest Evil
+6 poet Minion is 3 cards away from closest Evil
+7 hunter I am 2 cards away from closest Evil
+8 bishop Between #6, #3, #1 there is: Minion, Outcast and Villager
+9 bombardier
+[unknown] #killed_by_demon

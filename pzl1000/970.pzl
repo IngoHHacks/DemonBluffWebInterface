@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,bard,slayer,judge,baker,alchemist,confessor,plague_doctor,bombardier,wretch,twin_minion,pooka
+1 wretch
+2 poet Closest Evil is: Clockwise
+3 baker I was a Confessor
+4 confessor I am Good
+5 alchemist I cured 2 Corruptions
+6 slayer I couldn't kill #7
+7 judge #6 is saying Truth
+8 bard I am 2 cards away from Corrupted character
+9 plague_doctor #8 is Evil #5 is Corrupted

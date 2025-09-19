@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: alchemist,jester,hunter,lover,knight,druid,wretch,plague_doctor,pooka
+2 plague_doctor
+3 alchemist I cured 2 Corruptions
+4 lover 1 Evil adjacent to me
+5 hunter I am 2 cards away from closest Evil
+6 jester
+[unknown] #killed_by_demon
+7 knight

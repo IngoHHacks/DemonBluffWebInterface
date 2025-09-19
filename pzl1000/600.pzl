@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,dreamer,empress,bishop,enlightened,fortune_teller,slayer,plague_doctor,drunk,wretch,doppelganger,counsellor,pooka
+1 bishop Between #3, #8, #5 there is: Minion, Outcast and Villager
+2 enlightened Closest Evil is: Clockwise
+3 fortune_teller Is #6 or #4 Evil?: True
+4 dreamer #7 could be: Pooka
+5 slayer I couldn't kill #2
+6 plague_doctor #2 is Evil #3 is Corrupted
+7 alchemist I cured 1 Corruption
+8 alchemist I cured 0 Corruptions

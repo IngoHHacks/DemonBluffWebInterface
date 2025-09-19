@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bishop,enlightened,bard,fortune_teller,baker,jester,plague_doctor,bombardier,doppelganger,minion,counsellor,lilis
+1 jester
+2 bard I am 2 cards away from Corrupted character
+3 jester
+4 bishop Between #5, #1, #6 there is: Outcast, Villager and Minion
+6 enlightened Closest Evil is: Counter-clockwise
+7 fortune_teller
+8 bishop Between #5, #1, #9 there is: Minion, Villager and Outcast
+9 bombardier
+[unknown] #killed_by_demon

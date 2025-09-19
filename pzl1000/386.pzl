@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,lover,confessor,fortune_teller,gemcrafter,slayer,baker,wretch,doppelganger,bombardier,counsellor,minion,lilis
+1 slayer
+2 slayer
+3 wretch
+4 lover 2 Evils adjacent to me
+6 bombardier
+7 baker I was a Gemcrafter
+8 scout Counsellor is 1 card away from closest Evil
+9 confessor I am Good
+[unknown] #killed_by_demon

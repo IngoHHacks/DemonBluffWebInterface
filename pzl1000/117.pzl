@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: poet,bishop,empress,confessor,medium,doppelganger,drunk,pooka
+2 empress One is Evil: #3, #5 or #4
+3 poet #1 is a real Doppelganger
+[unknown] #killed_by_demon
+4 medium #1 is a real Empress
+5 confessor I am dizzy
+6 bishop Between #1, #5, #4 there is: Demon, Outcast and Villager

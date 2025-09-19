@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: oracle,poet,empress,medium,bard,scout,bombardier,wretch,plague_doctor,poisoner,baa
+1 scout Poisoner is 3 cards away from closest Evil
+2 bombardier
+3 poet #2 or #4 is a Poisoner
+4 oracle #4 or #2 is a Poisoner
+5 bard I am 1 card away from Corrupted character
+6 medium #3 is a real Poet
+7 empress One is Evil: #2, #4 or #6

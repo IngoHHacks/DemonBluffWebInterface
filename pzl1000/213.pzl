@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: lover,medium,knitter,slayer,empress,alchemist,bard,plague_doctor,wretch,bombardier,doppelganger,counsellor,pooka
+1 knitter Evils are not adjacent to eachother
+2 wretch
+3 medium #4 is a real Alchemist
+4 alchemist I cured 2 Corruptions
+5 plague_doctor
+6 lover NO Evils adjacent to me
+7 bombardier
+8 empress One is Evil: #5, #3 or #1
+9 slayer

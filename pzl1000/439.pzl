@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,knight,druid,enlightened,gemcrafter,knitter,oracle,doppelganger,wretch,drunk,bombardier,counsellor,lilis
+1 druid
+2 gemcrafter #6 is Good
+3 knitter There is only 1 pair of Evil
+4 druid
+6 knight
+7 oracle #8 or #7 is a Counsellor
+8 bombardier
+[unknown] #killed_by_demon

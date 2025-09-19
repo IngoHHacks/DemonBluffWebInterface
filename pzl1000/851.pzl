@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: baker,knight,dreamer,fortune_teller,enlightened,hunter,jester,plague_doctor,drunk,bombardier,twin_minion,witch,lilis
+1 knight
+2 baker I am the original Baker
+3 baker I was a Jester
+4 dreamer #7 could be: Lilis
+6 fortune_teller Is #4 or #9 Evil?: True
+7 plague_doctor #3 is Evil #3 is Corrupted
+8 enlightened Closest Evil is equidistant
+[unknown]
+[unknown] #killed_by_demon

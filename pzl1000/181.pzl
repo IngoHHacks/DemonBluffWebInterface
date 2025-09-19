@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: jester,knight,alchemist,gemcrafter,architect,knitter,druid,poet,wretch,doppelganger,shaman,poisoner,lilis
+1 wretch
+2 alchemist I cured 0 Corruptions
+3 druid
+4 gemcrafter #10 is Good
+6 architect Left side is more Evil
+7 architect Right side is more Evil
+8 knight
+9 poet I am 2 cards away from Corrupted character
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

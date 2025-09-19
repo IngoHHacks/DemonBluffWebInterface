@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,poet,bard,knight,baker,oracle,plague_doctor,bombardier,drunk,counsellor,pooka
+1 dreamer
+2 baker I was a Dreamer
+3 oracle #6 or #8 is a Counsellor
+4 plague_doctor
+5 plague_doctor
+6 knight
+7 poet I am 2 cards away from closest Evil
+8 bombardier

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,oracle,poet,fortune_teller,bishop,druid,wretch,drunk,bombardier,doppelganger,counsellor,baa
+1 poet Closest Evil is: Counter-clockwise
+2 bombardier
+3 bishop Between #4, #7, #5 there is: Villager, Minion and Outcast
+4 jester
+5 bishop Between #2, #7, #3 there is: Minion, Villager and Outcast
+6 oracle #6 or #4 is a Counsellor
+7 druid

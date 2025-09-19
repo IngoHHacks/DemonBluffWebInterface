@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,bard,medium,jester,poet,knight,plague_doctor,wretch,bombardier,twin_minion,baa
+1 plague_doctor
+2 poet One is Evil: #6, #7 or #8
+3 knight
+4 jester
+5 bard I am 3 cards away from Corrupted character
+6 dreamer
+7 bard I am 4 cards away from Corrupted character
+8 medium #5 is a real Bard

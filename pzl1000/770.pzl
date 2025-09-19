@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: scout,baker,knight,jester,empress,dreamer,confessor,bombardier,drunk,wretch,plague_doctor,minion,pooka
+1 knight
+2 empress One is Evil: #5, #3 or #6
+3 baker I am the original Baker
+4 bombardier
+5 dreamer #8 could be: Minion
+6 plague_doctor #1 is Not Corrupted
+7 scout Minion is 2 cards away from closest Evil
+8 jester Among: #5, #2, #3: There are 2 Evils
+9 baker I was a Confessor

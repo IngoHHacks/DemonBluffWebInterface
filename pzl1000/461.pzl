@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: jester,knitter,judge,alchemist,hunter,knight,bombardier,drunk,pooka
+2 knight
+3 alchemist I cured 2 Corruptions
+4 judge
+5 hunter I am 3 cards away from closest Evil
+6 jester
+7 knitter Evils are not adjacent to eachother
+[unknown] #killed_by_demon

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: slayer,hunter,oracle,scout,poet,confessor,jester,plague_doctor,bombardier,doppelganger,puppeteer,witch,lilis,puppet
+1 hunter I am 1 card away from closest Evil
+2 slayer
+3 scout Lilis is 2 cards away from closest Evil
+4 poet I am 1 card away from Corrupted character
+6 plague_doctor
+7 jester
+8 jester
+[unknown]
+[unknown] #killed_by_demon

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,alchemist,knitter,confessor,lover,dreamer,hunter,drunk,bombardier,plague_doctor,witch,pooka
+1 alchemist I cured 1 Corruption
+2 confessor I am dizzy
+3 lover 2 Evils adjacent to me
+4 dreamer
+5 alchemist I cured 2 Corruptions
+6 hunter I am 3 cards away from closest Evil
+7 scout Pooka is 2 cards away from closest Evil
+8 plague_doctor
+[unknown]

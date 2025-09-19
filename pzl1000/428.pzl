@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,scout,dreamer,gemcrafter,druid,hunter,medium,plague_doctor,bombardier,drunk,puppeteer,counsellor,lilis
+1 medium #9 is a real Hunter
+2 druid
+3 scout Lilis is 3 cards away from closest Evil
+4 dreamer
+6 enlightened Closest Evil is equidistant
+7 scout Counsellor is 3 cards away from closest Evil
+8 bombardier
+9 gemcrafter #7 is Good
+[unknown] #killed_by_demon

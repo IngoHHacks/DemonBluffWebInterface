@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,baker,knight,poet,druid,architect,doppelganger,drunk,bombardier,counsellor,pooka
+1 architect Both sides are equally Evil
+2 druid Among #3, #7, #6 there are NO Outcasts
+3 baker I was a Baker
+4 architect Left side is more Evil
+5 knight
+6 bombardier
+7 knight
+8 poet Closest Evil is: Counter-clockwise

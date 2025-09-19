@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: oracle,slayer,baker,architect,druid,judge,jester,plague_doctor,bombardier,doppelganger,shaman,puppeteer,baa,puppet
+1 oracle #7 or #3 is a Puppet
+9 #dead baa|druid Among #6, #5, #9 there are NO Outcasts
+3 oracle #1 or #6 is a Puppeteer
+4 slayer I killed Evil at #2
+5 jester Among: #7, #6, #8: There are 3 Evils
+6 jester Among: #2, #8, #7: There are 2 Evils
+7 architect Left side is more Evil
+8 baker I was an Oracle
+9 bombardier

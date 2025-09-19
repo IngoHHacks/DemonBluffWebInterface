@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,baker,judge,dreamer,confessor,oracle,hunter,poet,drunk,bombardier,poisoner,pooka
+1 oracle #6 or #3 is a Poisoner
+2 confessor I am dizzy
+3 hunter I am 4 cards away from closest Evil
+4 dreamer
+5 judge
+6 jester
+7 baker I am the original Baker
+8 baker I was a Poet

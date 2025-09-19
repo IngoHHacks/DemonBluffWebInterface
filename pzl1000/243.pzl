@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: confessor,alchemist,knight,poet,gemcrafter,bishop,empress,wretch,drunk,bombardier,plague_doctor,witch,puppeteer,baa,puppet
+1 knight
+2 confessor I am dizzy
+3 empress One is Evil: #1, #4 or #8
+4 alchemist I cured 0 Corruptions
+5 bishop Between #2, #4, #1 there is: Minion, Villager and Outcast
+6 plague_doctor
+7 gemcrafter #5 is Good
+8 knight
+[unknown]

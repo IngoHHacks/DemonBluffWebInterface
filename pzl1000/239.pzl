@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,gemcrafter,hunter,druid,lover,baker,knitter,drunk,doppelganger,bombardier,wretch,counsellor,baa
+1 hunter I am 1 card away from closest Evil
+2 dreamer
+3 lover 1 Evil adjacent to me
+4 druid
+5 knitter Evils are not adjacent to eachother
+6 wretch
+7 baker I am the original Baker
+8 bombardier

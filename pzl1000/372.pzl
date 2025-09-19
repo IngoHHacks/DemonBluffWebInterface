@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,jester,confessor,fortune_teller,gemcrafter,medium,lover,wretch,drunk,minion,pooka
+1 medium #6 is a real Jester
+2 fortune_teller
+3 wretch
+4 gemcrafter #7 is Good
+5 confessor I am Good
+6 jester
+7 knight
+8 lover NO Evils adjacent to me

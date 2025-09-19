@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: fortune_teller,oracle,baker,hunter,empress,poet,confessor,wretch,drunk,bombardier,minion,puppeteer,baa,puppet
+1 fortune_teller Is #7 or #6 Evil?: False
+2 hunter I am 4 cards away from closest Evil
+3 bombardier
+4 poet Closest Evil is: Counter-clockwise
+5 oracle #4 or #9 is a Puppeteer
+6 confessor I am Good
+7 empress One is Evil: #6, #3 or #1
+8 confessor I am dizzy
+9 baker I was a Confessor

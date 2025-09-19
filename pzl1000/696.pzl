@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,medium,confessor,empress,gemcrafter,fortune_teller,bombardier,wretch,doppelganger,witch,poisoner,baa
+1 medium #2 is a real Empress
+2 empress One is Evil: #4, #6 or #8
+3 dreamer #6 could be: Poisoner
+4 gemcrafter #1 is Good
+5 confessor I am dizzy
+6 fortune_teller Is #1 or #5 Evil?: True
+7 gemcrafter #2 is Good
+8 bombardier
+[unknown]

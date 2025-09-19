@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,dreamer,gemcrafter,alchemist,baker,knight,oracle,bombardier,plague_doctor,doppelganger,witch,baa
+1 oracle #8 or #6 is a Witch
+2 architect Right side is more Evil
+3 dreamer
+4 baker I am the original Baker
+5 baker I was a Gemcrafter
+6 baker I was an Alchemist
+7 baker I was a Knight
+[unknown]

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: lover,baker,architect,bard,fortune_teller,confessor,knight,doppelganger,drunk,bombardier,puppeteer,baa,puppet
+1 fortune_teller Is #4 or #2 Evil?: False
+2 fortune_teller Is #2 or #4 Evil?: True
+3 architect Left side is more Evil
+4 bard I am 4 cards away from Corrupted character
+5 knight
+6 confessor I am Good
+7 lover NO Evils adjacent to me
+8 baker I was a Confessor

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,lover,bishop,gemcrafter,architect,poet,slayer,plague_doctor,bombardier,wretch,twin_minion,pooka
+1 bombardier
+2 slayer I couldn't kill #4
+3 architect Left side is more Evil
+4 poet #7 or #1 is a Twin Minion
+5 lover 1 Evil adjacent to me
+6 druid Among #9, #1, #8 there is: Plague Doctor
+7 bishop Between #6, #1, #8 there is: Outcast, Villager and Minion
+8 gemcrafter #3 is Good
+9 plague_doctor #3 is Evil #5 is Corrupted

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: witness,poet,knight,gemcrafter,dreamer,bard,wretch,drunk,poisoner,pooka
+2 bard I am 1 card away from Corrupted character
+3 knight
+4 poet One is Evil: #1, #8 or #5
+5 witness #8 was affected by an Evil
+6 knight
+[unknown] #killed_by_demon
+7 dreamer
+8 gemcrafter #7 is Good

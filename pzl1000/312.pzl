@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,knight,slayer,fortune_teller,architect,knitter,drunk,doppelganger,minion,pooka
+1 architect Left side is more Evil
+2 baker I was a Slayer
+3 architect Right side is more Evil
+4 fortune_teller
+5 knitter There is only 1 pair of Evil
+6 slayer
+7 knitter Evils are not adjacent to eachother
+8 knight

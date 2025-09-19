@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: witness,slayer,oracle,knitter,enlightened,architect,dreamer,gemcrafter,bard,doppelganger,plague_doctor,bombardier,minion,poisoner,baa
+1 dreamer #4 could be: Minion
+2 knitter There are 2 pairs of Evil
+3 bard I am 2 cards away from Corrupted character
+4 enlightened Closest Evil is: Counter-clockwise
+5 gemcrafter #2 is Good
+6 architect Left side is more Evil
+7 witness #1 was affected by an Evil
+8 plague_doctor #9 is Not Corrupted
+9 slayer I couldn't kill #8
+10 oracle #2 or #8 is a Poisoner

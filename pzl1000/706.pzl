@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: confessor,enlightened,knitter,fortune_teller,baker,bard,plague_doctor,bombardier,doppelganger,witch,baa
+1 knitter There is only 1 pair of Evil
+2 bard There are no Corrupted characters
+3 fortune_teller Is #4 or #2 Evil?: False
+4 enlightened Closest Evil is: Clockwise
+5 confessor I am Good
+6 enlightened Closest Evil is: Clockwise
+7 confessor I am dizzy
+[unknown]

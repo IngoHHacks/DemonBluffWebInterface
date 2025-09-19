@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: bishop,poet,jester,medium,witness,alchemist,judge,bard,plague_doctor,bombardier,witch,shaman,lilis
+1 alchemist I cured 1 Corruption
+2 bard There are no Corrupted characters
+3 bombardier
+4 medium #6 is a real Jester
+6 poet One is Evil: #7, #3 or #6
+7 jester Among: #9, #4, #5: There are 2 Evils
+8 judge #3 is saying Truth
+[unknown] #killed_by_demon
+[unknown]

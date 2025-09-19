@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,knight,baker,poet,oracle,alchemist,plague_doctor,doppelganger,bombardier,poisoner,baa
+1 knight
+2 architect Left side is more Evil
+3 plague_doctor
+4 alchemist I cured 1 Corruption
+5 poet Baa is 4 cards away from closest Evil
+6 architect Left side is more Evil
+7 baker I am the original Baker
+8 baker I was a Baker

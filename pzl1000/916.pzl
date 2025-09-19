@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knitter,alchemist,medium,slayer,gemcrafter,enlightened,wretch,doppelganger,bombardier,counsellor,witch,lilis
+1 enlightened Closest Evil is: Clockwise
+2 alchemist I cured 2 Corruptions
+3 bombardier
+4 wretch
+6 bombardier
+7 knitter There is only 1 pair of Evil
+[unknown] #killed_by_demon
+8 knitter There are 2 pairs of Evil
+[unknown]

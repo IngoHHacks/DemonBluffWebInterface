@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,empress,fortune_teller,knight,slayer,witness,doppelganger,bombardier,wretch,witch,lilis
+1 wretch
+2 empress One is Evil: #5, #3 or #7
+3 slayer
+4 fortune_teller
+6 empress One is Evil: #3, #4 or #1
+7 bishop Between #9, #3, #8 there is: Villager, Minion and Outcast
+8 knight
+[unknown] #killed_by_demon
+[unknown]

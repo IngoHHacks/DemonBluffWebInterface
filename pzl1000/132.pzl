@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: enlightened,poet,scout,architect,confessor,empress,baker,drunk,bombardier,doppelganger,puppeteer,counsellor,lilis,puppet
+1 empress One is Evil: #3, #2 or #9
+2 enlightened Closest Evil is: Counter-clockwise
+3 empress One is Evil: #9, #10 or #6
+4 architect Left side is more Evil
+6 architect Right side is more Evil
+7 scout Lilis is 1 card away from closest Evil
+8 poet Closest Evil is: Clockwise
+9 baker I am the original Baker
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

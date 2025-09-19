@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,bard,architect,confessor,poet,empress,gemcrafter,doppelganger,wretch,bombardier,minion,baa
+1 confessor I am Good
+2 bard There are no Corrupted characters
+3 gemcrafter #7 is Good
+4 empress One is Evil: #8, #1 or #7
+5 architect Both sides are equally Evil
+6 poet I am 1 card away from closest Evil
+7 knight
+8 poet Between #2, #7, #8 there is: Outcast, Minion and Villager

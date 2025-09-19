@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: witness,bard,dreamer,poet,judge,empress,confessor,plague_doctor,doppelganger,wretch,bombardier,counsellor,lilis
+1 plague_doctor #6 is Not Corrupted
+2 poet Lilis is 1 card away from closest Evil
+3 bombardier
+4 bard I am 1 card away from Corrupted character
+6 empress One is Evil: #8, #2 or #7
+7 wretch
+8 confessor I am dizzy
+9 dreamer #1 could be: Counsellor
+[unknown] #killed_by_demon

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: druid,slayer,witness,empress,architect,jester,dreamer,wretch,bombardier,plague_doctor,counsellor,twin_minion,lilis
+1 jester Among: #5, #3, #8: There are 2 Evils
+2 wretch
+3 slayer I couldn't kill #2
+4 jester Among: #10, #1, #7: There are 3 Evils
+6 dreamer #6 could be: Counsellor
+7 druid Among #5, #9, #7 there are NO Outcasts
+8 jester Among: #1, #9, #4: There is 1 Evil
+9 plague_doctor #9 is Not Corrupted
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

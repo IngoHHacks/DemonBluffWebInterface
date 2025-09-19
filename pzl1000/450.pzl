@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: enlightened,lover,baker,fortune_teller,confessor,judge,empress,doppelganger,drunk,minion,poisoner,lilis
+2 fortune_teller
+3 enlightened Closest Evil is: Clockwise
+4 baker I am the original Baker
+5 enlightened Closest Evil is: Counter-clockwise
+7 baker I was a Lover
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon
+8 empress One is Evil: #7, #5 or #6
+9 baker I was a Fortune Teller
+10 fortune_teller

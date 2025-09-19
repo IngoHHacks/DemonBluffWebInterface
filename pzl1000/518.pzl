@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: dreamer,fortune_teller,scout,bishop,oracle,enlightened,bombardier,plague_doctor,wretch,twin_minion,lilis
+1 dreamer #8 could be: Lilis
+2 dreamer #3 could be: Lilis
+3 fortune_teller Is #5 or #7 Evil?: False
+4 wretch
+6 scout Lilis is 2 cards away from closest Evil
+7 bishop Between #9, #7, #2 there is: Outcast, Minion and Villager
+[unknown] #killed_by_demon
+8 bombardier
+9 oracle #4 or #3 is a Twin Minion

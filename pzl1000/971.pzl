@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,knitter,baker,poet,druid,dreamer,bombardier,plague_doctor,minion,pooka
+1 baker I am the original Baker
+2 druid Among #6, #5, #8 there is: Bombardier
+3 jester Among: #5, #7, #4: There is 1 Evil
+4 dreamer #6 could be: Pooka
+5 dreamer #3 could be: Minion
+6 bombardier
+7 knitter There is only 1 pair of Evil
+8 baker I was a Poet

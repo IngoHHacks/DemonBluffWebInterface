@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,knitter,confessor,architect,alchemist,dreamer,wretch,plague_doctor,minion,twin_minion,lilis
+1 knitter Evils are not adjacent to eachother
+2 alchemist I cured 1 Corruption
+3 knight
+4 alchemist I cured 0 Corruptions
+6 alchemist I cured 2 Corruptions
+7 architect Right side is more Evil
+[unknown] #killed_by_demon
+8 confessor I am Good
+9 wretch

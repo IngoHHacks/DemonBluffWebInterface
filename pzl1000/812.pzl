@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,architect,jester,bishop,knitter,empress,knight,poet,bombardier,drunk,twin_minion,minion,lilis
+1 bishop Between #6, #8, #3 there is: Villager, Minion and Outcast
+2 knitter There is only 1 pair of Evil
+3 poet I am 4 cards away from Corrupted character
+4 confessor I am Good
+6 empress One is Evil: #3, #1 or #6
+7 architect Right side is more Evil
+8 architect Right side is more Evil
+[unknown] #killed_by_demon
+9 knight

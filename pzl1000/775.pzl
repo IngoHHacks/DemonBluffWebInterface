@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: knight,poet,bishop,gemcrafter,slayer,architect,plague_doctor,doppelganger,drunk,shaman,lilis
+1 slayer I couldn't kill #6
+2 plague_doctor #6 is Not Corrupted
+3 knight
+4 bishop Between #3, #1, #6 there is: Outcast, Minion and Villager
+6 gemcrafter #9 is Good
+7 bishop Between #2, #1, #9 there is: Outcast, Minion and Villager
+8 poet #3 or #9 is a Shaman
+[unknown] #killed_by_demon
+9 slayer I couldn't kill #3

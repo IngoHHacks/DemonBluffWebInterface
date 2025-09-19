@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knight,gemcrafter,bard,bishop,druid,witness,oracle,wretch,doppelganger,bombardier,drunk,shaman,puppeteer,baa,puppet
+1 knight
+2 bard I am 2 cards away from Corrupted character
+3 bishop Between #9, #2, #6 there is: Villager, Minion and Outcast
+4 druid Among #7, #3, #8 there are NO Outcasts
+5 witness #7 was affected by an Evil
+6 bombardier
+7 gemcrafter #2 is Good
+8 bishop Between #5, #3, #9 there is: Outcast, Minion and Villager
+9 witness #9 was affected by an Evil

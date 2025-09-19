@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: baker,scout,knitter,medium,poet,judge,lover,bombardier,drunk,pooka
+1 poet Pooka is 2 cards away from closest Evil
+2 medium #1 is a real Poet
+3 judge #6 is Lying
+4 lover NO Evils adjacent to me
+5 knitter Evils are not adjacent to eachother
+6 scout Pooka is 3 cards away from closest Evil
+7 baker I was a Medium

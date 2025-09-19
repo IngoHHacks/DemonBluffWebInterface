@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,baker,confessor,empress,slayer,alchemist,bishop,doppelganger,drunk,bombardier,minion,baa
+1 empress One is Evil: #3, #7 or #4
+2 bishop Between #5, #8, #4 there is: Minion, Outcast and Villager
+3 confessor I am Good
+4 baker I was a Fortune Teller
+5 alchemist I cured 2 Corruptions
+6 fortune_teller
+7 slayer
+8 baker I am the original Baker

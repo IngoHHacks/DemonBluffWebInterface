@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,witness,poet,bard,dreamer,bishop,plague_doctor,wretch,bombardier,minion,poisoner,baa
+1 plague_doctor
+2 witness #8 was affected by an Evil
+3 poet #9 or #1 is a Poisoner
+4 bishop Between #8, #9, #2 there is: Minion, Villager and Outcast
+5 plague_doctor
+6 bard I am 2 cards away from Corrupted character
+7 poet #4 is Good
+8 judge
+9 dreamer

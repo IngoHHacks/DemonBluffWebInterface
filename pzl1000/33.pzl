@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: poet,fortune_teller,oracle,scout,dreamer,enlightened,medium,doppelganger,bombardier,plague_doctor,puppeteer,witch,lilis,puppet
+1 poet There is only 1 pair of Evil
+2 dreamer
+3 fortune_teller
+4 scout Puppeteer is 3 cards away from closest Evil
+6 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon
+7 oracle #8 or #2 is a Puppeteer
+8 scout Puppeteer is 1 card away from closest Evil
+9 medium #8 is a real Scout
+[unknown]

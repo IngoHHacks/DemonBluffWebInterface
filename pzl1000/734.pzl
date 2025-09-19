@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,dreamer,gemcrafter,architect,alchemist,baker,fortune_teller,plague_doctor,bombardier,wretch,minion,shaman,baa
+1 fortune_teller Is #9 or #6 Evil?: True
+2 gemcrafter #1 is Good
+3 baker I am the original Baker
+4 bombardier
+5 plague_doctor #2 is Not Corrupted
+6 baker I was a Dreamer
+7 baker I was an Alchemist
+8 baker I was a Baker
+9 baker I was an Empress

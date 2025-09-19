@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: hunter,confessor,architect,dreamer,oracle,judge,alchemist,doppelganger,wretch,plague_doctor,minion,counsellor,pooka
+1 hunter I am 3 cards away from closest Evil
+2 alchemist I cured 0 Corruptions
+3 confessor I am Good
+4 judge
+5 architect Left side is more Evil
+6 oracle #3 or #9 is a Counsellor
+7 architect Right side is more Evil
+8 wretch
+9 plague_doctor
+10 hunter I am 4 cards away from closest Evil

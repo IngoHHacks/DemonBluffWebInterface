@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: judge,knitter,slayer,scout,knight,druid,plague_doctor,doppelganger,pooka
+1 scout Pooka is 2 cards away from closest Evil
+2 slayer
+3 judge
+4 knitter There is only 1 pair of Evil
+5 druid
+6 knight
+7 plague_doctor

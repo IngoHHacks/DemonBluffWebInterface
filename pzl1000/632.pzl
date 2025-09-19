@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: baker,lover,architect,judge,jester,dreamer,empress,slayer,hunter,plague_doctor,drunk,witch,minion,lilis
+1 architect Left side is more Evil
+2 jester Among: #4, #1, #10: There is 1 Evil
+3 architect Both sides are equally Evil
+4 judge #10 is saying Truth
+6 empress One is Evil: #9, #2 or #6
+7 dreamer #9 could be: Witch
+8 lover 1 Evil adjacent to me
+9 baker I was a Slayer
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

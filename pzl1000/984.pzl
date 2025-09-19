@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,oracle,architect,jester,gemcrafter,knitter,hunter,slayer,knight,wretch,drunk,witch,twin_minion,lilis
+1 knitter Evils are not adjacent to eachother
+2 knight
+3 slayer I couldn't kill #1
+4 dreamer #7 could be: Lilis
+6 architect Right side is more Evil
+7 gemcrafter #4 is Good
+8 oracle #4 or #6 is a Witch
+[unknown]
+[unknown] #killed_by_demon

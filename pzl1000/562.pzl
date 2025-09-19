@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: architect,alchemist,gemcrafter,knitter,slayer,dreamer,wretch,bombardier,doppelganger,plague_doctor,twin_minion,counsellor,baa
+1 slayer I couldn't kill #8
+2 dreamer #5 could be: Twin Minion
+3 architect Left side is more Evil
+4 alchemist I cured 0 Corruptions
+5 dreamer #1 could be: Baa
+6 alchemist I cured 0 Corruptions
+7 knitter There are 2 pairs of Evil
+8 knitter There is only 1 pair of Evil
+9 plague_doctor #3 is Not Corrupted

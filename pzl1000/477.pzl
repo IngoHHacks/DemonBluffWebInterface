@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: gemcrafter,architect,hunter,scout,alchemist,lover,bishop,wretch,plague_doctor,drunk,minion,pooka
+1 lover NO Evils adjacent to me
+2 hunter I am 3 cards away from closest Evil
+3 alchemist I cured 0 Corruptions
+4 scout Pooka is 2 cards away from closest Evil
+5 bishop Between #3, #2, #7 there is: Minion, Outcast and Villager
+6 wretch
+7 architect Left side is more Evil
+8 bishop Between #1, #7, #2 there is: Minion, Villager and Outcast
+9 gemcrafter #7 is Good

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: baker,alchemist,dreamer,medium,architect,jester,oracle,plague_doctor,bombardier,minion,shaman,lilis
+1 alchemist I cured 0 Corruptions
+2 plague_doctor #3 is Not Corrupted
+3 alchemist I cured 0 Corruptions
+4 jester Among: #5, #4, #3: There is 1 Evil
+6 baker I was a Dreamer
+7 medium #5 is a real Baker
+[unknown] #killed_by_demon
+8 baker I was an Architect
+9 dreamer #6 could be: Lilis
+[unknown] #killed_by_demon #hidden_evil

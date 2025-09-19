@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,gemcrafter,lover,enlightened,bishop,baker,plague_doctor,doppelganger,bombardier,minion,pooka
+1 plague_doctor
+2 gemcrafter #3 is Good
+3 enlightened Closest Evil is equidistant
+4 judge
+5 bishop Between #2, #4, #3 there is: Villager, Minion and Outcast
+6 lover 2 Evils adjacent to me
+7 baker I am the original Baker
+8 bombardier

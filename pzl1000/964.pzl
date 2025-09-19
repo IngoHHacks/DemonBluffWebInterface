@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,gemcrafter,enlightened,lover,architect,slayer,wretch,plague_doctor,doppelganger,minion,poisoner,baa
+1 plague_doctor #9 is Evil #6 is Corrupted
+2 enlightened Closest Evil is: Clockwise
+3 gemcrafter #2 is Good
+4 architect Right side is more Evil
+5 dreamer #9 could be: Baa
+6 plague_doctor #5 is Not Corrupted
+7 lover 1 Evil adjacent to me
+8 enlightened Closest Evil is: Counter-clockwise
+9 slayer I couldn't kill #8

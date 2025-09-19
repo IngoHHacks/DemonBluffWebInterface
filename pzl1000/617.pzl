@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: dreamer,lover,medium,enlightened,jester,architect,slayer,bombardier,doppelganger,drunk,witch,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 architect Left side is more Evil
+3 slayer I couldn't kill #2
+4 jester Among: #7, #1, #5: There is 1 Evil
+5 dreamer #3 could be: Witch
+6 medium #4 is a real Jester
+[unknown]

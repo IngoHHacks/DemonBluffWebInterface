@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: judge,knight,lover,fortune_teller,slayer,bishop,gemcrafter,scout,bard,doppelganger,drunk,bombardier,minion,puppeteer,lilis
+1 fortune_teller Is #4 or #8 Evil?: True
+2 gemcrafter #3 is Good
+3 lover NO Evils adjacent to me
+4 knight
+6 bishop Between #4, #2, #8 there is: Minion, Villager and Outcast
+7 bombardier
+8 bard I am 2 cards away from Corrupted character
+9 scout Lilis is 4 cards away from closest Evil
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

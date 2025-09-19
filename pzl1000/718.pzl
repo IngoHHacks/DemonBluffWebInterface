@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,baker,enlightened,empress,hunter,architect,lover,plague_doctor,wretch,doppelganger,twin_minion,baa
+1 bard There are no Corrupted characters
+2 baker I was a Hunter
+3 hunter I am 1 card away from closest Evil
+4 empress One is Evil: #8, #1 or #6
+5 bard There are no Corrupted characters
+6 architect Right side is more Evil
+7 lover 1 Evil adjacent to me
+8 enlightened Closest Evil is equidistant

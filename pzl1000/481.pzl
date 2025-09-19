@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: judge,hunter,lover,baker,gemcrafter,medium,plague_doctor,wretch,drunk,twin_minion,baa
+1 lover NO Evils adjacent to me
+2 hunter I am 1 card away from closest Evil
+3 baker I was a Judge
+4 gemcrafter #2 is Good
+5 judge
+6 medium #5 is a real Judge
+7 hunter I am 2 cards away from closest Evil

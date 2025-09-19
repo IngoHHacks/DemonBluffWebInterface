@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: gemcrafter,hunter,judge,knitter,oracle,baker,plague_doctor,drunk,pooka
+1 knitter There is only 1 pair of Evil
+2 oracle #7 or #5 is a Poisoner
+3 hunter I am 3 cards away from closest Evil
+4 gemcrafter #5 is Good
+5 judge #6 is Lying
+6 oracle #1 or #6 is a Witch
+7 baker I am the original Baker

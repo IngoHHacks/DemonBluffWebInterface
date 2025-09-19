@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,bard,dreamer,architect,medium,oracle,doppelganger,drunk,wretch,plague_doctor,shaman,baa
+1 bard I am 1 card away from Corrupted character
+2 bard I am 3 cards away from Corrupted character
+3 dreamer #4 could be: Shaman
+4 medium #5 is a real Drunk
+5 baker I was a Medium
+6 dreamer #1 could be: Shaman
+7 medium #3 is a real Dreamer
+8 oracle #5 or #4 is a Shaman

@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: druid,alchemist,knight,medium,oracle,enlightened,drunk,plague_doctor,pooka
+1 enlightened Closest Evil is equidistant
+2 alchemist I cured 1 Corruption
+3 oracle There are no minions
+4 medium #5 is a real Druid
+5 druid Among #6, #2, #4 there is: Drunk
+6 knight

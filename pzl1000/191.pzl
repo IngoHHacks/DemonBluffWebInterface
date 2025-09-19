@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: hunter,empress,druid,medium,poet,knitter,bishop,wretch,plague_doctor,puppeteer,minion,pooka
+2 hunter I am 2 cards away from closest Evil
+3 empress One is Evil: #1, #5 or #7
+4 knitter There are 3 pairs of Evil
+[unknown] #killed_by_demon
+5 bishop Between #2, #1, #5 there is: Outcast, Minion and Villager
+6 druid
+7 wretch
+8 bishop Between #2, #1, #3 there is: Minion, Outcast and Villager
+9 poet There are 2 pairs of Evil
+10 medium #3 is a real Knitter

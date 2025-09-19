@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: lover,slayer,judge,druid,gemcrafter,scout,medium,bombardier,plague_doctor,minion,puppeteer,pooka,puppet
+1 lover 1 Evil adjacent to me
+2 bombardier
+3 gemcrafter #4 is Good
+4 scout Puppet is 1 card away from closest Evil
+5 judge
+6 slayer
+7 druid
+8 lover NO Evils adjacent to me
+9 medium #2 is a real Bombardier

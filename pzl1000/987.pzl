@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: hunter,poet,jester,knight,architect,fortune_teller,doppelganger,bombardier,plague_doctor,puppeteer,baa,puppet
+1 hunter I am 3 cards away from closest Evil
+2 jester Among: #3, #6, #7: There is 1 Evil
+3 fortune_teller Is #4 or #7 Evil?: False
+4 architect Left side is more Evil
+5 knight
+6 poet I am 3 cards away from Corrupted character
+7 fortune_teller Is #5 or #1 Evil?: True

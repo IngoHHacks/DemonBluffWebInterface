@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,knitter,empress,scout,druid,baker,drunk,bombardier,plague_doctor,poisoner,lilis
+1 empress One is Evil: #3, #2 or #4
+2 knitter Evils are not adjacent to eachother
+3 baker I was a Druid
+4 druid Among #8, #6, #1 there are NO Outcasts
+6 scout Poisoner is 1 card away from closest Evil
+7 fortune_teller Is #4 or #3 Evil?: False
+[unknown] #killed_by_demon
+8 bombardier

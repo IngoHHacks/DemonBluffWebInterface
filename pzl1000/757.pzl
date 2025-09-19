@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,fortune_teller,hunter,bard,architect,witness,dreamer,plague_doctor,doppelganger,minion,witch,lilis
+1 knight
+2 witness NO character was affected by an Evil
+3 hunter I am 4 cards away from closest Evil
+4 bard I am 3 cards away from Corrupted character
+6 fortune_teller Is #3 or #9 Evil?: True
+7 plague_doctor #3 is Evil #4 is Corrupted
+8 fortune_teller Is #1 or #2 Evil?: True
+[unknown] #killed_by_demon
+9 hunter I am 1 card away from closest Evil
+[unknown]

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,lover,slayer,fortune_teller,knight,oracle,wretch,bombardier,drunk,plague_doctor,witch,baa
+1 oracle #7 or #8 is a Witch
+2 gemcrafter #1 is Good
+3 bombardier
+4 slayer I killed Evil at #7
+5 fortune_teller Is #8 or #6 Evil?: True
+6 plague_doctor #1 is Not Corrupted
+7 #dead witch|lover 1 Evil adjacent to me
+8 knight

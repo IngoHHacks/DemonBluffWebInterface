@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: hunter,baker,dreamer,enlightened,slayer,alchemist,plague_doctor,wretch,minion,poisoner,lilis
+1 hunter I am 2 cards away from closest Evil
+2 enlightened Closest Evil is: Clockwise
+3 dreamer
+4 baker I was a Slayer
+6 wretch
+7 baker I am the original Baker
+8 slayer
+9 slayer
+[unknown] #killed_by_demon

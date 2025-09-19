@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,dreamer,fortune_teller,druid,medium,gemcrafter,scout,wretch,plague_doctor,minion,poisoner,lilis
+1 oracle #7 or #9 is a Minion
+2 dreamer
+3 gemcrafter #1 is Good
+4 druid
+6 wretch
+7 medium #1 is a real Oracle
+8 scout Minion is 1 card away from closest Evil
+9 fortune_teller
+[unknown] #killed_by_demon

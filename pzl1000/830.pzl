@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: oracle,lover,alchemist,bard,empress,baker,druid,wretch,drunk,bombardier,doppelganger,puppeteer,counsellor,baa,puppet
+1 oracle #9 or #1 is a Counsellor
+2 lover 1 Evil adjacent to me
+3 empress One is Evil: #2, #1 or #8
+4 empress One is Evil: #8, #7 or #9
+5 baker I was a Baker
+6 empress One is Evil: #8, #2 or #7
+7 bard I am 3 cards away from Corrupted character
+8 druid Among #9, #6, #1 there is: Drunk
+9 lover NO Evils adjacent to me

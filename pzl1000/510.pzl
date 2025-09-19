@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: scout,architect,baker,hunter,enlightened,knight,doppelganger,bombardier,wretch,poisoner,lilis
+1 enlightened Closest Evil is: Counter-clockwise
+2 hunter I am 2 cards away from closest Evil
+3 baker I am the original Baker
+4 architect Left side is more Evil
+6 baker I am the original Baker
+7 wretch
+8 knight
+[unknown] #killed_by_demon
+9 bombardier

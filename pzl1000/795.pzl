@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,architect,enlightened,druid,poet,medium,fortune_teller,drunk,doppelganger,minion,poisoner,lilis
+1 medium #4 is a real Drunk
+2 architect Left side is more Evil
+3 medium #4 is a real Scout
+4 scout Lilis is 1 card away from closest Evil
+6 enlightened Closest Evil is: Counter-clockwise
+7 poet I am 1 card away from Corrupted character
+8 scout Lilis is 3 cards away from closest Evil
+9 fortune_teller Is #6 or #2 Evil?: False
+[unknown] #killed_by_demon

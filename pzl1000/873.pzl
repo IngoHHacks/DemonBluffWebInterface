@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,hunter,druid,fortune_teller,alchemist,dreamer,bombardier,plague_doctor,wretch,poisoner,lilis
+1 dreamer #3 could be: Lilis
+2 jester Among: #6, #7, #5: There are 2 Evils
+3 hunter I am 2 cards away from closest Evil
+4 fortune_teller Is #1 or #2 Evil?: False
+6 plague_doctor #6 is Evil #7 is Corrupted
+[unknown] #killed_by_demon
+7 wretch
+8 alchemist I cured 2 Corruptions

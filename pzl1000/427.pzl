@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,baker,medium,gemcrafter,druid,judge,poet,wretch,doppelganger,plague_doctor,counsellor,shaman,lilis
+1 medium #4 is a real Gemcrafter
+2 druid
+3 poet I am 4 cards away from Corrupted character
+4 gemcrafter #1 is Good
+6 poet I am 2 cards away from Corrupted character
+7 baker I am the original Baker
+[unknown] #killed_by_demon
+8 gemcrafter #1 is Good
+9 plague_doctor

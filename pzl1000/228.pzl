@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: witness,knight,fortune_teller,lover,oracle,dreamer,bombardier,drunk,wretch,poisoner,puppeteer,baa,puppet
+1 fortune_teller
+2 dreamer
+3 witness #9 was affected by an Evil
+4 witness #9 was affected by an Evil
+5 lover 1 Evil adjacent to me
+6 oracle #2 or #4 is a Puppeteer
+7 witness #2 was affected by an Evil
+8 knight
+9 wretch

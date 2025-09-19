@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: bard,poet,enlightened,knitter,baker,jester,scout,empress,bombardier,doppelganger,drunk,shaman,puppeteer,baa,puppet
+1 knitter Evils are not adjacent to eachother
+2 empress One is Evil: #3, #7 or #8
+3 enlightened Closest Evil is: Counter-clockwise
+4 bard There are no Corrupted characters
+5 baker I was a Poet
+6 scout Puppeteer is 1 card away from closest Evil
+7 bard There are no Corrupted characters
+8 enlightened Closest Evil is equidistant
+9 poet #9 or #2 is a Shaman

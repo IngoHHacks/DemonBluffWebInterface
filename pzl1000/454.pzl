@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: medium,dreamer,druid,bard,architect,wretch,plague_doctor,bombardier,witch,baa
+1 architect Right side is more Evil
+2 druid
+3 wretch
+4 bard There are no Corrupted characters
+5 dreamer
+6 druid
+[unknown]

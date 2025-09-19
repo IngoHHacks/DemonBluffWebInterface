@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: dreamer,knight,lover,slayer,druid,knitter,baker,medium,doppelganger,bombardier,plague_doctor,minion,puppeteer,baa,puppet
+1 baker I was a Baker
+2 druid
+3 dreamer
+4 bombardier
+5 druid
+6 slayer
+7 lover 2 Evils adjacent to me
+8 knitter There are 2 pairs of Evil
+9 medium #4 is a real Bombardier
+10 knight

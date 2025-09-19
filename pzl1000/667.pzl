@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: bishop,confessor,knight,dreamer,gemcrafter,enlightened,witness,wretch,doppelganger,bombardier,poisoner,puppeteer,baa,puppet
+1 bombardier
+2 witness #6 was affected by an Evil
+3 gemcrafter #9 is Good
+4 enlightened Closest Evil is: Counter-clockwise
+5 confessor I am Good
+6 knight
+7 gemcrafter #9 is Good
+8 bishop Between #7, #4, #1 there is: Villager, Outcast and Minion
+9 dreamer #5 could be: Poisoner

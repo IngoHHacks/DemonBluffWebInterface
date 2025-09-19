@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,empress,hunter,druid,dreamer,oracle,judge,bombardier,doppelganger,plague_doctor,shaman,poisoner,baa
+1 oracle #6 or #3 is a Shaman
+2 hunter I am 2 cards away from closest Evil
+3 dreamer #8 could be: Baa
+4 baker I am the original Baker
+5 druid Among #3, #7, #1 there is: Doppelganger
+6 baker I was a Baker
+7 hunter I am 1 card away from closest Evil
+8 judge #9 is saying Truth
+9 plague_doctor #2 is Evil #7 is Corrupted

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: baker,lover,knitter,scout,druid,poet,bishop,enlightened,plague_doctor,doppelganger,drunk,minion,puppeteer,lilis,puppet
+1 plague_doctor
+2 knitter There are 2 pairs of Evil
+3 baker I am the original Baker
+4 enlightened Closest Evil is: Clockwise
+6 druid
+7 bishop Between #6, #10, #8 there is: Minion, Outcast and Villager
+[unknown] #killed_by_demon
+8 poet There are 2 pairs of Evil
+9 lover NO Evils adjacent to me
+[unknown] #killed_by_demon #hidden_evil

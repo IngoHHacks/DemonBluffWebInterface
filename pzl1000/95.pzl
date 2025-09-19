@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: oracle,druid,alchemist,poet,bishop,gemcrafter,wretch,doppelganger,pooka
+1 druid
+2 poet #3 is Good
+3 alchemist I cured 1 Corruption
+4 gemcrafter #3 is Good
+5 bishop Between #4, #6, #3 there is: Outcast, Demon and Villager
+6 oracle There are no minions
+7 oracle There are no minions

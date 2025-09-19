@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: confessor,knight,knitter,bard,judge,alchemist,architect,poet,plague_doctor,doppelganger,twin_minion,puppeteer,lilis,puppet
+1 knitter There is only 1 pair of Evil
+2 alchemist I cured 2 Corruptions
+3 judge
+4 knight
+6 confessor I am Good
+7 poet #1 is Evil
+[unknown] #killed_by_demon
+8 judge
+9 architect Right side is more Evil
+[unknown] #killed_by_demon #hidden_evil

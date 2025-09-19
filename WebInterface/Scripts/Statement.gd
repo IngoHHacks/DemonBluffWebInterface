@@ -1,6 +1,6 @@
 '''
 Statement.gd
-This script defines a Statement class used for logic validation and dynamic text generation in the game.
+This script defines a Statement class used for logic validation and in the interface.
 '''
 
 class_name Statement

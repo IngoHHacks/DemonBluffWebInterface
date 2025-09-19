@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,enlightened,medium,architect,dreamer,scout,oracle,drunk,wretch,bombardier,twin_minion,shaman,baa
+1 oracle #1 or #6 is a Shaman
+2 architect Left side is more Evil
+3 dreamer
+4 medium #7 is a real Scout
+5 bombardier
+6 bombardier
+7 scout Baa is 3 cards away from closest Evil
+8 enlightened Closest Evil is: Counter-clockwise
+9 enlightened Closest Evil is: Counter-clockwise

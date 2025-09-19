@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,alchemist,enlightened,judge,empress,fortune_teller,bombardier,plague_doctor,wretch,doppelganger,counsellor,baa
+1 enlightened Closest Evil is: Clockwise
+2 fortune_teller
+3 enlightened Closest Evil is: Counter-clockwise
+4 alchemist I cured 1 Corruption
+5 judge
+6 empress One is Evil: #4, #3 or #2
+7 plague_doctor

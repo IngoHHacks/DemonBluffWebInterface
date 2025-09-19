@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: baker,knitter,bishop,poet,architect,bard,oracle,drunk,bombardier,wretch,counsellor,puppeteer,lilis,puppet
+1 bombardier
+2 baker I was a Knitter
+3 knitter There are 2 pairs of Evil
+4 architect Left side is more Evil
+6 bishop Between #7, #1, #3 there is: Villager, Minion and Outcast
+[unknown] #killed_by_demon
+7 poet Between #9, #5, #8 there is: Minion, Villager and Outcast
+8 poet #3 is Good
+9 bard I am 2 cards away from Corrupted character

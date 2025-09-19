@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: gemcrafter,empress,alchemist,confessor,medium,baker,jester,doppelganger,drunk,bombardier,witch,shaman,baa
+1 medium #3 is a real Doppelganger
+2 alchemist I cured 2 Corruptions
+3 empress One is Evil: #9, #1 or #7
+4 confessor I am Good
+5 empress One is Evil: #9, #8 or #2
+6 bombardier
+7 baker I was a Baker
+8 gemcrafter #4 is Good
+[unknown]

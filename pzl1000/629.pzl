@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,druid,bishop,confessor,architect,poet,wretch,plague_doctor,bombardier,poisoner,pooka
+1 architect Left side is more Evil
+2 poet Closest Evil is: Clockwise
+3 wretch
+4 bishop Between #7, #2, #1 there is: Minion, Villager and Outcast
+5 plague_doctor #7 is Evil #6 is Corrupted
+6 druid Among #4, #7, #8 there is: Wretch
+7 oracle #8 or #7 is a Poisoner
+8 confessor I am Good

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: baker,poet,architect,bard,enlightened,alchemist,drunk,plague_doctor,pooka
+1 plague_doctor
+2 baker I was a Poet
+3 architect Left side is more Evil
+4 enlightened Closest Evil is: Counter-clockwise
+5 bard There are no Corrupted characters
+6 alchemist I cured 2 Corruptions
+7 poet #1 is a real Plague Doctor

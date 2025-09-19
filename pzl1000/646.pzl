@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,confessor,baker,knitter,dreamer,slayer,architect,drunk,doppelganger,wretch,minion,puppeteer,baa
+1 architect Left side is more Evil
+2 knitter There are 2 pairs of Evil
+3 dreamer #2 could be: Puppeteer
+9 #dead wretch
+5 slayer I killed Evil at #4
+6 druid Among #5, #8, #9 there are NO Outcasts
+7 confessor I am Good
+8 baker I was an Architect
+9 knitter Evils are not adjacent to eachother

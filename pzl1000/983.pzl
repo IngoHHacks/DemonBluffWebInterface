@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,bard,hunter,alchemist,enlightened,baker,knight,doppelganger,drunk,wretch,shaman,pooka
+1 knight
+2 enlightened Closest Evil is equidistant
+3 alchemist I cured 0 Corruptions
+4 bard I am 4 cards away from Corrupted character
+5 baker I am the original Baker
+6 druid Among #5, #1, #8 there are NO Outcasts
+7 baker I was an Alchemist
+8 wretch
+9 enlightened Closest Evil is: Counter-clockwise

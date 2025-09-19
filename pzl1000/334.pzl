@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: jester,confessor,empress,enlightened,medium,architect,drunk,doppelganger,plague_doctor,shaman,lilis
+1 enlightened Closest Evil is: Clockwise
+2 empress One is Evil: #6, #3 or #9
+3 enlightened Closest Evil is: Clockwise
+4 architect Left side is more Evil
+6 confessor I am dizzy
+7 plague_doctor
+[unknown] #killed_by_demon
+8 confessor I am Good
+9 enlightened Closest Evil is equidistant

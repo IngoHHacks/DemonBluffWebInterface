@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,bishop,baker,bard,knitter,hunter,slayer,plague_doctor,doppelganger,shaman,lilis
+1 slayer
+2 medium #8 is a real Bard
+3 knitter Evils are not adjacent to eachother
+4 baker I was a Baker
+6 bishop Between #2, #4, #7 there is: Outcast, Villager and Minion
+7 bard There are no Corrupted characters
+[unknown] #killed_by_demon
+8 bard There are no Corrupted characters

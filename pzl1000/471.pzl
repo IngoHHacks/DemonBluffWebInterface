@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,druid,medium,enlightened,hunter,knight,alchemist,plague_doctor,wretch,minion,pooka
+1 alchemist I cured 2 Corruptions
+2 druid
+3 hunter I am 2 cards away from closest Evil
+4 gemcrafter #3 is Good
+5 enlightened Closest Evil is: Clockwise
+6 knight
+7 wretch
+8 medium #2 is a real Druid

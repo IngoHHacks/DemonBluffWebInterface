@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,slayer,dreamer,alchemist,poet,bishop,knitter,doppelganger,plague_doctor,drunk,bombardier,counsellor,pooka
+1 slayer I killed Evil at #6
+2 hunter I am 3 cards away from closest Evil
+3 bombardier
+4 poet #4 or #8 is a Counsellor
+5 bishop Between #8, #2, #4 there is: Villager, Minion and Outcast
+8 #dead counsellor|plague_doctor #1 is Evil #8 is Corrupted
+7 knitter Evils are not adjacent to eachother
+8 alchemist I cured 0 Corruptions

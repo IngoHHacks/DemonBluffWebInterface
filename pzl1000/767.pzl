@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,gemcrafter,architect,lover,empress,poet,bombardier,plague_doctor,wretch,minion,poisoner,baa
+1 judge #5 is Lying
+2 gemcrafter #3 is Good
+3 judge #2 is saying Truth
+4 gemcrafter #9 is Good
+5 lover NO Evils adjacent to me
+6 empress One is Evil: #9, #4 or #3
+7 bombardier
+8 poet I am 2 cards away from closest Evil
+9 architect Left side is more Evil

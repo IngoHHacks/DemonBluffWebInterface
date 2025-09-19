@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: bard,bishop,fortune_teller,druid,oracle,gemcrafter,wretch,plague_doctor,pooka
+1 bishop Between #7, #4, #5 there is: Demon, Villager and Outcast
+2 oracle #5 or #3 is a Witch
+3 gemcrafter #2 is Good
+4 fortune_teller Is #7 or #2 Evil?: True
+5 bard I am 2 cards away from Corrupted character
+6 plague_doctor #4 is Not Corrupted
+7 druid Among #3, #2, #4 there is: Wretch

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: empress,hunter,bard,fortune_teller,lover,judge,knight,druid,wretch,plague_doctor,shaman,minion,pooka
+1 bard I am 2 cards away from Corrupted character
+2 druid Among #7, #4, #8 there are NO Outcasts
+3 plague_doctor #10 is Not Corrupted
+4 fortune_teller Is #7 or #5 Evil?: True
+5 hunter I am 4 cards away from closest Evil
+6 bard There are no Corrupted characters
+7 lover 2 Evils adjacent to me
+8 judge #5 is saying Truth
+9 knight
+10 lover NO Evils adjacent to me

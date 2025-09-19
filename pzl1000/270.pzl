@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: architect,confessor,empress,judge,dreamer,knight,plague_doctor,bombardier,wretch,twin_minion,minion,pooka
+1 judge
+2 empress One is Evil: #1, #4 or #5
+3 confessor I am Good
+4 architect Right side is more Evil
+5 bombardier
+6 judge
+7 plague_doctor
+8 knight
+9 dreamer

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: witness,fortune_teller,hunter,enlightened,bard,knight,baker,empress,wretch,doppelganger,plague_doctor,minion,shaman,baa
+1 empress One is Evil: #10, #7 or #4
+2 baker I am the original Baker
+3 fortune_teller Is #2 or #3 Evil?: False
+4 knight
+5 bard I am 1 card away from Corrupted character
+6 hunter I am 1 card away from closest Evil
+7 baker I am the original Baker
+8 plague_doctor #5 is Evil #10 is Corrupted
+9 baker I was an Empress
+10 baker I was an Empress

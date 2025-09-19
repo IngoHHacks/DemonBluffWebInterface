@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,gemcrafter,enlightened,judge,bard,poet,alchemist,plague_doctor,bombardier,drunk,shaman,pooka
+1 poet Closest Evil is: Clockwise
+2 druid Among #6, #3, #9 there are NO Outcasts
+3 bard There are no Corrupted characters
+4 plague_doctor #2 is Evil #7 is Corrupted
+5 gemcrafter #6 is Good
+6 judge #3 is saying Truth
+7 judge #4 is Lying
+8 bard I am 3 cards away from Corrupted character
+9 alchemist I cured 2 Corruptions

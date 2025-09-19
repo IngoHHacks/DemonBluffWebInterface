@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: poet,medium,enlightened,knitter,jester,judge,plague_doctor,wretch,pooka
+1 medium #4 is a real Plague Doctor
+2 knitter Evils are not adjacent to eachother
+3 judge #4 is Lying
+4 plague_doctor #2 is Not Corrupted
+5 enlightened Closest Evil is: Counter-clockwise
+6 poet Closest Evil is: Clockwise
+7 jester Among: #1, #3, #4: There are 0 Evils

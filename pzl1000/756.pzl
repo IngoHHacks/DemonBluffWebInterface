@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: fortune_teller,slayer,poet,dreamer,enlightened,scout,wretch,plague_doctor,pooka
+1 poet 1 Evil adjacent to me
+2 dreamer #3 could be: Pooka
+3 slayer I couldn't kill #2
+4 fortune_teller Is #7 or #3 Evil?: False
+5 plague_doctor #6 is Evil #1 is Corrupted
+6 enlightened Closest Evil is: Clockwise
+7 scout Pooka is 1 card away from closest Evil

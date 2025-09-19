@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,gemcrafter,knitter,baker,oracle,druid,plague_doctor,wretch,poisoner,pooka
+1 wretch
+2 knitter There is only 1 pair of Evil
+3 medium #6 is a real Baker
+4 oracle #2 or #4 is a Poisoner
+5 gemcrafter #8 is Good
+6 baker I was a Druid
+7 druid
+8 gemcrafter #1 is Good

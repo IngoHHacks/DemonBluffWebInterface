@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,poet,jester,bishop,knight,hunter,alchemist,oracle,drunk,doppelganger,shaman,twin_minion,lilis
+2 druid
+3 jester
+4 poet Closest Evil is: Counter-clockwise
+5 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 bishop Between #1, #7, #2 there is: Outcast, Villager and Minion
+[unknown] #killed_by_demon
+8 hunter I am 4 cards away from closest Evil
+9 druid

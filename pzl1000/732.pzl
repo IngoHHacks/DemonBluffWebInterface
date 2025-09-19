@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: gemcrafter,knight,poet,slayer,jester,dreamer,alchemist,plague_doctor,wretch,bombardier,doppelganger,counsellor,minion,baa
+1 jester Among: #7, #2, #6: There are 2 Evils
+2 slayer I couldn't kill #3
+3 knight
+4 dreamer #5 could be: Counsellor
+5 slayer I couldn't kill #4
+6 poet 1 Evil adjacent to me
+7 jester Among: #5, #4, #2: There are 3 Evils
+8 alchemist I cured 1 Corruption
+9 wretch

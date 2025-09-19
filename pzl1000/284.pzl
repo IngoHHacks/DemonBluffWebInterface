@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,medium,lover,alchemist,knitter,knight,baker,plague_doctor,wretch,doppelganger,poisoner,pooka
+1 knitter There is only 1 pair of Evil
+2 medium #4 is a real Knight
+3 poet Pooka is 1 card away from closest Evil
+4 knight
+5 poet Evils are not adjacent to eachother
+6 alchemist I cured 2 Corruptions
+7 lover NO Evils adjacent to me
+8 plague_doctor
+9 baker I was an Alchemist

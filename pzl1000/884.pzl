@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: judge,knight,oracle,enlightened,poet,empress,fortune_teller,jester,knitter,drunk,plague_doctor,puppeteer,minion,lilis,puppet
+1 empress One is Evil: #2, #3 or #5
+2 judge #4 is saying Truth
+3 oracle #2 or #8 is a Minion
+4 knitter Evils are not adjacent to eachother
+6 enlightened Closest Evil is equidistant
+7 poet #4 is a real Knitter
+8 jester Among: #1, #5, #8: There are 2 Evils
+9 plague_doctor #7 is Evil #5 is Corrupted
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: lover,jester,architect,knitter,druid,medium,bombardier,plague_doctor,pooka
+1 medium #1 is a real Medium
+2 architect Left side is more Evil
+3 knitter Evils are not adjacent to eachother
+4 jester
+5 lover NO Evils adjacent to me
+6 druid
+7 plague_doctor

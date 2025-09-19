@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,judge,hunter,druid,knitter,baker,architect,plague_doctor,wretch,bombardier,doppelganger,twin_minion,counsellor,baa
+1 architect Both sides are equally Evil
+2 knitter There are 2 pairs of Evil
+3 alchemist I cured 0 Corruptions
+4 wretch
+5 architect Both sides are equally Evil
+6 knitter Evils are not adjacent to eachother
+7 baker I was an Architect
+8 judge #5 is saying Truth
+9 hunter I am 2 cards away from closest Evil

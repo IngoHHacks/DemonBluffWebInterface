@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: scout,baker,bard,judge,gemcrafter,medium,bishop,drunk,bombardier,doppelganger,wretch,puppeteer,baa,puppet
+1 scout Puppet is 2 cards away from closest Evil
+2 baker I am the original Baker
+3 wretch
+4 judge #8 is Lying
+5 medium #1 is a real Scout
+6 gemcrafter #2 is Good
+7 bishop Between #1, #7, #5 there is: Outcast, Minion and Villager
+8 baker I was a Bard

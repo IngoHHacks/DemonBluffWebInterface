@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: empress,dreamer,baker,knitter,poet,bard,hunter,doppelganger,drunk,wretch,minion,pooka
+1 hunter I am 2 cards away from closest Evil
+2 poet 2 Evils adjacent to me
+3 poet I am 1 card away from Corrupted character
+4 knitter There is only 1 pair of Evil
+5 empress One is Evil: #6, #8 or #4
+6 bard I am 1 card away from Corrupted character
+7 baker I am the original Baker
+8 baker I was a Dreamer
+9 poet Evils are not adjacent to eachother

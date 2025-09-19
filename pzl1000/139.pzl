@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,enlightened,bard,dreamer,oracle,bishop,wretch,doppelganger,bombardier,shaman,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 fortune_teller
+3 fortune_teller
+4 bard There are no Corrupted characters
+5 dreamer
+6 dreamer
+7 dreamer
+8 bishop Between #7, #8, #2 there is: Villager, Outcast and Minion

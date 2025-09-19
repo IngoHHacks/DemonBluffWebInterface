@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: gemcrafter,slayer,druid,alchemist,confessor,wretch,plague_doctor,pooka
+1 confessor I am Good
+2 druid Among #1, #6, #5 there is: Plague Doctor
+3 gemcrafter #5 is Good
+4 alchemist I cured 2 Corruptions
+5 slayer I couldn't kill #4
+6 plague_doctor #1 is Not Corrupted

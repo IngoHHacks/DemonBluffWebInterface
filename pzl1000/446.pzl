@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bishop,alchemist,oracle,architect,confessor,druid,bombardier,wretch,doppelganger,poisoner,shaman,baa
+1 architect Left side is more Evil
+2 druid
+3 bishop Between #5, #1 there is: Villager and Minion
+4 oracle #3 or #6 is a Poisoner
+5 bishop Between #3, #4, #7 there is: Outcast, Villager and Minion
+6 bombardier
+7 architect Both sides are equally Evil
+8 wretch
+9 confessor I am Good

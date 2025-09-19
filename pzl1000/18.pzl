@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,architect,witness,fortune_teller,druid,medium,plague_doctor,doppelganger,bombardier,wretch,counsellor,baa
+1 medium #3 is a real Architect
+2 architect Left side is more Evil
+3 architect Left side is more Evil
+4 plague_doctor
+5 bishop Between #7, #3, #4 there is: Minion, Villager and Outcast
+6 witness #4 was affected by an Evil
+7 fortune_teller
+8 wretch

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,fortune_teller,druid,knight,judge,slayer,drunk,bombardier,plague_doctor,shaman,twin_minion,baa
+1 druid
+2 slayer
+3 judge
+4 plague_doctor
+5 knight
+6 baker I am the original Baker
+7 druid
+8 judge
+9 baker I was a Judge

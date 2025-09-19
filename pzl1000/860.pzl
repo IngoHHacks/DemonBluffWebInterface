@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,architect,oracle,judge,medium,plague_doctor,bombardier,doppelganger,wretch,twin_minion,baa
+1 judge #8 is saying Truth
+2 medium #7 is a real Plague Doctor
+3 architect Left side is more Evil
+4 medium #6 is a real Oracle
+5 fortune_teller Is #3 or #7 Evil?: True
+6 oracle #7 or #2 is a Twin Minion
+7 plague_doctor #8 is Evil #5 is Corrupted
+8 wretch

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,slayer,knitter,jester,medium,enlightened,bombardier,plague_doctor,shaman,minion,pooka
+1 baker I am the original Baker
+2 jester
+3 bombardier
+4 baker I was a Knitter
+5 enlightened Closest Evil is equidistant
+6 medium #8 is a real Enlightened
+7 baker I was a Medium
+8 enlightened Closest Evil is: Clockwise
+9 baker I was a Slayer

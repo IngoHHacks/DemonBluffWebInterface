@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,alchemist,hunter,scout,judge,gemcrafter,drunk,wretch,poisoner,pooka
+1 hunter I am 1 card away from closest Evil
+2 hunter I am 4 cards away from closest Evil
+3 judge #7 is Lying
+4 alchemist I cured 2 Corruptions
+5 scout Poisoner is 2 cards away from closest Evil
+6 bishop Between #3, #2, #8 there is: Villager, Outcast and Minion
+7 judge #5 is saying Truth
+8 gemcrafter #1 is Good

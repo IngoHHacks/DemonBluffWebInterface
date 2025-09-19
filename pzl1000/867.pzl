@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,bishop,fortune_teller,druid,hunter,judge,slayer,bombardier,wretch,plague_doctor,witch,minion,baa
+1 judge #8 is Lying
+2 bombardier
+3 slayer I couldn't kill #2
+4 hunter I am 3 cards away from closest Evil
+5 bishop Between #2, #8, #5 there is: Minion, Villager and Outcast
+6 druid Among #6, #10, #9 there are NO Outcasts
+7 fortune_teller Is #1 or #6 Evil?: True
+8 enlightened Closest Evil is: Counter-clockwise
+9 enlightened Closest Evil is: Clockwise
+[unknown]

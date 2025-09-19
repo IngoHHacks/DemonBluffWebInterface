@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,scout,dreamer,bishop,empress,confessor,judge,baker,knight,plague_doctor,drunk,wretch,bombardier,witch,counsellor,lilis
+1 plague_doctor #4 is Not Corrupted
+2 wretch
+3 dreamer #6 could be: Lilis
+4 baker I was a Bishop
+6 empress One is Evil: #6, #7 or #3
+7 confessor I am Good
+[unknown] #killed_by_demon
+8 judge #1 is Lying
+9 knight
+[unknown]

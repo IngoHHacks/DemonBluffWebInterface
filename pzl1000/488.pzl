@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: architect,bishop,lover,fortune_teller,jester,bombardier,drunk,pooka
+2 architect Both sides are equally Evil
+[unknown] #killed_by_demon
+3 fortune_teller
+4 jester
+5 bishop Between #1, #3, #6 there is: Villager, Outcast and Demon
+6 fortune_teller

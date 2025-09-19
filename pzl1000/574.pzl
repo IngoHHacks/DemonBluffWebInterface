@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,oracle,alchemist,empress,medium,dreamer,drunk,doppelganger,poisoner,pooka
+1 medium #4 is a real Alchemist
+2 alchemist I cured 1 Corruption
+3 oracle #2 or #5 is a Poisoner
+4 alchemist I cured 2 Corruptions
+5 dreamer #8 could be: Pooka
+6 empress One is Evil: #8, #1 or #5
+7 dreamer #8 could be: Poisoner
+8 architect Both sides are equally Evil

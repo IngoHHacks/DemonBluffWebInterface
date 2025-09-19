@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,knight,architect,confessor,druid,judge,bombardier,plague_doctor,doppelganger,poisoner,baa
+1 architect Left side is more Evil
+2 judge
+3 druid
+4 confessor I am Good
+5 bard I am 3 cards away from Corrupted character
+6 knight
+7 knight
+8 bard I am 3 cards away from Corrupted character

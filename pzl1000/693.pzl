@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,jester,knight,empress,enlightened,poet,doppelganger,wretch,bombardier,plague_doctor,poisoner,baa
+1 knight
+2 bombardier
+3 wretch
+4 poet One is Evil: #5, #1 or #7
+5 empress One is Evil: #4, #6 or #3
+6 jester Among: #5, #2, #3: There are 3 Evils
+7 hunter I am 4 cards away from closest Evil
+8 enlightened Closest Evil is equidistant

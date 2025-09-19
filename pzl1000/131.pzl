@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,slayer,architect,witness,bishop,doppelganger,bombardier,plague_doctor,wretch,minion,baa
+2 bombardier
+3 slayer
+4 witness #7 was affected by an Evil
+5 bishop Between #7, #3, #6 there is: Villager, Minion and Outcast
+6 architect Right side is more Evil
+7 gemcrafter #1 is Good
+[unknown] #killed_by_demon
+8 witness #7 was affected by an Evil

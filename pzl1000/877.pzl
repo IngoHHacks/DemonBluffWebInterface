@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,enlightened,confessor,alchemist,bard,oracle,dreamer,doppelganger,wretch,minion,pooka
+1 alchemist I cured 1 Corruption
+2 confessor I am dizzy
+3 wretch
+4 baker I am the original Baker
+5 baker I was an Enlightened
+6 oracle #3 or #4 is a Minion
+7 bard There are no Corrupted characters
+8 baker I was a Dreamer

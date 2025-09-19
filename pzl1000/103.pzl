@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knight,architect,scout,dreamer,hunter,doppelganger,wretch,bombardier,plague_doctor,twin_minion,baa
+1 dreamer
+2 wretch
+3 scout Twin Minion is 1 card away from closest Evil
+4 knight
+5 architect Both sides are equally Evil
+6 hunter I am 2 cards away from closest Evil
+7 bombardier

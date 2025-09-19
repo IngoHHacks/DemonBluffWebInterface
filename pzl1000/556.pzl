@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: confessor,medium,bishop,knitter,jester,empress,wretch,doppelganger,witch,poisoner,lilis
+1 medium #5 is a real Doppelganger
+2 knitter There is only 1 pair of Evil
+3 bishop Between #3, #1, #7 there is: Minion, Villager and Outcast
+4 bishop Between #3, #1, #2 there is: Outcast, Villager and Minion
+6 bishop Between #6, #5, #9 there is: Villager, Outcast and Minion
+[unknown] #killed_by_demon
+7 confessor I am Good
+8 jester Among: #9, #1, #6: There are 2 Evils
+[unknown]

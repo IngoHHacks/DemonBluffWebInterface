@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,hunter,bard,druid,poet,confessor,wretch,plague_doctor,doppelganger,poisoner,baa
+1 druid Among #4, #3, #6 there are NO Outcasts
+2 poet #4 is a real Plague Doctor
+3 hunter I am 3 cards away from closest Evil
+4 plague_doctor #6 is Evil #7 is Corrupted
+5 scout Poisoner is 2 cards away from closest Evil
+6 confessor I am dizzy
+7 bard There are no Corrupted characters

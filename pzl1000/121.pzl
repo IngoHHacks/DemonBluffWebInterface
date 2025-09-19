@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,knight,enlightened,alchemist,lover,bishop,bombardier,doppelganger,twin_minion,pooka
+1 bishop Between #2, #3, #8 there is: Outcast, Minion and Villager
+2 enlightened Closest Evil is: Counter-clockwise
+3 bombardier
+4 druid
+5 lover 1 Evil adjacent to me
+6 alchemist I cured 1 Corruption
+7 enlightened Closest Evil is equidistant
+8 knight

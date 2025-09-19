@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,dreamer,knitter,alchemist,lover,slayer,medium,drunk,plague_doctor,wretch,minion,shaman,baa
+1 slayer I couldn't kill #9
+2 alchemist I cured 2 Corruptions
+3 dreamer #1 could be: Minion
+4 medium #3 is a real Dreamer
+5 knitter There is only 1 pair of Evil
+6 lover NO Evils adjacent to me
+7 medium #1 is a real Slayer
+8 alchemist I cured 1 Corruption
+9 plague_doctor #5 is Not Corrupted

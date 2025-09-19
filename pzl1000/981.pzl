@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: knight,empress,architect,bard,slayer,knitter,doppelganger,bombardier,wretch,puppeteer,baa,puppet
+1 architect Left side is more Evil
+2 slayer I couldn't kill #1
+3 wretch
+4 bard I am 1 card away from Corrupted character
+5 empress One is Evil: #2, #7 or #3
+6 knitter There is only 1 pair of Evil
+7 knight

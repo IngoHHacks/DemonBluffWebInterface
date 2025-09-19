@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: dreamer,baker,gemcrafter,judge,empress,fortune_teller,confessor,plague_doctor,drunk,witch,puppeteer,lilis,puppet
+1 empress One is Evil: #2, #4 or #9
+2 gemcrafter #7 is Good
+3 judge #1 is Lying
+4 fortune_teller Is #2 or #8 Evil?: True
+6 confessor I am Good
+[unknown] #killed_by_demon
+7 dreamer #3 could be: Puppeteer
+8 gemcrafter #3 is Good
+[unknown]

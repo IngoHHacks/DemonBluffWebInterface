@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,poet,oracle,bishop,alchemist,hunter,bombardier,plague_doctor,doppelganger,wretch,shaman,counsellor,lilis
+1 poet NO Evils adjacent to me
+2 knitter There is only 1 pair of Evil
+3 alchemist I cured 1 Corruption
+4 poet 2 Evils adjacent to me
+6 bishop Between #6, #1, #2 there is: Minion, Villager and Outcast
+7 oracle #6 or #9 is a Shaman
+8 wretch
+9 bombardier
+[unknown] #killed_by_demon

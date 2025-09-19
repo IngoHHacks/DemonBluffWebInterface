@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: slayer,alchemist,fortune_teller,enlightened,jester,baker,drunk,bombardier,wretch,witch,twin_minion,baa
+1 jester Among: #9, #3, #7: There is 1 Evil
+2 enlightened Closest Evil is equidistant
+3 enlightened Closest Evil is: Counter-clockwise
+4 fortune_teller Is #2 or #6 Evil?: True
+5 slayer I couldn't kill #8
+6 enlightened Closest Evil is: Clockwise
+7 baker I am the original Baker
+8 baker I was an Alchemist
+[unknown]

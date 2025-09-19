@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,knight,enlightened,slayer,confessor,alchemist,bombardier,doppelganger,wretch,plague_doctor,shaman,pooka
+1 bombardier
+2 druid Among #1, #5, #4 there are NO Outcasts
+3 alchemist I cured 1 Corruption
+4 confessor I am Good
+5 enlightened Closest Evil is: Clockwise
+6 slayer I couldn't kill #2
+7 alchemist I cured 0 Corruptions
+8 alchemist I cured 1 Corruption
+9 wretch

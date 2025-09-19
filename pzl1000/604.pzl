@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: scout,fortune_teller,judge,knight,knitter,bishop,jester,drunk,doppelganger,witch,puppeteer,lilis,puppet
+1 judge #3 is saying Truth
+2 jester Among: #9, #8, #6: There are 3 Evils
+3 knight
+4 scout Puppet is 2 cards away from closest Evil
+6 jester Among: #2, #6, #7: There is 1 Evil
+7 bishop Between #9, #8, #6 there is: Minion, Villager and Outcast
+8 fortune_teller Is #2 or #4 Evil?: True
+[unknown]
+[unknown] #killed_by_demon

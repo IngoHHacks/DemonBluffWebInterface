@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: judge,oracle,knight,medium,bard,doppelganger,wretch,drunk,minion,baa
+1 knight
+2 wretch
+3 bard There are no Corrupted characters
+4 judge #7 is Lying
+5 judge #4 is Lying
+6 medium #4 is a real Judge
+7 oracle #3 or #6 is a Minion

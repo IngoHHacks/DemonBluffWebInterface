@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: architect,judge,empress,scout,poet,druid,gemcrafter,confessor,baker,enlightened,wretch,drunk,plague_doctor,minion,poisoner,baa
+1 druid
+2 empress One is Evil: #6, #4 or #3
+3 enlightened Closest Evil is: Clockwise
+4 confessor I am Good
+5 baker I am the original Baker
+6 scout Poisoner is 1 card away from closest Evil
+7 gemcrafter #6 is Good
+8 baker I was an Architect
+9 poet Evils are not adjacent to eachother
+10 judge

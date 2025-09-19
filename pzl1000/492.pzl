@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: lover,alchemist,empress,knitter,architect,bard,judge,wretch,bombardier,puppeteer,minion,lilis,puppet
+1 lover 2 Evils adjacent to me
+2 alchemist I cured 0 Corruptions
+3 knitter There are 2 pairs of Evil
+4 bard There are no Corrupted characters
+6 empress One is Evil: #9, #3 or #6
+7 lover NO Evils adjacent to me
+8 judge
+9 architect Left side is more Evil
+[unknown] #killed_by_demon

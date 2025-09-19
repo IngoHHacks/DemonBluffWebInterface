@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,alchemist,hunter,oracle,bishop,poet,bombardier,wretch,poisoner,lilis
+1 oracle #5 or #1 is a Poisoner
+2 poet One is Evil: #6, #4 or #7
+3 bard I am 3 cards away from Corrupted character
+4 bishop Between #1, #5 there is: Villager and Minion
+6 bishop Between #1, #3, #4 there is: Outcast, Villager and Minion
+[unknown] #killed_by_demon
+7 wretch
+8 alchemist I cured 2 Corruptions

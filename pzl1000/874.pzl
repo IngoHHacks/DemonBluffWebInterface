@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: gemcrafter,alchemist,judge,hunter,oracle,scout,confessor,baker,bombardier,plague_doctor,puppeteer,minion,lilis,puppet
+1 gemcrafter #5 is Good
+2 scout Puppeteer is 1 card away from closest Evil
+3 oracle #4 or #1 is a Minion
+4 confessor I am Good
+6 hunter I am 4 cards away from closest Evil
+7 alchemist I cured 0 Corruptions
+8 baker I was a Baker
+9 gemcrafter #4 is Good
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

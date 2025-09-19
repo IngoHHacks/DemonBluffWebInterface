@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bishop,oracle,gemcrafter,baker,knitter,plague_doctor,wretch,doppelganger,poisoner,baa
+1 bishop Between #4, #5, #7 there is: Outcast, Minion and Villager
+2 knitter There is only 1 pair of Evil
+3 gemcrafter #6 is Good
+4 plague_doctor
+5 baker I was a Baker
+6 oracle #1 or #3 is a Poisoner
+7 baker I was a Knitter

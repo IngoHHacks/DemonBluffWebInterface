@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: poet,baker,witness,oracle,druid,knitter,doppelganger,wretch,drunk,poisoner,baa
+1 baker I was a Poet
+2 oracle #1 or #6 is a Poisoner
+3 witness #7 was affected by an Evil
+4 druid Among #5, #3, #2 there is: Wretch
+5 baker I am the original Baker
+6 poet #7 or #3 is a Poisoner
+7 baker I was a Witness

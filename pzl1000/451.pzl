@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,bard,scout,lover,poet,gemcrafter,doppelganger,wretch,drunk,bombardier,minion,baa
+2 bard There are no Corrupted characters
+3 wretch
+[unknown] #killed_by_demon
+4 judge
+5 poet One is Evil: #3, #1 or #4
+6 scout Baa is 2 cards away from closest Evil
+7 lover 2 Evils adjacent to me
+8 scout Baa is 2 cards away from closest Evil

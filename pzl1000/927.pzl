@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,alchemist,poet,medium,jester,judge,knight,doppelganger,drunk,bombardier,counsellor,twin_minion,lilis
+1 knight
+2 medium #3 is a real Enlightened
+3 enlightened Closest Evil is: Clockwise
+4 jester Among: #7, #9, #2: There are 2 Evils
+6 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 enlightened Closest Evil is: Counter-clockwise
+8 judge #2 is saying Truth
+9 poet #8 is Evil

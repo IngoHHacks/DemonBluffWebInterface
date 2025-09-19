@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,slayer,oracle,lover,judge,empress,baker,bombardier,wretch,drunk,shaman,counsellor,lilis
+1 slayer I couldn't kill #8
+2 slayer I couldn't kill #4
+3 oracle #1 or #2 is a Counsellor
+4 slayer I couldn't kill #1
+6 bombardier
+7 knitter There is only 1 pair of Evil
+8 lover 1 Evil adjacent to me
+9 lover NO Evils adjacent to me
+[unknown] #killed_by_demon

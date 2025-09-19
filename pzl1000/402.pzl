@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: empress,gemcrafter,lover,slayer,scout,druid,knight,doppelganger,plague_doctor,bombardier,wretch,twin_minion,witch,baa
+1 empress One is Evil: #4, #8 or #5
+2 slayer
+3 knight
+4 gemcrafter #5 is Good
+5 scout Twin Minion is 2 cards away from closest Evil
+6 lover NO Evils adjacent to me
+7 plague_doctor
+8 druid
+[unknown]

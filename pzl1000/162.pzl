@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knitter,slayer,confessor,druid,hunter,bishop,medium,enlightened,wretch,doppelganger,drunk,witch,counsellor,lilis
+1 bishop Between #5, #4, #8 there is: Villager, Outcast and Minion
+2 medium #5 is a real Drunk
+3 slayer
+4 medium #3 is a real Slayer
+6 knitter There is only 1 pair of Evil
+7 wretch
+8 enlightened Closest Evil is equidistant
+[unknown] #killed_by_demon
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: confessor,slayer,hunter,alchemist,dreamer,architect,bishop,drunk,doppelganger,bombardier,shaman,pooka
+1 bishop Between #2, #4, #7 there is: Minion, Villager and Outcast
+2 dreamer
+3 confessor I am dizzy
+4 alchemist I cured 2 Corruptions
+5 bishop Between #9, #7, #4 there is: Minion, Outcast and Villager
+6 hunter I am 1 card away from closest Evil
+7 dreamer
+8 bishop Between #7, #4, #6 there is: Minion, Villager and Outcast
+9 slayer

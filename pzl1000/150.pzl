@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,medium,bard,fortune_teller,empress,jester,judge,plague_doctor,bombardier,doppelganger,counsellor,minion,lilis
+2 jester
+3 medium #5 is a real Judge
+4 empress One is Evil: #1, #9 or #4
+5 medium #8 is a real Plague Doctor
+[unknown] #killed_by_demon
+7 fortune_teller
+8 alchemist I cured 1 Corruption
+9 plague_doctor
+[unknown] #killed_by_demon

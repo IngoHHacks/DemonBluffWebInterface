@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,empress,poet,bard,enlightened,gemcrafter,architect,doppelganger,drunk,bombardier,poisoner,shaman,baa
+1 architect Right side is more Evil
+2 knight
+3 bard I am 3 cards away from Corrupted character
+4 gemcrafter #2 is Good
+5 enlightened Closest Evil is: Clockwise
+6 bombardier
+7 poet There are 2 pairs of Evil
+8 gemcrafter #2 is Good
+9 knight

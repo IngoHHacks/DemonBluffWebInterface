@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: poet,knight,dreamer,gemcrafter,knitter,bombardier,plague_doctor,wretch,minion,baa
+1 knitter There is only 1 pair of Evil
+2 poet Closest Evil is: Counter-clockwise
+3 wretch
+4 knight
+5 gemcrafter #3 is Good
+6 dreamer
+7 poet I am 2 cards away from closest Evil

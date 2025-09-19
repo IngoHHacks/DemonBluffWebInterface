@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: architect,slayer,gemcrafter,dreamer,knight,medium,knitter,bombardier,doppelganger,plague_doctor,puppeteer,minion,baa,puppet
+1 architect Both sides are equally Evil
+2 plague_doctor
+3 slayer
+4 dreamer
+5 gemcrafter #10 is Good
+6 gemcrafter #10 is Good
+7 knitter There are 2 pairs of Evil
+8 knight
+9 medium #4 is a real Dreamer
+10 medium #1 is a real Architect

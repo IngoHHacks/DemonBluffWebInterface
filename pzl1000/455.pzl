@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,alchemist,medium,hunter,knitter,fortune_teller,poet,wretch,doppelganger,poisoner,witch,lilis
+1 fortune_teller
+2 hunter I am 1 card away from closest Evil
+3 knitter There is only 1 pair of Evil
+4 poet #5 is a real Poet
+6 poet I am 1 card away from closest Evil
+7 medium #3 is a real Knitter
+8 knitter Evils are not adjacent to eachother
+9 alchemist I cured 1 Corruption
+[unknown]
+[unknown] #killed_by_demon

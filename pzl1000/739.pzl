@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,druid,dreamer,empress,oracle,knitter,fortune_teller,plague_doctor,bombardier,drunk,shaman,twin_minion,baa
+1 dreamer #7 could be: Shaman
+2 poet #1 or #2 is a Shaman
+3 druid Among #8, #6, #5 there is: Drunk
+4 knitter Evils are not adjacent to eachother
+5 dreamer #4 could be: Twin Minion
+6 fortune_teller Is #1 or #7 Evil?: True
+7 plague_doctor #2 is Not Corrupted
+8 oracle #7 or #5 is a Twin Minion
+9 poet #4 or #5 is a Twin Minion

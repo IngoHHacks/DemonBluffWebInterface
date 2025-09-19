@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knight,baker,enlightened,fortune_teller,alchemist,jester,doppelganger,wretch,plague_doctor,witch,baa
+1 knight
+2 fortune_teller Is #8 or #7 Evil?: True
+3 wretch
+4 fortune_teller Is #6 or #2 Evil?: True
+5 enlightened Closest Evil is: Counter-clockwise
+6 alchemist I cured 0 Corruptions
+7 baker I am the original Baker
+[unknown]

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,empress,druid,knight,alchemist,hunter,bard,medium,wretch,plague_doctor,minion,witch,lilis
+1 judge #5 is saying Truth
+2 empress One is Evil: #1, #5 or #6
+3 hunter I am 1 card away from closest Evil
+4 medium #10 is a real Bard
+6 plague_doctor #3 is Not Corrupted
+[unknown] #killed_by_demon
+7 hunter I am 2 cards away from closest Evil
+8 knight
+9 alchemist I cured 0 Corruptions
+[unknown]

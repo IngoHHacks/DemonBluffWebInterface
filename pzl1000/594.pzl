@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,empress,architect,slayer,knight,scout,dreamer,bombardier,plague_doctor,doppelganger,counsellor,lilis
+1 knight
+2 bombardier
+3 slayer I couldn't kill #6
+4 architect Both sides are equally Evil
+6 oracle #3 or #2 is a Counsellor
+7 dreamer #8 could be: Lilis
+8 knight
+[unknown] #killed_by_demon

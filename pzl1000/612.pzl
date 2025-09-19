@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: confessor,knitter,bard,architect,scout,jester,plague_doctor,bombardier,drunk,minion,witch,pooka
+1 confessor I am dizzy
+2 bard I am 1 card away from Corrupted character
+3 scout Witch is 2 cards away from closest Evil
+4 bombardier
+5 architect Both sides are equally Evil
+6 jester Among: #3, #2, #7: There is 1 Evil
+7 knitter Evils are not adjacent to eachother
+8 jester Among: #3, #1, #6: There are 0 Evils
+[unknown]

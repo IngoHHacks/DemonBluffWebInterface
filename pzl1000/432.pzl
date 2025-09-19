@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,knight,hunter,jester,poet,scout,slayer,bombardier,drunk,plague_doctor,witch,lilis
+1 poet I am 2 cards away from closest Evil
+2 poet Lilis is 1 card away from closest Evil
+3 scout Witch is 2 cards away from closest Evil
+4 jester
+6 hunter I am 1 card away from closest Evil
+7 bombardier
+8 slayer
+[unknown]
+[unknown] #killed_by_demon

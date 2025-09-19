@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,baker,confessor,empress,witness,medium,wretch,plague_doctor,puppeteer,minion,lilis
+1 knitter Evils are not adjacent to eachother
+2 knitter There is only 1 pair of Evil
+3 wretch
+4 baker I am the original Baker
+6 confessor I am Good
+7 knitter There are 3 pairs of Evil
+[unknown] #killed_by_demon
+8 empress One is Evil: #6, #5 or #3
+9 medium #1 is a real Knitter

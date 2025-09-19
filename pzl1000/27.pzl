@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,alchemist,jester,slayer,hunter,knitter,dreamer,confessor,plague_doctor,doppelganger,bombardier,witch,shaman,lilis
+1 hunter I am 3 cards away from closest Evil
+2 slayer
+3 dreamer
+4 alchemist I cured 0 Corruptions
+6 bombardier
+7 knitter Evils are not adjacent to eachother
+8 judge
+9 confessor I am Good
+[unknown]
+[unknown] #killed_by_demon

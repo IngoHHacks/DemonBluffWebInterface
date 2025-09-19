@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: poet,empress,druid,alchemist,scout,architect,plague_doctor,doppelganger,pooka
+1 empress One is Evil: #6, #5 or #3
+2 druid
+3 scout Pooka is 1 card away from closest Evil
+4 alchemist I cured 2 Corruptions
+5 poet I am 1 card away from Corrupted character
+6 druid
+7 architect Right side is more Evil

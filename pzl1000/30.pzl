@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,medium,scout,judge,lover,druid,wretch,plague_doctor,doppelganger,poisoner,baa
+1 scout Baa is 1 card away from closest Evil
+2 lover NO Evils adjacent to me
+3 bard There are no Corrupted characters
+4 bard There are no Corrupted characters
+5 judge
+6 plague_doctor
+7 druid
+8 medium #3 is a real Bard

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,hunter,medium,enlightened,knitter,empress,fortune_teller,scout,doppelganger,bombardier,drunk,twin_minion,witch,baa
+1 bombardier
+2 empress One is Evil: #3, #7 or #5
+3 knitter There is only 1 pair of Evil
+4 hunter I am 4 cards away from closest Evil
+5 medium #4 is a real Hunter
+6 scout Witch is 3 cards away from closest Evil
+7 dreamer
+8 fortune_teller
+[unknown]

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knitter,poet,knight,confessor,jester,drunk,bombardier,doppelganger,shaman,baa
+1 poet Between #4, #7, #2 there is: Minion, Outcast and Villager
+2 knitter Evils are not adjacent to eachother
+3 bombardier
+4 knight
+5 bombardier
+6 knight
+7 confessor I am Good

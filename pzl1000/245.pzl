@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: medium,alchemist,slayer,witness,judge,bombardier,doppelganger,drunk,poisoner,baa
+2 alchemist I cured 0 Corruptions
+3 alchemist I cured 1 Corruption
+4 medium #2 is a real Alchemist
+[unknown] #killed_by_demon
+5 medium #2 is a real Doppelganger
+6 witness #6 was affected by an Evil
+7 slayer

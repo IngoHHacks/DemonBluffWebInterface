@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: hunter,knight,knitter,druid,scout,jester,lover,empress,drunk,plague_doctor,minion,puppeteer,lilis,puppet
+1 knitter There are 3 pairs of Evil
+2 scout Puppet is 1 card away from closest Evil
+3 hunter I am 4 cards away from closest Evil
+4 knight
+[unknown] #killed_by_demon
+6 lover NO Evils adjacent to me
+7 lover NO Evils adjacent to me
+8 jester Among: #2, #9, #1: There is 1 Evil
+9 druid Among #9, #4, #1 there is: Drunk

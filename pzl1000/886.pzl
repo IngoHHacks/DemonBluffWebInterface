@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,oracle,slayer,alchemist,enlightened,medium,confessor,wretch,drunk,doppelganger,counsellor,pooka
+1 slayer I couldn't kill #7
+2 enlightened Closest Evil is: Counter-clockwise
+3 hunter I am 2 cards away from closest Evil
+4 alchemist I cured 1 Corruption
+5 oracle #6 or #8 is a Counsellor
+6 confessor I am dizzy
+7 enlightened Closest Evil is: Clockwise
+8 slayer I couldn't kill #2

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,slayer,lover,bishop,hunter,dreamer,architect,plague_doctor,bombardier,twin_minion,minion,lilis
+1 hunter I am 2 cards away from closest Evil
+2 dreamer #3 could be: Twin Minion
+3 slayer I couldn't kill #5
+4 dreamer #8 could be: Minion
+6 plague_doctor #7 is Not Corrupted
+7 medium #7 is a real Bishop
+8 bishop Between #5, #8, #1 there is: Minion, Villager and Outcast
+9 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon

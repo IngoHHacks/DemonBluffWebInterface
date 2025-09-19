@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,hunter,medium,enlightened,slayer,fortune_teller,oracle,plague_doctor,drunk,twin_minion,lilis
+1 slayer I couldn't kill #6
+2 enlightened Closest Evil is: Clockwise
+3 hunter I am 3 cards away from closest Evil
+4 oracle #4 or #5 is a Twin Minion
+6 enlightened Closest Evil is equidistant
+7 medium #8 is a real Bishop
+[unknown] #killed_by_demon
+8 bishop Between #1, #5, #4 there is: Villager, Outcast and Minion

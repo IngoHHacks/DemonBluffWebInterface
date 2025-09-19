@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: gemcrafter,knitter,fortune_teller,poet,knight,bishop,confessor,jester,doppelganger,bombardier,wretch,counsellor,minion,lilis
+1 confessor I am dizzy
+2 bombardier
+3 knitter There is only 1 pair of Evil
+4 poet Lilis is 2 cards away from closest Evil
+6 fortune_teller
+7 wretch
+8 bishop Between #9, #6, #2 there is: Outcast, Villager and Minion
+9 bishop Between #4, #5, #7 there is: Outcast, Villager and Minion
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

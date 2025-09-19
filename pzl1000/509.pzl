@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,dreamer,slayer,hunter,oracle,knitter,scout,bombardier,wretch,shaman,minion,lilis
+1 scout Lilis is 3 cards away from closest Evil
+2 jester Among: #1, #7, #9: There are 0 Evils
+9 #dead shaman|jester Among: #2, #1, #9: There are 2 Evils
+4 scout Lilis is 3 cards away from closest Evil
+6 oracle #2 or #6 is a Minion
+7 bombardier
+[unknown] #killed_by_demon
+8 dreamer #5 could be: Lilis
+9 slayer I killed Evil at #3

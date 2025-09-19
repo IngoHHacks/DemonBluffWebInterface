@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,judge,bishop,bard,gemcrafter,lover,doppelganger,drunk,wretch,plague_doctor,bombardier,counsellor,baa
+1 lover NO Evils adjacent to me
+2 dreamer #4 could be: Baa
+3 bard I am 1 card away from Corrupted character
+4 dreamer #3 could be: Counsellor
+5 bombardier
+6 gemcrafter #2 is Good
+7 bishop Between #3, #1, #6 there is: Villager, Minion and Outcast
+8 lover 1 Evil adjacent to me

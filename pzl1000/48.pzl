@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: enlightened,hunter,jester,poet,witness,medium,fortune_teller,empress,slayer,plague_doctor,bombardier,drunk,counsellor,minion,lilis
+1 slayer
+2 jester
+3 bombardier
+4 poet Lilis is 1 card away from closest Evil
+6 hunter I am 1 card away from closest Evil
+7 witness #8 was affected by an Evil
+8 empress One is Evil: #5, #6 or #2
+[unknown] #killed_by_demon
+9 medium #3 is a real Bombardier
+[unknown] #killed_by_demon #hidden_evil

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: gemcrafter,scout,architect,empress,judge,alchemist,bombardier,doppelganger,plague_doctor,minion,pooka
+1 alchemist I cured 1 Corruption
+2 architect Both sides are equally Evil
+3 judge #5 is saying Truth
+4 judge #2 is Lying
+5 plague_doctor #7 is Not Corrupted
+6 empress One is Evil: #5, #1 or #3
+7 gemcrafter #8 is Good
+8 scout Minion is 2 cards away from closest Evil
+9 alchemist I cured 1 Corruption

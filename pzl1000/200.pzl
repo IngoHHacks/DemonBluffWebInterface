@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: jester,medium,enlightened,gemcrafter,poet,knitter,scout,plague_doctor,wretch,puppeteer,minion,lilis,puppet
+1 plague_doctor
+2 plague_doctor
+3 enlightened Closest Evil is: Counter-clockwise
+4 medium #1 is a real Plague Doctor
+6 plague_doctor
+[unknown] #killed_by_demon
+7 knitter There is only 1 pair of Evil
+8 poet I am 1 card away from closest Evil
+9 scout Minion is 1 card away from closest Evil
+[unknown] #killed_by_demon #hidden_evil

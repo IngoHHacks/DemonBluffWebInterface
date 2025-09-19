@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,fortune_teller,knitter,druid,scout,empress,poet,bombardier,plague_doctor,doppelganger,minion,poisoner,baa
+1 confessor I am dizzy
+2 druid
+3 bombardier
+4 fortune_teller
+5 scout Poisoner is 1 card away from closest Evil
+6 knitter Evils are not adjacent to eachother
+7 poet I am 1 card away from closest Evil
+8 empress One is Evil: #4, #2 or #5
+9 druid

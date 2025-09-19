@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,knight,judge,confessor,enlightened,bard,medium,bombardier,plague_doctor,shaman,lilis
+1 judge #8 is saying Truth
+2 bard There are no Corrupted characters
+3 slayer I couldn't kill #5
+4 confessor I am Good
+6 knight
+[unknown] #killed_by_demon
+7 enlightened Closest Evil is: Counter-clockwise
+8 confessor I am Good

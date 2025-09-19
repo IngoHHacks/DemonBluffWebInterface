@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,judge,medium,jester,witness,bishop,fortune_teller,wretch,bombardier,drunk,minion,baa
+1 bishop Between #4, #3 there is: Minion and Villager
+2 medium #8 is a real Witness
+3 lover 2 Evils adjacent to me
+4 wretch
+5 judge
+6 jester
+7 fortune_teller
+8 witness #6 was affected by an Evil

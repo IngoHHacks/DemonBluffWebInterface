@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,baker,knight,bard,enlightened,empress,doppelganger,wretch,plague_doctor,minion,shaman,baa
+1 bard I am 1 card away from Corrupted character
+2 empress One is Evil: #9, #5 or #8
+3 enlightened Closest Evil is: Clockwise
+4 knight
+5 bard There are no Corrupted characters
+6 slayer
+7 wretch
+8 baker I was an Empress
+9 slayer

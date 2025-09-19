@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,hunter,judge,knitter,poet,wretch,bombardier,doppelganger,plague_doctor,poisoner,baa
+1 judge
+2 architect Right side is more Evil
+3 plague_doctor
+4 poet #7 or #2 is a Poisoner
+5 knitter There is only 1 pair of Evil
+6 wretch
+7 hunter I am 1 card away from closest Evil

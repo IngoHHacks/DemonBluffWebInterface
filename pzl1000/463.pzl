@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: judge,knitter,knight,baker,empress,druid,fortune_teller,wretch,plague_doctor,minion,puppeteer,pooka,puppet
+1 judge
+2 druid
+3 plague_doctor
+4 knight
+5 baker I was an Empress
+6 fortune_teller
+7 knitter There is only 1 pair of Evil
+8 empress One is Evil: #6, #3 or #1
+9 knitter There is only 1 pair of Evil

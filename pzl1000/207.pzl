@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: baker,confessor,druid,medium,knitter,slayer,plague_doctor,drunk,bombardier,doppelganger,wretch,counsellor,pooka
+1 knitter There is only 1 pair of Evil
+2 knitter There is only 1 pair of Evil
+3 druid
+4 confessor I am dizzy
+5 slayer
+6 medium #9 is a real Bombardier
+7 plague_doctor
+8 wretch
+9 bombardier

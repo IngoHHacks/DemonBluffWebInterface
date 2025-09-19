@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,judge,fortune_teller,druid,empress,wretch,plague_doctor,bombardier,drunk,shaman,baa
+1 empress One is Evil: #5, #3 or #8
+2 plague_doctor #3 is Evil #6 is Corrupted
+3 fortune_teller Is #2 or #8 Evil?: True
+4 empress One is Evil: #8, #3 or #6
+5 druid Among #1, #7, #2 there is: Drunk
+6 druid Among #7, #8, #2 there are NO Outcasts
+7 wretch
+8 judge #8 is saying Truth

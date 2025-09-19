@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: gemcrafter,knight,knitter,scout,druid,bishop,lover,jester,bombardier,plague_doctor,drunk,minion,counsellor,pooka
+1 scout Pooka is 2 cards away from closest Evil
+2 knight
+3 plague_doctor #7 is Not Corrupted
+4 knitter Evils are not adjacent to eachother
+5 druid Among #7, #3, #2 there is: Bombardier
+6 jester Among: #2, #10, #8: There are 2 Evils
+7 bombardier
+8 lover 2 Evils adjacent to me
+9 druid Among #7, #3, #5 there are NO Outcasts
+10 gemcrafter #5 is Good

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: alchemist,poet,fortune_teller,dreamer,judge,baker,enlightened,wretch,doppelganger,shaman,poisoner,lilis
+1 poet Between #2, #6, #3 there is: Outcast, Villager and Minion
+2 poet Closest Evil is: Clockwise
+3 poet #1 or #6 is a Poisoner
+4 baker I was a Fortune Teller
+6 enlightened Closest Evil is: Clockwise
+7 poet Between #7, #10, #1 there is: Villager, Minion and Outcast
+8 dreamer #4 could be: Lilis
+[unknown] #killed_by_demon
+9 baker I was an Alchemist
+[unknown] #killed_by_demon

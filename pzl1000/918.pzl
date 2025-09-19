@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,oracle,lover,fortune_teller,bard,medium,wretch,drunk,shaman,pooka
+1 lover NO Evils adjacent to me
+2 fortune_teller Is #8 or #1 Evil?: True
+3 oracle #2 or #4 is a Shaman
+4 fortune_teller Is #6 or #3 Evil?: False
+5 oracle #1 or #4 is a Shaman
+6 wretch
+7 medium #8 is a real Bard
+8 bard There are no Corrupted characters

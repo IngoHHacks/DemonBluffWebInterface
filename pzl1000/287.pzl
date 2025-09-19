@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,slayer,druid,poet,oracle,bard,judge,drunk,plague_doctor,shaman,minion,lilis
+1 bard I am 3 cards away from Corrupted character
+2 druid
+3 plague_doctor
+4 medium #6 is a real Oracle
+6 druid
+7 oracle #3 or #5 is a Shaman
+8 judge
+9 poet #3 or #4 is a Minion
+[unknown] #killed_by_demon

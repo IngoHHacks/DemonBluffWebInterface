@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: fortune_teller,lover,oracle,baker,empress,enlightened,knitter,doppelganger,plague_doctor,minion,twin_minion,lilis
+1 empress One is Evil: #7, #9 or #8
+2 baker I am the original Baker
+3 lover 1 Evil adjacent to me
+4 fortune_teller Is #7 or #2 Evil?: True
+6 baker I am the original Baker
+7 plague_doctor #8 is Evil #1 is Corrupted
+8 baker I was a Baker
+[unknown] #killed_by_demon
+9 baker I was an Oracle

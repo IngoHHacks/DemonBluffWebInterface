@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,poet,dreamer,architect,jester,baker,empress,doppelganger,bombardier,drunk,minion,lilis
+1 empress One is Evil: #3, #2 or #8
+2 jester Among: #1, #4, #5: There is 1 Evil
+3 druid Among #7, #2, #5 there are NO Outcasts
+4 poet There is only 1 pair of Evil
+6 baker I am the original Baker
+7 bombardier
+8 baker I was an Architect
+[unknown] #killed_by_demon

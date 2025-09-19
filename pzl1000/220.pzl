@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: baker,witness,empress,judge,jester,plague_doctor,wretch,pooka
+1 jester
+2 empress One is Evil: #3, #1 or #5
+3 baker I am the original Baker
+4 plague_doctor
+5 judge
+6 baker I was a Judge

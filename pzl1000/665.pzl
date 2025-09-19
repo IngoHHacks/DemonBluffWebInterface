@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knitter,empress,knight,oracle,lover,scout,fortune_teller,wretch,plague_doctor,bombardier,twin_minion,baa
+1 empress One is Evil: #2, #8 or #3
+2 lover 1 Evil adjacent to me
+3 oracle #2 or #5 is a Twin Minion
+4 scout Twin Minion is 1 card away from closest Evil
+5 knight
+6 wretch
+7 fortune_teller Is #2 or #4 Evil?: True
+8 knitter There is only 1 pair of Evil

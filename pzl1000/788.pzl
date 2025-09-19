@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,dreamer,hunter,bishop,fortune_teller,medium,baker,confessor,wretch,drunk,bombardier,shaman,counsellor,lilis
+1 baker I am the original Baker
+2 baker I was a Fortune Teller
+3 wretch
+4 medium #5 is a real Bombardier
+6 bombardier
+7 confessor I am dizzy
+[unknown] #killed_by_demon
+8 empress One is Evil: #1, #5 or #2
+9 dreamer #7 could be: Shaman

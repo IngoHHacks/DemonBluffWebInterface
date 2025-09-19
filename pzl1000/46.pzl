@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,knight,druid,oracle,scout,confessor,empress,plague_doctor,bombardier,wretch,poisoner,counsellor,lilis
+2 lover 1 Evil adjacent to me
+3 druid
+[unknown] #killed_by_demon
+4 plague_doctor
+5 scout Lilis is 1 card away from closest Evil
+7 knight
+8 wretch
+9 empress One is Evil: #4, #3 or #1
+10 oracle #4 or #6 is a Poisoner
+[unknown] #killed_by_demon

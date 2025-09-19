@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,slayer,judge,medium,scout,poet,hunter,drunk,doppelganger,minion,pooka
+1 hunter I am 2 cards away from closest Evil
+2 medium #7 is a real Scout
+3 slayer
+4 poet Minion is 3 cards away from closest Evil
+5 judge
+6 empress One is Evil: #2, #4 or #3
+7 scout Pooka is 2 cards away from closest Evil
+8 empress One is Evil: #1, #7 or #3

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,scout,enlightened,knitter,lover,slayer,bombardier,doppelganger,shaman,pooka
+1 knitter There is only 1 pair of Evil
+2 architect Left side is more Evil
+3 slayer
+4 lover 1 Evil adjacent to me
+5 slayer
+6 lover 1 Evil adjacent to me
+7 bombardier
+8 scout Pooka is 2 cards away from closest Evil

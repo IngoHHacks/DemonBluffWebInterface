@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,fortune_teller,bishop,poet,alchemist,lover,doppelganger,drunk,wretch,shaman,baa
+1 oracle #5 or #6 is a Shaman
+2 poet Between #1, #5, #3 there is: Minion, Villager and Outcast
+3 fortune_teller Is #8 or #6 Evil?: True
+4 alchemist I cured 0 Corruptions
+5 lover NO Evils adjacent to me
+6 alchemist I cured 0 Corruptions
+7 oracle #4 or #2 is a Shaman
+8 bishop Between #8, #1, #3 there is: Outcast, Villager and Minion

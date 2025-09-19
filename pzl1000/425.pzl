@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: dreamer,poet,knight,alchemist,scout,confessor,doppelganger,wretch,drunk,minion,lilis
+1 scout Minion is 2 cards away from closest Evil
+2 wretch
+3 confessor I am Good
+4 knight
+6 poet Closest Evil is: Clockwise
+7 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+8 confessor I am Good
+9 confessor I am dizzy

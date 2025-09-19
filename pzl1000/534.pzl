@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: jester,knight,scout,judge,baker,empress,oracle,knitter,wretch,doppelganger,minion,shaman,lilis
+1 judge #8 is saying Truth
+2 wretch
+3 scout Minion is 2 cards away from closest Evil
+4 judge #2 is Lying
+6 knitter There is only 1 pair of Evil
+[unknown] #killed_by_demon
+7 empress One is Evil: #8, #3 or #2
+8 knight
+9 jester Among: #1, #6, #5: There is 1 Evil
+10 oracle #3 or #6 is a Minion

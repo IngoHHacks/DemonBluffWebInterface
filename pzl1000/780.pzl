@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,judge,baker,empress,confessor,architect,wretch,drunk,bombardier,witch,pooka
+1 baker I was a Confessor
+2 wretch
+3 confessor I am Good
+4 empress One is Evil: #6, #5 or #7
+5 architect Both sides are equally Evil
+6 bombardier
+7 confessor I am dizzy
+8 knight
+[unknown]

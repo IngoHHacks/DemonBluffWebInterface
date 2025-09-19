@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,confessor,witness,empress,baker,jester,bombardier,wretch,plague_doctor,poisoner,twin_minion,baa
+1 plague_doctor
+2 jester
+3 baker I was a Bard
+4 wretch
+5 jester
+6 bard I am 3 cards away from Corrupted character
+7 empress One is Evil: #8, #6 or #1
+8 witness #9 was affected by an Evil
+9 confessor I am dizzy

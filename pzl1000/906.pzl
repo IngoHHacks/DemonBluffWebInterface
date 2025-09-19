@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,bishop,poet,enlightened,gemcrafter,lover,knitter,wretch,drunk,twin_minion,lilis
+1 bishop Between #6, #4, #3 there is: Outcast, Minion and Villager
+2 gemcrafter #3 is Good
+3 poet I am 2 cards away from closest Evil
+4 medium #6 is a real Lover
+6 enlightened Closest Evil is: Counter-clockwise
+7 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon
+8 gemcrafter #5 is Good

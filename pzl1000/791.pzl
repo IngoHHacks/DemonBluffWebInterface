@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: confessor,druid,witness,lover,medium,knitter,scout,plague_doctor,doppelganger,drunk,witch,lilis
+1 witness #6 was affected by an Evil
+2 lover NO Evils adjacent to me
+3 druid Among #9, #8, #2 there are NO Outcasts
+4 witness #2 was affected by an Evil
+6 plague_doctor #3 is Not Corrupted
+[unknown] #killed_by_demon
+7 scout Witch is 3 cards away from closest Evil
+8 knitter There is only 1 pair of Evil
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,oracle,bard,enlightened,knitter,hunter,druid,bombardier,plague_doctor,witch,poisoner,lilis
+1 bard I am 4 cards away from Corrupted character
+2 oracle #1 or #5 is a Poisoner
+3 hunter I am 1 card away from closest Evil
+4 enlightened Closest Evil is: Counter-clockwise
+6 enlightened Closest Evil is: Clockwise
+7 knight
+8 knitter There are 2 pairs of Evil
+[unknown]
+[unknown] #killed_by_demon

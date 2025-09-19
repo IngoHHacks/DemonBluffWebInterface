@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,bard,poet,baker,architect,scout,bombardier,doppelganger,twin_minion,pooka
+1 bard I am 1 card away from Corrupted character
+2 architect Both sides are equally Evil
+3 scout Twin Minion is 2 cards away from closest Evil
+4 empress One is Evil: #8, #5 or #3
+5 bombardier
+6 baker I was a Baker
+7 scout Twin Minion is 1 card away from closest Evil
+8 poet #7 is a real Scout

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,knitter,bard,enlightened,dreamer,poet,doppelganger,wretch,plague_doctor,bombardier,minion,counsellor,baa
+1 poet NO Evils adjacent to me
+2 enlightened Closest Evil is: Clockwise
+3 bard I am 3 cards away from Corrupted character
+4 enlightened Closest Evil is: Counter-clockwise
+5 plague_doctor
+6 knight
+7 plague_doctor
+8 dreamer
+9 enlightened Closest Evil is: Counter-clockwise

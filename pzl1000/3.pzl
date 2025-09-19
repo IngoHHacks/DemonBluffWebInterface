@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,jester,architect,knight,bard,oracle,doppelganger,plague_doctor,wretch,bombardier,shaman,baa
+1 knight
+2 jester
+3 knight
+4 bard There are no Corrupted characters
+5 jester
+6 medium #1 is a real Knight
+7 oracle #5 or #3 is a Shaman
+8 plague_doctor

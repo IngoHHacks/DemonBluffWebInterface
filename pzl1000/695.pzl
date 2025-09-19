@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,gemcrafter,baker,medium,bard,jester,plague_doctor,doppelganger,wretch,bombardier,counsellor,poisoner,lilis
+1 medium #7 is a real Gemcrafter
+2 medium #3 is a real Gemcrafter
+3 gemcrafter #6 is Good
+4 oracle #9 or #6 is a Poisoner
+6 baker I was a Bard
+7 bard There are no Corrupted characters
+[unknown] #killed_by_demon
+8 bombardier
+9 wretch

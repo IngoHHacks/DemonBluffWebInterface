@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,alchemist,judge,scout,lover,medium,poet,plague_doctor,wretch,bombardier,counsellor,twin_minion,lilis
+2 bombardier
+3 plague_doctor
+4 poet #9 is Good
+5 lover 2 Evils adjacent to me
+7 wretch
+8 judge
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon
+9 scout Lilis is 1 card away from closest Evil

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: scout,slayer,druid,architect,alchemist,judge,poet,enlightened,plague_doctor,wretch,drunk,poisoner,pooka
+1 scout Poisoner is 3 cards away from closest Evil
+2 enlightened Closest Evil is: Counter-clockwise
+3 poet #4 is a real Judge
+4 judge #5 is saying Truth
+5 alchemist I cured 1 Corruption
+6 wretch
+7 architect Left side is more Evil
+8 druid Among #5, #4, #1 there are NO Outcasts
+9 slayer I couldn't kill #8

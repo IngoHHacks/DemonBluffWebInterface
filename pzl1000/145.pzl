@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,enlightened,medium,fortune_teller,slayer,alchemist,druid,baker,wretch,doppelganger,bombardier,drunk,puppeteer,counsellor,baa
+1 enlightened Closest Evil is: Clockwise
+2 baker I was a Fortune Teller
+3 confessor I am Good
+4 medium #5 is a real Medium
+5 medium #4 is a real Medium
+6 druid
+7 bombardier
+8 fortune_teller
+9 alchemist I cured 0 Corruptions

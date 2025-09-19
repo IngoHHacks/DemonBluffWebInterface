@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,judge,slayer,bishop,hunter,enlightened,plague_doctor,bombardier,wretch,shaman,minion,baa
+1 knitter Evils are not adjacent to eachother
+2 slayer
+3 bombardier
+4 enlightened Closest Evil is equidistant
+5 hunter I am 1 card away from closest Evil
+6 enlightened Closest Evil is: Counter-clockwise
+7 judge
+8 judge
+9 judge

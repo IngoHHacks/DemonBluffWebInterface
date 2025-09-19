@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: slayer,druid,scout,judge,empress,doppelganger,plague_doctor,wretch,puppeteer,baa,puppet
+1 scout Puppet is 1 card away from closest Evil
+2 slayer I killed Evil at #4
+3 slayer I couldn't kill #5
+7 #dead baa|druid Among #6, #7, #1 there is: Wretch
+5 empress One is Evil: #1, #6 or #4
+6 judge #2 is saying Truth
+7 wretch

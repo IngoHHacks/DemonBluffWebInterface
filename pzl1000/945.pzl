@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,hunter,architect,bishop,empress,slayer,wretch,doppelganger,shaman,lilis
+1 bishop Between #5, #6, #1 there is: Outcast, Minion and Villager
+2 hunter I am 2 cards away from closest Evil
+3 bishop Between #5, #2, #6 there is: Minion, Villager and Outcast
+4 knight
+6 bishop Between #3, #4, #7 there is: Outcast, Minion and Villager
+7 bishop Between #2, #6, #5 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+8 slayer I couldn't kill #5

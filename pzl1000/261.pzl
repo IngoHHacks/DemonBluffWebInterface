@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: hunter,fortune_teller,medium,slayer,poet,scout,architect,jester,baker,bombardier,plague_doctor,minion,witch,lilis
+2 fortune_teller
+3 scout Lilis is 3 cards away from closest Evil
+4 bombardier
+5 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+7 medium #9 is a real Architect
+8 slayer
+9 jester
+[unknown]
+[unknown] #killed_by_demon

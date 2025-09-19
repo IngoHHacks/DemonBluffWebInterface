@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: fortune_teller,enlightened,bard,baker,hunter,judge,doppelganger,plague_doctor,wretch,bombardier,counsellor,minion,lilis
+1 bard I am 1 card away from Corrupted character
+2 fortune_teller Is #6 or #4 Evil?: True
+3 bombardier
+4 baker I was a Judge
+6 enlightened Closest Evil is equidistant
+7 baker I was a Bard
+8 plague_doctor #3 is Not Corrupted
+9 wretch
+[unknown] #killed_by_demon

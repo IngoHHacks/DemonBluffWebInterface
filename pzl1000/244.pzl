@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,alchemist,judge,confessor,slayer,gemcrafter,plague_doctor,wretch,poisoner,minion,lilis
+1 judge
+2 alchemist I cured 2 Corruptions
+3 alchemist I cured 2 Corruptions
+4 confessor I am Good
+6 plague_doctor
+7 gemcrafter #7 is Good
+8 slayer
+[unknown] #killed_by_demon
+9 plague_doctor

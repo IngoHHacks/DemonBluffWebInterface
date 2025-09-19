@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,bard,alchemist,architect,slayer,enlightened,poet,bombardier,doppelganger,drunk,counsellor,witch,lilis
+1 poet Between #7, #3, #6 there is: Villager, Outcast and Minion
+2 architect Left side is more Evil
+3 enlightened Closest Evil is: Counter-clockwise
+4 bombardier
+6 dreamer #2 could be: Witch
+7 poet Witch is 1 card away from closest Evil
+8 bard There are no Corrupted characters
+[unknown] #killed_by_demon
+[unknown]

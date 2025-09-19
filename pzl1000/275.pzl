@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: fortune_teller,enlightened,alchemist,scout,knitter,architect,confessor,bombardier,wretch,drunk,witch,baa
+2 knitter There is only 1 pair of Evil
+3 enlightened Closest Evil is: Counter-clockwise
+4 confessor I am dizzy
+5 fortune_teller
+6 alchemist I cured 0 Corruptions
+7 architect Right side is more Evil
+[unknown] #killed_by_demon
+[unknown]

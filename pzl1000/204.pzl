@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,gemcrafter,baker,judge,empress,enlightened,wretch,bombardier,plague_doctor,poisoner,twin_minion,baa
+1 bard There are no Corrupted characters
+2 baker I am the original Baker
+3 bombardier
+4 judge
+5 enlightened Closest Evil is: Clockwise
+6 judge
+7 plague_doctor
+8 gemcrafter #6 is Good
+9 baker I was an Empress

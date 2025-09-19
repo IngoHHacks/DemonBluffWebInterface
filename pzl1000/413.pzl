@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: slayer,judge,medium,druid,dreamer,architect,knight,bishop,plague_doctor,bombardier,puppeteer,minion,lilis,puppet
+1 slayer
+2 plague_doctor
+3 medium #6 is a real Knight
+4 slayer
+6 judge
+7 knight
+8 druid
+[unknown] #killed_by_demon
+9 dreamer
+[unknown] #killed_by_demon #hidden_evil

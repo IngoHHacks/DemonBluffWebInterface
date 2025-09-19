@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,poet,bishop,oracle,jester,druid,plague_doctor,drunk,doppelganger,witch,pooka
+2 fortune_teller
+3 bishop Between #4, #7, #3 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+4 jester
+5 plague_doctor
+6 druid
+7 poet #1 is Good
+8 fortune_teller
+[unknown]

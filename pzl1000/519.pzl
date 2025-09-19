@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,alchemist,lover,dreamer,knight,judge,poet,drunk,plague_doctor,doppelganger,poisoner,minion,lilis
+1 dreamer #8 could be: Lilis
+2 alchemist I cured 2 Corruptions
+3 plague_doctor #7 is Evil #9 is Corrupted
+4 judge #7 is saying Truth
+6 knight
+7 poet #2 is Evil
+[unknown] #killed_by_demon
+8 jester Among: #9, #7, #3: There are 0 Evils
+9 lover 1 Evil adjacent to me

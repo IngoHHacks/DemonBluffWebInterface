@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,knight,fortune_teller,medium,bard,judge,lover,bombardier,drunk,doppelganger,poisoner,baa
+1 fortune_teller
+2 jester
+3 knight
+4 judge
+5 bard There are no Corrupted characters
+6 judge
+7 medium #6 is a real Judge
+8 lover 1 Evil adjacent to me

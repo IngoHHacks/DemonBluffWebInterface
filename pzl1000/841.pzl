@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: druid,bishop,hunter,empress,baker,bombardier,plague_doctor,drunk,shaman,baa
+1 druid Among #7, #2, #3 there is: Drunk
+2 empress One is Evil: #5, #4 or #3
+3 hunter I am 1 card away from closest Evil
+4 bishop Between #6, #7, #4 there is: Villager, Minion and Outcast
+5 hunter I am 1 card away from closest Evil
+6 druid Among #5, #7, #3 there are NO Outcasts
+7 empress One is Evil: #3, #1 or #4

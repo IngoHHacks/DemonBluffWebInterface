@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: enlightened,gemcrafter,knight,jester,fortune_teller,lover,doppelganger,bombardier,wretch,shaman,lilis
+1 lover 1 Evil adjacent to me
+2 bombardier
+3 fortune_teller Is #8 or #1 Evil?: False
+4 jester Among: #5, #3, #2: There are 2 Evils
+6 enlightened Closest Evil is: Counter-clockwise
+7 gemcrafter #1 is Good
+8 wretch
+[unknown] #killed_by_demon
+9 gemcrafter #8 is Good

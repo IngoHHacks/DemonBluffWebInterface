@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: baker,oracle,architect,gemcrafter,bishop,knitter,wretch,doppelganger,drunk,twin_minion,lilis
+1 gemcrafter #2 is Good
+2 architect Left side is more Evil
+3 baker I am the original Baker
+4 bishop Between #5, #9, #2 there is: Villager, Outcast and Minion
+6 baker I was a Gemcrafter
+7 wretch
+[unknown] #killed_by_demon
+8 gemcrafter #6 is Good
+9 baker I was a Knitter

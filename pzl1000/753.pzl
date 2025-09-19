@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: gemcrafter,baker,enlightened,knight,architect,doppelganger,bombardier,drunk,shaman,baa
+1 baker I am the original Baker
+2 architect Left side is more Evil
+3 enlightened Closest Evil is equidistant
+4 gemcrafter #2 is Good
+5 baker I was an Enlightened
+6 baker I was an Architect
+7 baker I was a Baker

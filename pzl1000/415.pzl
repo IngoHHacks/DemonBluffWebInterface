@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: architect,scout,baker,medium,knight,confessor,bombardier,plague_doctor,doppelganger,wretch,counsellor,pooka
+1 confessor I am Good
+2 knight
+3 wretch
+4 baker I was a Medium
+5 architect Both sides are equally Evil
+6 baker I was a Confessor
+7 bombardier
+8 scout Pooka is 2 cards away from closest Evil
+9 confessor I am Good

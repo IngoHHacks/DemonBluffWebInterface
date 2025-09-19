@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knitter,dreamer,scout,gemcrafter,hunter,knight,enlightened,bombardier,wretch,poisoner,pooka
+1 hunter I am 2 cards away from closest Evil
+2 gemcrafter #4 is Good
+3 scout Poisoner is 1 card away from closest Evil
+4 knitter There is only 1 pair of Evil
+5 bombardier
+6 knight
+7 enlightened Closest Evil is: Clockwise
+8 dreamer #5 could be: Pooka

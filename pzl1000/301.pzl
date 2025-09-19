@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,gemcrafter,lover,alchemist,enlightened,knight,confessor,plague_doctor,wretch,witch,pooka
+1 plague_doctor
+2 lover 1 Evil adjacent to me
+3 confessor I am dizzy
+4 scout Pooka is 3 cards away from closest Evil
+5 alchemist I cured 1 Corruption
+6 gemcrafter #2 is Good
+7 knight
+[unknown]

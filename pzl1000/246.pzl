@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,witness,architect,lover,bard,jester,wretch,bombardier,plague_doctor,minion,twin_minion,pooka
+1 architect Left side is more Evil
+2 lover NO Evils adjacent to me
+3 witness NO character was affected by an Evil
+4 jester
+5 bombardier
+6 bard I am 2 cards away from Corrupted character
+7 plague_doctor
+8 bombardier
+9 medium #5 is a real Bombardier

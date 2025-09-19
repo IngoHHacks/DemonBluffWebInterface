@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knight,lover,hunter,architect,enlightened,jester,bard,dreamer,doppelganger,bombardier,wretch,puppeteer,poisoner,baa,puppet
+1 hunter I am 1 card away from closest Evil
+2 lover 2 Evils adjacent to me
+3 bard There are no Corrupted characters
+4 architect Left side is more Evil
+5 enlightened Closest Evil is: Clockwise
+6 wretch
+7 jester Among: #2, #8, #9: There is 1 Evil
+8 dreamer #2 could be: Puppeteer
+9 knight

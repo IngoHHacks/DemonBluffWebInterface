@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: slayer,alchemist,knitter,druid,judge,empress,bard,plague_doctor,wretch,doppelganger,minion,shaman,baa
+1 slayer
+2 empress One is Evil: #9, #6 or #5
+3 alchemist I cured 1 Corruption
+4 wretch
+5 knitter Evils are not adjacent to eachother
+6 empress One is Evil: #10, #1 or #4
+7 druid
+8 alchemist I cured 1 Corruption
+9 knitter There are 2 pairs of Evil
+10 judge

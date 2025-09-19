@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: fortune_teller,dreamer,medium,scout,bishop,baker,doppelganger,bombardier,plague_doctor,poisoner,baa
+1 medium #4 is a real Dreamer
+2 fortune_teller Is #1 or #6 Evil?: False
+3 medium #4 is a real Dreamer
+4 dreamer #5 could be: Baa
+5 baker I was a Fortune Teller
+6 bishop Between #2, #3, #6 there is: Minion, Outcast and Villager
+7 scout Baa is 1 card away from closest Evil

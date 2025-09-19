@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,medium,baker,poet,druid,lover,bombardier,wretch,doppelganger,twin_minion,baa
+1 druid Among #8, #7, #3 there are NO Outcasts
+2 poet There are 2 pairs of Evil
+3 lover 1 Evil adjacent to me
+4 medium #5 is a real Baker
+5 baker I was a Baker
+6 wretch
+7 alchemist I cured 0 Corruptions
+8 medium #2 is a real Poet

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: baker,hunter,bishop,knitter,slayer,bard,fortune_teller,doppelganger,plague_doctor,poisoner,witch,lilis
+1 bard I am 1 card away from Corrupted character
+2 bishop Between #1, #2, #7 there is: Minion, Villager and Outcast
+3 baker I am the original Baker
+4 hunter I am 1 card away from closest Evil
+6 plague_doctor
+7 slayer
+8 baker I was a Bishop
+[unknown] #killed_by_demon
+[unknown]

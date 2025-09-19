@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: knight,oracle,confessor,empress,slayer,enlightened,bombardier,plague_doctor,puppeteer,pooka,puppet
+1 slayer
+2 enlightened Closest Evil is: Counter-clockwise
+3 bombardier
+4 empress One is Evil: #3, #8 or #5
+5 confessor I am dizzy
+6 oracle #1 or #5 is a Puppeteer
+7 confessor I am Good
+8 knight

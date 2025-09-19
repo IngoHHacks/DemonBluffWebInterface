@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: jester,baker,bard,lover,scout,druid,bombardier,drunk,doppelganger,shaman,pooka
+1 jester Among: #4, #3, #2: There is 1 Evil
+2 jester Among: #3, #8, #1: There is 1 Evil
+3 scout Shaman is 2 cards away from closest Evil
+4 lover 1 Evil adjacent to me
+5 bard I am 3 cards away from Corrupted character
+6 scout Shaman is 1 card away from closest Evil
+7 bard I am 2 cards away from Corrupted character
+8 bombardier
+9 baker I am the original Baker

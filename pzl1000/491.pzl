@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,bard,dreamer,architect,bishop,empress,knight,drunk,wretch,doppelganger,puppeteer,lilis,puppet
+1 bishop Between #4, #1, #6 there is: Minion, Outcast and Villager
+2 knight
+3 bard I am 4 cards away from Corrupted character
+4 empress One is Evil: #1, #2 or #4
+6 dreamer
+7 knight
+8 architect Right side is more Evil
+[unknown] #killed_by_demon
+9 dreamer

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: baker,dreamer,confessor,jester,poet,oracle,plague_doctor,drunk,pooka
+1 baker I was a Confessor
+2 poet #6 is Good
+3 dreamer
+4 oracle #6 or #1 is a Counsellor
+5 confessor I am dizzy
+6 jester
+7 plague_doctor

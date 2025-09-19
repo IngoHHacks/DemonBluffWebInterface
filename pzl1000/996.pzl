@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: lover,baker,hunter,fortune_teller,confessor,wretch,plague_doctor,doppelganger,twin_minion,baa
+1 hunter I am 1 card away from closest Evil
+2 plague_doctor #6 is Not Corrupted
+3 lover NO Evils adjacent to me
+4 fortune_teller Is #5 or #6 Evil?: False
+5 confessor I am dizzy
+6 baker I am the original Baker
+7 lover 1 Evil adjacent to me

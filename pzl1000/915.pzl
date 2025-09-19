@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,druid,gemcrafter,knight,slayer,doppelganger,plague_doctor,bombardier,minion,baa
+1 druid Among #7, #4, #5 there is: Doppelganger
+2 knight
+3 bombardier
+4 scout Baa is 1 card away from closest Evil
+5 gemcrafter #3 is Good
+6 slayer I killed Evil at #7
+7 #dead baa|druid Among #5, #3, #1 there are NO Outcasts

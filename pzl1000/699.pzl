@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: scout,knight,jester,knitter,dreamer,bombardier,doppelganger,plague_doctor,wretch,puppeteer,baa,puppet
+1 dreamer #5 could be: Puppet
+2 jester Among: #8, #7, #5: There is 1 Evil
+3 knight
+4 knitter Evils are not adjacent to eachother
+5 knitter There are 2 pairs of Evil
+6 scout Puppet is 2 cards away from closest Evil
+7 plague_doctor #3 is Not Corrupted
+8 bombardier

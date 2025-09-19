@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: gemcrafter,knight,lover,druid,architect,jester,judge,empress,fortune_teller,drunk,doppelganger,witch,poisoner,lilis
+1 druid Among #2, #8, #6 there is: Drunk
+2 judge #8 is Lying
+3 knight
+4 gemcrafter #3 is Good
+6 empress One is Evil: #7, #6 or #10
+7 architect Both sides are equally Evil
+8 jester Among: #10, #3, #5: There is 1 Evil
+9 fortune_teller Is #1 or #2 Evil?: False
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

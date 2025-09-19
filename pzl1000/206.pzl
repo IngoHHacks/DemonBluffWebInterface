@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: poet,alchemist,slayer,fortune_teller,scout,knitter,baker,wretch,doppelganger,drunk,witch,baa
+1 knitter Evils are not adjacent to eachother
+2 baker I am the original Baker
+3 scout Baa is 3 cards away from closest Evil
+4 baker I was a Fortune Teller
+5 alchemist I cured 2 Corruptions
+6 slayer
+7 baker I was an Alchemist
+[unknown]

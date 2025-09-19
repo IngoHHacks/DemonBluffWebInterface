@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,empress,fortune_teller,medium,judge,bishop,hunter,plague_doctor,doppelganger,bombardier,wretch,poisoner,counsellor,baa
+1 hunter I am 3 cards away from closest Evil
+2 bishop Between #1, #5, #4 there is: Outcast, Minion and Villager
+3 fortune_teller
+4 judge
+5 fortune_teller
+6 medium #3 is a real Fortune Teller
+7 baker I was a Hunter
+8 plague_doctor
+9 bombardier

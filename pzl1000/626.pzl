@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: fortune_teller,witness,baker,confessor,slayer,architect,plague_doctor,doppelganger,bombardier,minion,puppeteer,lilis
+1 confessor I am Good
+9 #dead lilis|fortune_teller Is #1 or #3 Evil?: False
+3 baker I was an Architect
+4 bombardier
+6 baker I am the original Baker
+7 confessor I am Good
+8 slayer I killed Evil at #2
+[unknown] #killed_by_demon
+9 baker I was a Witness

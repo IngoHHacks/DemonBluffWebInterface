@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knitter,fortune_teller,enlightened,medium,architect,baker,witness,plague_doctor,doppelganger,wretch,minion,puppeteer,baa,puppet
+1 knitter There is only 1 pair of Evil
+2 knitter Evils are not adjacent to eachother
+3 baker I am the original Baker
+4 baker I was a Witness
+5 baker I was an Architect
+6 wretch
+7 baker I was a Fortune Teller
+8 medium #1 is a real Knitter
+9 enlightened Closest Evil is equidistant

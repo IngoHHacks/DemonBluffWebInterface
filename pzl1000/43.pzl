@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: dreamer,knitter,oracle,architect,jester,lover,medium,drunk,doppelganger,witch,pooka
+1 dreamer
+2 medium #1 is a real Dreamer
+3 jester
+4 lover 1 Evil adjacent to me
+5 dreamer
+6 knitter Evils are not adjacent to eachother
+7 oracle #3 or #1 is a Witch
+[unknown]

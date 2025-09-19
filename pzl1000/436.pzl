@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,confessor,poet,judge,oracle,bishop,bombardier,plague_doctor,twin_minion,lilis
+2 poet One is Evil: #6, #5 or #2
+3 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon
+4 lover 2 Evils adjacent to me
+5 bishop Between #5, #4, #6 there is: Minion, Outcast and Villager
+7 plague_doctor
+8 judge
+[unknown] #killed_by_demon

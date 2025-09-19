@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: judge,empress,confessor,alchemist,bishop,medium,scout,druid,plague_doctor,bombardier,wretch,minion,puppeteer,pooka,puppet
+1 medium #10 is a real Bishop
+2 druid Among #6, #8, #4 there are NO Outcasts
+3 empress One is Evil: #1, #7 or #4
+4 scout Puppet is 1 card away from closest Evil
+5 bombardier
+6 alchemist I cured 2 Corruptions
+7 confessor I am dizzy
+8 judge #5 is saying Truth
+9 wretch
+10 bishop Between #5, #3 there is: Minion and Villager

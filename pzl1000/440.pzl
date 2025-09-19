@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,gemcrafter,baker,empress,medium,scout,druid,doppelganger,plague_doctor,drunk,witch,minion,lilis
+1 medium #9 is a real Gemcrafter
+2 scout Witch is 2 cards away from closest Evil
+3 druid
+4 baker I am the original Baker
+6 plague_doctor
+7 empress One is Evil: #3, #9 or #5
+[unknown] #killed_by_demon
+8 medium #9 is a real Gemcrafter
+[unknown]

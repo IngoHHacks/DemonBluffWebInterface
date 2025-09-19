@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knitter,dreamer,enlightened,knight,alchemist,poet,plague_doctor,bombardier,shaman,pooka
+1 bombardier
+2 alchemist I cured 0 Corruptions
+3 dreamer #6 could be: Pooka
+4 alchemist I cured 1 Corruption
+5 poet #1 is Good
+6 enlightened Closest Evil is equidistant
+7 knight
+8 alchemist I cured 2 Corruptions

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,baker,judge,bard,oracle,bishop,doppelganger,plague_doctor,twin_minion,poisoner,lilis
+1 judge
+2 bishop Between #4, #6, #7 there is: Minion, Outcast and Villager
+3 jester
+4 plague_doctor
+6 jester
+7 baker I was a Judge
+8 bishop Between #8, #6, #2 there is: Outcast, Villager and Minion
+[unknown] #killed_by_demon
+9 oracle #5 or #2 is a Twin Minion

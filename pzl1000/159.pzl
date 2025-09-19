@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: witness,bishop,gemcrafter,dreamer,slayer,bard,judge,wretch,doppelganger,bombardier,counsellor,witch,lilis
+1 slayer
+2 bard I am 1 card away from Corrupted character
+3 slayer
+4 bard There are no Corrupted characters
+6 bombardier
+7 dreamer
+[unknown] #killed_by_demon
+8 gemcrafter #2 is Good
+[unknown]

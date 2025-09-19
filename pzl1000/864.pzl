@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,fortune_teller,baker,alchemist,slayer,jester,drunk,doppelganger,shaman,pooka
+1 alchemist I cured 1 Corruption
+2 enlightened Closest Evil is: Clockwise
+3 jester Among: #1, #8, #4: There are 0 Evils
+4 jester Among: #6, #5, #8: There are 0 Evils
+5 enlightened Closest Evil is: Counter-clockwise
+6 baker I was an Alchemist
+7 enlightened Closest Evil is: Counter-clockwise
+8 fortune_teller Is #3 or #4 Evil?: False

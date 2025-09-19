@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,enlightened,medium,alchemist,knight,empress,bard,doppelganger,plague_doctor,drunk,twin_minion,poisoner,lilis
+1 confessor I am Good
+2 bard I am 2 cards away from Corrupted character
+3 enlightened Closest Evil is: Clockwise
+4 bard I am 3 cards away from Corrupted character
+6 alchemist I cured 2 Corruptions
+[unknown] #killed_by_demon
+7 medium #3 is a real Drunk
+8 knight
+9 plague_doctor

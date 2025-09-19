@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: empress,gemcrafter,baker,confessor,fortune_teller,bard,alchemist,drunk,plague_doctor,witch,minion,lilis
+1 empress One is Evil: #8, #9 or #3
+2 plague_doctor
+3 gemcrafter #8 is Good
+4 baker I am the original Baker
+6 bard I am 3 cards away from Corrupted character
+7 fortune_teller
+8 confessor I am dizzy
+[unknown] #killed_by_demon
+[unknown]

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: medium,baker,enlightened,dreamer,poet,confessor,hunter,bombardier,wretch,puppeteer,pooka,puppet
+1 bombardier
+2 poet #5 is a real Enlightened
+3 medium #5 is a real Enlightened
+4 dreamer
+5 enlightened Closest Evil is: Clockwise
+6 baker I am the original Baker
+7 confessor I am Good
+8 baker I was a Hunter

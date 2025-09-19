@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: scout,empress,fortune_teller,bishop,slayer,gemcrafter,dreamer,knight,wretch,bombardier,plague_doctor,witch,minion,baa
+1 dreamer #10 could be: Minion
+2 knight
+3 scout Witch is 1 card away from closest Evil
+4 plague_doctor #8 is Not Corrupted
+9 #dead witch|fortune_teller Is #4 or #9 Evil?: True
+6 empress One is Evil: #9, #7 or #3
+7 gemcrafter #10 is Good
+8 fortune_teller Is #2 or #5 Evil?: False
+9 slayer I killed Evil at #5
+10 bishop Between #3, #7, #2 there is: Villager, Minion and Outcast

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,oracle,baker,lover,bard,slayer,wretch,bombardier,doppelganger,drunk,minion,baa
+1 bard I am 3 cards away from Corrupted character
+2 wretch
+3 lover 1 Evil adjacent to me
+4 scout Baa is 1 card away from closest Evil
+5 oracle #4 or #2 is a Minion
+6 scout Minion is 1 card away from closest Evil
+7 baker I am the original Baker
+8 slayer I couldn't kill #4

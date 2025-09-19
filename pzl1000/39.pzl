@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: knitter,bishop,hunter,poet,confessor,fortune_teller,dreamer,bombardier,wretch,drunk,doppelganger,counsellor,lilis
+1 poet I am 1 card away from closest Evil
+2 dreamer
+3 bishop Between #6, #2, #1 there is: Villager, Outcast and Minion
+4 hunter I am 1 card away from closest Evil
+6 poet Closest Evil is: Clockwise
+7 hunter I am 1 card away from closest Evil
+8 knitter There is only 1 pair of Evil
+[unknown] #killed_by_demon
+9 wretch

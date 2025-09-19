@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,confessor,druid,slayer,lover,enlightened,doppelganger,bombardier,wretch,witch,lilis
+1 hunter I am 2 cards away from closest Evil
+2 lover 1 Evil adjacent to me
+3 confessor I am dizzy
+4 druid Among #2, #1, #8 there are NO Outcasts
+6 slayer I couldn't kill #2
+7 wretch
+8 confessor I am dizzy
+[unknown]
+[unknown] #killed_by_demon

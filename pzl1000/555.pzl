@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,bard,bishop,dreamer,knitter,knight,oracle,judge,wretch,drunk,plague_doctor,poisoner,minion,baa
+1 poet #1 or #7 is a Minion
+2 bard I am 2 cards away from Corrupted character
+3 knitter Evils are not adjacent to eachother
+4 knitter There are 2 pairs of Evil
+5 judge #9 is saying Truth
+6 knight
+7 oracle #2 or #1 is a Poisoner
+8 bishop Between #9, #4, #1 there is: Outcast, Villager and Minion
+9 dreamer #6 could be: Baa

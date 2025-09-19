@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: alchemist,gemcrafter,architect,baker,lover,dreamer,drunk,bombardier,puppeteer,twin_minion,lilis,puppet
+1 lover 1 Evil adjacent to me
+2 gemcrafter #9 is Good
+3 alchemist I cured 2 Corruptions
+4 bombardier
+6 baker I am the original Baker
+7 alchemist I cured 2 Corruptions
+8 baker I was a Dreamer
+9 alchemist I cured 2 Corruptions
+[unknown] #killed_by_demon

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,druid,hunter,jester,architect,dreamer,poet,bard,plague_doctor,drunk,witch,twin_minion,lilis
+1 plague_doctor #6 is Not Corrupted
+2 dreamer #4 could be: Lilis
+3 jester Among: #8, #5, #10: There are 3 Evils
+4 druid Among #8, #10, #5 there is: Drunk
+6 lover 2 Evils adjacent to me
+7 hunter I am 1 card away from closest Evil
+8 bard I am 4 cards away from Corrupted character
+9 architect Left side is more Evil
+[unknown] #killed_by_demon #hidden_evil
+[unknown] #killed_by_demon

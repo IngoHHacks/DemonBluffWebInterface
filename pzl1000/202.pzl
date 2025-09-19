@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: slayer,bishop,enlightened,judge,bard,dreamer,bombardier,plague_doctor,puppeteer,lilis,puppet
+1 slayer
+2 bard I am 2 cards away from Corrupted character
+3 plague_doctor
+4 judge
+6 dreamer
+[unknown] #killed_by_demon
+7 bard I am 2 cards away from Corrupted character
+8 bishop Between #4, #3, #8 there is: Outcast, Minion and Villager

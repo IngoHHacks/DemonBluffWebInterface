@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,alchemist,slayer,jester,bishop,bard,empress,bombardier,wretch,plague_doctor,minion,shaman,baa
+1 bard I am 2 cards away from Corrupted character
+2 knight
+3 bishop Between #4, #2, #7 there is: Minion, Outcast and Villager
+4 plague_doctor #5 is Not Corrupted
+5 bard I am 4 cards away from Corrupted character
+6 slayer I couldn't kill #7
+7 jester Among: #2, #9, #8: There are 2 Evils
+8 alchemist I cured 2 Corruptions
+9 slayer I couldn't kill #4

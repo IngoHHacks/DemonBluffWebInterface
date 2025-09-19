@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: architect,alchemist,confessor,empress,poet,knight,judge,drunk,wretch,poisoner,witch,lilis
+1 knight
+2 confessor I am Good
+3 empress One is Evil: #1, #2 or #6
+4 empress One is Evil: #6, #8 or #1
+6 poet I am 2 cards away from closest Evil
+7 alchemist I cured 1 Corruption
+8 wretch
+[unknown]
+[unknown] #killed_by_demon

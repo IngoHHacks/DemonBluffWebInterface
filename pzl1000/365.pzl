@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: gemcrafter,poet,judge,baker,fortune_teller,slayer,hunter,doppelganger,plague_doctor,bombardier,counsellor,witch,lilis
+1 hunter I am 4 cards away from closest Evil
+2 slayer
+3 plague_doctor
+4 gemcrafter #7 is Good
+6 judge
+[unknown] #killed_by_demon
+7 fortune_teller
+8 baker I was a Hunter
+[unknown]

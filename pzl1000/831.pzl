@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: medium,architect,bard,empress,alchemist,lover,bishop,judge,plague_doctor,wretch,poisoner,minion,lilis
+1 bishop Between #1, #3 there is: Minion and Villager
+2 medium #4 is a real Bard
+3 wretch
+4 bard I am 1 card away from Corrupted character
+6 lover 2 Evils adjacent to me
+7 judge #4 is Lying
+8 empress One is Evil: #1, #2 or #8
+9 empress One is Evil: #7, #2 or #5
+10 alchemist I cured 2 Corruptions
+[unknown] #killed_by_demon

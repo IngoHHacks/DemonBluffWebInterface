@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,druid,lover,jester,judge,gemcrafter,bard,wretch,plague_doctor,bombardier,counsellor,minion,lilis
+1 jester
+2 slayer
+3 bard There are no Corrupted characters
+4 plague_doctor
+6 gemcrafter #4 is Good
+[unknown] #killed_by_demon
+7 judge
+8 druid
+9 wretch

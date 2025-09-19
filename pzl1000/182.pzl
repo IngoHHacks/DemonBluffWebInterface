@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,confessor,knight,empress,dreamer,oracle,scout,doppelganger,drunk,wretch,counsellor,pooka
+1 scout Counsellor is 2 cards away from closest Evil
+2 knight
+3 scout Pooka is 3 cards away from closest Evil
+4 dreamer
+5 wretch
+6 oracle #1 or #7 is a Counsellor
+7 confessor I am Good
+8 fortune_teller

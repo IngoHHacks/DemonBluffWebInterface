@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,bishop,dreamer,medium,scout,lover,bombardier,plague_doctor,poisoner,pooka
+1 dreamer #4 could be: Poisoner
+2 scout Pooka is 2 cards away from closest Evil
+3 medium #2 is a real Scout
+4 bombardier
+5 jester Among: #4, #8, #6: There are 3 Evils
+6 scout Pooka is 1 card away from closest Evil
+7 lover 2 Evils adjacent to me
+8 bishop Between #4, #2, #3 there is: Outcast, Villager and Minion

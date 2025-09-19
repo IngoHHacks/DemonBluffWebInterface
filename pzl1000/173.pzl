@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,alchemist,bishop,fortune_teller,lover,gemcrafter,hunter,drunk,wretch,plague_doctor,puppeteer,baa,puppet
+1 fortune_teller
+2 bishop Between #3, #6, #4 there is: Minion, Villager and Outcast
+3 oracle #6 or #1 is a Puppet
+4 lover NO Evils adjacent to me
+5 gemcrafter #6 is Good
+6 alchemist I cured 0 Corruptions
+7 hunter I am 4 cards away from closest Evil
+8 lover NO Evils adjacent to me

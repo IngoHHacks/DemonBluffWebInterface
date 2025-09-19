@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knitter,gemcrafter,lover,empress,alchemist,fortune_teller,wretch,bombardier,doppelganger,plague_doctor,puppeteer,poisoner,baa,puppet
+1 knitter There are 2 pairs of Evil
+2 gemcrafter #9 is Good
+3 empress One is Evil: #5, #6 or #7
+4 alchemist I cured 2 Corruptions
+5 lover NO Evils adjacent to me
+6 fortune_teller
+7 lover 1 Evil adjacent to me
+8 bombardier
+9 empress One is Evil: #5, #4 or #2

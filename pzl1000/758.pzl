@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bishop,judge,baker,dreamer,confessor,druid,bombardier,doppelganger,wretch,plague_doctor,witch,baa
+1 dreamer #7 could be: Witch
+2 bishop Between #5, #1, #3 there is: Outcast, Villager and Minion
+3 bombardier
+4 confessor I am dizzy
+5 plague_doctor #8 is Evil #8 is Corrupted
+6 baker I am the original Baker
+7 judge #4 is saying Truth
+[unknown]

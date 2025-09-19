@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: slayer,judge,confessor,poet,hunter,doppelganger,plague_doctor,pooka
+1 slayer I couldn't kill #5
+2 poet Closest Evil is: Clockwise
+3 judge #4 is Lying
+4 confessor I am Good
+5 plague_doctor #1 is Not Corrupted
+6 hunter I am 3 cards away from closest Evil

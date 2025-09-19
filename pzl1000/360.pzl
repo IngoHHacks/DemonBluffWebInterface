@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: medium,baker,architect,bishop,empress,bard,wretch,bombardier,doppelganger,puppeteer,baa,puppet
+1 bishop Between #6, #2 there is: Minion and Villager
+2 medium #1 is a real Bishop
+3 empress One is Evil: #1, #4 or #2
+4 baker I am the original Baker
+5 wretch
+6 architect Left side is more Evil
+7 bard I am 1 card away from Corrupted character

@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: enlightened,poet,druid,judge,hunter,wretch,bombardier,pooka
+1 enlightened Closest Evil is: Clockwise
+2 druid Among #1, #4, #5 there is: Wretch
+3 poet #3 is a real Poet
+4 wretch
+5 judge #3 is Lying
+6 hunter I am 2 cards away from closest Evil

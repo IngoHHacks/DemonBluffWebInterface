@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: judge,gemcrafter,bard,bishop,knight,enlightened,wretch,drunk,plague_doctor,shaman,witch,baa
+1 plague_doctor
+2 bard There are no Corrupted characters
+3 gemcrafter #4 is Good
+4 bard I am 3 cards away from Corrupted character
+5 knight
+6 judge
+7 plague_doctor
+8 bishop Between #1, #7, #9 there is: Outcast, Minion and Villager
+[unknown]

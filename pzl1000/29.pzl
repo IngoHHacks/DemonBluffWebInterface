@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,architect,knitter,empress,knight,slayer,plague_doctor,drunk,wretch,witch,lilis
+1 knitter Evils are not adjacent to eachother
+2 scout Lilis is 1 card away from closest Evil
+3 architect Left side is more Evil
+4 slayer
+6 wretch
+7 empress One is Evil: #9, #1 or #2
+8 knight
+[unknown]
+[unknown] #killed_by_demon

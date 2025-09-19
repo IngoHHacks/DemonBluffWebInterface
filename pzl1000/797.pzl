@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,judge,fortune_teller,medium,jester,confessor,doppelganger,wretch,poisoner,pooka
+1 jester Among: #5, #7, #6: There is 1 Evil
+2 baker I was a Medium
+3 judge #7 is Lying
+4 confessor I am dizzy
+5 confessor I am dizzy
+6 medium #8 is a real Fortune Teller
+7 wretch
+8 fortune_teller Is #1 or #4 Evil?: True

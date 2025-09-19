@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bishop,lover,baker,gemcrafter,fortune_teller,poet,drunk,doppelganger,wretch,twin_minion,minion,baa
+1 fortune_teller Is #4 or #3 Evil?: True
+2 lover 1 Evil adjacent to me
+3 baker I was a Bishop
+4 baker I was a Poet
+5 poet #3 is Evil
+6 baker I was a Lover
+7 fortune_teller Is #6 or #5 Evil?: True
+8 bishop Between #1, #5, #4 there is: Minion, Villager and Outcast
+9 gemcrafter #1 is Good

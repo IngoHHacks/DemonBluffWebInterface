@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,empress,medium,lover,baker,alchemist,slayer,bombardier,doppelganger,plague_doctor,witch,baa
+1 plague_doctor #8 is Not Corrupted
+2 empress One is Evil: #5, #6 or #7
+3 baker I am the original Baker
+4 scout Witch is 3 cards away from closest Evil
+5 slayer I couldn't kill #3
+6 baker I was an Alchemist
+7 baker I was a Medium
+[unknown]

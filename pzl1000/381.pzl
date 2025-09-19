@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: slayer,scout,jester,baker,knight,medium,bishop,empress,plague_doctor,wretch,twin_minion,minion,lilis
+1 knight
+2 bishop Between #4, #8, #5 there is: Villager, Outcast and Minion
+3 jester
+4 scout Minion is 1 card away from closest Evil
+6 slayer
+7 medium #3 is a real Jester
+8 plague_doctor
+[unknown] #killed_by_demon
+9 baker I was a Scout
+[unknown] #killed_by_demon #hidden_evil

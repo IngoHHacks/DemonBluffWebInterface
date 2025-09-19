@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,fortune_teller,enlightened,oracle,witness,empress,confessor,plague_doctor,wretch,drunk,twin_minion,baa
+1 empress One is Evil: #8, #3 or #4
+2 enlightened Closest Evil is: Clockwise
+3 confessor I am Good
+4 fortune_teller Is #6 or #8 Evil?: False
+5 witness NO character was affected by an Evil
+6 lover 1 Evil adjacent to me
+7 oracle #2 or #4 is a Twin Minion
+8 oracle #4 or #7 is a Twin Minion

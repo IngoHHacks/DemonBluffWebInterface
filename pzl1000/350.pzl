@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,bishop,medium,confessor,knight,enlightened,doppelganger,bombardier,drunk,shaman,pooka
+1 enlightened Closest Evil is: Clockwise
+2 bishop Between #8, #1, #6 there is: Outcast, Minion and Villager
+3 poet Closest Evil is: Counter-clockwise
+4 bombardier
+5 enlightened Closest Evil is: Counter-clockwise
+6 knight
+7 confessor I am Good
+8 confessor I am Good

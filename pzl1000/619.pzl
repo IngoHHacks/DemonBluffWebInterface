@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: confessor,druid,poet,empress,bishop,alchemist,drunk,bombardier,plague_doctor,witch,twin_minion,lilis
+1 empress One is Evil: #6, #4 or #3
+2 confessor I am dizzy
+3 druid Among #2, #5, #9 there is: Drunk
+4 bishop Between #7, #6, #4 there is: Minion, Outcast and Villager
+6 druid Among #6, #8, #1 there is: Drunk
+[unknown] #killed_by_demon
+7 plague_doctor #6 is Evil #1 is Corrupted
+8 alchemist I cured 0 Corruptions
+[unknown]

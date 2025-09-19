@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: poet,confessor,lover,scout,alchemist,architect,doppelganger,bombardier,witch,pooka
+1 alchemist I cured 1 Corruption
+2 lover NO Evils adjacent to me
+3 architect Both sides are equally Evil
+4 poet I am 2 cards away from Corrupted character
+5 scout Pooka is 3 cards away from closest Evil
+6 scout Pooka is 2 cards away from closest Evil
+7 scout Pooka is 3 cards away from closest Evil
+[unknown]

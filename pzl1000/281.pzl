@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,lover,bishop,druid,hunter,knight,architect,baker,drunk,bombardier,doppelganger,minion,baa
+2 bishop Between #3, #2, #8 there is: Minion, Outcast and Villager
+3 medium #6 is a real Lover
+[unknown] #killed_by_demon
+4 baker I was a Hunter
+5 architect Right side is more Evil
+6 lover 1 Evil adjacent to me
+7 hunter I am 2 cards away from closest Evil
+8 druid

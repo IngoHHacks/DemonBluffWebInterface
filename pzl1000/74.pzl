@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: gemcrafter,medium,lover,knitter,jester,bishop,alchemist,bard,drunk,wretch,minion,witch,lilis
+1 jester
+2 alchemist I cured 1 Corruption
+3 knitter There is only 1 pair of Evil
+4 medium #1 is a real Jester
+6 gemcrafter #7 is Good
+7 medium #9 is a real Lover
+8 bishop Between #3, #6 there is: Villager and Minion
+[unknown] #killed_by_demon
+9 lover NO Evils adjacent to me
+[unknown]

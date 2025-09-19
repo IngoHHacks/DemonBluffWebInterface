@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: architect,jester,bishop,confessor,scout,knitter,plague_doctor,doppelganger,pooka
+1 plague_doctor
+2 knitter There is only 1 pair of Evil
+3 bishop Between #5, #7, #4 there is: Villager, Demon and Outcast
+4 confessor I am Good
+5 jester
+6 scout There is only 1 Evil
+7 architect Left side is more Evil

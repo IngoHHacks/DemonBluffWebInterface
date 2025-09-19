@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,jester,empress,bishop,baker,druid,judge,doppelganger,drunk,wretch,twin_minion,counsellor,lilis
+1 medium #7 is a real Druid
+2 empress One is Evil: #4, #6 or #1
+3 jester Among: #7, #6, #9: There are 2 Evils
+4 bishop Between #1, #6, #2 there is: Minion, Villager and Outcast
+6 jester Among: #9, #4, #2: There are 2 Evils
+7 druid Among #5, #4, #7 there are NO Outcasts
+8 druid Among #6, #3, #4 there are NO Outcasts
+[unknown] #killed_by_demon
+9 judge #8 is Lying

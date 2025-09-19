@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: medium,confessor,architect,hunter,slayer,poet,gemcrafter,lover,drunk,plague_doctor,bombardier,minion,puppeteer,baa,puppet
+1 slayer I couldn't kill #4
+2 architect Left side is more Evil
+3 poet Puppet is 1 card away from closest Evil
+4 medium #3 is a real Poet
+5 lover NO Evils adjacent to me
+6 gemcrafter #8 is Good
+7 confessor I am dizzy
+8 gemcrafter #7 is Good
+9 hunter I am 4 cards away from closest Evil

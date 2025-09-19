@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,knight,gemcrafter,witness,baker,hunter,oracle,wretch,doppelganger,bombardier,plague_doctor,counsellor,minion,baa
+1 hunter I am 4 cards away from closest Evil
+2 oracle #4 or #3 is a Counsellor
+3 gemcrafter #5 is Good
+4 plague_doctor #5 is Not Corrupted
+5 witness #3 was affected by an Evil
+6 bombardier
+7 knight
+8 knight
+9 scout Counsellor is 2 cards away from closest Evil

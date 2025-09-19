@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bishop,dreamer,knight,gemcrafter,poet,empress,bombardier,plague_doctor,witch,pooka
+1 gemcrafter #7 is Good
+2 knight
+3 empress One is Evil: #5, #8 or #7
+4 bishop Between #4, #7, #8 there is: Outcast, Minion and Villager
+5 dreamer #1 could be: Pooka
+6 poet Witch is 2 cards away from closest Evil
+7 bombardier
+[unknown]

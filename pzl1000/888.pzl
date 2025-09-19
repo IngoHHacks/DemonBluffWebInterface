@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,bard,enlightened,fortune_teller,judge,architect,jester,plague_doctor,wretch,twin_minion,pooka
+1 architect Right side is more Evil
+2 wretch
+3 enlightened Closest Evil is: Clockwise
+4 judge #7 is Lying
+5 empress One is Evil: #4, #7 or #6
+6 bard I am 1 card away from Corrupted character
+7 fortune_teller Is #5 or #1 Evil?: True
+8 jester Among: #1, #7, #5: There is 1 Evil

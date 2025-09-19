@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: gemcrafter,hunter,bishop,oracle,confessor,medium,lover,doppelganger,wretch,drunk,bombardier,witch,puppeteer,baa,puppet
+1 hunter I am 4 cards away from closest Evil
+2 confessor I am dizzy
+3 gemcrafter #8 is Good
+4 bombardier
+5 medium #6 is a real Bishop
+6 bishop Between #7, #5 there is: Minion and Villager
+7 wretch
+8 oracle #6 or #1 is a Witch
+[unknown]

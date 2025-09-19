@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,medium,dreamer,slayer,knitter,jester,bombardier,wretch,plague_doctor,poisoner,minion,baa
+1 slayer I couldn't kill #7
+2 knitter Evils are not adjacent to eachother
+3 dreamer #6 could be: Baa
+4 bombardier
+5 jester Among: #9, #2, #8: There are 2 Evils
+6 enlightened Closest Evil is: Clockwise
+7 medium #6 is a real Enlightened
+8 enlightened Closest Evil is equidistant
+9 plague_doctor #4 is Evil #5 is Corrupted

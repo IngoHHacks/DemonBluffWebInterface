@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: lover,oracle,medium,architect,gemcrafter,knitter,bishop,enlightened,plague_doctor,drunk,puppeteer,minion,pooka,puppet
+1 oracle #9 or #4 is a Puppeteer
+2 enlightened Closest Evil is: Counter-clockwise
+3 gemcrafter #5 is Good
+4 lover 1 Evil adjacent to me
+5 plague_doctor
+6 plague_doctor
+7 architect Right side is more Evil
+8 medium #1 is a real Oracle
+9 knitter There are 2 pairs of Evil
+10 bishop Between #6, #3, #5 there is: Minion, Outcast and Villager

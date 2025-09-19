@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,medium,knitter,slayer,gemcrafter,dreamer,confessor,plague_doctor,drunk,bombardier,wretch,counsellor,shaman,baa
+1 wretch
+2 bard There are no Corrupted characters
+3 knitter There is only 1 pair of Evil
+4 dreamer
+5 plague_doctor
+6 medium #2 is a real Bard
+7 bard I am 2 cards away from Corrupted character
+8 gemcrafter #5 is Good
+9 bard I am 2 cards away from Corrupted character

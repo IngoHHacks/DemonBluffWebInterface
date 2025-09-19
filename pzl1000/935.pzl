@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,dreamer,medium,bard,enlightened,empress,poet,doppelganger,bombardier,poisoner,pooka
+1 medium #8 is a real Bombardier
+2 bard I am 3 cards away from Corrupted character
+3 dreamer #1 could be: Poisoner
+4 poet Poisoner is 1 card away from closest Evil
+5 empress One is Evil: #2, #8 or #1
+6 slayer I couldn't kill #4
+7 enlightened Closest Evil is equidistant
+8 bombardier

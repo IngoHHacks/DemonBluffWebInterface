@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knitter,lover,oracle,judge,poet,confessor,gemcrafter,wretch,drunk,witch,pooka
+1 knitter There is only 1 pair of Evil
+2 confessor I am dizzy
+3 lover NO Evils adjacent to me
+4 judge #3 is saying Truth
+5 poet I am 2 cards away from closest Evil
+6 gemcrafter #5 is Good
+7 oracle #5 or #2 is a Witch
+[unknown]

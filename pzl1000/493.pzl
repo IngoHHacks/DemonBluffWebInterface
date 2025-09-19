@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: oracle,slayer,confessor,gemcrafter,lover,architect,doppelganger,bombardier,drunk,shaman,lilis
+2 gemcrafter #4 is Good
+3 bombardier
+[unknown] #killed_by_demon
+4 confessor I am dizzy
+5 confessor I am Good
+7 architect Right side is more Evil
+[unknown] #killed_by_demon
+8 oracle #2 or #4 is a Shaman
+9 architect Right side is more Evil

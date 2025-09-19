@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,enlightened,bishop,empress,poet,knight,plague_doctor,wretch,drunk,poisoner,baa
+1 bishop Between #7, #4, #1 there is: Outcast, Minion and Villager
+2 plague_doctor
+3 enlightened Closest Evil is: Clockwise
+4 knight
+5 empress
+6 poet Evils are not adjacent to eachother
+7 bard I am 2 cards away from Corrupted character
+8 empress

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: enlightened,baker,knitter,poet,confessor,architect,scout,wretch,bombardier,drunk,plague_doctor,counsellor,pooka
+1 enlightened Closest Evil is: Clockwise
+2 bombardier
+3 architect Right side is more Evil
+4 confessor I am dizzy
+5 plague_doctor #9 is Evil #4 is Corrupted
+6 knitter There is only 1 pair of Evil
+7 poet Counsellor is 1 card away from closest Evil
+8 baker I was a Confessor
+9 wretch

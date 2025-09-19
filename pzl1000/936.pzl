@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,druid,judge,architect,medium,scout,wretch,plague_doctor,minion,pooka
+1 judge #4 is saying Truth
+2 druid Among #7, #3, #5 there is: Wretch
+3 medium #4 is a real Judge
+4 judge #8 is Lying
+5 scout Minion is 3 cards away from closest Evil
+6 plague_doctor #4 is Evil #5 is Corrupted
+7 architect Right side is more Evil
+8 lover NO Evils adjacent to me

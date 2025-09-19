@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: hunter,judge,jester,bishop,slayer,witness,knitter,medium,drunk,bombardier,witch,pooka
+1 slayer I couldn't kill #2
+2 jester Among: #1, #8, #5: There are 2 Evils
+3 bishop Between #7, #6, #2 there is: Outcast, Villager and Minion
+4 witness #1 was affected by an Evil
+5 medium #1 is a real Slayer
+6 hunter I am 4 cards away from closest Evil
+7 judge #2 is saying Truth
+[unknown]

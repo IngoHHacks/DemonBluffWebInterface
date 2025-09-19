@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,medium,judge,bard,baker,enlightened,doppelganger,bombardier,drunk,shaman,poisoner,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 medium #7 is a real Judge
+3 enlightened Closest Evil is: Clockwise
+4 medium #1 is a real Enlightened
+5 bard I am 1 card away from Corrupted character
+6 bard I am 3 cards away from Corrupted character
+7 judge
+8 judge
+9 knitter There is only 1 pair of Evil

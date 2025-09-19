@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: confessor,dreamer,knitter,lover,medium,empress,alchemist,wretch,drunk,doppelganger,shaman,baa
+1 confessor I am dizzy
+2 knitter Evils are not adjacent to eachother
+3 dreamer
+4 empress One is Evil: #5, #8 or #1
+5 alchemist I cured 0 Corruptions
+6 medium #8 is a real Empress
+7 lover 2 Evils adjacent to me
+8 empress One is Evil: #2, #5 or #1

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,poet,druid,baker,enlightened,slayer,knitter,drunk,wretch,doppelganger,counsellor,twin_minion,lilis
+1 druid Among #3, #4, #1 there is: Drunk
+2 knitter There are 3 pairs of Evil
+3 enlightened Closest Evil is equidistant
+4 poet Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon
+6 wretch
+7 knitter There is only 1 pair of Evil
+8 slayer I couldn't kill #4
+9 confessor I am dizzy

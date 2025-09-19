@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: lover,knight,slayer,architect,medium,bard,drunk,bombardier,wretch,poisoner,pooka
+1 knight
+2 medium #6 is a real Slayer
+3 architect Right side is more Evil
+4 lover 2 Evils adjacent to me
+5 slayer
+6 slayer
+7 bombardier
+8 bard I am 2 cards away from Corrupted character
+9 medium #4 is a real Lover

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,knitter,confessor,oracle,architect,druid,fortune_teller,bombardier,plague_doctor,twin_minion,lilis
+1 poet One is Evil: #4, #7 or #3
+2 knitter Evils are not adjacent to eachother
+3 fortune_teller
+4 confessor I am dizzy
+6 oracle #3 or #1 is a Twin Minion
+[unknown] #killed_by_demon
+7 architect Right side is more Evil
+8 druid

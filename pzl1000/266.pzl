@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: slayer,oracle,empress,poet,medium,bombardier,plague_doctor,doppelganger,shaman,baa
+1 medium #3 is a real Oracle
+2 slayer
+3 oracle #3 or #7 is a Shaman
+4 empress One is Evil: #2, #5 or #6
+5 oracle #2 or #7 is a Shaman
+6 bombardier
+7 slayer

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,baker,knitter,poet,fortune_teller,judge,bard,wretch,doppelganger,minion,twin_minion,lilis
+1 fortune_teller Is #2 or #9 Evil?: True
+2 poet I am 3 cards away from Corrupted character
+3 baker I am the original Baker
+4 knitter There are 2 pairs of Evil
+6 empress One is Evil: #1, #4 or #8
+[unknown] #killed_by_demon
+7 bard I am 3 cards away from Corrupted character
+8 judge #4 is Lying
+9 wretch

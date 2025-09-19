@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: baker,slayer,knitter,knight,architect,poet,jester,doppelganger,plague_doctor,puppeteer,minion,lilis,puppet
+1 jester
+2 plague_doctor
+3 knitter There is only 1 pair of Evil
+4 architect Left side is more Evil
+6 knight
+7 slayer
+8 poet Minion is 2 cards away from closest Evil
+[unknown] #killed_by_demon
+9 baker I was a Knight

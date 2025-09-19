@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: alchemist,enlightened,bishop,fortune_teller,slayer,lover,knight,baker,confessor,wretch,plague_doctor,drunk,bombardier,counsellor,puppeteer,baa,puppet
+1 fortune_teller Is #6 or #3 Evil?: True
+2 enlightened Closest Evil is: Clockwise
+3 baker I was a Knight
+4 knight
+5 bishop Between #7, #3, #4 there is: Outcast, Villager and Minion
+6 bombardier
+7 slayer I killed Evil at #9
+8 confessor I am Good
+9 #dead baa|lover 2 Evils adjacent to me

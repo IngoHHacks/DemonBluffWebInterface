@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,bard,lover,knitter,medium,dreamer,empress,bombardier,plague_doctor,shaman,minion,pooka
+1 druid
+2 lover NO Evils adjacent to me
+3 knitter There is only 1 pair of Evil
+4 empress One is Evil: #2, #9 or #6
+5 lover NO Evils adjacent to me
+6 medium #2 is a real Lover
+7 dreamer
+8 druid
+9 bombardier

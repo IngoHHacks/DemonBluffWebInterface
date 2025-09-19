@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: enlightened,fortune_teller,druid,bard,hunter,knitter,architect,drunk,wretch,bombardier,twin_minion,lilis
+1 enlightened Closest Evil is: Counter-clockwise
+2 fortune_teller
+3 druid
+4 architect Right side is more Evil
+6 hunter I am 1 card away from closest Evil
+7 wretch
+[unknown] #killed_by_demon
+8 bard I am 3 cards away from Corrupted character
+9 bombardier

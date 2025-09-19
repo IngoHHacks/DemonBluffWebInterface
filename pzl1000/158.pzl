@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,architect,enlightened,druid,judge,alchemist,knitter,bombardier,doppelganger,minion,poisoner,lilis
+1 baker I was a Baker
+2 bombardier
+3 architect Both sides are equally Evil
+4 enlightened Closest Evil is: Counter-clockwise
+6 judge
+7 druid
+[unknown] #killed_by_demon
+8 alchemist I cured 2 Corruptions
+9 bombardier

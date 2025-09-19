@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: empress,scout,alchemist,architect,judge,knitter,wretch,bombardier,drunk,witch,baa
+1 alchemist I cured 0 Corruptions
+2 bombardier
+3 architect Left side is more Evil
+4 judge
+5 empress One is Evil: #2, #4 or #1
+6 scout Witch is 2 cards away from closest Evil
+[unknown]

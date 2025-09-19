@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,witness,fortune_teller,scout,architect,empress,oracle,alchemist,bombardier,plague_doctor,wretch,minion,shaman,baa
+1 witness #2 was affected by an Evil
+2 fortune_teller Is #8 or #3 Evil?: True
+3 empress One is Evil: #4, #8 or #5
+4 scout Minion is 1 card away from closest Evil
+5 bombardier
+6 alchemist I cured 0 Corruptions
+7 oracle #2 or #1 is a Minion
+8 scout Shaman is 1 card away from closest Evil
+9 judge #6 is Lying

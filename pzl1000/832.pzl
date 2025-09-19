@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: gemcrafter,confessor,jester,empress,alchemist,knight,bard,medium,bombardier,drunk,plague_doctor,minion,twin_minion,baa
+1 bard I am 3 cards away from Corrupted character
+2 jester Among: #3, #7, #5: There are 2 Evils
+3 gemcrafter #9 is Good
+4 alchemist I cured 2 Corruptions
+5 empress One is Evil: #10, #3 or #4
+6 confessor I am dizzy
+7 medium #5 is a real Empress
+8 alchemist I cured 2 Corruptions
+9 knight
+10 confessor I am Good

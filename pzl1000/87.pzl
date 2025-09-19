@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: baker,dreamer,knitter,jester,bishop,doppelganger,wretch,pooka
+1 jester
+2 jester
+3 knitter There is only 1 pair of Evil
+4 dreamer
+5 bishop Between #2, #3, #4 there is: Demon, Outcast and Villager
+6 baker I am the original Baker

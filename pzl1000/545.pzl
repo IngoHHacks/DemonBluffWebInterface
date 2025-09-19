@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,poet,baker,oracle,empress,drunk,bombardier,doppelganger,minion,baa
+1 bombardier
+2 empress One is Evil: #1, #7 or #3
+3 architect Both sides are equally Evil
+4 baker I am the original Baker
+5 baker I was an Oracle
+6 baker I was a Baker
+7 baker I was a Poet

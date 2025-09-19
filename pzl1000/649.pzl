@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: alchemist,fortune_teller,lover,confessor,slayer,wretch,drunk,pooka
+1 wretch
+2 alchemist I cured 2 Corruptions
+3 slayer I killed Evil at #5
+4 confessor I am Good
+6 #dead pooka|lover 1 Evil adjacent to me
+6 fortune_teller Is #5 or #3 Evil?: True

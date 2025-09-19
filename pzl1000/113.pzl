@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,gemcrafter,alchemist,knight,jester,dreamer,lover,wretch,plague_doctor,puppeteer,pooka,puppet
+1 gemcrafter #8 is Good
+2 plague_doctor
+3 knight
+4 dreamer
+5 oracle #4 or #8 is a Puppeteer
+6 jester
+7 alchemist I cured 0 Corruptions
+8 lover 1 Evil adjacent to me

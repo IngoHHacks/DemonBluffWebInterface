@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: architect,alchemist,medium,judge,druid,slayer,doppelganger,wretch,bombardier,poisoner,lilis
+1 medium #4 is a real Judge
+2 druid
+3 wretch
+4 judge
+6 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 slayer
+8 architect Left side is more Evil
+9 slayer

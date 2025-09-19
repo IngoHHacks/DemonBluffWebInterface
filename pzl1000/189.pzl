@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: poet,bishop,fortune_teller,gemcrafter,baker,slayer,architect,hunter,bombardier,drunk,wretch,counsellor,puppeteer,lilis,puppet
+1 bishop Between #8, #7, #3 there is: Villager, Outcast and Minion
+2 gemcrafter #5 is Good
+3 bombardier
+4 wretch
+6 bishop Between #9, #10, #8 there is: Villager, Outcast and Minion
+7 poet #9 or #8 is a Counsellor
+8 baker I was a Baker
+9 slayer
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

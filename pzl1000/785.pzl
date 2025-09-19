@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: dreamer,enlightened,knitter,baker,slayer,hunter,alchemist,plague_doctor,wretch,doppelganger,puppeteer,twin_minion,lilis,puppet
+10 #dead lilis|enlightened Closest Evil is: Clockwise
+2 baker I am the original Baker
+3 baker I was a Hunter
+4 wretch
+6 baker I was a Knitter
+7 baker I was a Dreamer
+[unknown] #killed_by_demon
+8 slayer I killed Evil at #1
+9 baker I was a Dreamer
+[unknown] #killed_by_demon #hidden_evil

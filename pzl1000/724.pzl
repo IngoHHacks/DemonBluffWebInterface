@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: witness,fortune_teller,slayer,medium,baker,empress,jester,hunter,confessor,bombardier,drunk,wretch,counsellor,poisoner,lilis
+1 slayer I couldn't kill #3
+2 baker I was a Slayer
+3 witness #8 was affected by an Evil
+4 empress One is Evil: #5, #1 or #6
+6 confessor I am Good
+7 medium #9 is a real Medium
+[unknown] #killed_by_demon
+8 jester Among: #4, #2, #1: There are 3 Evils
+9 medium #6 is a real Medium
+[unknown] #killed_by_demon

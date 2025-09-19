@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,witness,enlightened,knight,druid,fortune_teller,drunk,plague_doctor,witch,pooka
+1 enlightened Closest Evil is: Clockwise
+2 plague_doctor
+3 druid
+4 fortune_teller
+5 plague_doctor
+6 witness #2 was affected by an Evil
+7 knight
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: medium,witness,bard,baker,hunter,confessor,oracle,dreamer,plague_doctor,bombardier,puppeteer,witch,lilis,puppet
+1 baker I am the original Baker
+2 confessor I am Good
+3 bard There are no Corrupted characters
+4 medium #7 is a real Oracle
+6 bombardier
+7 dreamer #3 could be: Witch
+8 oracle #9 or #5 is a Puppeteer
+[unknown]
+[unknown] #killed_by_demon

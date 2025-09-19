@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: fortune_teller,oracle,bishop,knight,alchemist,hunter,plague_doctor,wretch,pooka
+1 fortune_teller Is #6 or #7 Evil?: False
+2 wretch
+3 knight
+4 hunter I am 3 cards away from closest Evil
+5 alchemist I cured 1 Corruption
+6 oracle #7 or #6 is a Puppeteer
+7 bishop Between #2, #4 there is: Minion and Villager

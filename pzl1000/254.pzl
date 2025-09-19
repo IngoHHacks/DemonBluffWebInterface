@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: slayer,architect,baker,confessor,alchemist,bishop,druid,knight,wretch,bombardier,plague_doctor,drunk,counsellor,minion,baa
+1 architect Both sides are equally Evil
+2 knight
+3 baker I am the original Baker
+4 knight
+5 baker I was a Slayer
+6 bishop Between #2, #1, #10 there is: Villager, Minion and Outcast
+7 baker I was an Alchemist
+8 wretch
+9 druid
+10 plague_doctor

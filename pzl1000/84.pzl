@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: alchemist,architect,poet,bishop,knitter,judge,hunter,jester,drunk,plague_doctor,shaman,witch,lilis
+1 hunter I am 1 card away from closest Evil
+2 bishop Between #4, #6, #3 there is: Minion, Villager and Outcast
+3 plague_doctor
+4 poet #2 is Evil
+6 bishop Between #5, #1, #6 there is: Minion, Outcast and Villager
+[unknown] #killed_by_demon
+7 knitter There is only 1 pair of Evil
+8 architect Left side is more Evil
+[unknown]

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: baker,dreamer,jester,architect,fortune_teller,lover,drunk,bombardier,doppelganger,wretch,counsellor,baa
+1 jester Among: #5, #7, #2: There is 1 Evil
+2 dreamer #6 could be: Counsellor
+3 architect Left side is more Evil
+4 lover 1 Evil adjacent to me
+5 fortune_teller Is #3 or #7 Evil?: False
+6 wretch
+7 jester Among: #2, #1, #6: There are 2 Evils

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,slayer,oracle,bard,druid,confessor,plague_doctor,doppelganger,twin_minion,pooka
+1 oracle #4 or #1 is a Twin Minion
+2 confessor I am Good
+3 confessor I am Good
+4 slayer I couldn't kill #6
+5 architect Right side is more Evil
+6 bard I am 2 cards away from Corrupted character
+7 slayer I couldn't kill #8
+8 druid Among #4, #2, #7 there are NO Outcasts

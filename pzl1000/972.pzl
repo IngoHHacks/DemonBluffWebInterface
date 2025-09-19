@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,hunter,slayer,gemcrafter,knight,oracle,bombardier,wretch,plague_doctor,minion,baa
+1 hunter I am 2 cards away from closest Evil
+2 oracle #3 or #8 is a Minion
+3 gemcrafter #7 is Good
+4 enlightened Closest Evil is: Counter-clockwise
+5 gemcrafter #3 is Good
+6 slayer I killed Evil at #7
+8 #dead baa|knight
+8 plague_doctor #3 is Evil #5 is Corrupted

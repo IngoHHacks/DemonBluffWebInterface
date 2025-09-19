@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: empress,druid,confessor,medium,baker,alchemist,knight,drunk,wretch,puppeteer,pooka,puppet
+1 empress One is Evil: #6, #5 or #3
+2 medium #1 is a real Empress
+3 alchemist I cured 1 Corruption
+4 druid Among #3, #5, #1 there is: Drunk
+5 baker I am the original Baker
+6 baker I was a Confessor
+7 baker I was a Knight
+8 confessor I am dizzy

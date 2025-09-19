@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,enlightened,fortune_teller,judge,confessor,architect,druid,dreamer,bombardier,drunk,wretch,poisoner,twin_minion,baa
+1 architect Right side is more Evil
+2 confessor I am Good
+3 judge #5 is Lying
+4 fortune_teller Is #1 or #7 Evil?: True
+5 dreamer #7 could be: Baa
+6 enlightened Closest Evil is equidistant
+7 poet Between #9, #3, #4 there is: Outcast, Villager and Minion
+8 druid Among #9, #4, #2 there is: Drunk
+9 poet #1 is Evil

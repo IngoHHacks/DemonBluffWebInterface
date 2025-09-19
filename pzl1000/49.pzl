@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,judge,druid,architect,knitter,oracle,confessor,doppelganger,wretch,drunk,witch,pooka
+1 druid
+2 druid
+3 confessor I am Good
+4 druid
+5 knitter There is only 1 pair of Evil
+6 jester
+7 judge
+8 architect Left side is more Evil
+[unknown]

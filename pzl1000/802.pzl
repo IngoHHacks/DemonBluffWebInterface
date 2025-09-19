@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: gemcrafter,baker,fortune_teller,scout,architect,bard,druid,wretch,plague_doctor,puppeteer,pooka,puppet
+1 druid Among #3, #5, #2 there is: Wretch
+2 baker I was a Baker
+3 bard I am 1 card away from Corrupted character
+4 scout Pooka is 2 cards away from closest Evil
+5 fortune_teller Is #4 or #2 Evil?: True
+6 architect Right side is more Evil
+7 plague_doctor #1 is Not Corrupted
+8 gemcrafter #3 is Good

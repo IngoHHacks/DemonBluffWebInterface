@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,lover,poet,scout,knitter,gemcrafter,doppelganger,wretch,bombardier,poisoner,minion,baa
+1 gemcrafter #4 is Good
+2 confessor I am dizzy
+3 bombardier
+4 bombardier
+5 scout Baa is 1 card away from closest Evil
+6 gemcrafter #5 is Good
+7 knitter There is only 1 pair of Evil
+8 poet Baa is 1 card away from closest Evil
+9 lover 2 Evils adjacent to me

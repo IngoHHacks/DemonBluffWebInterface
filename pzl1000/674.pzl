@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: baker,enlightened,medium,bard,hunter,doppelganger,wretch,plague_doctor,poisoner,baa
+1 enlightened Closest Evil is equidistant
+2 baker I am the original Baker
+3 wretch
+4 bard I am 1 card away from Corrupted character
+5 baker I was a Medium
+6 hunter I am 3 cards away from closest Evil
+7 baker I was a Bard

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: hunter,lover,medium,empress,gemcrafter,slayer,bishop,scout,plague_doctor,doppelganger,puppeteer,minion,pooka,puppet
+1 lover NO Evils adjacent to me
+2 slayer I killed Evil at #9
+3 plague_doctor #2 is Not Corrupted
+4 empress One is Evil: #2, #3 or #8
+5 scout Pooka is 2 cards away from closest Evil
+6 hunter I am 1 card away from closest Evil
+7 bishop Between #7, #8, #1 there is: Outcast, Minion and Villager
+8 medium #9 is a real Gemcrafter
+9 #dead pooka|gemcrafter #5 is Good

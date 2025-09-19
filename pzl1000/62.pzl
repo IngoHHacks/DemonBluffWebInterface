@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: judge,jester,slayer,knight,medium,witness,wretch,plague_doctor,drunk,puppeteer,pooka,puppet
+1 jester
+2 medium #1 is a real Jester
+3 knight
+4 wretch
+5 witness #1 was affected by an Evil
+6 plague_doctor
+7 judge
+8 medium #7 is a real Judge
+9 slayer

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: architect,bishop,dreamer,medium,judge,alchemist,plague_doctor,wretch,bombardier,shaman,lilis
+1 architect Left side is more Evil
+2 architect Left side is more Evil
+3 plague_doctor #8 is Not Corrupted
+4 alchemist I cured 1 Corruption
+6 medium #4 is a real Alchemist
+7 judge #7 is saying Truth
+8 bishop Between #2, #4, #5 there is: Outcast, Minion and Villager
+[unknown] #killed_by_demon
+9 wretch

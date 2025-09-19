@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: witness,knitter,enlightened,gemcrafter,empress,druid,architect,plague_doctor,wretch,doppelganger,bombardier,counsellor,puppeteer,baa,puppet
+1 empress One is Evil: #5, #3 or #8
+2 architect Left side is more Evil
+3 witness #5 was affected by an Evil
+4 gemcrafter #3 is Good
+5 gemcrafter #8 is Good
+6 plague_doctor #5 is Evil #7 is Corrupted
+7 knitter Evils are not adjacent to eachother
+8 bombardier
+9 druid Among #3, #4, #2 there are NO Outcasts

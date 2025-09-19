@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,knitter,enlightened,judge,witness,hunter,plague_doctor,bombardier,drunk,shaman,baa
+1 hunter I am 3 cards away from closest Evil
+2 jester
+3 enlightened Closest Evil is: Counter-clockwise
+4 judge
+5 plague_doctor
+6 witness #7 was affected by an Evil
+7 enlightened Closest Evil is: Counter-clockwise

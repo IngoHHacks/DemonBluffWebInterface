@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,medium,poet,lover,enlightened,baker,bishop,wretch,doppelganger,drunk,bombardier,counsellor,baa
+1 lover NO Evils adjacent to me
+2 bombardier
+3 baker I am the original Baker
+4 bishop Between #2, #6, #8 there is: Outcast, Villager and Minion
+5 baker I am the original Baker
+6 knight
+7 medium #5 is a real Baker
+8 baker I was a Baker

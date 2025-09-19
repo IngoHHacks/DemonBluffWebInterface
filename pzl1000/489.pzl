@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,hunter,lover,jester,fortune_teller,bishop,druid,doppelganger,bombardier,twin_minion,minion,lilis
+1 bishop Between #9, #3, #6 there is: Outcast, Minion and Villager
+2 druid
+3 bombardier
+4 fortune_teller
+6 slayer
+[unknown] #killed_by_demon
+7 jester
+8 hunter I am 4 cards away from closest Evil
+9 lover 2 Evils adjacent to me

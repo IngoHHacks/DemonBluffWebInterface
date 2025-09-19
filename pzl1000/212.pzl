@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,architect,slayer,witness,alchemist,gemcrafter,bard,wretch,doppelganger,drunk,minion,shaman,baa
+1 dreamer
+2 gemcrafter #1 is Good
+3 slayer
+4 bard There are no Corrupted characters
+5 witness #6 was affected by an Evil
+6 architect Right side is more Evil
+7 gemcrafter #9 is Good
+8 architect Left side is more Evil
+9 dreamer

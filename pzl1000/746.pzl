@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,fortune_teller,druid,medium,poet,gemcrafter,bombardier,wretch,plague_doctor,shaman,witch,lilis
+1 wretch
+2 fortune_teller Is #7 or #3 Evil?: True
+3 bombardier
+4 medium #2 is a real Fortune Teller
+6 knight
+7 poet Closest Evil is equidistant
+8 knight
+[unknown]
+[unknown] #killed_by_demon

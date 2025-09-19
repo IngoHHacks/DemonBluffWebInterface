@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: enlightened,confessor,bishop,gemcrafter,architect,oracle,bombardier,wretch,plague_doctor,witch,baa
+1 architect Left side is more Evil
+2 wretch
+3 bishop Between #8, #6 there is: Minion and Villager
+4 oracle #2 or #5 is a Witch
+5 confessor I am Good
+6 bishop Between #3, #7, #5 there is: Villager, Minion and Outcast
+7 gemcrafter #8 is Good
+[unknown]

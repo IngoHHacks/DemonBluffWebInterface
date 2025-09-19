@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: scout,jester,knitter,empress,architect,alchemist,medium,oracle,wretch,bombardier,twin_minion,poisoner,lilis
+1 jester
+2 knitter There is only 1 pair of Evil
+3 oracle #5 or #6 is a Poisoner
+4 bombardier
+6 medium #1 is a real Jester
+7 empress One is Evil: #1, #5 or #2
+8 scout Lilis is 1 card away from closest Evil
+9 architect Right side is more Evil
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

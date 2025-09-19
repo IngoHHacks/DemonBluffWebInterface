@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: knight,gemcrafter,scout,slayer,jester,enlightened,empress,bombardier,doppelganger,drunk,shaman,lilis
+1 gemcrafter #4 is Good
+2 knight
+3 empress One is Evil: #1, #5 or #2
+4 bombardier
+6 jester
+7 slayer
+8 empress One is Evil: #1, #6 or #9
+[unknown] #killed_by_demon
+9 scout Lilis is 3 cards away from closest Evil

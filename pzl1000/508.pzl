@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: hunter,alchemist,confessor,knitter,oracle,bard,slayer,poet,dreamer,drunk,plague_doctor,minion,shaman,lilis
+1 knitter There is only 1 pair of Evil
+2 poet #4 is Evil
+3 oracle #9 or #1 is a Shaman
+4 alchemist I cured 1 Corruption
+6 plague_doctor #7 is Not Corrupted
+7 dreamer #4 could be: Lilis
+[unknown] #killed_by_demon
+8 hunter I am 3 cards away from closest Evil
+9 knitter There is only 1 pair of Evil
+[unknown] #killed_by_demon

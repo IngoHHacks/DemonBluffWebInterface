@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,judge,empress,scout,jester,confessor,drunk,bombardier,plague_doctor,twin_minion,baa
+2 scout Baa is 3 cards away from closest Evil
+3 confessor I am dizzy
+4 jester
+5 medium #3 is a real Jester
+[unknown] #killed_by_demon
+6 judge
+7 judge
+8 confessor I am dizzy

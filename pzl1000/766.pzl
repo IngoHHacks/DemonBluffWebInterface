@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,slayer,dreamer,knitter,scout,enlightened,plague_doctor,drunk,poisoner,pooka
+1 enlightened Closest Evil is: Clockwise
+2 scout Pooka is 3 cards away from closest Evil
+3 knitter Evils are not adjacent to eachother
+4 slayer I couldn't kill #2
+5 dreamer #2 could be: Pooka
+6 dreamer #5 could be: Poisoner
+7 knight
+8 enlightened Closest Evil is: Clockwise

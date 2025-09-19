@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,bard,alchemist,oracle,confessor,empress,fortune_teller,doppelganger,wretch,plague_doctor,bombardier,counsellor,baa
+1 oracle #2 or #3 is a Counsellor
+2 confessor I am Good
+3 baker I was an Alchemist
+4 bombardier
+5 plague_doctor
+6 empress One is Evil: #5, #2 or #4
+7 alchemist I cured 2 Corruptions
+8 bard I am 2 cards away from Corrupted character

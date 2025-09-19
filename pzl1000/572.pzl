@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,empress,knitter,judge,bard,witness,architect,drunk,doppelganger,wretch,minion,baa
+1 architect Right side is more Evil
+2 bard I am 1 card away from Corrupted character
+3 bishop Between #1, #4, #8 there is: Villager, Outcast and Minion
+4 architect Right side is more Evil
+5 empress One is Evil: #8, #7 or #4
+6 knitter There is only 1 pair of Evil
+7 judge #1 is Lying
+8 witness NO character was affected by an Evil

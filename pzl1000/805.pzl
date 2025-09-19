@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,alchemist,medium,druid,slayer,fortune_teller,bombardier,plague_doctor,wretch,puppeteer,lilis,puppet
+1 fortune_teller Is #9 or #7 Evil?: False
+2 druid Among #8, #4, #7 there is: Bombardier
+3 oracle #1 or #8 is a Puppeteer
+4 medium #2 is a real Druid
+6 druid Among #6, #1, #2 there is: Wretch
+7 slayer I couldn't kill #5
+8 bombardier
+9 wretch
+[unknown] #killed_by_demon

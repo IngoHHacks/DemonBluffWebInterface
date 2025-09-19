@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,fortune_teller,knitter,poet,knight,confessor,enlightened,wretch,plague_doctor,doppelganger,bombardier,counsellor,poisoner,baa
+1 baker I was a Baker
+2 enlightened Closest Evil is: Clockwise
+3 confessor I am Good
+4 poet Closest Evil is equidistant
+5 fortune_teller
+6 plague_doctor
+7 knitter Evils are not adjacent to eachother
+8 knight
+9 poet #6 is Good

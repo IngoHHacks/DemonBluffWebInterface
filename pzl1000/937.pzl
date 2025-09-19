@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,judge,slayer,poet,medium,lover,knitter,wretch,bombardier,doppelganger,counsellor,pooka
+1 slayer I killed Evil at #5
+2 bombardier
+3 poet #2 is Good
+4 medium #1 is a real Slayer
+8 #dead counsellor|judge #8 is saying Truth
+6 wretch
+7 empress One is Evil: #2, #1 or #8
+8 lover 2 Evils adjacent to me

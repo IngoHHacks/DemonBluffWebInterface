@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: gemcrafter,architect,judge,fortune_teller,knight,enlightened,baker,bombardier,wretch,drunk,twin_minion,puppeteer,lilis,puppet
+1 baker I was a Knight
+2 judge
+3 baker I am the original Baker
+4 wretch
+6 gemcrafter #4 is Good
+7 baker I was a Fortune Teller
+[unknown] #killed_by_demon
+8 architect Both sides are equally Evil
+9 bombardier
+[unknown] #killed_by_demon

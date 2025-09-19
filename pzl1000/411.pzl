@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,oracle,architect,knight,slayer,confessor,enlightened,doppelganger,wretch,bombardier,counsellor,pooka
+2 gemcrafter #5 is Good
+3 wretch
+4 slayer
+5 enlightened Closest Evil is: Counter-clockwise
+6 enlightened Closest Evil is: Clockwise
+7 confessor I am dizzy
+[unknown] #killed_by_demon
+8 knight

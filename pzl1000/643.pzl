@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: poet,fortune_teller,bishop,jester,dreamer,alchemist,doppelganger,wretch,plague_doctor,puppeteer,baa,puppet
+1 dreamer #3 could be: Baa
+2 poet #1 is a real Dreamer
+3 fortune_teller Is #6 or #1 Evil?: False
+4 jester Among: #7, #5, #2: There is 1 Evil
+5 bishop Between #1, #6 there is: Villager and Minion
+6 alchemist I cured 0 Corruptions
+7 dreamer #5 could be: Baa
+8 wretch

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: enlightened,dreamer,gemcrafter,knight,confessor,wretch,doppelganger,plague_doctor,witch,baa
+1 enlightened Closest Evil is equidistant
+2 gemcrafter #7 is Good
+3 confessor I am Good
+4 dreamer #5 could be: Witch
+5 plague_doctor #1 is Not Corrupted
+6 gemcrafter #4 is Good
+[unknown]

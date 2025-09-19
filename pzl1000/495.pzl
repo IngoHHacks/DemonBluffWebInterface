@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: jester,dreamer,enlightened,gemcrafter,judge,medium,fortune_teller,drunk,bombardier,puppeteer,pooka,puppet
+1 medium #2 is a real Judge
+2 judge
+3 gemcrafter #4 is Good
+4 enlightened Closest Evil is: Counter-clockwise
+5 fortune_teller
+6 dreamer
+7 enlightened Closest Evil is equidistant
+8 jester

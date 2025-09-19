@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: alchemist,bard,judge,gemcrafter,knight,druid,medium,plague_doctor,bombardier,drunk,shaman,lilis
+1 bard I am 2 cards away from Corrupted character
+2 alchemist I cured 0 Corruptions
+3 medium #8 is a real Judge
+4 plague_doctor #2 is Not Corrupted
+6 druid Among #6, #2, #5 there are NO Outcasts
+7 bombardier
+8 knight
+9 judge #6 is saying Truth
+[unknown] #killed_by_demon

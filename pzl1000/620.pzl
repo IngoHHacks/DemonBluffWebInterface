@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,judge,dreamer,poet,hunter,bishop,empress,wretch,doppelganger,plague_doctor,bombardier,counsellor,shaman,baa
+1 judge #6 is Lying
+2 bishop Between #1, #5, #3 there is: Villager, Outcast and Minion
+3 empress One is Evil: #1, #6 or #7
+4 bishop Between #1, #9, #3 there is: Outcast, Minion and Villager
+5 empress One is Evil: #9, #1 or #8
+6 plague_doctor #4 is Not Corrupted
+7 knitter Evils are not adjacent to eachother
+8 wretch
+9 hunter I am 1 card away from closest Evil

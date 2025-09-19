@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: baker,bishop,bard,lover,confessor,fortune_teller,druid,bombardier,plague_doctor,doppelganger,wretch,counsellor,minion,baa
+1 druid Among #6, #4, #10 there is: Plague Doctor
+2 bombardier
+3 bard I am 4 cards away from Corrupted character
+4 lover 1 Evil adjacent to me
+5 baker I was a Bishop
+6 plague_doctor #4 is Not Corrupted
+7 bishop Between #1, #7, #3 there is: Villager, Outcast and Minion
+8 fortune_teller Is #3 or #5 Evil?: True
+9 wretch
+10 bombardier

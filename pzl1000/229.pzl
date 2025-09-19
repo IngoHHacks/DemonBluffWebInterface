@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,knight,lover,scout,bard,enlightened,gemcrafter,bombardier,plague_doctor,puppeteer,pooka,puppet
+1 bard I am 3 cards away from Corrupted character
+2 gemcrafter #7 is Good
+3 knight
+4 oracle #5 or #6 is a Puppeteer
+5 plague_doctor
+6 enlightened Closest Evil is: Clockwise
+7 lover 1 Evil adjacent to me
+8 scout Puppet is 3 cards away from closest Evil

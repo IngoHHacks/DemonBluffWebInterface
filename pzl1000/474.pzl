@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: dreamer,hunter,architect,baker,alchemist,jester,wretch,bombardier,doppelganger,minion,pooka
+1 architect Both sides are equally Evil
+2 hunter I am 4 cards away from closest Evil
+3 hunter I am 1 card away from closest Evil
+4 alchemist I cured 1 Corruption
+5 baker I am the original Baker
+6 dreamer
+7 bombardier
+8 baker I was a Jester
+9 wretch

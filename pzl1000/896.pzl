@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,poet,architect,lover,gemcrafter,bard,wretch,bombardier,plague_doctor,witch,lilis
+1 architect Right side is more Evil
+2 empress One is Evil: #8, #3 or #1
+3 bombardier
+4 lover 1 Evil adjacent to me
+6 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon
+7 wretch
+8 poet Lilis is 2 cards away from closest Evil
+[unknown]

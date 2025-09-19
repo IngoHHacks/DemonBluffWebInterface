@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,baker,lover,scout,knitter,medium,bard,oracle,doppelganger,drunk,puppeteer,lilis,puppet
+1 bard I am 2 cards away from Corrupted character
+2 lover NO Evils adjacent to me
+3 medium #2 is a real Lover
+4 dreamer
+6 scout Puppet is 1 card away from closest Evil
+[unknown] #killed_by_demon
+7 baker I was a Baker
+8 oracle #2 or #6 is a Puppeteer

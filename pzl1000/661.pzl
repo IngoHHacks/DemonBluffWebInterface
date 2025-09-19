@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,hunter,fortune_teller,enlightened,slayer,knitter,druid,drunk,doppelganger,shaman,pooka
+1 gemcrafter #7 is Good
+2 fortune_teller Is #8 or #3 Evil?: True
+3 hunter I am 2 cards away from closest Evil
+4 slayer I couldn't kill #4
+5 enlightened Closest Evil is: Clockwise
+6 hunter I am 1 card away from closest Evil
+7 gemcrafter #1 is Good
+8 knitter There is only 1 pair of Evil

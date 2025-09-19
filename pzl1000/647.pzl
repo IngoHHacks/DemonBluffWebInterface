@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: hunter,dreamer,confessor,knitter,slayer,empress,bombardier,doppelganger,wretch,puppeteer,baa,puppet
+1 hunter I am 1 card away from closest Evil
+2 dreamer #4 could be: Puppeteer
+3 slayer I couldn't kill #7
+4 knitter There is only 1 pair of Evil
+5 confessor I am Good
+6 empress One is Evil: #3, #4 or #7
+7 slayer I couldn't kill #5

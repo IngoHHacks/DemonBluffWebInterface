@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: bard,alchemist,scout,lover,fortune_teller,empress,judge,slayer,drunk,bombardier,plague_doctor,puppeteer,lilis,puppet
+1 fortune_teller
+2 judge
+3 bard I am 4 cards away from Corrupted character
+4 plague_doctor
+6 lover NO Evils adjacent to me
+7 scout Puppet is 1 card away from closest Evil
+8 slayer
+[unknown] #killed_by_demon
+9 empress One is Evil: #8, #7 or #1

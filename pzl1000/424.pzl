@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: alchemist,dreamer,scout,confessor,empress,bombardier,drunk,wretch,doppelganger,puppeteer,baa,puppet
+1 alchemist
+2 empress One is Evil: #8, #7 or #5
+3 scout
+4 confessor I am dizzy
+5 scout
+6 wretch
+7 alchemist I cured 0 Corruptions
+8 dreamer

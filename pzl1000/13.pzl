@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,architect,jester,scout,knight,enlightened,druid,wretch,plague_doctor,witch,minion,pooka
+1 scout Pooka is 2 cards away from closest Evil
+2 plague_doctor
+3 druid
+4 enlightened Closest Evil is: Counter-clockwise
+5 jester
+6 architect Right side is more Evil
+7 druid
+8 plague_doctor
+9 baker I was a Knight
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,baker,empress,bishop,fortune_teller,architect,wretch,plague_doctor,twin_minion,minion,pooka
+1 empress One is Evil: #3, #4 or #7
+2 enlightened Closest Evil is equidistant
+3 bishop Between #9, #3, #5 there is: Minion, Outcast and Villager
+4 baker I am the original Baker
+5 bishop Between #3, #7, #2 there is: Villager, Minion and Outcast
+6 enlightened Closest Evil is: Clockwise
+7 baker I was an Enlightened
+8 fortune_teller Is #1 or #4 Evil?: True
+9 plague_doctor #6 is Evil #1 is Corrupted

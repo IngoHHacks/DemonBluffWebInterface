@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: slayer,architect,bard,bishop,scout,dreamer,hunter,drunk,doppelganger,bombardier,minion,pooka
+1 bard I am 1 card away from Corrupted character
+2 hunter I am 3 cards away from closest Evil
+3 bishop Between #8, #1, #2 there is: Outcast, Minion and Villager
+4 bombardier
+5 slayer I couldn't kill #1
+6 architect Both sides are equally Evil
+7 bishop Between #1, #9, #6 there is: Minion, Villager and Outcast
+8 scout Pooka is 4 cards away from closest Evil
+9 dreamer #2 could be: Minion

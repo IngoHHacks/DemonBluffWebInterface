@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,slayer,bishop,jester,scout,hunter,wretch,drunk,minion,pooka
+2 enlightened Closest Evil is equidistant
+3 jester
+4 jester
+5 hunter I am 4 cards away from closest Evil
+6 scout Minion is 3 cards away from closest Evil
+7 slayer
+[unknown] #killed_by_demon
+8 bishop Between #8, #7 there is: Villager and Minion

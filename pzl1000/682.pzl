@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,lover,bard,druid,empress,slayer,bombardier,wretch,doppelganger,shaman,baa
+1 baker I am the original Baker
+2 druid Among #8, #4, #1 there is: Doppelganger
+3 lover 1 Evil adjacent to me
+4 empress One is Evil: #8, #3 or #7
+5 baker I was an Empress
+6 bard I am 2 cards away from Corrupted character
+7 wretch
+8 baker I was a Druid

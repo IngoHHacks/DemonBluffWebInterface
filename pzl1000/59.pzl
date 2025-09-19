@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: gemcrafter,scout,hunter,knight,architect,baker,dreamer,plague_doctor,doppelganger,witch,pooka
+1 scout Witch is 1 card away from closest Evil
+2 baker I am the original Baker
+3 baker I was an Architect
+4 dreamer
+5 knight
+6 scout Pooka is 4 cards away from closest Evil
+7 baker I was a Baker
+[unknown]

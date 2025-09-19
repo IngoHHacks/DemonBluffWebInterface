@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,knight,medium,lover,empress,jester,bombardier,doppelganger,plague_doctor,twin_minion,minion,lilis
+1 bombardier
+2 slayer
+3 knight
+4 jester
+6 lover NO Evils adjacent to me
+7 empress One is Evil: #9, #4 or #3
+[unknown] #killed_by_demon
+8 knight
+9 medium #6 is a real Empress

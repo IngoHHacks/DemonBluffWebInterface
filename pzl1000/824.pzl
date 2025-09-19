@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,gemcrafter,bishop,alchemist,oracle,scout,poet,hunter,medium,bombardier,drunk,twin_minion,poisoner,lilis
+1 gemcrafter #6 is Good
+2 lover 2 Evils adjacent to me
+3 poet #5 is Good
+4 medium #7 is a real Oracle
+6 oracle #1 or #6 is a Twin Minion
+7 scout Twin Minion is 2 cards away from closest Evil
+8 oracle #9 or #4 is a Poisoner
+[unknown] #killed_by_demon
+9 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon

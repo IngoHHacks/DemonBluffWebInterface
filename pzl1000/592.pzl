@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,oracle,baker,hunter,jester,medium,drunk,doppelganger,wretch,bombardier,twin_minion,baa
+1 knight
+2 oracle #4 or #2 is a Twin Minion
+3 baker I was a Knight
+4 jester Among: #6, #8, #2: There is 1 Evil
+5 knight
+6 baker I was a Medium
+7 hunter I am 1 card away from closest Evil
+8 medium #2 is a real Drunk

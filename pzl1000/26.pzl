@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,knitter,bard,poet,medium,jester,druid,lover,bombardier,drunk,witch,twin_minion,lilis
+2 bard There are no Corrupted characters
+3 bombardier
+4 judge
+[unknown] #killed_by_demon
+5 lover NO Evils adjacent to me
+7 jester
+[unknown] #killed_by_demon
+8 medium #3 is a real Judge
+9 knitter Evils are not adjacent to eachother
+[unknown]

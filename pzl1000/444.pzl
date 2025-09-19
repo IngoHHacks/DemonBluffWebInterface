@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,knight,fortune_teller,architect,empress,scout,lover,bombardier,drunk,twin_minion,lilis
+2 empress One is Evil: #4, #7 or #2
+3 architect Right side is more Evil
+4 dreamer
+5 fortune_teller
+7 empress One is Evil: #2, #7 or #3
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon
+8 scout Lilis is 2 cards away from closest Evil

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: alchemist,hunter,poet,medium,lover,bishop,architect,bombardier,drunk,wretch,twin_minion,lilis
+1 alchemist I cured 0 Corruptions
+2 hunter I am 1 card away from closest Evil
+3 wretch
+4 architect Left side is more Evil
+6 medium #1 is a real Alchemist
+7 lover 1 Evil adjacent to me
+8 bishop Between #4, #1, #6 there is: Minion, Villager and Outcast
+9 poet Closest Evil is equidistant
+[unknown] #killed_by_demon

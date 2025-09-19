@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: lover,jester,enlightened,confessor,scout,gemcrafter,poet,doppelganger,bombardier,drunk,wretch,counsellor,baa
+1 lover 1 Evil adjacent to me
+2 enlightened Closest Evil is: Counter-clockwise
+3 scout Baa is 1 card away from closest Evil
+4 enlightened Closest Evil is: Clockwise
+5 poet #2 is Evil
+6 confessor I am Good
+7 jester Among: #4, #1, #8: There are 2 Evils
+8 wretch

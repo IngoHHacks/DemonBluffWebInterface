@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,confessor,judge,knitter,gemcrafter,oracle,poet,drunk,bombardier,poisoner,pooka
+1 oracle #2 or #6 is a Poisoner
+2 knitter There is only 1 pair of Evil
+3 poet There is only 1 pair of Evil
+4 jester Among: #2, #1, #8: There are 0 Evils
+5 confessor I am Good
+6 judge #5 is saying Truth
+7 gemcrafter #6 is Good
+8 confessor I am dizzy

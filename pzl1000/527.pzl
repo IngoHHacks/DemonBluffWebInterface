@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,knight,bishop,fortune_teller,jester,bard,bombardier,doppelganger,witch,pooka
+1 bard There are no Corrupted characters
+2 knight
+3 fortune_teller Is #4 or #8 Evil?: False
+4 bard There are no Corrupted characters
+5 bishop Between #5, #7, #2 there is: Villager, Minion and Outcast
+6 jester Among: #2, #7, #1: There is 1 Evil
+7 scout Pooka is 3 cards away from closest Evil
+[unknown]

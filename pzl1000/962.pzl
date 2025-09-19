@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: dreamer,hunter,alchemist,medium,slayer,bishop,doppelganger,wretch,plague_doctor,puppeteer,minion,baa,puppet
+1 dreamer #6 could be: Puppeteer
+2 slayer I couldn't kill #4
+3 hunter I am 1 card away from closest Evil
+4 plague_doctor #2 is Evil #9 is Corrupted
+5 medium #4 is a real Plague Doctor
+6 bishop Between #9, #3, #5 there is: Outcast, Villager and Minion
+7 bishop Between #9, #3, #5 there is: Outcast, Villager and Minion
+8 dreamer #1 could be: Puppeteer
+9 alchemist I cured 2 Corruptions

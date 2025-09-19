@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: enlightened,oracle,medium,druid,architect,wretch,plague_doctor,pooka
+1 architect Left side is more Evil
+2 medium #3 is a real Enlightened
+3 enlightened Closest Evil is: Clockwise
+4 plague_doctor #6 is Not Corrupted
+5 oracle There are no minions
+6 druid Among #4, #2, #1 there is: Plague Doctor

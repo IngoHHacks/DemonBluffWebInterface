@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: lover,jester,judge,oracle,dreamer,plague_doctor,bombardier,pooka
+1 jester
+2 judge
+3 lover NO Evils adjacent to me
+4 bombardier
+5 oracle There are no minions
+6 dreamer

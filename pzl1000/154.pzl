@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: baker,dreamer,druid,jester,poet,empress,hunter,plague_doctor,drunk,witch,minion,pooka
+1 poet One is Evil: #5, #7 or #8
+2 empress One is Evil: #6, #9 or #7
+3 druid
+4 plague_doctor
+5 baker I am the original Baker
+6 empress One is Evil: #7, #8 or #2
+7 jester
+8 baker I was a Hunter
+[unknown]

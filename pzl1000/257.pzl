@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: judge,dreamer,bishop,poet,confessor,baker,wretch,drunk,bombardier,puppeteer,witch,lilis,puppet
+1 bombardier
+2 poet Between #6, #3 there is: Villager and Minion
+3 wretch
+4 judge
+6 baker I am the original Baker
+[unknown] #killed_by_demon
+7 bombardier
+8 bishop Between #3, #5 there is: Minion and Villager
+[unknown]

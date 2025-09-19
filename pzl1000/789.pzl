@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: scout,bard,medium,architect,poet,jester,drunk,bombardier,pooka
+1 poet One is Evil: #3, #4 or #6
+2 architect Left side is more Evil
+3 bard I am 2 cards away from Corrupted character
+4 scout There is only 1 Evil
+5 jester Among: #2, #7, #1: There is 1 Evil
+6 medium #6 is a real Medium
+7 bombardier

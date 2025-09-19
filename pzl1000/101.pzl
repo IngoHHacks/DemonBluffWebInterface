@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,confessor,bard,dreamer,poet,slayer,gemcrafter,baker,doppelganger,drunk,witch,pooka
+1 architect Both sides are equally Evil
+2 slayer
+3 gemcrafter #7 is Good
+4 baker I am the original Baker
+5 confessor I am Good
+6 poet I am 2 cards away from Corrupted character
+7 baker I was a Bard
+[unknown]

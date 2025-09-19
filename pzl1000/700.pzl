@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: enlightened,lover,knight,medium,dreamer,bishop,drunk,wretch,bombardier,shaman,baa
+1 dreamer #7 could be: Shaman
+2 knight
+3 wretch
+4 medium #1 is a real Dreamer
+5 enlightened Closest Evil is: Clockwise
+6 lover 1 Evil adjacent to me
+7 dreamer #5 could be: Baa

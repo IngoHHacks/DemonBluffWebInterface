@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: architect,confessor,knitter,judge,enlightened,scout,plague_doctor,bombardier,pooka
+1 enlightened Closest Evil is: Counter-clockwise
+2 bombardier
+3 judge #2 is saying Truth
+4 confessor I am Good
+5 knitter There is only 1 pair of Evil
+6 scout Pooka is 2 cards away from closest Evil
+7 architect Right side is more Evil

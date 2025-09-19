@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,poet,gemcrafter,fortune_teller,hunter,knitter,doppelganger,plague_doctor,witch,minion,lilis
+1 plague_doctor #4 is Not Corrupted
+2 oracle #9 or #1 is a Witch
+3 hunter I am 1 card away from closest Evil
+4 oracle #4 or #5 is a Witch
+6 poet Lilis is 1 card away from closest Evil
+7 gemcrafter #8 is Good
+8 poet #5 is Good
+[unknown] #killed_by_demon
+[unknown]

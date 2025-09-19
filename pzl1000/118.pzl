@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: medium,baker,empress,bard,knight,scout,plague_doctor,bombardier,puppeteer,lilis,puppet
+1 empress One is Evil: #4, #2 or #7
+2 medium #3 is a real Bombardier
+3 bombardier
+4 knight
+[unknown] #killed_by_demon
+6 scout Lilis is 1 card away from closest Evil
+7 knight
+8 baker I was a Knight

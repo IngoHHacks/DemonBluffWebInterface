@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: jester,medium,hunter,gemcrafter,bishop,knitter,lover,wretch,plague_doctor,puppeteer,pooka,puppet
+1 knitter There are 3 pairs of Evil
+2 medium #4 is a real Bishop
+3 lover 2 Evils adjacent to me
+4 bishop Between #7, #1, #8 there is: Minion, Outcast and Villager
+5 gemcrafter #8 is Good
+6 wretch
+7 hunter I am 1 card away from closest Evil
+8 jester Among: #7, #1, #2: There are 0 Evils

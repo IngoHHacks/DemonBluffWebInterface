@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,dreamer,knight,bishop,lover,witness,wretch,plague_doctor,shaman,lilis
+1 lover 2 Evils adjacent to me
+2 alchemist I cured 0 Corruptions
+3 lover NO Evils adjacent to me
+4 bishop Between #2, #5 there is: Minion and Villager
+6 wretch
+7 witness #8 was affected by an Evil
+8 dreamer #4 could be: Lilis
+[unknown] #killed_by_demon

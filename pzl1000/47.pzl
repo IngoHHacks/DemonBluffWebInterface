@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knitter,slayer,baker,empress,gemcrafter,poet,drunk,plague_doctor,witch,pooka
+2 knitter There is only 1 pair of Evil
+3 slayer
+4 empress One is Evil: #1, #4 or #6
+5 baker I am the original Baker
+[unknown] #killed_by_demon
+6 baker I was an Empress
+7 poet #4 or #7 is a Witch
+[unknown]

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: slayer,jester,druid,bard,oracle,poet,knitter,fortune_teller,bombardier,plague_doctor,puppeteer,minion,lilis
+1 oracle #4 or #10 is a Minion
+2 fortune_teller Is #3 or #10 Evil?: False
+3 bard There are no Corrupted characters
+4 jester Among: #5, #1, #8: There are 2 Evils
+6 knitter There are 2 pairs of Evil
+7 oracle #2 or #10 is a Puppeteer
+8 bombardier
+9 druid Among #10, #8, #5 there are NO Outcasts
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

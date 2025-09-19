@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: fortune_teller,gemcrafter,knight,medium,bishop,hunter,bard,plague_doctor,bombardier,doppelganger,shaman,minion,lilis
+1 bishop Between #8, #3, #7 there is: Minion, Villager and Outcast
+2 knight
+3 bombardier
+4 bard There are no Corrupted characters
+6 fortune_teller Is #1 or #7 Evil?: True
+7 medium #1 is a real Bishop
+8 plague_doctor #1 is Evil #3 is Corrupted
+[unknown] #killed_by_demon
+9 hunter I am 4 cards away from closest Evil
+[unknown] #killed_by_demon

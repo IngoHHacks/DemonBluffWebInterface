@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: jester,confessor,alchemist,dreamer,scout,bard,empress,oracle,fortune_teller,doppelganger,bombardier,plague_doctor,minion,poisoner,baa
+1 empress One is Evil: #5, #9 or #6
+2 alchemist I cured 2 Corruptions
+3 fortune_teller Is #9 or #4 Evil?: True
+4 bard There are no Corrupted characters
+5 jester Among: #1, #2, #3: There are 3 Evils
+6 dreamer #8 could be: Poisoner
+7 confessor I am Good
+8 scout Poisoner is 2 cards away from closest Evil
+9 plague_doctor #10 is Not Corrupted
+10 oracle #6 or #5 is a Minion

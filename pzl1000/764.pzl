@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: bishop,baker,knitter,jester,fortune_teller,empress,wretch,doppelganger,pooka
+1 empress One is Evil: #5, #6 or #4
+2 bishop Between #4, #7, #6 there is: Demon, Villager and Outcast
+3 fortune_teller Is #2 or #7 Evil?: True
+4 baker I was a Knitter
+5 knitter There is only 1 pair of Evil
+6 jester Among: #6, #7, #1: There are 0 Evils
+7 jester Among: #1, #6, #3: There are 0 Evils

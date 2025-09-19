@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,lover,judge,knitter,jester,scout,plague_doctor,doppelganger,poisoner,pooka
+1 lover NO Evils adjacent to me
+2 knitter There is only 1 pair of Evil
+3 plague_doctor #6 is Not Corrupted
+4 plague_doctor #7 is Not Corrupted
+5 scout Poisoner is 3 cards away from closest Evil
+6 jester Among: #2, #8, #6: There are 2 Evils
+7 fortune_teller Is #2 or #6 Evil?: False
+8 judge #5 is saying Truth

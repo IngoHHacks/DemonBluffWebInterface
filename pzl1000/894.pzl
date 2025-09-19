@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,medium,dreamer,knight,fortune_teller,bard,empress,doppelganger,bombardier,drunk,poisoner,minion,baa
+1 bard I am 4 cards away from Corrupted character
+2 druid Among #5, #3, #9 there are NO Outcasts
+3 medium #8 is a real Knight
+4 dreamer #7 could be: Poisoner
+5 empress One is Evil: #9, #1 or #7
+6 empress One is Evil: #7, #2 or #9
+7 bombardier
+8 knight
+9 fortune_teller Is #7 or #8 Evil?: True

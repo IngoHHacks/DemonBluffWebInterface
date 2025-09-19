@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: confessor,knitter,enlightened,jester,architect,druid,oracle,drunk,bombardier,plague_doctor,minion,witch,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 architect Right side is more Evil
+3 knitter Evils are not adjacent to eachother
+4 knitter There are 2 pairs of Evil
+5 druid
+6 enlightened Closest Evil is: Clockwise
+7 jester
+8 confessor I am dizzy
+[unknown]

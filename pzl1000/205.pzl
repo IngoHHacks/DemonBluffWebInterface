@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bard,dreamer,jester,alchemist,witness,baker,poet,wretch,drunk,bombardier,doppelganger,counsellor,baa
+1 bard I am 1 card away from Corrupted character
+2 witness #1 was affected by an Evil
+3 dreamer
+4 baker I was an Alchemist
+5 bard I am 3 cards away from Corrupted character
+6 jester
+7 poet There is only 1 pair of Evil

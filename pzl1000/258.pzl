@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: empress,architect,fortune_teller,druid,oracle,hunter,enlightened,wretch,doppelganger,witch,lilis
+1 enlightened Closest Evil is: Clockwise
+2 hunter I am 1 card away from closest Evil
+3 druid
+4 oracle #3 or #4 is a Witch
+6 architect Left side is more Evil
+7 fortune_teller
+[unknown] #killed_by_demon
+[unknown]

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: dreamer,knight,slayer,empress,hunter,fortune_teller,wretch,drunk,bombardier,puppeteer,baa,puppet
+1 slayer I couldn't kill #7
+2 knight
+3 empress One is Evil: #2, #1 or #5
+4 dreamer #6 could be: Puppeteer
+5 fortune_teller Is #7 or #1 Evil?: False
+6 empress One is Evil: #4, #1 or #2
+7 hunter I am 1 card away from closest Evil

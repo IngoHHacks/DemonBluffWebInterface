@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,fortune_teller,medium,architect,jester,gemcrafter,druid,doppelganger,plague_doctor,wretch,bombardier,counsellor,baa
+1 gemcrafter #7 is Good
+2 druid
+3 fortune_teller
+4 wretch
+5 jester
+6 fortune_teller
+7 architect Both sides are equally Evil
+8 medium #6 is a real Fortune Teller

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: alchemist,knitter,medium,jester,baker,fortune_teller,oracle,gemcrafter,plague_doctor,bombardier,twin_minion,minion,pooka
+1 medium #8 is a real Fortune Teller
+2 alchemist I cured 2 Corruptions
+3 gemcrafter #2 is Good
+4 baker I am the original Baker
+5 oracle #8 or #5 is a Twin Minion
+6 bombardier
+7 knitter There is only 1 pair of Evil
+8 fortune_teller Is #3 or #2 Evil?: False
+9 gemcrafter #5 is Good
+10 baker I was a Jester

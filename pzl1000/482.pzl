@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: enlightened,alchemist,medium,slayer,baker,knight,scout,wretch,doppelganger,puppeteer,lilis,puppet
+1 slayer
+2 baker I am the original Baker
+3 scout Lilis is 1 card away from closest Evil
+4 baker I was an Enlightened
+[unknown] #killed_by_demon
+6 knight
+7 alchemist I cured 1 Corruption
+8 medium #6 is a real Knight

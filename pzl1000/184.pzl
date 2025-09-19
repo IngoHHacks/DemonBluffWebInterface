@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,witness,bishop,enlightened,knight,drunk,bombardier,wretch,poisoner,baa
+1 witness #6 was affected by an Evil
+2 architect Both sides are equally Evil
+3 enlightened Closest Evil is: Counter-clockwise
+4 bishop Between #3, #7, #6 there is: Minion, Outcast and Villager
+5 knight
+6 enlightened Closest Evil is: Counter-clockwise
+7 witness #4 was affected by an Evil

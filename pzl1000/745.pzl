@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: oracle,fortune_teller,alchemist,architect,empress,enlightened,dreamer,confessor,plague_doctor,bombardier,twin_minion,minion,pooka
+1 fortune_teller Is #6 or #7 Evil?: True
+2 alchemist I cured 0 Corruptions
+3 empress One is Evil: #4, #9 or #5
+4 dreamer #3 could be: Minion
+5 oracle #8 or #2 is a Minion
+6 confessor I am dizzy
+7 fortune_teller Is #6 or #2 Evil?: False
+8 bombardier
+9 architect Left side is more Evil
+10 enlightened Closest Evil is equidistant

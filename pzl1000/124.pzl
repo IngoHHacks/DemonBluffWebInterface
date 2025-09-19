@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: alchemist,scout,lover,gemcrafter,hunter,bard,empress,drunk,doppelganger,witch,puppeteer,lilis,puppet
+1 gemcrafter #9 is Good
+2 empress One is Evil: #7, #4 or #9
+3 hunter I am 1 card away from closest Evil
+4 lover NO Evils adjacent to me
+6 bard There are no Corrupted characters
+7 gemcrafter #1 is Good
+8 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon
+[unknown]

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,empress,knight,alchemist,fortune_teller,enlightened,doppelganger,wretch,minion,pooka
+2 wretch
+3 alchemist I cured 2 Corruptions
+4 enlightened Closest Evil is: Counter-clockwise
+5 alchemist I cured 1 Corruption
+6 knight
+7 empress One is Evil: #3, #7 or #2
+[unknown] #killed_by_demon
+8 fortune_teller

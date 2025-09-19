@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: empress,judge,slayer,druid,gemcrafter,hunter,bombardier,doppelganger,wretch,twin_minion,lilis
+1 gemcrafter #2 is Good
+2 bombardier
+3 bombardier
+4 empress One is Evil: #6, #5 or #1
+6 slayer I couldn't kill #9
+[unknown] #killed_by_demon
+7 judge #3 is saying Truth
+8 hunter I am 2 cards away from closest Evil
+9 druid Among #3, #2, #6 there is: Bombardier

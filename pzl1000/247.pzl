@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: enlightened,lover,medium,poet,knitter,oracle,doppelganger,bombardier,wretch,plague_doctor,counsellor,baa
+1 medium #4 is a real Doppelganger
+2 bombardier
+3 poet I am 3 cards away from closest Evil
+4 medium #1 is a real Medium
+5 knitter There is only 1 pair of Evil
+6 oracle #7 or #3 is a Counsellor
+7 enlightened Closest Evil is: Counter-clockwise

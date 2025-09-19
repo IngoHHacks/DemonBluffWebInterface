@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,oracle,knight,poet,druid,hunter,wretch,plague_doctor,twin_minion,lilis
+1 poet One is Evil: #3, #6 or #4
+2 knight
+3 druid Among #8, #5, #2 there are NO Outcasts
+4 plague_doctor #6 is Evil #3 is Corrupted
+6 wretch
+7 gemcrafter #8 is Good
+8 oracle #7 or #5 is a Twin Minion
+[unknown] #killed_by_demon

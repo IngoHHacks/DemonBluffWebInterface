@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,druid,empress,lover,poet,fortune_teller,enlightened,bombardier,wretch,plague_doctor,drunk,shaman,counsellor,baa
+1 poet One is Evil: #3, #7 or #8
+2 lover 1 Evil adjacent to me
+3 baker I am the original Baker
+4 baker I was a Baker
+5 wretch
+6 enlightened Closest Evil is: Clockwise
+7 baker I was a Lover
+8 enlightened Closest Evil is: Counter-clockwise
+9 baker I was a Druid

@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: fortune_teller,oracle,scout,judge,bard,empress,plague_doctor,drunk,pooka
+1 scout Pooka is 2 cards away from closest Evil
+2 judge #6 is saying Truth
+3 oracle #6 or #3 is a Twin Minion
+4 empress One is Evil: #6, #2 or #1
+5 bard I am 1 card away from Corrupted character
+6 fortune_teller Is #2 or #1 Evil?: False

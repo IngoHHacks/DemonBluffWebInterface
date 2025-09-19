@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knitter,dreamer,confessor,gemcrafter,enlightened,slayer,poet,wretch,bombardier,doppelganger,puppeteer,witch,baa
+1 slayer
+2 gemcrafter #4 is Good
+3 confessor I am dizzy
+4 enlightened Closest Evil is: Clockwise
+5 confessor I am Good
+6 poet #4 or #8 is a Witch
+7 confessor I am Good
+8 dreamer
+[unknown]

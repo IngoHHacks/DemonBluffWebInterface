@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,lover,confessor,enlightened,empress,hunter,plague_doctor,doppelganger,bombardier,twin_minion,counsellor,lilis
+1 confessor I am dizzy
+2 empress One is Evil: #3, #6 or #5
+3 lover 1 Evil adjacent to me
+4 confessor I am dizzy
+6 scout Lilis is 2 cards away from closest Evil
+7 plague_doctor #8 is Not Corrupted
+8 bombardier
+[unknown] #killed_by_demon
+9 enlightened Closest Evil is: Counter-clockwise

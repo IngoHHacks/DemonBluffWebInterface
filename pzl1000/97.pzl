@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,alchemist,knitter,medium,oracle,judge,doppelganger,drunk,plague_doctor,minion,pooka
+1 plague_doctor
+2 medium #8 is a real Medium
+3 knitter There is only 1 pair of Evil
+4 oracle #1 or #7 is a Minion
+5 judge
+6 jester
+7 alchemist I cured 2 Corruptions
+8 medium #2 is a real Medium

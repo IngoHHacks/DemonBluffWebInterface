@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: architect,dreamer,jester,medium,slayer,scout,judge,doppelganger,drunk,puppeteer,lilis,puppet
+1 jester Among: #8, #7, #2: There are 0 Evils
+2 dreamer #5 could be: Puppet
+3 scout Puppet is 2 cards away from closest Evil
+4 architect Left side is more Evil
+6 medium #2 is a real Dreamer
+7 judge #3 is saying Truth
+8 judge #1 is Lying
+[unknown] #killed_by_demon

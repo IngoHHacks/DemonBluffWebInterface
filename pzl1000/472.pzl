@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: bishop,alchemist,lover,hunter,druid,knight,enlightened,gemcrafter,doppelganger,wretch,poisoner,shaman,lilis
+1 knight
+2 druid
+3 lover 1 Evil adjacent to me
+4 lover 1 Evil adjacent to me
+6 lover NO Evils adjacent to me
+7 enlightened Closest Evil is equidistant
+8 enlightened Closest Evil is: Clockwise
+[unknown] #killed_by_demon
+9 alchemist I cured 2 Corruptions
+[unknown] #killed_by_demon

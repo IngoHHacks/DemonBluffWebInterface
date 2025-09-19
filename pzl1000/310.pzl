@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: witness,bard,slayer,knight,gemcrafter,lover,doppelganger,bombardier,plague_doctor,wretch,puppeteer,witch,baa
+1 bard There are no Corrupted characters
+2 witness NO character was affected by an Evil
+3 knight
+4 gemcrafter #5 is Good
+5 plague_doctor
+6 bombardier
+7 slayer
+8 lover 1 Evil adjacent to me
+[unknown]

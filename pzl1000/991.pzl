@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: medium,dreamer,bishop,confessor,empress,oracle,bombardier,plague_doctor,witch,pooka
+1 confessor I am Good
+2 bombardier
+3 dreamer #4 could be: Pooka
+4 oracle #1 or #8 is a Witch
+5 bishop Between #6, #1, #4 there is: Villager, Outcast and Minion
+6 empress One is Evil: #4, #8 or #2
+7 bishop Between #6, #4, #3 there is: Outcast, Villager and Minion
+[unknown]

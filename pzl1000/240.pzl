@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,bishop,slayer,dreamer,jester,enlightened,doppelganger,plague_doctor,bombardier,poisoner,baa
+1 jester
+2 druid
+3 dreamer
+4 bishop Between #8, #2, #1 there is: Minion, Outcast and Villager
+5 dreamer
+6 slayer
+7 enlightened Closest Evil is: Counter-clockwise
+8 enlightened Closest Evil is: Counter-clockwise

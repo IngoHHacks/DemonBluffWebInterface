@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: hunter,judge,poet,gemcrafter,bard,wretch,doppelganger,plague_doctor,minion,baa
+1 wretch
+2 judge #4 is saying Truth
+3 poet Between #7, #2 there is: Minion and Villager
+4 gemcrafter #2 is Good
+5 hunter I am 3 cards away from closest Evil
+6 bard There are no Corrupted characters
+7 judge #6 is Lying

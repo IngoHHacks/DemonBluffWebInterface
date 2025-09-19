@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: judge,poet,medium,baker,bishop,doppelganger,bombardier,plague_doctor,wretch,counsellor,baa
+1 bishop Between #6, #3, #1 there is: Minion, Outcast and Villager
+2 medium #5 is a real Bishop
+3 plague_doctor
+4 poet I am 1 card away from closest Evil
+5 bishop Between #6, #3, #2 there is: Outcast, Minion and Villager
+6 poet Baa is 1 card away from closest Evil
+7 baker I am the original Baker

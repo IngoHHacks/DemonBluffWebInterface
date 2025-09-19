@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,bishop,alchemist,confessor,baker,scout,drunk,doppelganger,wretch,bombardier,poisoner,baa
+1 scout Poisoner is 1 card away from closest Evil
+2 oracle #5 or #3 is a Poisoner
+3 bishop Between #6, #3, #4 there is: Villager, Minion and Outcast
+4 confessor I am Good
+5 wretch
+6 alchemist I cured 2 Corruptions
+7 bishop Between #2, #1, #7 there is: Outcast, Minion and Villager
+8 baker I was an Oracle

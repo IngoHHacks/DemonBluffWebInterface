@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: judge,witness,confessor,hunter,architect,bombardier,doppelganger,plague_doctor,poisoner,baa
+1 judge
+2 architect Left side is more Evil
+3 architect Right side is more Evil
+4 hunter I am 2 cards away from closest Evil
+5 plague_doctor
+6 confessor I am dizzy
+7 witness #7 was affected by an Evil

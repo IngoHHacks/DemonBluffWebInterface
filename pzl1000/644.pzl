@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,medium,scout,judge,hunter,slayer,alchemist,plague_doctor,wretch,bombardier,doppelganger,poisoner,counsellor,baa
+1 slayer I couldn't kill #8
+2 judge #6 is Lying
+3 plague_doctor #6 is Evil #5 is Corrupted
+4 bombardier
+5 bard There are no Corrupted characters
+6 scout Counsellor is 1 card away from closest Evil
+7 hunter I am 1 card away from closest Evil
+8 slayer I couldn't kill #5
+9 medium #4 is a real Bombardier

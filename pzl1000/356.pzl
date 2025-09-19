@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: poet,knight,scout,fortune_teller,slayer,knitter,alchemist,wretch,bombardier,plague_doctor,poisoner,counsellor,lilis
+1 plague_doctor
+2 plague_doctor
+3 slayer
+4 scout Counsellor is 3 cards away from closest Evil
+6 bombardier
+7 knitter There are 2 pairs of Evil
+8 fortune_teller
+[unknown] #killed_by_demon
+9 bombardier
+[unknown] #killed_by_demon

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: alchemist,baker,bard,hunter,gemcrafter,architect,doppelganger,plague_doctor,wretch,puppeteer,minion,baa,puppet
+2 plague_doctor
+3 bard I am 3 cards away from Corrupted character
+4 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+5 baker I am the original Baker
+6 alchemist I cured 2 Corruptions
+7 baker I was a Baker
+8 gemcrafter #5 is Good
+9 bard I am 3 cards away from Corrupted character

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,knight,enlightened,oracle,scout,architect,dreamer,doppelganger,plague_doctor,poisoner,minion,lilis
+1 bard I am 3 cards away from Corrupted character
+2 enlightened Closest Evil is equidistant
+3 knight
+4 scout Poisoner is 3 cards away from closest Evil
+6 enlightened Closest Evil is: Counter-clockwise
+7 dreamer
+8 bard I am 3 cards away from Corrupted character
+9 architect Right side is more Evil
+[unknown] #killed_by_demon

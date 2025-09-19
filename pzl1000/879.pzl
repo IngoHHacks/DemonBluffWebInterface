@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: jester,knight,baker,medium,bard,slayer,scout,plague_doctor,bombardier,witch,minion,lilis
+1 medium #2 is a real Slayer
+2 slayer I couldn't kill #3
+3 plague_doctor #5 is Evil #2 is Corrupted
+4 scout Lilis is 2 cards away from closest Evil
+6 bard I am 1 card away from Corrupted character
+7 scout Lilis is 2 cards away from closest Evil
+8 knight
+[unknown] #killed_by_demon
+[unknown]

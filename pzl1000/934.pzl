@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: knight,scout,confessor,bard,poet,plague_doctor,doppelganger,pooka
+1 bard I am 2 cards away from Corrupted character
+2 knight
+3 confessor I am Good
+4 knight
+5 scout There is only 1 Evil
+6 poet There are no Corrupted characters

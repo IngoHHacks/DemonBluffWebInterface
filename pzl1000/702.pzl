@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,dreamer,judge,fortune_teller,knitter,enlightened,wretch,drunk,doppelganger,poisoner,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 dreamer #3 could be: Poisoner
+3 enlightened Closest Evil is: Clockwise
+4 fortune_teller Is #6 or #8 Evil?: False
+5 knitter There is only 1 pair of Evil
+6 fortune_teller Is #3 or #1 Evil?: False
+7 poet #5 or #4 is a Poisoner
+8 judge #7 is Lying

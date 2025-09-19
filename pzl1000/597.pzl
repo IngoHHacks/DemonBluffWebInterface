@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,enlightened,knight,bishop,poet,lover,dreamer,bard,drunk,doppelganger,wretch,poisoner,baa
+1 poet Between #7, #4, #6 there is: Minion, Outcast and Villager
+2 lover NO Evils adjacent to me
+3 enlightened Closest Evil is: Clockwise
+4 bishop Between #1, #2, #5 there is: Villager, Outcast and Minion
+5 dreamer #1 could be: Poisoner
+6 jester Among: #4, #3, #8: There are 3 Evils
+7 bard I am 1 card away from Corrupted character
+8 knight

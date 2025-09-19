@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,jester,baker,lover,knitter,witness,scout,doppelganger,bombardier,wretch,drunk,counsellor,witch,baa
+1 lover 1 Evil adjacent to me
+2 witness #4 was affected by an Evil
+3 baker I was a Baker
+4 bombardier
+5 knitter There are 2 pairs of Evil
+6 knight
+7 lover 2 Evils adjacent to me
+8 jester
+[unknown]

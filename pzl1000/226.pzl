@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: hunter,witness,bard,bishop,fortune_teller,knitter,doppelganger,plague_doctor,wretch,shaman,minion,baa
+1 knitter There are 2 pairs of Evil
+2 hunter I am 4 cards away from closest Evil
+3 hunter I am 2 cards away from closest Evil
+4 bishop Between #5, #8, #7 there is: Outcast, Villager and Minion
+5 fortune_teller
+6 bishop Between #9, #7 there is: Villager and Minion
+7 bard There are no Corrupted characters
+8 bishop Between #2, #1 there is: Villager and Minion
+9 wretch

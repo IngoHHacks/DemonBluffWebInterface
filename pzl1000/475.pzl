@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: bishop,lover,oracle,poet,alchemist,dreamer,scout,bombardier,doppelganger,plague_doctor,puppeteer,counsellor,lilis,puppet
+1 bombardier
+2 poet I am 2 cards away from closest Evil
+3 scout Puppeteer is 2 cards away from closest Evil
+4 alchemist I cured 0 Corruptions
+6 lover NO Evils adjacent to me
+7 dreamer
+8 poet There are 2 pairs of Evil
+9 oracle #5 or #4 is a Counsellor
+[unknown] #killed_by_demon

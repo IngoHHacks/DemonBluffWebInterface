@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knitter,oracle,druid,baker,bishop,bombardier,drunk,doppelganger,poisoner,baa
+1 bishop Between #2, #5, #4 there is: Outcast, Villager and Minion
+2 oracle #5 or #4 is a Poisoner
+3 knitter There is only 1 pair of Evil
+4 bishop Between #2, #6, #3 there is: Outcast, Minion and Villager
+5 oracle #5 or #4 is a Poisoner
+6 druid
+7 baker I was a Knitter

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,poet,judge,knitter,knight,alchemist,architect,wretch,plague_doctor,bombardier,doppelganger,counsellor,baa
+1 bard There are no Corrupted characters
+2 alchemist I cured 0 Corruptions
+3 knitter Evils are not adjacent to eachother
+4 wretch
+5 alchemist I cured 0 Corruptions
+6 poet There is only 1 pair of Evil
+7 judge
+8 knight

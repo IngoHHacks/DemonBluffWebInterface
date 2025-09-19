@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: gemcrafter,empress,judge,slayer,confessor,knitter,bombardier,doppelganger,puppeteer,pooka,puppet
+1 judge #6 is Lying
+2 bombardier
+3 gemcrafter #5 is Good
+4 bombardier
+5 confessor I am Good
+6 empress One is Evil: #5, #3 or #8
+7 slayer I couldn't kill #4
+8 knitter Evils are not adjacent to eachother

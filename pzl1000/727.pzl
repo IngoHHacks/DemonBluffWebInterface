@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,hunter,alchemist,confessor,knight,enlightened,bombardier,wretch,shaman,lilis
+1 dreamer #4 could be: Lilis
+2 alchemist I cured 0 Corruptions
+3 bombardier
+4 enlightened Closest Evil is: Clockwise
+6 hunter I am 1 card away from closest Evil
+7 knight
+[unknown] #killed_by_demon
+8 bombardier

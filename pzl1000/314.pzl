@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,bard,knitter,slayer,confessor,architect,enlightened,doppelganger,bombardier,plague_doctor,poisoner,baa
+1 knitter Evils are not adjacent to eachother
+2 bard I am 4 cards away from Corrupted character
+3 architect Left side is more Evil
+4 knitter Evils are not adjacent to eachother
+5 oracle #3 or #4 is a Poisoner
+6 slayer
+7 enlightened Closest Evil is: Clockwise
+8 confessor I am dizzy

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: baker,knight,bard,poet,alchemist,doppelganger,bombardier,wretch,twin_minion,baa
+1 alchemist I cured 0 Corruptions
+2 wretch
+3 knight
+4 poet NO Evils adjacent to me
+5 baker I am the original Baker
+6 knight
+7 bard I am 2 cards away from Corrupted character

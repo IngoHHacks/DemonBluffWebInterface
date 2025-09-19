@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,hunter,bard,dreamer,oracle,medium,bishop,plague_doctor,wretch,doppelganger,counsellor,pooka
+1 wretch
+2 medium #8 is a real Knight
+3 oracle #1 or #3 is a Counsellor
+4 plague_doctor
+5 dreamer
+6 hunter I am 1 card away from closest Evil
+7 bishop Between #7, #6, #2 there is: Outcast, Minion and Villager
+8 knight

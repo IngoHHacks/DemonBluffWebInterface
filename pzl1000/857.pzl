@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: medium,scout,judge,fortune_teller,bishop,knight,architect,doppelganger,bombardier,drunk,puppeteer,pooka,puppet
+1 scout Puppeteer is 1 card away from closest Evil
+2 medium #1 is a real Scout
+3 knight
+4 bishop Between #6, #1, #5 there is: Villager, Outcast and Minion
+5 fortune_teller Is #3 or #6 Evil?: True
+6 judge #7 is saying Truth
+7 scout Pooka is 4 cards away from closest Evil
+8 architect Left side is more Evil
+9 architect Both sides are equally Evil

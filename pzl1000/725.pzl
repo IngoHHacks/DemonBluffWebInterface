@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,baker,bishop,dreamer,alchemist,oracle,witness,wretch,drunk,bombardier,twin_minion,baa
+1 witness #4 was affected by an Evil
+2 baker I am the original Baker
+3 dreamer #8 could be: Baa
+4 baker I was a Bishop
+5 oracle #7 or #4 is a Twin Minion
+6 baker I was an Alchemist
+7 judge #1 is saying Truth
+8 bombardier

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,druid,jester,medium,architect,oracle,fortune_teller,bishop,bombardier,plague_doctor,drunk,counsellor,minion,lilis
+1 oracle #6 or #4 is a Minion
+2 fortune_teller Is #1 or #7 Evil?: True
+3 plague_doctor #5 is Evil #4 is Corrupted
+4 medium #7 is a real Baker
+6 druid Among #8, #2, #4 there is: Drunk
+7 jester Among: #3, #5, #2: There is 1 Evil
+8 baker I was a Jester
+[unknown] #killed_by_demon
+9 bombardier

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knight,alchemist,knitter,scout,enlightened,hunter,slayer,bombardier,doppelganger,wretch,puppeteer,counsellor,lilis,puppet
+1 enlightened Closest Evil is: Clockwise
+2 knight
+3 knight
+4 hunter I am 1 card away from closest Evil
+6 wretch
+7 slayer I couldn't kill #2
+8 knitter There are 3 pairs of Evil
+9 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon

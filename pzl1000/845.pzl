@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: fortune_teller,empress,judge,hunter,dreamer,medium,bombardier,drunk,doppelganger,plague_doctor,twin_minion,baa
+1 plague_doctor #7 is Evil #3 is Corrupted
+2 medium #1 is a real Plague Doctor
+3 empress One is Evil: #7, #8 or #1
+4 dreamer #2 could be: Twin Minion
+5 medium #1 is a real Plague Doctor
+6 judge #2 is Lying
+7 hunter I am 2 cards away from closest Evil
+8 fortune_teller Is #5 or #6 Evil?: True

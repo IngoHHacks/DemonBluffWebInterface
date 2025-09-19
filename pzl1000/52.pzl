@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: confessor,witness,fortune_teller,knight,medium,architect,bard,bombardier,plague_doctor,doppelganger,shaman,puppeteer,baa,puppet
+1 architect Right side is more Evil
+2 confessor I am Good
+3 confessor I am Good
+4 medium #3 is a real Confessor
+5 bombardier
+6 fortune_teller
+7 medium #1 is a real Architect
+8 knight
+9 bard There are no Corrupted characters

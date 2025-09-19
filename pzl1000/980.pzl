@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,confessor,oracle,architect,enlightened,hunter,drunk,bombardier,plague_doctor,shaman,counsellor,lilis
+1 architect Right side is more Evil
+2 confessor I am Good
+3 knight
+4 enlightened Closest Evil is equidistant
+6 knight
+[unknown] #killed_by_demon
+7 hunter I am 2 cards away from closest Evil
+8 hunter I am 3 cards away from closest Evil
+9 bombardier

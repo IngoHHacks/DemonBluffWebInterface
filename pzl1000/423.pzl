@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,judge,confessor,medium,bishop,architect,bard,poet,plague_doctor,bombardier,minion,shaman,lilis
+1 architect Left side is more Evil
+2 lover 2 Evils adjacent to me
+3 judge
+4 architect Left side is more Evil
+6 medium #8 is a real Poet
+7 poet #5 is a real Medium
+8 plague_doctor
+9 poet #10 is Good
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: oracle,architect,knitter,poet,scout,jester,bombardier,plague_doctor,drunk,witch,baa
+1 bombardier
+2 poet 2 Evils adjacent to me
+3 knitter There is only 1 pair of Evil
+4 plague_doctor #6 is Not Corrupted
+5 scout Baa is 1 card away from closest Evil
+6 architect Right side is more Evil
+7 jester Among: #2, #5, #1: There are 0 Evils
+[unknown]

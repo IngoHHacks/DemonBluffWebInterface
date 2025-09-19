@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,lover,medium,enlightened,oracle,baker,hunter,plague_doctor,bombardier,wretch,minion,witch,baa
+1 hunter I am 1 card away from closest Evil
+2 bombardier
+3 baker I am the original Baker
+4 plague_doctor #3 is Evil #8 is Corrupted
+5 lover NO Evils adjacent to me
+6 oracle #10 or #9 is a Minion
+7 medium #1 is a real Hunter
+8 jester Among: #5, #4, #6: There are 2 Evils
+9 wretch
+[unknown]

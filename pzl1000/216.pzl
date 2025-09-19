@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: hunter,jester,dreamer,confessor,bishop,bard,slayer,wretch,bombardier,doppelganger,plague_doctor,minion,poisoner,baa
+1 bishop Between #6, #3, #5 there is: Villager, Minion and Outcast
+2 bombardier
+3 hunter I am 1 card away from closest Evil
+4 plague_doctor
+5 slayer
+6 bard I am 1 card away from Corrupted character
+7 dreamer
+8 jester
+9 confessor I am dizzy

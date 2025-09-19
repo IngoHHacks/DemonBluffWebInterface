@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: medium,empress,druid,confessor,dreamer,fortune_teller,knight,drunk,plague_doctor,poisoner,puppeteer,lilis,puppet
+1 druid Among #7, #5, #2 there are NO Outcasts
+2 dreamer #9 could be: Poisoner
+3 fortune_teller Is #4 or #1 Evil?: False
+4 confessor I am dizzy
+6 fortune_teller Is #8 or #3 Evil?: False
+7 plague_doctor #1 is Not Corrupted
+8 medium #1 is a real Druid
+9 knight
+[unknown] #killed_by_demon

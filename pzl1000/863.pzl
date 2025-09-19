@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,scout,slayer,judge,fortune_teller,knight,plague_doctor,wretch,twin_minion,pooka
+1 scout Pooka is 1 card away from closest Evil
+2 medium #7 is a real Slayer
+3 wretch
+4 scout Pooka is 1 card away from closest Evil
+5 fortune_teller Is #3 or #1 Evil?: True
+6 knight
+7 slayer I couldn't kill #1
+8 judge #4 is saying Truth

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,medium,knight,oracle,knitter,lover,doppelganger,wretch,minion,pooka
+1 knitter Evils are not adjacent to eachother
+2 oracle #7 or #2 is a Minion
+3 lover 1 Evil adjacent to me
+4 knight
+5 wretch
+6 medium #3 is a real Lover
+7 gemcrafter #8 is Good
+8 knight

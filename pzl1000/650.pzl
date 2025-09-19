@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,knight,druid,scout,gemcrafter,fortune_teller,bombardier,wretch,minion,pooka
+1 judge #5 is saying Truth
+2 knight
+3 fortune_teller Is #8 or #1 Evil?: True
+4 bombardier
+5 scout Minion is 3 cards away from closest Evil
+6 druid Among #7, #2, #5 there is: Wretch
+7 gemcrafter #5 is Good
+8 druid Among #7, #6, #3 there are NO Outcasts

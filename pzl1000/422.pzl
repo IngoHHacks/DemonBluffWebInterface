@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: druid,knitter,scout,alchemist,gemcrafter,jester,wretch,drunk,plague_doctor,doppelganger,puppeteer,baa,puppet
+1 knitter There is only 1 pair of Evil
+2 jester
+3 alchemist I cured 0 Corruptions
+4 plague_doctor
+5 gemcrafter #1 is Good
+6 scout Puppeteer is 1 card away from closest Evil
+7 druid

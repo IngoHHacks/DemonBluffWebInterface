@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: confessor,architect,jester,empress,slayer,knight,plague_doctor,bombardier,wretch,doppelganger,twin_minion,baa
+1 jester Among: #5, #8, #4: There is 1 Evil
+2 knight
+3 bombardier
+4 empress One is Evil: #1, #6 or #7
+5 architect Left side is more Evil
+6 confessor I am Good
+7 slayer I couldn't kill #1
+8 plague_doctor #1 is Not Corrupted

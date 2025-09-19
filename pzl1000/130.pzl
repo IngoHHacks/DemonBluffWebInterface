@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,fortune_teller,knitter,architect,hunter,slayer,lover,druid,baker,bombardier,drunk,poisoner,witch,lilis
+1 lover 1 Evil adjacent to me
+2 druid
+3 fortune_teller
+4 alchemist I cured 0 Corruptions
+6 slayer
+7 knitter Evils are not adjacent to eachother
+8 architect Right side is more Evil
+[unknown] #killed_by_demon
+9 baker I am the original Baker
+[unknown]

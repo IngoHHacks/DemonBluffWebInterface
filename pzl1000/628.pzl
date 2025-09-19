@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,bishop,knight,oracle,witness,knitter,poet,hunter,doppelganger,plague_doctor,bombardier,shaman,poisoner,baa
+1 oracle #2 or #8 is a Shaman
+2 bombardier
+3 poet #1 or #2 is a Shaman
+4 witness #7 was affected by an Evil
+5 knitter There are 2 pairs of Evil
+6 knight
+7 bishop Between #2, #5, #8 there is: Outcast, Villager and Minion
+8 medium #7 is a real Bishop
+9 knight

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,architect,lover,slayer,jester,knitter,gemcrafter,bombardier,doppelganger,wretch,shaman,counsellor,lilis
+1 bombardier
+2 slayer
+3 gemcrafter #9 is Good
+4 slayer
+6 architect Left side is more Evil
+7 judge
+8 jester
+9 architect Left side is more Evil
+[unknown] #killed_by_demon

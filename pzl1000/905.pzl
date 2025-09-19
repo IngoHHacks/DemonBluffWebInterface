@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: fortune_teller,druid,empress,medium,knitter,bombardier,doppelganger,pooka
+1 fortune_teller Is #1 or #2 Evil?: False
+2 empress One is Evil: #3, #1 or #6
+3 knitter There is only 1 pair of Evil
+4 druid Among #5, #3, #2 there are NO Outcasts
+5 medium #3 is a real Knitter
+6 medium #1 is a real Fortune Teller

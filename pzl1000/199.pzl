@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: hunter,architect,druid,enlightened,bishop,wretch,bombardier,drunk,puppeteer,baa,puppet
+1 bishop Between #4, #3, #6 there is: Villager, Outcast and Minion
+2 enlightened Closest Evil is: Counter-clockwise
+3 bombardier
+4 enlightened Closest Evil is: Counter-clockwise
+5 architect Left side is more Evil
+6 hunter I am 1 card away from closest Evil
+7 druid

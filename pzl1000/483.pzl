@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: slayer,dreamer,scout,jester,knight,gemcrafter,bombardier,drunk,plague_doctor,minion,witch,baa
+1 slayer
+2 jester
+3 knight
+4 gemcrafter #1 is Good
+5 scout Minion is 3 cards away from closest Evil
+6 jester
+7 dreamer
+8 knight
+[unknown]

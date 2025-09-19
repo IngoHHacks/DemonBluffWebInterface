@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,baker,alchemist,bard,architect,hunter,slayer,bombardier,doppelganger,drunk,counsellor,twin_minion,lilis
+1 slayer I killed Evil at #8
+2 architect Left side is more Evil
+3 bombardier
+4 alchemist I cured 0 Corruptions
+6 bard There are no Corrupted characters
+7 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+9 #dead counsellor|scout Counsellor is 3 cards away from closest Evil
+9 baker I was a Hunter

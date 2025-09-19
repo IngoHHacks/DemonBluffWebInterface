@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: poet,medium,enlightened,lover,jester,architect,fortune_teller,bombardier,wretch,puppeteer,pooka,puppet
+1 fortune_teller
+2 jester
+3 medium #1 is a real Fortune Teller
+4 poet I am 2 cards away from closest Evil
+5 architect Right side is more Evil
+6 lover 1 Evil adjacent to me
+7 wretch
+8 enlightened Closest Evil is: Counter-clockwise

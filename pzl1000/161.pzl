@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: enlightened,poet,gemcrafter,alchemist,hunter,medium,bombardier,wretch,doppelganger,counsellor,witch,lilis
+1 medium #5 is a real Enlightened
+2 poet #6 is Evil
+3 gemcrafter #2 is Good
+4 hunter I am 1 card away from closest Evil
+6 enlightened Closest Evil is equidistant
+7 enlightened Closest Evil is equidistant
+8 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+[unknown]

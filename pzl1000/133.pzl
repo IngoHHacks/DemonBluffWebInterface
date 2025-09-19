@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: knitter,scout,jester,poet,medium,fortune_teller,bombardier,wretch,pooka
+1 fortune_teller
+2 jester
+3 scout There is only 1 Evil
+4 medium #7 is a real Bombardier
+5 knitter Evils are not adjacent to eachother
+6 poet Between #1, #7, #6 there is: Outcast, Villager and Demon
+7 bombardier

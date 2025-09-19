@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,hunter,fortune_teller,knight,enlightened,bard,architect,drunk,bombardier,plague_doctor,doppelganger,shaman,counsellor,lilis
+1 hunter I am 2 cards away from closest Evil
+2 fortune_teller Is #4 or #5 Evil?: True
+3 bombardier
+4 knight
+6 bard I am 2 cards away from Corrupted character
+7 enlightened Closest Evil is: Counter-clockwise
+8 hunter I am 1 card away from closest Evil
+9 plague_doctor #2 is Evil #9 is Corrupted
+[unknown] #killed_by_demon

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: empress,druid,witness,judge,poet,plague_doctor,wretch,bombardier,poisoner,baa
+1 judge #7 is saying Truth
+2 wretch
+3 druid Among #6, #4, #2 there is: Wretch
+4 poet #5 is Good
+5 witness #1 was affected by an Evil
+6 bombardier
+7 empress One is Evil: #5, #1 or #2

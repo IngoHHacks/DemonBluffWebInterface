@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,scout,slayer,oracle,judge,bishop,enlightened,bombardier,drunk,doppelganger,shaman,pooka
+1 oracle #7 or #8 is a Shaman
+2 bishop Between #8, #5, #4 there is: Villager, Minion and Outcast
+3 slayer
+4 scout Pooka is 3 cards away from closest Evil
+5 bishop Between #1, #7, #2 there is: Minion, Outcast and Villager
+6 scout Shaman is 3 cards away from closest Evil
+7 enlightened Closest Evil is: Counter-clockwise
+8 judge
+9 bombardier

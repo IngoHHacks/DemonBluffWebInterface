@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,architect,confessor,oracle,alchemist,bard,gemcrafter,drunk,wretch,minion,pooka
+1 bard I am 1 card away from Corrupted character
+2 confessor I am dizzy
+3 gemcrafter #8 is Good
+4 oracle #2 or #8 is a Minion
+5 alchemist I cured 1 Corruption
+6 architect Both sides are equally Evil
+7 knight
+8 wretch

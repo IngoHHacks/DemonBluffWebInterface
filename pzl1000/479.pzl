@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: medium,fortune_teller,oracle,empress,judge,knight,bombardier,wretch,doppelganger,plague_doctor,counsellor,baa
+1 medium #7 is a real Oracle
+2 knight
+3 fortune_teller
+4 wretch
+5 knight
+6 judge
+7 oracle #1 or #3 is a Counsellor

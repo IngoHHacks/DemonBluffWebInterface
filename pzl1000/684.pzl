@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: dreamer,scout,bishop,enlightened,fortune_teller,druid,hunter,architect,drunk,plague_doctor,minion,twin_minion,lilis
+1 druid Among #8, #10, #5 there are NO Outcasts
+2 hunter I am 1 card away from closest Evil
+3 scout Twin Minion is 1 card away from closest Evil
+4 fortune_teller Is #7 or #2 Evil?: True
+6 scout Twin Minion is 3 cards away from closest Evil
+7 bishop Between #10, #5, #1 there is: Villager, Outcast and Minion
+8 architect Right side is more Evil
+9 plague_doctor #7 is Not Corrupted
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

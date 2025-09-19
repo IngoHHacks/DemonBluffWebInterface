@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: judge,bard,gemcrafter,knitter,poet,doppelganger,bombardier,pooka
+1 knitter There is only 1 pair of Evil
+2 bard I am 1 card away from Corrupted character
+3 gemcrafter #2 is Good
+4 judge
+5 bard I am 2 cards away from Corrupted character
+6 poet Closest Evil is: Clockwise

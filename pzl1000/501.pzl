@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,enlightened,oracle,dreamer,gemcrafter,poet,bombardier,plague_doctor,doppelganger,twin_minion,poisoner,lilis
+1 oracle #3 or #8 is a Poisoner
+2 dreamer #4 could be: Poisoner
+3 enlightened Closest Evil is: Clockwise
+4 plague_doctor #8 is Evil #2 is Corrupted
+6 poet There are 2 pairs of Evil
+[unknown] #killed_by_demon
+7 empress One is Evil: #8, #1 or #2
+8 gemcrafter #9 is Good
+9 enlightened Closest Evil is: Clockwise

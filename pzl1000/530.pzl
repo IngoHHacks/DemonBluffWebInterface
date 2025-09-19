@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,jester,gemcrafter,poet,medium,hunter,druid,bombardier,plague_doctor,witch,twin_minion,lilis
+1 jester Among: #3, #7, #2: There are 0 Evils
+2 gemcrafter #7 is Good
+3 druid Among #6, #5, #1 there is: Wretch
+4 oracle #5 or #4 is a Twin Minion
+6 oracle #6 or #7 is a Twin Minion
+7 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+8 bombardier
+[unknown]

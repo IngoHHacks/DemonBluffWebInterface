@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: slayer,jester,baker,architect,druid,bishop,doppelganger,wretch,witch,pooka
+1 slayer I couldn't kill #8
+2 architect Left side is more Evil
+3 jester Among: #6, #8, #2: There is 1 Evil
+4 wretch
+5 baker I am the original Baker
+6 baker I was an Architect
+7 baker I was a Bishop
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: scout,baker,medium,enlightened,jester,architect,alchemist,plague_doctor,wretch,doppelganger,bombardier,counsellor,puppeteer,baa,puppet
+1 enlightened Closest Evil is: Clockwise
+2 bombardier
+3 architect Right side is more Evil
+4 baker I am the original Baker
+5 medium #2 is a real Bombardier
+6 medium #3 is a real Architect
+7 scout Puppet is 1 card away from closest Evil
+8 baker I was a Jester
+9 wretch

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: oracle,gemcrafter,confessor,enlightened,jester,bard,doppelganger,bombardier,pooka
+1 gemcrafter #2 is Good
+2 enlightened Closest Evil is: Clockwise
+3 jester Among: #6, #7, #5: There is 1 Evil
+4 jester Among: #2, #3, #4: There is 1 Evil
+5 confessor I am Good
+6 bard I am 2 cards away from Corrupted character
+7 oracle There are no minions

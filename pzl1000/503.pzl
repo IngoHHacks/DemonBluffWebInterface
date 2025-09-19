@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: slayer,bishop,poet,lover,architect,gemcrafter,knitter,jester,confessor,doppelganger,wretch,plague_doctor,puppeteer,minion,baa,puppet
+1 gemcrafter #3 is Good
+2 poet #3 is Evil
+3 lover 1 Evil adjacent to me
+4 knitter There are 2 pairs of Evil
+5 bishop Between #3, #7, #9 there is: Villager, Minion and Outcast
+6 jester Among: #4, #7, #8: There are 0 Evils
+7 slayer I killed Evil at #10
+8 confessor I am Good
+9 knitter There are 2 pairs of Evil
+10 #dead puppeteer|architect Left side is more Evil

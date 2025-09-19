@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: druid,hunter,fortune_teller,baker,jester,dreamer,wretch,doppelganger,drunk,twin_minion,baa
+1 fortune_teller Is #2 or #1 Evil?: False
+2 dreamer #4 could be: Twin Minion
+3 baker I was a Hunter
+4 druid Among #3, #7, #5 there are NO Outcasts
+5 jester Among: #4, #6, #2: There are 0 Evils
+6 baker I was a Fortune Teller
+7 hunter I am 1 card away from closest Evil

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knitter,poet,empress,fortune_teller,baker,confessor,gemcrafter,drunk,bombardier,shaman,puppeteer,lilis,puppet
+1 poet One is Evil: #5, #9 or #2
+2 fortune_teller
+3 knitter There is only 1 pair of Evil
+4 confessor I am dizzy
+6 knitter There is only 1 pair of Evil
+7 confessor I am dizzy
+8 knitter Evils are not adjacent to eachother
+[unknown] #killed_by_demon
+9 baker I was a Poet

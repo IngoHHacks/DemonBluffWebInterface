@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,knitter,knight,dreamer,confessor,poet,baker,plague_doctor,wretch,doppelganger,counsellor,pooka
+2 knitter Evils are not adjacent to eachother
+3 judge
+[unknown] #killed_by_demon
+4 baker I am the original Baker
+5 dreamer
+6 wretch
+7 baker I was a Poet
+8 baker I was a Confessor

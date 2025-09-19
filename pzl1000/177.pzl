@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: dreamer,confessor,slayer,alchemist,poet,medium,bombardier,plague_doctor,pooka
+1 dreamer
+2 medium #2 is a real Medium
+3 poet Pooka is 2 cards away from closest Evil
+4 slayer
+5 confessor I am Good
+6 alchemist I cured 2 Corruptions
+7 plague_doctor

@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: bard,bishop,jester,confessor,scout,drunk,plague_doctor,pooka
+1 bard I am 3 cards away from Corrupted character
+2 jester
+3 confessor I am dizzy
+4 bishop Between #6, #2, #3 there is: Outcast, Demon and Villager
+5 scout Pooka is 2 cards away from closest Evil
+6 plague_doctor

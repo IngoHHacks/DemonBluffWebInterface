@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: jester,fortune_teller,druid,baker,bard,gemcrafter,plague_doctor,bombardier,wretch,puppeteer,lilis,puppet
+1 jester Among: #4, #3, #8: There are 2 Evils
+2 bard There are no Corrupted characters
+3 plague_doctor #7 is Evil #7 is Corrupted
+4 baker I was a Jester
+6 druid Among #4, #5, #1 there are NO Outcasts
+7 wretch
+[unknown] #killed_by_demon
+8 gemcrafter #5 is Good

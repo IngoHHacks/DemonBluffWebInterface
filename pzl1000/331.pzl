@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,architect,enlightened,dreamer,bishop,slayer,wretch,plague_doctor,drunk,bombardier,counsellor,lilis
+1 bombardier
+2 bishop Between #4, #7, #5 there is: Minion, Villager and Outcast
+3 bishop Between #8, #5, #7 there is: Outcast, Villager and Minion
+4 poet Closest Evil is: Counter-clockwise
+6 slayer
+[unknown] #killed_by_demon
+7 dreamer
+8 architect Right side is more Evil
+9 plague_doctor

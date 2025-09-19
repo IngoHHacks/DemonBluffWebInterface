@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: druid,dreamer,jester,poet,fortune_teller,alchemist,witness,plague_doctor,doppelganger,puppeteer,minion,lilis,puppet
+1 poet NO Evils adjacent to me
+2 fortune_teller Is #8 or #3 Evil?: True
+3 witness #1 was affected by an Evil
+4 druid Among #9, #6, #2 there is: Doppelganger
+6 dreamer #7 could be: Puppeteer
+7 alchemist I cured 0 Corruptions
+8 dreamer #8 could be: Minion
+9 jester Among: #2, #9, #5: There is 1 Evil
+[unknown] #killed_by_demon #hidden_evil
+[unknown] #killed_by_demon

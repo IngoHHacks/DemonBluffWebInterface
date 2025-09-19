@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: empress,druid,slayer,dreamer,judge,alchemist,bombardier,wretch,plague_doctor,witch,twin_minion,baa
+1 judge #2 is Lying
+2 empress One is Evil: #5, #6 or #9
+3 druid Among #1, #6, #5 there are NO Outcasts
+4 empress One is Evil: #8, #3 or #5
+5 alchemist I cured 0 Corruptions
+6 dreamer #2 could be: Baa
+8 #dead baa|judge #6 is Lying
+8 slayer I killed Evil at #7
+[unknown]

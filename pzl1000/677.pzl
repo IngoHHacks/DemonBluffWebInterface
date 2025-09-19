@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: alchemist,enlightened,oracle,bard,slayer,baker,hunter,bombardier,drunk,puppeteer,lilis,puppet
+1 enlightened Closest Evil is: Clockwise
+2 bombardier
+3 baker I am the original Baker
+4 slayer I couldn't kill #4
+6 bard There are no Corrupted characters
+7 oracle #3 or #8 is a Puppeteer
+8 baker I was an Alchemist
+[unknown] #killed_by_demon

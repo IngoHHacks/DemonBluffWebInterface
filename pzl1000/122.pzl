@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: lover,knight,knitter,empress,bishop,druid,bombardier,doppelganger,wretch,plague_doctor,twin_minion,shaman,baa
+1 lover NO Evils adjacent to me
+2 druid
+3 bombardier
+4 knitter Evils are not adjacent to eachother
+5 lover 1 Evil adjacent to me
+6 lover 2 Evils adjacent to me
+7 bishop Between #6, #8, #1 there is: Minion, Villager and Outcast
+8 knight
+9 lover NO Evils adjacent to me

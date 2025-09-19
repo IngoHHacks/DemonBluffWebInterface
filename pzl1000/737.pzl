@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,dreamer,gemcrafter,fortune_teller,medium,slayer,hunter,doppelganger,wretch,plague_doctor,bombardier,twin_minion,counsellor,baa
+1 bombardier
+2 fortune_teller Is #7 or #4 Evil?: True
+9 #dead baa|gemcrafter #7 is Good
+4 dreamer #3 could be: Baa
+5 wretch
+6 medium #2 is a real Fortune Teller
+7 judge #2 is Lying
+8 slayer I killed Evil at #3
+9 bombardier

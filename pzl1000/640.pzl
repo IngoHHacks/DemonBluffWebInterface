@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: lover,dreamer,scout,bishop,slayer,confessor,knitter,judge,plague_doctor,drunk,minion,shaman,pooka
+1 scout Pooka is 1 card away from closest Evil
+2 judge #8 is Lying
+3 lover 1 Evil adjacent to me
+4 confessor I am Good
+5 knitter There is only 1 pair of Evil
+6 lover 1 Evil adjacent to me
+7 scout Shaman is 3 cards away from closest Evil
+8 slayer I couldn't kill #3
+9 bishop Between #7, #4, #2 there is: Villager, Outcast and Minion

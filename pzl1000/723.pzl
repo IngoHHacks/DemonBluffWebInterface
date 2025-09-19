@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: fortune_teller,scout,empress,knitter,alchemist,lover,hunter,wretch,doppelganger,bombardier,witch,counsellor,lilis
+1 wretch
+2 alchemist I cured 1 Corruption
+3 scout Lilis is 3 cards away from closest Evil
+4 fortune_teller Is #2 or #5 Evil?: True
+6 lover 1 Evil adjacent to me
+7 bombardier
+8 empress One is Evil: #4, #5 or #1
+[unknown] #killed_by_demon
+[unknown]

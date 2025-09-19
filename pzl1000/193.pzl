@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: scout,lover,knight,medium,druid,slayer,bombardier,wretch,minion,puppeteer,lilis,puppet
+1 knight
+2 medium #6 is a real Druid
+3 lover 1 Evil adjacent to me
+4 druid
+6 wretch
+7 druid
+8 druid
+9 slayer
+[unknown] #killed_by_demon

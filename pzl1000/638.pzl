@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,confessor,knight,empress,medium,baker,bombardier,doppelganger,drunk,wretch,poisoner,baa
+1 knight
+2 empress One is Evil: #7, #1 or #3
+3 confessor I am dizzy
+4 medium #7 is a real Drunk
+5 scout Baa is 1 card away from closest Evil
+6 baker I was a Baker
+7 confessor I am dizzy
+8 medium #2 is a real Empress

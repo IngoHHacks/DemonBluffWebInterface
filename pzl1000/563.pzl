@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: confessor,empress,bard,dreamer,slayer,scout,poet,bombardier,drunk,plague_doctor,shaman,pooka
+1 empress One is Evil: #9, #7 or #3
+2 scout Pooka is 2 cards away from closest Evil
+3 dreamer #4 could be: Pooka
+4 confessor I am dizzy
+5 slayer I couldn't kill #4
+6 scout Shaman is 2 cards away from closest Evil
+7 plague_doctor #5 is Not Corrupted
+8 confessor I am dizzy
+9 bard I am 1 card away from Corrupted character

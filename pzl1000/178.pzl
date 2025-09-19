@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,knitter,bard,gemcrafter,hunter,plague_doctor,doppelganger,bombardier,drunk,wretch,twin_minion,baa
+1 bard I am 2 cards away from Corrupted character
+2 wretch
+3 gemcrafter #7 is Good
+4 bard I am 1 card away from Corrupted character
+5 hunter I am 1 card away from closest Evil
+6 plague_doctor
+7 bishop Between #6, #8, #1 there is: Minion, Villager and Outcast
+8 knitter Evils are not adjacent to eachother

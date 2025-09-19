@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: dreamer,oracle,hunter,baker,empress,enlightened,plague_doctor,drunk,bombardier,witch,baa
+1 empress One is Evil: #3, #2 or #4
+2 hunter I am 2 cards away from closest Evil
+3 dreamer
+4 baker I was an Empress
+5 baker I was an Enlightened
+6 oracle #3 or #7 is a Witch
+[unknown]

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,fortune_teller,confessor,dreamer,knitter,gemcrafter,druid,wretch,plague_doctor,poisoner,lilis
+1 wretch
+2 gemcrafter #7 is Good
+3 poet #6 is Good
+4 confessor I am Good
+6 dreamer
+7 fortune_teller
+8 knitter Evils are not adjacent to eachother
+[unknown] #killed_by_demon

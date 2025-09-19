@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,judge,knight,medium,empress,scout,slayer,plague_doctor,doppelganger,bombardier,counsellor,minion,lilis
+1 empress One is Evil: #6, #7 or #2
+2 plague_doctor #5 is Evil #1 is Corrupted
+3 empress One is Evil: #4, #2 or #7
+4 medium #1 is a real Empress
+6 knitter There is only 1 pair of Evil
+7 judge #2 is saying Truth
+[unknown] #killed_by_demon
+8 knight
+9 scout Lilis is 2 cards away from closest Evil

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,fortune_teller,knitter,architect,bishop,baker,confessor,doppelganger,plague_doctor,minion,pooka
+1 bard I am 3 cards away from Corrupted character
+2 architect Left side is more Evil
+3 bishop Between #8, #3, #2 there is: Minion, Villager and Outcast
+4 baker I am the original Baker
+5 baker I was an Architect
+6 baker I was a Confessor
+7 fortune_teller
+8 confessor I am dizzy

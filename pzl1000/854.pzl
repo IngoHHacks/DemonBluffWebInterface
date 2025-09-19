@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,bishop,medium,slayer,empress,bard,alchemist,bombardier,plague_doctor,shaman,minion,lilis
+1 bard There are no Corrupted characters
+2 bombardier
+3 alchemist I cured 0 Corruptions
+4 slayer I couldn't kill #3
+6 bishop Between #6, #1, #3 there is: Minion, Outcast and Villager
+7 medium #9 is a real Alchemist
+8 empress One is Evil: #2, #6 or #8
+[unknown] #killed_by_demon
+9 alchemist I cured 0 Corruptions

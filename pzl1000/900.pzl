@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,medium,fortune_teller,druid,lover,bishop,oracle,drunk,wretch,doppelganger,shaman,minion,baa
+1 medium #2 is a real Bishop
+2 bishop Between #3, #8, #5 there is: Minion, Villager and Outcast
+3 fortune_teller Is #7 or #2 Evil?: True
+4 druid Among #5, #2, #6 there are NO Outcasts
+5 enlightened Closest Evil is: Clockwise
+6 wretch
+7 medium #4 is a real Druid
+8 medium #3 is a real Fortune Teller
+9 lover NO Evils adjacent to me

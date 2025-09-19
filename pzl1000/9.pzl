@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,scout,gemcrafter,lover,knight,dreamer,architect,enlightened,drunk,bombardier,doppelganger,minion,baa
+1 architect Left side is more Evil
+2 scout Baa is 3 cards away from closest Evil
+3 lover NO Evils adjacent to me
+4 knight
+5 enlightened Closest Evil is: Clockwise
+6 dreamer
+7 gemcrafter #6 is Good
+8 druid

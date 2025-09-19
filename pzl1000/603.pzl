@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: gemcrafter,empress,alchemist,baker,oracle,enlightened,drunk,plague_doctor,pooka
+1 plague_doctor #5 is Not Corrupted
+2 enlightened Closest Evil is equidistant
+3 gemcrafter #4 is Good
+4 alchemist I cured 1 Corruption
+5 baker I was a Baker
+6 empress One is Evil: #1, #3 or #2
+7 oracle There are no minions

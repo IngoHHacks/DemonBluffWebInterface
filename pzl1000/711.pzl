@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,fortune_teller,bishop,empress,jester,medium,doppelganger,bombardier,shaman,pooka
+1 hunter I am 2 cards away from closest Evil
+2 jester Among: #7, #1, #3: There is 1 Evil
+3 bombardier
+4 jester Among: #6, #5, #7: There are 2 Evils
+5 empress One is Evil: #1, #3 or #6
+6 fortune_teller Is #8 or #3 Evil?: True
+7 empress One is Evil: #8, #3 or #2
+8 medium #7 is a real Empress

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,lover,oracle,gemcrafter,empress,bard,doppelganger,plague_doctor,shaman,pooka
+1 lover 1 Evil adjacent to me
+2 gemcrafter #7 is Good
+3 lover NO Evils adjacent to me
+4 empress One is Evil: #2, #1 or #8
+5 lover NO Evils adjacent to me
+6 bard I am 2 cards away from Corrupted character
+7 jester Among: #6, #3, #5: There are 2 Evils
+8 bard I am 3 cards away from Corrupted character

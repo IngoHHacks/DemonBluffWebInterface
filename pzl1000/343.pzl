@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: fortune_teller,scout,empress,bishop,jester,knitter,dreamer,wretch,drunk,witch,pooka
+1 jester
+2 empress One is Evil: #6, #4 or #7
+3 dreamer
+4 knitter There is only 1 pair of Evil
+5 wretch
+6 bishop Between #7, #5 there is: Villager and Minion
+7 fortune_teller
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: alchemist,lover,druid,empress,dreamer,bishop,wretch,plague_doctor,doppelganger,shaman,lilis
+1 empress One is Evil: #2, #7 or #4
+2 lover 1 Evil adjacent to me
+3 wretch
+4 bishop Between #2, #1, #5 there is: Outcast, Minion and Villager
+6 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 empress One is Evil: #8, #6 or #3
+8 dreamer
+9 plague_doctor

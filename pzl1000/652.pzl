@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,confessor,baker,dreamer,jester,knitter,enlightened,architect,plague_doctor,wretch,minion,witch,pooka
+1 baker I was a Baker
+2 knitter Evils are not adjacent to eachother
+3 oracle #10 or #8 is a Minion
+4 jester Among: #7, #9, #2: There is 1 Evil
+5 architect Left side is more Evil
+6 wretch
+7 enlightened Closest Evil is equidistant
+8 plague_doctor #4 is Evil #1 is Corrupted
+9 dreamer #6 could be: Pooka
+[unknown]

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,lover,poet,bishop,medium,doppelganger,plague_doctor,wretch,bombardier,counsellor,baa
+1 jester
+2 plague_doctor
+3 bombardier
+4 medium #5 is a real Plague Doctor
+5 plague_doctor
+6 bishop Between #3, #2, #4 there is: Villager, Minion and Outcast
+7 poet 2 Evils adjacent to me

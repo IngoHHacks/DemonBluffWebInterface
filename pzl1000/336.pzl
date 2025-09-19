@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,jester,lover,baker,hunter,enlightened,dreamer,bard,drunk,doppelganger,bombardier,counsellor,puppeteer,lilis
+2 dreamer
+3 lover NO Evils adjacent to me
+4 oracle #7 or #2 is a Puppeteer
+5 enlightened Closest Evil is equidistant
+[unknown] #killed_by_demon
+7 jester
+8 enlightened Closest Evil is equidistant
+[unknown] #killed_by_demon
+9 baker I was an Enlightened

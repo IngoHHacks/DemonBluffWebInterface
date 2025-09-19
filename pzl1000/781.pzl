@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,jester,knitter,enlightened,oracle,fortune_teller,plague_doctor,drunk,twin_minion,minion,lilis
+1 jester Among: #6, #8, #3: There is 1 Evil
+2 confessor I am Good
+3 plague_doctor #8 is Not Corrupted
+4 knitter There are 2 pairs of Evil
+6 enlightened Closest Evil is equidistant
+7 oracle #9 or #6 is a Twin Minion
+[unknown] #killed_by_demon
+8 fortune_teller Is #2 or #7 Evil?: True
+9 confessor I am dizzy

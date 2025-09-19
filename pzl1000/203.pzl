@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,druid,bishop,slayer,jester,lover,empress,bombardier,wretch,plague_doctor,poisoner,baa
+1 bishop Between #8, #4 there is: Villager and Minion
+2 jester
+3 scout Baa is 3 cards away from closest Evil
+4 wretch
+5 slayer
+6 lover NO Evils adjacent to me
+7 empress One is Evil: #1, #6 or #3
+8 druid

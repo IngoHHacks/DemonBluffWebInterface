@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: gemcrafter,poet,enlightened,knitter,lover,slayer,empress,plague_doctor,bombardier,doppelganger,wretch,poisoner,counsellor,baa
+1 empress One is Evil: #9, #7 or #4
+2 bombardier
+3 slayer I couldn't kill #8
+4 plague_doctor #3 is Evil #7 is Corrupted
+5 knitter There are 2 pairs of Evil
+6 slayer I couldn't kill #4
+7 enlightened Closest Evil is: Clockwise
+8 lover NO Evils adjacent to me
+9 gemcrafter #7 is Good

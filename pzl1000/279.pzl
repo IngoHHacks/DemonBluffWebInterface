@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: gemcrafter,lover,oracle,bishop,knight,scout,doppelganger,wretch,plague_doctor,bombardier,counsellor,pooka
+1 bishop Between #8, #4, #1 there is: Minion, Outcast and Villager
+2 knight
+3 oracle #1 or #4 is a Counsellor
+4 lover NO Evils adjacent to me
+5 wretch
+6 gemcrafter #7 is Good
+7 lover 2 Evils adjacent to me
+8 bombardier
+9 oracle #5 or #1 is a Counsellor

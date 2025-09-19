@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,dreamer,enlightened,slayer,empress,architect,doppelganger,wretch,drunk,bombardier,puppeteer,baa
+2 empress One is Evil: #4, #8 or #6
+3 bombardier
+4 empress One is Evil: #4, #6 or #5
+5 architect Both sides are equally Evil
+6 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon
+7 medium #3 is a real Empress
+8 dreamer

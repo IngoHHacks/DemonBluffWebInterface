@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,knitter,jester,knight,empress,plague_doctor,bombardier,wretch,doppelganger,minion,baa
+1 knitter There is only 1 pair of Evil
+2 jester Among: #5, #4, #6: There are 2 Evils
+3 wretch
+4 baker I am the original Baker
+5 empress One is Evil: #1, #4 or #2
+6 baker I was a Knitter
+7 baker I was a Knight
+8 baker I was a Knitter

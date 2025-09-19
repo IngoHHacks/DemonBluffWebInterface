@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,judge,bishop,medium,hunter,wretch,doppelganger,bombardier,plague_doctor,minion,baa
+1 judge #6 is saying Truth
+2 hunter I am 3 cards away from closest Evil
+3 hunter I am 1 card away from closest Evil
+4 bishop Between #2, #1, #3 there is: Outcast, Villager and Minion
+5 scout Minion is 2 cards away from closest Evil
+6 judge #8 is Lying
+7 bombardier
+8 medium #2 is a real Hunter

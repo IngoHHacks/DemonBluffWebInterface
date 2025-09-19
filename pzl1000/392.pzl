@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: architect,bishop,dreamer,baker,oracle,slayer,gemcrafter,jester,bombardier,doppelganger,plague_doctor,witch,twin_minion,baa
+1 architect Left side is more Evil
+2 dreamer
+3 baker I am the original Baker
+4 baker I was a Jester
+5 baker I was a Gemcrafter
+6 oracle #2 or #3 is a Witch
+7 bishop Between #2, #1, #3 there is: Minion, Villager and Outcast
+8 slayer
+[unknown]

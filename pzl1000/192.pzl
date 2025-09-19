@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,hunter,architect,dreamer,enlightened,medium,scout,plague_doctor,drunk,shaman,pooka
+1 plague_doctor
+2 architect Right side is more Evil
+3 hunter I am 3 cards away from closest Evil
+4 dreamer
+5 dreamer
+6 medium #1 is a real Plague Doctor
+7 scout Pooka is 3 cards away from closest Evil
+8 enlightened Closest Evil is: Clockwise

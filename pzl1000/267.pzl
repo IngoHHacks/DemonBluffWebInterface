@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,slayer,gemcrafter,bard,poet,knight,baker,wretch,drunk,doppelganger,twin_minion,baa
+1 baker I was a Baker
+2 bard I am 1 card away from Corrupted character
+3 poet #8 is Evil
+4 knight
+5 slayer
+6 gemcrafter #8 is Good
+7 oracle #7 or #6 is a Twin Minion
+8 baker I was a Baker

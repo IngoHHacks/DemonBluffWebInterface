@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,druid,alchemist,dreamer,gemcrafter,knitter,confessor,bombardier,plague_doctor,doppelganger,poisoner,minion,baa
+1 knitter There are 2 pairs of Evil
+2 confessor I am Good
+3 dreamer
+4 poet Closest Evil is: Clockwise
+5 bombardier
+6 alchemist I cured 1 Corruption
+7 gemcrafter #3 is Good
+8 druid
+9 alchemist I cured 2 Corruptions

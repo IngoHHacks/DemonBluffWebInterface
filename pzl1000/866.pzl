@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,oracle,judge,jester,knitter,poet,fortune_teller,wretch,drunk,poisoner,twin_minion,lilis
+1 fortune_teller Is #5 or #3 Evil?: True
+2 jester Among: #4, #7, #5: There is 1 Evil
+3 poet Between #7, #6, #2 there is: Villager, Outcast and Minion
+4 poet #7 or #6 is a Poisoner
+6 dreamer #4 could be: Twin Minion
+[unknown] #killed_by_demon
+7 judge #6 is saying Truth
+8 wretch
+9 knitter Evils are not adjacent to eachother

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,confessor,medium,knight,dreamer,bard,bombardier,plague_doctor,doppelganger,wretch,shaman,baa
+1 bard I am 3 cards away from Corrupted character
+2 plague_doctor #4 is Not Corrupted
+3 knight
+4 medium #1 is a real Bard
+5 bombardier
+6 architect Right side is more Evil
+7 confessor I am dizzy
+8 medium #1 is a real Bard

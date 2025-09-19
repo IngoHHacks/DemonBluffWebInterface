@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,jester,bishop,slayer,dreamer,confessor,oracle,wretch,plague_doctor,minion,twin_minion,pooka
+1 wretch
+9 #dead twin_minion|bishop Between #5, #4, #9 there is: Outcast, Minion and Villager
+3 jester Among: #9, #1, #8: There is 1 Evil
+4 scout Minion is 1 card away from closest Evil
+5 oracle #5 or #9 is a Minion
+6 dreamer #7 could be: Pooka
+7 plague_doctor #4 is Evil #3 is Corrupted
+8 slayer I killed Evil at #2
+9 confessor I am Good

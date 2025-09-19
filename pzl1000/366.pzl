@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bard,oracle,knitter,lover,poet,fortune_teller,hunter,baker,doppelganger,plague_doctor,minion,twin_minion,pooka
+1 hunter I am 1 card away from closest Evil
+2 bard I am 4 cards away from Corrupted character
+3 fortune_teller
+4 hunter I am 3 cards away from closest Evil
+5 knitter There are 2 pairs of Evil
+6 lover NO Evils adjacent to me
+7 oracle #2 or #5 is a Minion
+8 poet #4 is Evil
+9 baker I was a Baker

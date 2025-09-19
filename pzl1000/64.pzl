@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: architect,lover,druid,medium,scout,jester,slayer,bombardier,plague_doctor,drunk,wretch,counsellor,pooka
+1 slayer
+2 medium #8 is a real Druid
+3 architect Right side is more Evil
+4 bombardier
+5 lover 2 Evils adjacent to me
+6 wretch
+7 architect Right side is more Evil
+8 druid
+9 jester

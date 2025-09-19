@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,alchemist,bard,lover,knitter,judge,confessor,drunk,bombardier,minion,pooka
+1 confessor I am Good
+2 bombardier
+3 bard I am 1 card away from Corrupted character
+4 alchemist I cured 2 Corruptions
+5 judge #6 is saying Truth
+6 bishop Between #4, #7, #1 there is: Outcast, Minion and Villager
+7 knitter Evils are not adjacent to eachother
+8 lover 2 Evils adjacent to me

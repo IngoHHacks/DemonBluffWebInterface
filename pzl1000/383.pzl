@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: hunter,slayer,dreamer,bard,oracle,druid,gemcrafter,bombardier,wretch,plague_doctor,doppelganger,witch,counsellor,baa
+1 bombardier
+2 hunter I am 2 cards away from closest Evil
+3 slayer
+4 gemcrafter #1 is Good
+5 druid
+6 oracle #2 or #4 is a Witch
+7 dreamer
+8 wretch
+[unknown]

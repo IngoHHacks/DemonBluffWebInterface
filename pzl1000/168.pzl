@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,jester,medium,enlightened,lover,fortune_teller,scout,bombardier,doppelganger,plague_doctor,shaman,counsellor,lilis
+1 plague_doctor
+2 bombardier
+3 slayer
+4 enlightened Closest Evil is equidistant
+6 jester
+7 lover 1 Evil adjacent to me
+8 enlightened Closest Evil is: Clockwise
+9 lover 1 Evil adjacent to me
+[unknown] #killed_by_demon

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: gemcrafter,fortune_teller,knitter,druid,oracle,scout,slayer,plague_doctor,drunk,pooka
+1 fortune_teller
+2 druid
+3 oracle There are no minions
+4 gemcrafter #5 is Good
+5 slayer
+6 scout Pooka is 1 card away from closest Evil
+7 knitter There is only 1 pair of Evil

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: fortune_teller,gemcrafter,poet,knight,lover,baker,bard,plague_doctor,doppelganger,wretch,puppeteer,pooka,puppet
+1 wretch
+2 poet There are 2 pairs of Evil
+3 plague_doctor #1 is Not Corrupted
+4 knight
+5 gemcrafter #9 is Good
+6 bard I am 1 card away from Corrupted character
+7 fortune_teller Is #5 or #6 Evil?: True
+8 lover 1 Evil adjacent to me
+9 baker I was a Knight

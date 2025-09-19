@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,knitter,fortune_teller,lover,medium,baker,drunk,doppelganger,plague_doctor,poisoner,lilis
+1 plague_doctor
+2 medium #5 is a real Medium
+3 fortune_teller
+4 baker I was a Knitter
+6 medium #7 is a real Lover
+7 judge
+8 lover NO Evils adjacent to me
+[unknown] #killed_by_demon

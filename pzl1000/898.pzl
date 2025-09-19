@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: fortune_teller,gemcrafter,empress,bard,scout,bombardier,doppelganger,plague_doctor,puppeteer,baa
+1 gemcrafter #5 is Good
+2 empress One is Evil: #5, #1 or #3
+3 scout Puppeteer is 2 cards away from closest Evil
+4 scout Baa is 2 cards away from closest Evil
+5 bombardier
+6 bard There are no Corrupted characters
+7 fortune_teller Is #4 or #3 Evil?: True

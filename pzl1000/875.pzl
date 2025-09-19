@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: knitter,scout,medium,slayer,bard,wretch,bombardier,doppelganger,plague_doctor,puppeteer,baa,puppet
+1 medium #3 is a real Knitter
+2 wretch
+3 knitter There is only 1 pair of Evil
+4 scout Baa is 3 cards away from closest Evil
+5 slayer I killed Evil at #6
+7 #dead puppeteer|plague_doctor #5 is Evil #5 is Corrupted
+7 bard There are no Corrupted characters

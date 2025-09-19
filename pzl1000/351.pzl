@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: enlightened,confessor,scout,alchemist,bishop,plague_doctor,bombardier,pooka
+1 enlightened Closest Evil is: Clockwise
+2 scout There is only 1 Evil
+3 confessor I am Good
+4 alchemist I cured 1 Corruption
+5 plague_doctor
+6 bishop Between #1, #4, #2 there is: Demon, Villager and Outcast

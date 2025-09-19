@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,knight,lover,poet,enlightened,druid,bombardier,plague_doctor,doppelganger,minion,twin_minion,baa
+1 lover NO Evils adjacent to me
+2 slayer
+3 druid
+4 knight
+5 druid
+6 enlightened Closest Evil is equidistant
+7 knight
+8 poet #3 is Evil
+9 plague_doctor

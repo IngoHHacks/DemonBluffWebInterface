@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,judge,architect,dreamer,gemcrafter,lover,knight,bombardier,wretch,plague_doctor,minion,poisoner,baa
+1 judge #4 is saying Truth
+2 architect Left side is more Evil
+3 wretch
+4 dreamer #1 could be: Poisoner
+5 empress One is Evil: #6, #2 or #4
+6 lover 2 Evils adjacent to me
+7 bombardier
+8 knight
+9 gemcrafter #7 is Good

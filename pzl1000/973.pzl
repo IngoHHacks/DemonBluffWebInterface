@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,judge,oracle,dreamer,fortune_teller,baker,doppelganger,wretch,plague_doctor,minion,pooka
+1 oracle #3 or #7 is a Minion
+2 dreamer #4 could be: Pooka
+3 fortune_teller Is #2 or #6 Evil?: False
+4 oracle #5 or #3 is a Minion
+5 plague_doctor #4 is Evil #9 is Corrupted
+6 judge #5 is saying Truth
+7 poet #5 is Evil
+8 baker I am the original Baker
+9 plague_doctor #5 is Evil #1 is Corrupted

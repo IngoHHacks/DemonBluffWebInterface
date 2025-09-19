@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: bishop,jester,slayer,bard,medium,poet,doppelganger,plague_doctor,pooka
+1 bishop Between #4, #7, #6 there is: Villager, Demon and Outcast
+2 bard I am 3 cards away from Corrupted character
+3 poet #4 is Good
+4 jester
+5 slayer
+6 plague_doctor
+7 medium #2 is a real Bard

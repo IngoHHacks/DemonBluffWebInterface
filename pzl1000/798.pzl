@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,slayer,jester,dreamer,confessor,enlightened,gemcrafter,wretch,bombardier,twin_minion,pooka
+1 confessor I am Good
+2 wretch
+3 jester Among: #5, #8, #6: There is 1 Evil
+4 baker I was an Enlightened
+5 slayer I couldn't kill #7
+6 enlightened Closest Evil is: Counter-clockwise
+7 gemcrafter #8 is Good
+8 dreamer #3 could be: Twin Minion

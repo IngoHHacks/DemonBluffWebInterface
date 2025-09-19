@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,confessor,alchemist,architect,knight,knitter,plague_doctor,doppelganger,wretch,shaman,baa
+1 judge #4 is Lying
+2 alchemist I cured 0 Corruptions
+3 judge #1 is Lying
+4 alchemist I cured 0 Corruptions
+5 architect Right side is more Evil
+6 knight
+7 judge #3 is saying Truth
+8 confessor I am dizzy

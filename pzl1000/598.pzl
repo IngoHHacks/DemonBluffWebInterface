@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: bishop,alchemist,architect,druid,empress,gemcrafter,wretch,bombardier,twin_minion,witch,lilis
+1 bombardier
+2 gemcrafter #9 is Good
+3 gemcrafter #2 is Good
+4 architect Right side is more Evil
+6 bishop Between #2, #6, #1 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+7 alchemist I cured 0 Corruptions
+8 empress One is Evil: #7, #4 or #3
+[unknown]

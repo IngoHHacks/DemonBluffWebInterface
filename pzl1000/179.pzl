@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: gemcrafter,dreamer,empress,alchemist,knitter,hunter,wretch,drunk,bombardier,puppeteer,baa,puppet
+1 knitter There are 2 pairs of Evil
+2 bombardier
+3 dreamer
+4 gemcrafter #1 is Good
+5 hunter I am 1 card away from closest Evil
+6 alchemist I cured 1 Corruption
+7 empress One is Evil: #3, #2 or #4

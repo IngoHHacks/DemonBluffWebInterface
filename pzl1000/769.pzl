@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,confessor,hunter,medium,knitter,slayer,bishop,plague_doctor,drunk,shaman,lilis
+1 medium #8 is a real Slayer
+2 hunter I am 2 cards away from closest Evil
+3 slayer I couldn't kill #6
+4 confessor I am dizzy
+6 confessor I am dizzy
+7 knitter Evils are not adjacent to eachother
+8 bishop Between #3, #2, #4 there is: Outcast, Minion and Villager
+[unknown] #killed_by_demon

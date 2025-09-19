@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: alchemist,lover,judge,architect,bishop,empress,oracle,jester,plague_doctor,doppelganger,minion,puppeteer,lilis,puppet
+1 bishop Between #7, #2, #1 there is: Outcast, Villager and Minion
+2 alchemist I cured 0 Corruptions
+3 lover 1 Evil adjacent to me
+4 architect Right side is more Evil
+6 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 architect Right side is more Evil
+8 jester Among: #7, #4, #3: There are 2 Evils
+9 oracle #8 or #3 is a Puppeteer
+[unknown] #killed_by_demon #hidden_evil

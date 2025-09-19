@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,fortune_teller,oracle,bard,poet,hunter,bombardier,wretch,shaman,lilis
+1 fortune_teller
+2 fortune_teller
+3 slayer
+4 wretch
+6 oracle #2 or #4 is a Shaman
+7 fortune_teller
+[unknown] #killed_by_demon
+8 bard I am 1 card away from Corrupted character

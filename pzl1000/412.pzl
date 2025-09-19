@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: confessor,oracle,knight,scout,alchemist,enlightened,fortune_teller,wretch,doppelganger,drunk,poisoner,pooka
+1 knight
+2 oracle #2 or #1 is a Poisoner
+3 alchemist I cured 1 Corruption
+4 confessor I am dizzy
+5 fortune_teller
+6 scout Pooka is 2 cards away from closest Evil
+7 enlightened Closest Evil is: Clockwise
+8 wretch
+9 scout Poisoner is 3 cards away from closest Evil

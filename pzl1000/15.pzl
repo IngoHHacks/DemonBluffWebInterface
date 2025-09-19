@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: knight,bishop,gemcrafter,slayer,druid,bombardier,plague_doctor,wretch,puppeteer,baa,puppet
+1 druid
+2 slayer
+3 bishop Between #2, #6, #3 there is: Minion, Villager and Outcast
+4 plague_doctor
+5 knight
+6 gemcrafter #2 is Good
+7 knight

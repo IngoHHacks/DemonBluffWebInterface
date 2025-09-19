@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: enlightened,knitter,confessor,baker,slayer,lover,bishop,bard,dreamer,bombardier,wretch,plague_doctor,doppelganger,minion,counsellor,baa
+1 dreamer
+2 baker I am the original Baker
+3 baker I was a Lover
+4 baker I was a Dreamer
+5 bard I am 3 cards away from Corrupted character
+6 confessor I am dizzy
+7 wretch
+8 knitter There are 2 pairs of Evil
+9 plague_doctor
+10 enlightened Closest Evil is: Counter-clockwise

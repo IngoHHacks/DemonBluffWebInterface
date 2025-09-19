@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,baker,dreamer,enlightened,lover,medium,knitter,bombardier,plague_doctor,drunk,wretch,counsellor,baa
+1 medium #5 is a real Knight
+2 lover 1 Evil adjacent to me
+3 enlightened Closest Evil is: Clockwise
+4 plague_doctor #8 is Not Corrupted
+5 knight
+6 baker I was a Dreamer
+7 wretch
+8 dreamer #7 could be:  a Cabbage

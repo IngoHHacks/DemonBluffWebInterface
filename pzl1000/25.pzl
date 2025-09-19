@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: empress,druid,dreamer,fortune_teller,gemcrafter,judge,wretch,plague_doctor,bombardier,twin_minion,lilis
+1 dreamer
+2 judge
+3 druid
+4 fortune_teller
+6 empress One is Evil: #1, #8 or #7
+7 fortune_teller
+8 bombardier
+[unknown] #killed_by_demon
+9 wretch

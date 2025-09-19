@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: poet,architect,enlightened,scout,judge,knight,baker,wretch,plague_doctor,witch,shaman,lilis
+1 enlightened Closest Evil is: Counter-clockwise
+2 architect Left side is more Evil
+3 knight
+4 baker I am the original Baker
+6 plague_doctor #2 is Not Corrupted
+[unknown] #killed_by_demon
+7 judge #3 is Lying
+8 judge #4 is Lying
+[unknown]

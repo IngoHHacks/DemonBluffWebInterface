@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: jester,fortune_teller,baker,empress,slayer,plague_doctor,bombardier,pooka
+1 bombardier
+2 baker I was a Baker
+3 empress One is Evil: #6, #1 or #4
+4 fortune_teller
+5 slayer
+6 jester

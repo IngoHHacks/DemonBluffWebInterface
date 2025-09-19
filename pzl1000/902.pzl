@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,alchemist,dreamer,scout,knitter,poet,druid,wretch,drunk,shaman,lilis
+1 alchemist I cured 0 Corruptions
+2 bishop Between #7, #8, #4 there is: Villager, Minion and Outcast
+3 druid Among #6, #4, #7 there are NO Outcasts
+4 druid Among #8, #5, #1 there is: Wretch
+6 scout Shaman is 1 card away from closest Evil
+7 bishop Between #7, #4, #6 there is: Villager, Minion and Outcast
+8 dreamer #5 could be: Lilis
+[unknown] #killed_by_demon

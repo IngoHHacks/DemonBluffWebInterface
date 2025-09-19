@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: oracle,medium,baker,judge,slayer,hunter,lover,drunk,wretch,plague_doctor,shaman,counsellor,lilis
+1 hunter I am 1 card away from closest Evil
+2 wretch
+3 lover NO Evils adjacent to me
+4 baker I am the original Baker
+6 baker I was a Judge
+[unknown] #killed_by_demon
+7 medium #6 is a real Plague Doctor
+8 slayer I couldn't kill #7
+9 slayer I couldn't kill #6

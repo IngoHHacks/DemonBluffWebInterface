@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: jester,gemcrafter,bishop,knitter,lover,alchemist,dreamer,hunter,plague_doctor,wretch,doppelganger,bombardier,minion,counsellor,baa
+1 alchemist I cured 0 Corruptions
+2 dreamer
+3 gemcrafter #6 is Good
+4 bishop Between #7, #10, #5 there is: Outcast, Villager and Minion
+5 dreamer
+6 wretch
+7 lover 2 Evils adjacent to me
+8 gemcrafter #6 is Good
+9 jester
+10 knitter There is only 1 pair of Evil

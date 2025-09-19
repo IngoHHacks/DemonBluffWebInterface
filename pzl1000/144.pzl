@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: architect,knight,lover,knitter,medium,slayer,alchemist,plague_doctor,bombardier,drunk,doppelganger,counsellor,shaman,lilis
+1 architect Right side is more Evil
+2 medium #1 is a real Architect
+3 lover 2 Evils adjacent to me
+4 knight
+6 architect Right side is more Evil
+7 plague_doctor
+[unknown] #killed_by_demon
+8 slayer
+9 medium #1 is a real Architect

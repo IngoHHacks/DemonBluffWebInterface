@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: lover,fortune_teller,confessor,druid,hunter,doppelganger,wretch,bombardier,plague_doctor,puppeteer,baa,puppet
+1 wretch
+2 hunter I am 1 card away from closest Evil
+3 confessor I am Good
+4 fortune_teller Is #8 or #1 Evil?: True
+5 druid Among #3, #2, #4 there are NO Outcasts
+6 confessor I am dizzy
+7 fortune_teller Is #5 or #4 Evil?: True
+8 lover 2 Evils adjacent to me

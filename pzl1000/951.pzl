@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knight,bishop,judge,scout,lover,jester,dreamer,wretch,doppelganger,drunk,bombardier,counsellor,baa
+1 knight
+2 judge #3 is Lying
+3 bishop Between #6, #4, #1 there is: Outcast, Minion and Villager
+4 lover 2 Evils adjacent to me
+5 dreamer #7 could be: Baa
+6 judge #4 is saying Truth
+7 jester Among: #1, #5, #2: There are 3 Evils

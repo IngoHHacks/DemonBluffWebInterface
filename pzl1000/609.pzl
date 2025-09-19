@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: baker,hunter,confessor,knight,slayer,poet,doppelganger,drunk,pooka
+1 confessor I am dizzy
+2 slayer I couldn't kill #3
+3 knight
+4 hunter I am 3 cards away from closest Evil
+5 confessor I am dizzy
+6 poet Between #4, #1, #5 there is: Outcast, Demon and Villager
+7 baker I was a Slayer

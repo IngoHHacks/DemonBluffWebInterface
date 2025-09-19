@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: lover,bishop,druid,oracle,knitter,doppelganger,wretch,plague_doctor,shaman,baa
+2 bishop Between #6, #5, #3 there is: Minion, Villager and Outcast
+3 wretch
+4 druid
+5 lover NO Evils adjacent to me
+[unknown] #killed_by_demon
+6 knitter There are 2 pairs of Evil
+7 oracle #5 or #3 is a Shaman

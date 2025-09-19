@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,hunter,alchemist,baker,fortune_teller,jester,oracle,dreamer,drunk,doppelganger,twin_minion,lilis
+1 druid
+2 jester
+3 fortune_teller
+4 oracle #1 or #5 is a Twin Minion
+6 dreamer
+7 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+8 baker I am the original Baker

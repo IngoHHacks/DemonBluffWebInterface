@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: slayer,druid,knight,baker,hunter,medium,drunk,plague_doctor,witch,shaman,lilis
+1 slayer
+2 hunter I am 1 card away from closest Evil
+3 druid
+4 hunter I am 4 cards away from closest Evil
+6 slayer
+7 baker I am the original Baker
+8 baker I was a Medium
+[unknown]
+[unknown] #killed_by_demon

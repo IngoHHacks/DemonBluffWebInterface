@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: knitter,scout,knight,judge,lover,wretch,bombardier,pooka
+1 knight
+2 bombardier
+3 scout There is only 1 Evil
+4 lover NO Evils adjacent to me
+5 knitter Evils are not adjacent to eachother
+6 judge #3 is Lying

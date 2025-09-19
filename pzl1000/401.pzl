@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,hunter,druid,confessor,oracle,empress,drunk,bombardier,wretch,doppelganger,minion,poisoner,baa
+1 druid
+2 confessor I am Good
+3 druid
+4 empress One is Evil: #2, #6 or #1
+5 oracle #3 or #7 is a Minion
+6 hunter I am 1 card away from closest Evil
+7 bombardier
+8 confessor I am dizzy
+9 dreamer

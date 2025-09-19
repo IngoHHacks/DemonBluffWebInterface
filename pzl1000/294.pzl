@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,jester,hunter,enlightened,bard,slayer,wretch,plague_doctor,bombardier,doppelganger,puppeteer,baa
+1 bard There are no Corrupted characters
+2 enlightened Closest Evil is equidistant
+3 slayer
+4 alchemist I cured 0 Corruptions
+5 hunter I am 3 cards away from closest Evil
+6 jester
+7 wretch
+8 slayer

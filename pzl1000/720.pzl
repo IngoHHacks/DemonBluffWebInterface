@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,judge,bishop,knitter,knight,alchemist,wretch,bombardier,plague_doctor,shaman,baa
+1 judge #6 is Lying
+2 knitter There is only 1 pair of Evil
+3 druid Among #7, #2, #8 there is: Wretch
+4 wretch
+5 knitter There is only 1 pair of Evil
+6 bombardier
+7 alchemist I cured 0 Corruptions
+8 bishop Between #6, #7 there is: Villager and Minion

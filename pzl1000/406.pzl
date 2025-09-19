@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,enlightened,bishop,hunter,confessor,druid,knitter,bombardier,doppelganger,wretch,witch,counsellor,lilis
+1 hunter I am 1 card away from closest Evil
+2 dreamer
+3 confessor I am dizzy
+4 druid
+6 bombardier
+[unknown] #killed_by_demon
+7 knitter There is only 1 pair of Evil
+8 enlightened Closest Evil is: Clockwise
+[unknown]

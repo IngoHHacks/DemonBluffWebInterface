@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,lover,bard,judge,dreamer,empress,bombardier,plague_doctor,poisoner,lilis
+1 empress One is Evil: #3, #5 or #7
+2 bard There are no Corrupted characters
+3 plague_doctor #8 is Not Corrupted
+4 dreamer #1 could be: Lilis
+6 baker I am the original Baker
+7 baker I was an Empress
+8 dreamer #6 could be: Poisoner
+[unknown] #killed_by_demon

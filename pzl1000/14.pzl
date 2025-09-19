@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: poet,slayer,druid,gemcrafter,fortune_teller,confessor,lover,wretch,plague_doctor,doppelganger,counsellor,minion,pooka
+1 gemcrafter #8 is Good
+2 plague_doctor
+3 poet #10 is a real Druid
+4 lover 1 Evil adjacent to me
+5 lover 2 Evils adjacent to me
+6 fortune_teller
+7 gemcrafter #5 is Good
+8 slayer
+9 lover 2 Evils adjacent to me
+10 druid

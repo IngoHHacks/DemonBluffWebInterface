@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: scout,hunter,judge,empress,fortune_teller,alchemist,bombardier,plague_doctor,puppeteer,lilis,puppet
+1 hunter I am 3 cards away from closest Evil
+2 scout Lilis is 3 cards away from closest Evil
+3 alchemist I cured 2 Corruptions
+4 fortune_teller
+6 judge
+7 empress One is Evil: #5, #2 or #3
+8 fortune_teller
+[unknown] #killed_by_demon

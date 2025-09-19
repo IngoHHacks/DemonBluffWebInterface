@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,knight,alchemist,enlightened,scout,medium,doppelganger,plague_doctor,wretch,witch,pooka
+1 medium #8 is a real Bishop
+2 alchemist I cured 2 Corruptions
+3 wretch
+4 scout Pooka is 2 cards away from closest Evil
+5 plague_doctor
+6 enlightened Closest Evil is: Counter-clockwise
+7 knight
+8 bishop Between #4, #7, #2 there is: Outcast, Minion and Villager
+[unknown]

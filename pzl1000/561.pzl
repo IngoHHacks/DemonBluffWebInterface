@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: lover,bishop,jester,fortune_teller,knitter,wretch,bombardier,pooka
+1 knitter There is only 1 pair of Evil
+2 fortune_teller Is #3 or #1 Evil?: False
+3 lover NO Evils adjacent to me
+4 jester Among: #1, #5, #2: There is 1 Evil
+5 bishop Between #6, #4, #1 there is: Demon, Villager and Outcast
+6 bombardier

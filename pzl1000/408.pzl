@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,medium,poet,jester,knight,drunk,wretch,bombardier,doppelganger,minion,baa
+1 wretch
+2 jester
+3 bombardier
+4 knight
+5 poet Minion is 1 card away from closest Evil
+6 judge
+7 medium
+8 medium

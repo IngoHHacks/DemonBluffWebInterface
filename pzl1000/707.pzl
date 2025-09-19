@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: druid,poet,hunter,bishop,baker,judge,plague_doctor,bombardier,wretch,minion,lilis
+1 baker I was a Poet
+2 druid Among #6, #3, #2 there is: Bombardier
+3 bombardier
+4 hunter I am 3 cards away from closest Evil
+6 bishop Between #9, #3, #4 there is: Villager, Outcast and Minion
+[unknown] #killed_by_demon
+7 judge #1 is Lying
+8 wretch
+9 baker I was a Hunter

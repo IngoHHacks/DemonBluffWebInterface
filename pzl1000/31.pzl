@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: alchemist,dreamer,oracle,medium,enlightened,knitter,bard,plague_doctor,drunk,puppeteer,pooka,puppet
+1 alchemist I cured 0 Corruptions
+2 bard There are no Corrupted characters
+3 medium #7 is a real Enlightened
+4 knitter Evils are not adjacent to eachother
+5 oracle #6 or #7 is a Puppet
+6 dreamer
+7 enlightened Closest Evil is: Clockwise
+8 dreamer

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,scout,druid,architect,oracle,knight,bombardier,wretch,minion,twin_minion,lilis
+1 architect Left side is more Evil
+2 knight
+3 druid
+4 jester
+6 druid
+7 wretch
+8 scout Minion is 1 card away from closest Evil
+9 druid
+[unknown] #killed_by_demon

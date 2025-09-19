@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: medium,oracle,bishop,gemcrafter,lover,fortune_teller,doppelganger,bombardier,pooka
+1 bishop Between #4, #5, #3 there is: Villager, Demon and Outcast
+2 fortune_teller Is #6 or #7 Evil?: False
+3 bombardier
+4 gemcrafter #4 is Good
+5 lover NO Evils adjacent to me
+6 medium #5 is a real Lover
+7 oracle There are no minions

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: scout,fortune_teller,poet,gemcrafter,confessor,bishop,druid,doppelganger,wretch,drunk,puppeteer,lilis,puppet
+1 bishop Between #8, #4, #9 there is: Villager, Outcast and Minion
+2 scout Lilis is 2 cards away from closest Evil
+3 poet #9 is Good
+4 fortune_teller Is #8 or #2 Evil?: True
+6 gemcrafter #2 is Good
+7 wretch
+[unknown] #killed_by_demon
+8 druid Among #6, #5, #4 there is: Drunk
+9 bishop Between #2, #7, #8 there is: Minion, Villager and Outcast

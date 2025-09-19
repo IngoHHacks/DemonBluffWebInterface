@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,fortune_teller,knitter,oracle,confessor,judge,wretch,plague_doctor,bombardier,counsellor,minion,pooka
+1 confessor I am dizzy
+2 judge
+3 wretch
+4 fortune_teller
+5 bombardier
+6 plague_doctor
+7 oracle #7 or #6 is a Minion
+8 judge
+9 alchemist I cured 1 Corruption

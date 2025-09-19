@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: confessor,lover,enlightened,druid,slayer,baker,drunk,bombardier,plague_doctor,witch,minion,lilis
+1 slayer I killed Evil at #5
+2 bombardier
+3 confessor I am Good
+4 enlightened Closest Evil is equidistant
+8 #dead minion|bombardier
+7 druid Among #8, #9, #5 there is: Plague Doctor
+[unknown] #killed_by_demon
+8 baker I was a Slayer
+[unknown]

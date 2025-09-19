@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bishop,alchemist,druid,knitter,jester,empress,doppelganger,drunk,witch,pooka
+1 jester
+2 bishop Between #4, #6, #8 there is: Minion, Outcast and Villager
+3 alchemist I cured 1 Corruption
+4 alchemist I cured 0 Corruptions
+5 druid
+6 empress One is Evil: #4, #1 or #2
+7 alchemist I cured 1 Corruption
+[unknown]

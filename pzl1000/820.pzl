@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,gemcrafter,alchemist,hunter,scout,confessor,poet,plague_doctor,doppelganger,bombardier,counsellor,lilis
+1 bard I am 2 cards away from Corrupted character
+2 confessor I am Good
+3 poet Closest Evil is equidistant
+4 hunter I am 1 card away from closest Evil
+6 gemcrafter #4 is Good
+7 scout Counsellor is 1 card away from closest Evil
+8 plague_doctor #6 is Not Corrupted
+[unknown] #killed_by_demon

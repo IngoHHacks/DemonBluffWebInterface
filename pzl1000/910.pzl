@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: dreamer,druid,hunter,judge,enlightened,knitter,jester,drunk,bombardier,pooka
+1 druid Among #7, #4, #3 there is: Drunk
+2 jester Among: #1, #6, #3: There are 0 Evils
+3 hunter I am 3 cards away from closest Evil
+4 judge #7 is Lying
+5 knitter There is only 1 pair of Evil
+6 enlightened Closest Evil is equidistant
+7 dreamer #4 could be: Pooka

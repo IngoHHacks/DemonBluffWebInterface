@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,architect,slayer,enlightened,scout,gemcrafter,plague_doctor,bombardier,doppelganger,shaman,counsellor,lilis
+1 gemcrafter #7 is Good
+2 gemcrafter #5 is Good
+3 baker I am the original Baker
+4 baker I was a Gemcrafter
+6 plague_doctor
+7 gemcrafter #7 is Good
+8 enlightened Closest Evil is: Clockwise
+9 architect Right side is more Evil
+[unknown] #killed_by_demon

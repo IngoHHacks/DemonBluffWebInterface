@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knitter,confessor,scout,hunter,slayer,enlightened,drunk,wretch,twin_minion,lilis
+1 slayer I couldn't kill #1
+2 wretch
+3 knitter There is only 1 pair of Evil
+4 scout Lilis is 1 card away from closest Evil
+6 hunter I am 3 cards away from closest Evil
+7 knitter Evils are not adjacent to eachother
+8 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon

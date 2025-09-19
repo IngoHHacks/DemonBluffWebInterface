@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,baker,knitter,medium,lover,architect,drunk,plague_doctor,wretch,shaman,pooka
+1 medium #4 is a real Plague Doctor
+2 knitter There is only 1 pair of Evil
+3 lover 1 Evil adjacent to me
+4 plague_doctor
+5 baker I am the original Baker
+6 medium #1 is a real Medium
+7 architect Right side is more Evil
+8 baker I was a Knitter

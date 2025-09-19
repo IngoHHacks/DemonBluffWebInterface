@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,hunter,fortune_teller,knitter,bard,baker,enlightened,plague_doctor,bombardier,doppelganger,twin_minion,minion,baa
+1 bombardier
+2 bard There are no Corrupted characters
+3 judge
+4 hunter I am 4 cards away from closest Evil
+5 enlightened Closest Evil is equidistant
+6 knitter There is only 1 pair of Evil
+7 fortune_teller
+8 knitter There is only 1 pair of Evil
+9 baker I am the original Baker

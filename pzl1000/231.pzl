@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: poet,hunter,confessor,oracle,fortune_teller,jester,lover,bard,wretch,plague_doctor,drunk,minion,poisoner,baa
+1 confessor I am Good
+2 poet I am 2 cards away from closest Evil
+3 lover NO Evils adjacent to me
+4 bard I am 2 cards away from Corrupted character
+5 jester
+6 plague_doctor
+7 fortune_teller
+8 oracle #9 or #7 is a Poisoner
+9 hunter I am 1 card away from closest Evil
+10 oracle #10 or #5 is a Poisoner

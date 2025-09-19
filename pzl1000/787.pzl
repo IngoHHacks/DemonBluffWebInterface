@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: medium,druid,baker,bishop,empress,oracle,poet,slayer,plague_doctor,drunk,minion,witch,lilis
+1 druid Among #3, #9, #6 there is: Drunk
+2 bishop Between #9, #8, #3 there is: Villager, Outcast and Minion
+3 poet Closest Evil is: Clockwise
+4 empress One is Evil: #10, #7 or #5
+6 oracle #2 or #1 is a Witch
+7 oracle #10 or #9 is a Minion
+8 baker I am the original Baker
+9 oracle #9 or #7 is a Minion
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: slayer,poet,druid,oracle,jester,architect,doppelganger,wretch,bombardier,poisoner,lilis
+1 druid
+2 poet #3 is Evil
+3 wretch
+4 oracle #6 or #7 is a Poisoner
+6 bombardier
+7 druid
+8 jester
+9 slayer
+[unknown] #killed_by_demon

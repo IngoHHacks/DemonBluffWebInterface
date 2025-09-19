@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,fortune_teller,jester,oracle,baker,confessor,bishop,wretch,drunk,doppelganger,counsellor,pooka
+1 oracle #6 or #3 is a Counsellor
+2 wretch
+3 baker I am the original Baker
+4 baker I was a Confessor
+5 baker I was a Baker
+6 fortune_teller Is #3 or #7 Evil?: False
+7 baker I was a Confessor
+8 bishop Between #6, #4, #5 there is: Outcast, Villager and Minion

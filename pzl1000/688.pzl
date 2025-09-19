@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: architect,oracle,empress,witness,hunter,medium,knight,plague_doctor,bombardier,wretch,twin_minion,pooka
+1 bombardier
+2 oracle #3 or #7 is a Twin Minion
+3 hunter I am 3 cards away from closest Evil
+4 architect Left side is more Evil
+5 empress One is Evil: #1, #2 or #7
+6 witness #5 was affected by an Evil
+7 knight
+8 medium #3 is a real Hunter
+9 plague_doctor #6 is Not Corrupted

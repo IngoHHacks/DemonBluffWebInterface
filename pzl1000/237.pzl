@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: druid,confessor,dreamer,baker,scout,architect,doppelganger,drunk,bombardier,wretch,counsellor,baa
+1 architect Both sides are equally Evil
+2 druid
+3 confessor I am Good
+4 druid
+5 wretch
+6 scout Baa is 3 cards away from closest Evil
+7 dreamer

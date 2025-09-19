@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,druid,jester,dreamer,judge,empress,alchemist,bombardier,wretch,doppelganger,plague_doctor,counsellor,baa
+1 judge #5 is Lying
+2 plague_doctor #7 is Evil #5 is Corrupted
+3 alchemist I cured 2 Corruptions
+4 bombardier
+5 druid Among #1, #4, #7 there are NO Outcasts
+6 hunter I am 1 card away from closest Evil
+7 empress One is Evil: #6, #5 or #2
+8 jester Among: #1, #3, #6: There is 1 Evil

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: bard,jester,enlightened,alchemist,gemcrafter,poet,wretch,drunk,pooka
+1 enlightened Closest Evil is equidistant
+2 gemcrafter #6 is Good
+3 poet #4 is Good
+4 alchemist I cured 1 Corruption
+5 bard I am 3 cards away from Corrupted character
+6 jester Among: #2, #1, #7: There is 1 Evil
+7 enlightened Closest Evil is: Counter-clockwise

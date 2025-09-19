@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,lover,architect,bishop,scout,fortune_teller,drunk,plague_doctor,bombardier,twin_minion,lilis
+1 bishop Between #5, #7, #8 there is: Villager, Outcast and Minion
+2 fortune_teller
+3 scout Twin Minion is 3 cards away from closest Evil
+4 architect Both sides are equally Evil
+6 plague_doctor
+7 alchemist I cured 2 Corruptions
+8 bombardier
+[unknown] #killed_by_demon

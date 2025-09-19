@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: confessor,knitter,lover,dreamer,alchemist,empress,plague_doctor,drunk,wretch,shaman,pooka
+1 alchemist I cured 2 Corruptions
+2 knitter Evils are not adjacent to eachother
+3 lover 1 Evil adjacent to me
+4 dreamer
+5 confessor I am dizzy
+6 confessor I am dizzy
+7 plague_doctor
+8 lover 1 Evil adjacent to me
+9 wretch

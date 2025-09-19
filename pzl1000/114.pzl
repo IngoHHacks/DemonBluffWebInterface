@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: judge,oracle,empress,hunter,jester,slayer,fortune_teller,scout,doppelganger,drunk,poisoner,pooka
+1 hunter I am 2 cards away from closest Evil
+2 jester
+3 judge
+4 empress One is Evil: #1, #3 or #7
+5 scout Pooka is 1 card away from closest Evil
+6 oracle #3 or #4 is a Poisoner
+7 slayer
+8 fortune_teller

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: bard,empress,bishop,alchemist,confessor,dreamer,drunk,bombardier,wretch,shaman,baa
+1 alchemist I cured 2 Corruptions
+2 dreamer #3 could be: Shaman
+3 dreamer #6 could be: Shaman
+4 bishop Between #2, #1, #5 there is: Minion, Villager and Outcast
+5 bishop Between #5, #1, #2 there is: Villager, Minion and Outcast
+6 empress One is Evil: #4, #7 or #1
+7 bard I am 2 cards away from Corrupted character

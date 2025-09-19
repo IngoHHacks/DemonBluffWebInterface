@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: judge,medium,empress,jester,bard,dreamer,plague_doctor,bombardier,wretch,poisoner,baa
+1 medium #2 is a real Dreamer
+2 dreamer
+3 bard There are no Corrupted characters
+4 jester
+5 judge
+6 plague_doctor
+7 empress One is Evil: #5, #3 or #1

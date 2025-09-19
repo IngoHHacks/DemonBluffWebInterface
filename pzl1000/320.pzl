@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,fortune_teller,architect,witness,jester,bombardier,doppelganger,plague_doctor,poisoner,baa
+2 jester
+[unknown] #killed_by_demon
+3 witness #1 was affected by an Evil
+4 architect Left side is more Evil
+5 plague_doctor
+6 scout Baa is 2 cards away from closest Evil
+7 fortune_teller

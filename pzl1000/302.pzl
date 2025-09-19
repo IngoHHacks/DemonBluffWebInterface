@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: slayer,baker,druid,empress,poet,medium,gemcrafter,drunk,plague_doctor,puppeteer,poisoner,lilis
+1 empress One is Evil: #3, #9 or #5
+2 gemcrafter #4 is Good
+3 baker I am the original Baker
+4 baker I was a Poet
+6 gemcrafter #7 is Good
+7 poet Lilis is 2 cards away from closest Evil
+8 poet #1 is Evil
+9 medium #3 is a real Baker
+[unknown] #killed_by_demon

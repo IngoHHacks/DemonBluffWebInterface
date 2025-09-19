@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: lover,dreamer,bard,enlightened,jester,slayer,hunter,bombardier,wretch,drunk,doppelganger,shaman,counsellor,baa
+1 bombardier
+2 jester Among: #3, #7, #4: There is 1 Evil
+3 lover 1 Evil adjacent to me
+4 slayer I couldn't kill #2
+5 bard I am 2 cards away from Corrupted character
+6 dreamer #5 could be: Shaman
+7 dreamer #1 could be: Baa
+8 hunter I am 4 cards away from closest Evil
+9 enlightened Closest Evil is: Counter-clockwise

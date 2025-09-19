@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: judge,druid,bishop,empress,scout,knitter,knight,bombardier,plague_doctor,puppeteer,poisoner,lilis,puppet
+1 empress One is Evil: #5, #7 or #6
+2 bishop Between #5, #6, #4 there is: Outcast, Minion and Villager
+3 judge
+4 knight
+6 bombardier
+7 scout Puppeteer is 3 cards away from closest Evil
+[unknown] #killed_by_demon
+8 druid
+9 scout Poisoner is 3 cards away from closest Evil

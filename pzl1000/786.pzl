@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: confessor,gemcrafter,lover,architect,bard,bishop,drunk,bombardier,doppelganger,witch,baa
+1 architect Both sides are equally Evil
+2 confessor I am Good
+3 bard I am 3 cards away from Corrupted character
+4 bishop Between #6, #1, #2 there is: Villager, Outcast and Minion
+5 gemcrafter #4 is Good
+6 lover 2 Evils adjacent to me
+[unknown]

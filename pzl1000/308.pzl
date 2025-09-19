@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: baker,oracle,enlightened,knitter,bard,dreamer,jester,plague_doctor,doppelganger,wretch,poisoner,lilis
+1 bard I am 1 card away from Corrupted character
+2 enlightened Closest Evil is: Counter-clockwise
+3 wretch
+4 jester
+6 plague_doctor
+7 oracle #4 or #9 is a Poisoner
+[unknown] #killed_by_demon
+8 knitter There is only 1 pair of Evil
+9 dreamer

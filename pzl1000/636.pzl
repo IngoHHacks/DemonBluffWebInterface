@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,hunter,empress,knitter,knight,jester,plague_doctor,wretch,bombardier,counsellor,pooka
+1 poet There is only 1 pair of Evil
+2 knitter There is only 1 pair of Evil
+3 wretch
+4 hunter I am 3 cards away from closest Evil
+5 knight
+6 plague_doctor #3 is Evil #8 is Corrupted
+7 bombardier
+8 empress One is Evil: #4, #2 or #6

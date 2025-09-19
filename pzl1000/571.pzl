@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: scout,druid,alchemist,empress,bishop,judge,plague_doctor,doppelganger,wretch,shaman,baa
+1 druid Among #3, #1, #7 there are NO Outcasts
+2 alchemist I cured 1 Corruption
+3 scout Shaman is 2 cards away from closest Evil
+4 empress One is Evil: #3, #5 or #7
+5 scout Baa is 2 cards away from closest Evil
+6 wretch
+7 bishop Between #6, #3 there is: Villager and Minion

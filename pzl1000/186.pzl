@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,druid,jester,empress,hunter,judge,poet,baker,bombardier,doppelganger,drunk,wretch,counsellor,baa
+1 judge
+2 alchemist I cured 0 Corruptions
+3 druid
+4 baker I am the original Baker
+5 poet Between #3, #5, #6 there is: Villager, Outcast and Minion
+6 wretch
+7 jester
+8 baker I was an Empress

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,scout,empress,bard,oracle,enlightened,knitter,slayer,wretch,doppelganger,drunk,bombardier,counsellor,baa
+1 oracle #8 or #7 is a Counsellor
+2 bard I am 1 card away from Corrupted character
+3 knitter There is only 1 pair of Evil
+4 empress One is Evil: #2, #3 or #1
+5 scout Baa is 3 cards away from closest Evil
+6 gemcrafter #2 is Good
+7 enlightened Closest Evil is: Clockwise
+8 scout Counsellor is 3 cards away from closest Evil

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: lover,knight,jester,judge,baker,dreamer,wretch,doppelganger,pooka
+1 lover 1 Evil adjacent to me
+2 jester Among: #4, #3, #6: There are 0 Evils
+3 baker I am the original Baker
+4 baker I was a Knight
+5 dreamer #3 could be: Pooka
+6 wretch
+7 baker I was a Dreamer

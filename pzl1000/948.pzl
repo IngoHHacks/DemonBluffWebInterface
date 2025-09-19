@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: enlightened,architect,confessor,bishop,scout,bombardier,wretch,plague_doctor,drunk,twin_minion,baa
+1 architect Left side is more Evil
+2 confessor I am Good
+3 scout Twin Minion is 2 cards away from closest Evil
+4 scout Baa is 1 card away from closest Evil
+5 bishop Between #3, #7, #5 there is: Villager, Outcast and Minion
+6 enlightened Closest Evil is: Clockwise
+7 plague_doctor #3 is Not Corrupted

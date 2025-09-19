@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: slayer,poet,bard,empress,enlightened,knight,bombardier,drunk,doppelganger,poisoner,baa
+1 knight
+2 bard I am 3 cards away from Corrupted character
+3 enlightened Closest Evil is: Clockwise
+4 empress One is Evil: #2, #5 or #7
+5 poet #6 or #7 is a Poisoner
+6 slayer
+7 bombardier

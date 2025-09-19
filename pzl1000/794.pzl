@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: poet,jester,knitter,druid,scout,lover,doppelganger,plague_doctor,wretch,puppeteer,baa,puppet
+1 jester Among: #5, #3, #6: There is 1 Evil
+2 poet One is Evil: #5, #1 or #3
+3 knitter Evils are not adjacent to eachother
+4 plague_doctor #7 is Not Corrupted
+5 scout Puppet is 1 card away from closest Evil
+6 lover 1 Evil adjacent to me
+7 druid Among #5, #2, #1 there is: Doppelganger

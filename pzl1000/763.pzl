@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,empress,judge,knitter,medium,architect,wretch,doppelganger,minion,pooka
+1 empress One is Evil: #7, #8 or #3
+2 judge #6 is Lying
+3 medium #7 is a real Druid
+4 architect Left side is more Evil
+5 wretch
+6 empress One is Evil: #8, #4 or #3
+7 druid Among #2, #3, #1 there is: Wretch
+8 knitter There is only 1 pair of Evil

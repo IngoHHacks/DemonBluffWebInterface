@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,oracle,bard,gemcrafter,architect,hunter,slayer,wretch,drunk,shaman,minion,lilis
+1 gemcrafter #6 is Good
+2 hunter I am 1 card away from closest Evil
+3 bard There are no Corrupted characters
+4 oracle #3 or #9 is a Shaman
+6 slayer
+[unknown] #killed_by_demon
+7 slayer
+8 wretch
+9 scout Shaman is 2 cards away from closest Evil

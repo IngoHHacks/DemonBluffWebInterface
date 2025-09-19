@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,confessor,jester,alchemist,fortune_teller,architect,plague_doctor,doppelganger,wretch,minion,shaman,baa
+1 plague_doctor #8 is Evil #6 is Corrupted
+2 architect Left side is more Evil
+3 enlightened Closest Evil is: Counter-clockwise
+4 jester Among: #3, #1, #9: There is 1 Evil
+5 alchemist I cured 0 Corruptions
+6 jester Among: #9, #7, #4: There are 2 Evils
+7 confessor I am Good
+8 plague_doctor #1 is Not Corrupted
+9 alchemist I cured 1 Corruption

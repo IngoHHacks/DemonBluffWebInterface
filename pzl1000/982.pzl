@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,baker,architect,druid,poet,bard,knitter,knight,wretch,doppelganger,drunk,counsellor,pooka
+1 slayer I couldn't kill #7
+2 baker I am the original Baker
+3 bard There are no Corrupted characters
+4 knitter There is only 1 pair of Evil
+5 druid Among #6, #3, #4 there is: Drunk
+6 baker I was a Knight
+7 baker I am the original Baker
+8 poet #7 is Evil

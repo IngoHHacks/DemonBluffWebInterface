@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: judge,medium,bard,gemcrafter,witness,enlightened,wretch,bombardier,pooka
+1 wretch
+2 judge
+3 enlightened Closest Evil is: Counter-clockwise
+4 gemcrafter #1 is Good
+5 witness #1 was affected by an Evil
+6 bard I am 1 card away from Corrupted character
+7 medium #6 is a real Bard

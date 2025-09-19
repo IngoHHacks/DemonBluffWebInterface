@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: bard,knitter,scout,baker,judge,gemcrafter,knight,plague_doctor,bombardier,drunk,minion,shaman,pooka
+1 scout Minion is 3 cards away from closest Evil
+2 judge #3 is saying Truth
+3 plague_doctor #2 is Evil #7 is Corrupted
+4 knitter Evils are not adjacent to eachother
+5 plague_doctor #6 is Evil #10 is Corrupted
+6 bombardier
+7 knight
+8 knitter There are 2 pairs of Evil
+9 bard I am 2 cards away from Corrupted character
+10 gemcrafter #9 is Good

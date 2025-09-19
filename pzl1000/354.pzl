@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: lover,bard,knight,alchemist,poet,judge,oracle,enlightened,plague_doctor,doppelganger,poisoner,twin_minion,lilis
+1 alchemist I cured 0 Corruptions
+2 enlightened Closest Evil is: Clockwise
+3 bard I am 4 cards away from Corrupted character
+4 poet Twin Minion is 3 cards away from closest Evil
+6 judge
+7 oracle #7 or #1 is a Twin Minion
+8 lover NO Evils adjacent to me
+[unknown] #killed_by_demon
+9 enlightened Closest Evil is: Counter-clockwise

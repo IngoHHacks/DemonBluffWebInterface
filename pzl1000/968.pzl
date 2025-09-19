@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: hunter,bard,slayer,empress,confessor,alchemist,oracle,bombardier,plague_doctor,doppelganger,minion,witch,lilis
+1 alchemist I cured 1 Corruption
+2 plague_doctor #3 is Not Corrupted
+3 confessor I am Good
+4 bombardier
+6 bard I am 3 cards away from Corrupted character
+7 slayer I couldn't kill #3
+8 hunter I am 4 cards away from closest Evil
+[unknown]
+[unknown] #killed_by_demon

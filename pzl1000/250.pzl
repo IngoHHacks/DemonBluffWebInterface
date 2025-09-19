@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,scout,dreamer,fortune_teller,poet,doppelganger,wretch,bombardier,plague_doctor,poisoner,baa
+1 scout Poisoner is 2 cards away from closest Evil
+2 fortune_teller
+3 poet Between #6, #1, #3 there is: Minion, Outcast and Villager
+4 hunter I am 4 cards away from closest Evil
+5 dreamer
+6 hunter I am 2 cards away from closest Evil
+7 plague_doctor
+8 bombardier

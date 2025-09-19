@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: medium,architect,oracle,scout,baker,druid,bard,drunk,wretch,plague_doctor,witch,baa
+1 baker I am the original Baker
+2 druid Among #1, #3, #4 there are NO Outcasts
+3 scout Witch is 4 cards away from closest Evil
+4 druid Among #1, #7, #6 there is: Drunk
+5 architect Both sides are equally Evil
+6 oracle #8 or #3 is a Witch
+7 medium #5 is a real Architect
+[unknown]

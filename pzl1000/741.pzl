@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: oracle,architect,confessor,empress,alchemist,jester,gemcrafter,wretch,plague_doctor,puppeteer,pooka,puppet
+1 empress One is Evil: #3, #2 or #5
+2 oracle #4 or #8 is a Puppeteer
+3 jester Among: #4, #3, #1: There are 0 Evils
+4 confessor I am dizzy
+5 architect Right side is more Evil
+6 gemcrafter #3 is Good
+7 alchemist I cured 1 Corruption
+8 wretch

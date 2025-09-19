@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: alchemist,knight,empress,medium,baker,wretch,bombardier,pooka
+1 empress One is Evil: #3, #2 or #5
+2 medium #3 is a real Knight
+3 knight
+4 alchemist I cured 2 Corruptions
+5 wretch
+6 baker I am the original Baker

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,knight,architect,empress,dreamer,bombardier,wretch,doppelganger,plague_doctor,shaman,baa
+1 bombardier
+2 knight
+3 plague_doctor #4 is Evil #4 is Corrupted
+4 architect Right side is more Evil
+5 dreamer #1 could be: Baa
+6 wretch
+7 empress One is Evil: #1, #5 or #2
+8 dreamer #3 could be: Shaman

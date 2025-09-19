@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,slayer,jester,hunter,medium,confessor,wretch,bombardier,plague_doctor,counsellor,pooka
+1 hunter I am 4 cards away from closest Evil
+2 slayer I couldn't kill #7
+3 confessor I am Good
+4 wretch
+5 medium #6 is a real Jester
+6 jester Among: #3, #8, #2: There is 1 Evil
+7 hunter I am 3 cards away from closest Evil
+8 bombardier

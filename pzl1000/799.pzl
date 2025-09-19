@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,oracle,architect,jester,scout,knight,lover,wretch,drunk,twin_minion,lilis
+1 knight
+2 jester Among: #6, #7, #1: There are 2 Evils
+3 empress One is Evil: #7, #4 or #8
+4 architect Right side is more Evil
+6 scout Twin Minion is 2 cards away from closest Evil
+7 lover NO Evils adjacent to me
+[unknown] #killed_by_demon
+8 oracle #4 or #3 is a Twin Minion

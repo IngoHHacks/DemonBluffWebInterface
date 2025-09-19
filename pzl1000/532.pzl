@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: hunter,alchemist,jester,architect,knight,bombardier,plague_doctor,pooka
+1 knight
+2 alchemist I cured 1 Corruption
+3 hunter I am 3 cards away from closest Evil
+4 jester Among: #5, #6, #2: There are 0 Evils
+5 plague_doctor #2 is Evil #4 is Corrupted
+6 architect Right side is more Evil

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: baker,scout,hunter,alchemist,bard,fortune_teller,empress,gemcrafter,plague_doctor,drunk,doppelganger,twin_minion,poisoner,lilis
+1 scout Poisoner is 3 cards away from closest Evil
+2 alchemist I cured 1 Corruption
+3 plague_doctor #9 is Evil #10 is Corrupted
+4 empress One is Evil: #9, #5 or #10
+6 baker I was a Gemcrafter
+7 hunter I am 2 cards away from closest Evil
+[unknown] #killed_by_demon
+8 fortune_teller Is #4 or #9 Evil?: True
+9 gemcrafter #7 is Good
+10 fortune_teller Is #2 or #7 Evil?: True

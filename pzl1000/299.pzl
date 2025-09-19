@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,knitter,jester,fortune_teller,empress,alchemist,druid,slayer,wretch,plague_doctor,minion,poisoner,pooka
+1 slayer
+2 fortune_teller
+3 empress One is Evil: #5, #7 or #6
+4 jester
+5 druid
+6 knitter There are 2 pairs of Evil
+7 alchemist I cured 1 Corruption
+8 wretch
+9 fortune_teller
+10 lover NO Evils adjacent to me

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: alchemist,gemcrafter,druid,jester,architect,scout,dreamer,doppelganger,wretch,bombardier,puppeteer,minion,baa,puppet
+1 gemcrafter #9 is Good
+2 jester
+3 gemcrafter #2 is Good
+4 dreamer
+5 architect Right side is more Evil
+6 alchemist I cured 0 Corruptions
+7 architect Right side is more Evil
+8 druid
+9 scout Baa is 3 cards away from closest Evil

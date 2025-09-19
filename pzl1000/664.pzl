@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,judge,knight,oracle,medium,confessor,poet,wretch,bombardier,doppelganger,plague_doctor,counsellor,shaman,baa
+1 poet #2 is Evil
+2 confessor I am Good
+3 confessor I am Good
+4 poet #5 is Good
+5 wretch
+6 judge #5 is saying Truth
+7 bombardier
+8 knight
+9 medium #7 is a real Bombardier

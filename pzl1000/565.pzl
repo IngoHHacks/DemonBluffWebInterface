@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,alchemist,bard,judge,empress,hunter,baker,plague_doctor,wretch,doppelganger,witch,lilis
+1 hunter I am 1 card away from closest Evil
+2 bard There are no Corrupted characters
+3 plague_doctor #8 is Not Corrupted
+4 judge #7 is Lying
+6 baker I am the original Baker
+7 poet 1 Evil adjacent to me
+8 baker I am the original Baker
+[unknown] #killed_by_demon
+[unknown]

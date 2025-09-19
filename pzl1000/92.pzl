@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: lover,alchemist,enlightened,empress,witness,knitter,doppelganger,plague_doctor,wretch,puppeteer,pooka,puppet
+1 witness #1 was affected by an Evil
+2 empress One is Evil: #9, #5 or #6
+3 enlightened Closest Evil is equidistant
+4 alchemist I cured 2 Corruptions
+5 knitter There are 2 pairs of Evil
+6 lover 1 Evil adjacent to me
+7 wretch
+8 alchemist I cured 1 Corruption
+9 lover NO Evils adjacent to me

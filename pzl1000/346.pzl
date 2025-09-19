@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: druid,lover,fortune_teller,slayer,jester,knight,bombardier,doppelganger,wretch,plague_doctor,minion,baa
+1 jester
+2 plague_doctor
+3 knight
+4 lover 1 Evil adjacent to me
+5 druid
+6 wretch
+7 slayer
+8 fortune_teller

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: druid,knitter,confessor,poet,alchemist,baker,architect,bombardier,drunk,wretch,twin_minion,baa
+1 architect Left side is more Evil
+2 knitter Evils are not adjacent to eachother
+3 confessor I am Good
+4 poet Between #5, #2, #3 there is: Villager, Outcast and Minion
+5 alchemist I cured 0 Corruptions
+6 druid Among #2, #5, #7 there is: Drunk
+7 baker I am the original Baker

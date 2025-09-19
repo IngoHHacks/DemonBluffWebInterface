@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: druid,slayer,medium,scout,fortune_teller,dreamer,drunk,plague_doctor,wretch,puppeteer,pooka,puppet
+1 dreamer
+2 medium #3 is a real Scout
+3 scout Pooka is 3 cards away from closest Evil
+4 slayer
+5 fortune_teller
+6 fortune_teller
+7 plague_doctor
+8 fortune_teller
+9 druid

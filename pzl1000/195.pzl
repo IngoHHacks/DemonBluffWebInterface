@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: architect,bard,medium,confessor,jester,empress,knight,druid,plague_doctor,drunk,bombardier,puppeteer,minion,lilis
+2 medium #2 is a real Knight
+3 knight
+4 architect Left side is more Evil
+[unknown] #killed_by_demon
+5 jester
+7 druid
+8 empress One is Evil: #6, #4 or #2
+[unknown] #killed_by_demon
+9 bombardier
+10 bard I am 1 card away from Corrupted character

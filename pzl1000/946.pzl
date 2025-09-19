@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,enlightened,druid,bard,lover,plague_doctor,bombardier,doppelganger,wretch,counsellor,baa
+1 lover NO Evils adjacent to me
+2 enlightened Closest Evil is: Clockwise
+3 bard There are no Corrupted characters
+4 wretch
+5 enlightened Closest Evil is: Counter-clockwise
+6 druid Among #5, #2, #7 there are NO Outcasts
+7 enlightened Closest Evil is: Counter-clockwise

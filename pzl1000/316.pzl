@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: poet,gemcrafter,druid,lover,medium,empress,baker,drunk,wretch,bombardier,puppeteer,pooka,puppet
+1 wretch
+2 bombardier
+3 gemcrafter #4 is Good
+4 poet There is only 1 pair of Evil
+5 empress One is Evil: #9, #8 or #7
+6 medium #7 is a real Lover
+7 lover 1 Evil adjacent to me
+8 druid
+9 baker I am the original Baker

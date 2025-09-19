@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: architect,lover,bard,empress,dreamer,enlightened,gemcrafter,bombardier,plague_doctor,puppeteer,poisoner,lilis
+1 architect Right side is more Evil
+2 gemcrafter #3 is Good
+3 dreamer #1 could be: Lilis
+4 enlightened Closest Evil is: Clockwise
+6 empress One is Evil: #3, #9 or #4
+7 lover 2 Evils adjacent to me
+8 bard I am 1 card away from Corrupted character
+9 bombardier
+[unknown] #killed_by_demon

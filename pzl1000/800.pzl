@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: baker,gemcrafter,scout,dreamer,slayer,bard,wretch,plague_doctor,doppelganger,bombardier,puppeteer,baa,puppet
+1 baker I was a Gemcrafter
+2 bombardier
+3 dreamer #1 could be: Puppeteer
+4 slayer I killed Evil at #7
+5 scout Puppet is 3 cards away from closest Evil
+6 gemcrafter #8 is Good
+8 #dead puppeteer|bard There are no Corrupted characters
+8 plague_doctor #5 is Not Corrupted

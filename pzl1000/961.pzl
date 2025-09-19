@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: dreamer,enlightened,judge,oracle,medium,bishop,gemcrafter,wretch,bombardier,plague_doctor,minion,puppeteer,baa,puppet
+1 dreamer #2 could be: Puppeteer
+2 gemcrafter #6 is Good
+3 bishop Between #2, #7, #5 there is: Villager, Outcast and Minion
+4 oracle #8 or #7 is a Puppeteer
+5 enlightened Closest Evil is: Clockwise
+6 plague_doctor #4 is Not Corrupted
+7 judge #8 is saying Truth
+8 oracle #6 or #4 is a Minion
+9 medium #3 is a real Bishop

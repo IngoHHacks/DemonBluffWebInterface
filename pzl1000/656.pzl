@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,judge,knight,architect,medium,scout,plague_doctor,doppelganger,bombardier,wretch,minion,puppeteer,baa
+1 medium #7 is a real Bombardier
+2 enlightened Closest Evil is equidistant
+3 scout Puppeteer is 1 card away from closest Evil
+4 judge #5 is Lying
+5 judge #6 is saying Truth
+6 architect Both sides are equally Evil
+7 bombardier
+8 knight
+9 knight

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: scout,fortune_teller,bard,bishop,baker,jester,knitter,enlightened,judge,drunk,wretch,bombardier,poisoner,counsellor,lilis
+1 fortune_teller
+2 wretch
+3 baker I was a Bard
+4 enlightened Closest Evil is: Counter-clockwise
+6 baker I was a Scout
+7 judge
+8 bishop Between #8, #9, #6 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+9 scout Poisoner is 2 cards away from closest Evil
+[unknown] #killed_by_demon #hidden_evil

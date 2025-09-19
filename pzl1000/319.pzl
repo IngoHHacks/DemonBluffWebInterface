@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,oracle,fortune_teller,dreamer,bard,alchemist,scout,plague_doctor,bombardier,minion,shaman,lilis
+1 alchemist I cured 2 Corruptions
+2 scout Shaman is 2 cards away from closest Evil
+3 oracle #9 or #8 is a Minion
+4 bombardier
+6 bard There are no Corrupted characters
+7 oracle #2 or #5 is a Minion
+8 dreamer
+[unknown] #killed_by_demon
+9 bard There are no Corrupted characters

@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: judge,druid,bishop,enlightened,lover,bombardier,plague_doctor,pooka
+1 bombardier
+2 enlightened Closest Evil is: Counter-clockwise
+3 druid
+4 lover NO Evils adjacent to me
+5 judge
+6 bishop Between #5, #2, #3 there is: Demon, Villager and Outcast

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,architect,knight,enlightened,empress,medium,drunk,bombardier,twin_minion,pooka
+1 medium #6 is a real Medium
+2 medium #6 is a real Medium
+3 slayer I couldn't kill #2
+4 architect Both sides are equally Evil
+5 knight
+6 medium #1 is a real Medium
+7 empress One is Evil: #1, #8 or #6
+8 enlightened Closest Evil is equidistant

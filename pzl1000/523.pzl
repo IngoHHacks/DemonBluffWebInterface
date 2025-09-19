@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: dreamer,judge,druid,empress,bard,bishop,plague_doctor,doppelganger,wretch,twin_minion,baa
+1 judge #5 is saying Truth
+2 bard I am 3 cards away from Corrupted character
+3 dreamer #3 could be: Twin Minion
+4 druid Among #2, #5, #1 there is: Doppelganger
+5 druid Among #6, #3, #7 there are NO Outcasts
+6 empress One is Evil: #1, #5 or #2
+7 bishop Between #5, #2, #7 there is: Outcast, Villager and Minion

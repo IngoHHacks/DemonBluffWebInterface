@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: architect,gemcrafter,enlightened,bard,jester,oracle,bombardier,wretch,minion,witch,lilis
+1 oracle #3 or #5 is a Minion
+2 jester
+3 gemcrafter #6 is Good
+4 enlightened Closest Evil is: Clockwise
+6 oracle #4 or #3 is a Witch
+7 architect Left side is more Evil
+8 bombardier
+[unknown]
+[unknown] #killed_by_demon

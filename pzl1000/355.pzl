@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: witness,judge,poet,bishop,alchemist,slayer,knight,drunk,doppelganger,shaman,pooka
+2 poet I am 2 cards away from closest Evil
+3 poet #1 is a real Poet
+4 judge
+5 slayer
+[unknown] #killed_by_demon
+6 alchemist I cured 1 Corruption
+7 knight
+8 witness #6 was affected by an Evil

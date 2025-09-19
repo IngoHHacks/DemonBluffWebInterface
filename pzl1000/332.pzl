@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: bishop,hunter,knight,empress,druid,gemcrafter,judge,alchemist,plague_doctor,drunk,bombardier,puppeteer,baa,puppet
+2 druid
+3 empress One is Evil: #8, #6 or #1
+4 hunter I am 1 card away from closest Evil
+5 bishop Between #6, #8, #5 there is: Villager, Minion and Outcast
+[unknown] #killed_by_demon
+6 gemcrafter #7 is Good
+7 judge
+8 knight

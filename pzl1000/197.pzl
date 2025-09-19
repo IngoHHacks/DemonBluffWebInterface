@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,empress,alchemist,poet,architect,gemcrafter,baker,wretch,bombardier,doppelganger,poisoner,shaman,baa
+1 alchemist I cured 1 Corruption
+2 empress One is Evil: #1, #3 or #9
+3 alchemist I cured 0 Corruptions
+4 architect Left side is more Evil
+5 gemcrafter #3 is Good
+6 jester
+7 alchemist I cured 0 Corruptions
+8 baker I am the original Baker
+9 gemcrafter #4 is Good

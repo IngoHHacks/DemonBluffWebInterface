@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: lover,empress,bishop,hunter,poet,enlightened,alchemist,architect,bombardier,wretch,plague_doctor,puppeteer,poisoner,baa,puppet
+1 alchemist I cured 0 Corruptions
+2 hunter I am 1 card away from closest Evil
+3 empress One is Evil: #9, #5 or #2
+4 bishop Between #5, #2, #1 there is: Villager, Outcast and Minion
+5 enlightened Closest Evil is: Counter-clockwise
+6 lover NO Evils adjacent to me
+7 architect Both sides are equally Evil
+8 poet #6 is Evil
+9 plague_doctor #3 is Not Corrupted

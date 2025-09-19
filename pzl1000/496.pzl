@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: architect,bishop,bard,slayer,alchemist,jester,hunter,bombardier,plague_doctor,wretch,twin_minion,witch,baa
+1 bard There are no Corrupted characters
+2 jester
+3 slayer
+4 plague_doctor
+5 wretch
+6 bishop Between #9, #1 there is: Villager and Minion
+7 alchemist I cured 0 Corruptions
+8 hunter I am 1 card away from closest Evil
+[unknown]

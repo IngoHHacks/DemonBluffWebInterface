@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: fortune_teller,knitter,enlightened,lover,bard,scout,wretch,bombardier,pooka
+2 knitter Evils are not adjacent to eachother
+3 bard There are no Corrupted characters
+4 scout Pooka is 1 card away from closest Evil
+5 fortune_teller
+[unknown] #killed_by_demon
+6 lover NO Evils adjacent to me
+7 enlightened Closest Evil is: Clockwise

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: bishop,slayer,medium,fortune_teller,hunter,baker,judge,plague_doctor,bombardier,doppelganger,puppeteer,counsellor,lilis,puppet
+1 medium #5 is a real Fortune Teller
+2 slayer I couldn't kill #9
+3 baker I am the original Baker
+4 judge #3 is saying Truth
+6 baker I was a Fortune Teller
+7 baker I was a Baker
+[unknown] #killed_by_demon
+8 bishop Between #5, #4, #6 there is: Minion, Villager and Outcast
+9 hunter I am 2 cards away from closest Evil

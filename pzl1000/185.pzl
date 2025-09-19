@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: architect,jester,bishop,witness,scout,lover,alchemist,knitter,wretch,drunk,minion,witch,lilis
+1 alchemist I cured 0 Corruptions
+2 lover 2 Evils adjacent to me
+3 knitter Evils are not adjacent to eachother
+4 witness NO character was affected by an Evil
+6 scout Minion is 3 cards away from closest Evil
+7 lover 1 Evil adjacent to me
+8 architect Left side is more Evil
+[unknown]
+[unknown] #killed_by_demon

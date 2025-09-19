@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: dreamer,bishop,enlightened,oracle,scout,fortune_teller,plague_doctor,doppelganger,drunk,wretch,counsellor,lilis
+1 enlightened Closest Evil is: Clockwise
+2 dreamer #9 could be:  a Cabbage
+3 enlightened Closest Evil is: Clockwise
+4 dreamer #1 could be: Counsellor
+6 scout Counsellor is 1 card away from closest Evil
+7 bishop Between #1, #2, #9 there is: Villager, Outcast and Minion
+[unknown] #killed_by_demon
+8 bishop Between #5, #7, #6 there is: Minion, Villager and Outcast
+9 wretch

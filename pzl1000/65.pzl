@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: medium,bishop,scout,hunter,alchemist,knitter,baker,judge,doppelganger,wretch,poisoner,twin_minion,lilis
+1 bishop Between #4, #3 there is: Villager and Minion
+2 alchemist I cured 2 Corruptions
+3 scout Twin Minion is 1 card away from closest Evil
+4 judge
+6 baker I am the original Baker
+[unknown] #killed_by_demon
+7 baker I was a Hunter
+8 baker I was a Medium
+9 baker I was a Knitter
+[unknown] #killed_by_demon

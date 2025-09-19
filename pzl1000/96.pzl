@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: judge,empress,knitter,medium,bishop,dreamer,bombardier,wretch,pooka
+1 bishop Between #2, #3, #4 there is: Outcast, Villager and Demon
+2 bombardier
+3 knitter There is only 1 pair of Evil
+4 judge
+5 medium #7 is a real Empress
+6 dreamer
+7 empress One is Evil: #5, #6 or #3

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,hunter,slayer,lover,bard,knight,plague_doctor,bombardier,wretch,puppeteer,minion,baa
+1 alchemist I cured 1 Corruption
+2 knight
+3 hunter I am 1 card away from closest Evil
+9 #dead minion|alchemist I cured 2 Corruptions
+5 alchemist I cured 1 Corruption
+6 plague_doctor #2 is Not Corrupted
+7 slayer I killed Evil at #4
+8 bard I am 1 card away from Corrupted character
+9 lover 1 Evil adjacent to me

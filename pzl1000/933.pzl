@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: medium,alchemist,fortune_teller,jester,gemcrafter,bishop,doppelganger,plague_doctor,wretch,counsellor,twin_minion,lilis
+1 fortune_teller Is #6 or #1 Evil?: True
+2 alchemist I cured 1 Corruption
+3 jester Among: #1, #9, #6: There is 1 Evil
+4 alchemist I cured 1 Corruption
+6 jester Among: #4, #7, #2: There is 1 Evil
+7 medium #4 is a real Alchemist
+[unknown] #killed_by_demon
+8 bishop Between #3, #2, #1 there is: Outcast, Minion and Villager
+9 plague_doctor #7 is Not Corrupted

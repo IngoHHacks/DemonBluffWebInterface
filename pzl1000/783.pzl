@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,medium,gemcrafter,judge,alchemist,knight,bombardier,drunk,minion,pooka
+1 knight
+2 medium #7 is a real Gemcrafter
+3 bombardier
+4 baker I am the original Baker
+5 bombardier
+6 judge #1 is Lying
+7 gemcrafter #5 is Good
+8 baker I was an Alchemist

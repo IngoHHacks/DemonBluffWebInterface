@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: dreamer,baker,bard,knight,fortune_teller,architect,bombardier,plague_doctor,wretch,twin_minion,baa
+1 dreamer #2 could be: Twin Minion
+2 bombardier
+3 architect Both sides are equally Evil
+4 fortune_teller Is #2 or #1 Evil?: False
+5 bard There are no Corrupted characters
+6 baker I am the original Baker
+7 baker I was a Knight

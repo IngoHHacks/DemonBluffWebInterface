@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: fortune_teller,architect,enlightened,gemcrafter,scout,lover,alchemist,plague_doctor,drunk,witch,pooka
+2 alchemist I cured 1 Corruption
+3 scout Pooka is 4 cards away from closest Evil
+[unknown] #killed_by_demon
+4 gemcrafter #8 is Good
+5 architect Left side is more Evil
+6 lover 1 Evil adjacent to me
+7 enlightened Closest Evil is: Clockwise
+[unknown]

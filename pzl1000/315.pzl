@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,architect,druid,lover,poet,confessor,plague_doctor,doppelganger,poisoner,minion,lilis
+1 architect Right side is more Evil
+2 confessor I am Good
+3 plague_doctor
+4 poet There is only 1 pair of Evil
+6 empress One is Evil: #1, #7 or #8
+7 druid
+8 poet Poisoner is 1 card away from closest Evil
+[unknown] #killed_by_demon
+9 lover NO Evils adjacent to me

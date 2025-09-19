@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,gemcrafter,enlightened,lover,knight,fortune_teller,bishop,bombardier,wretch,plague_doctor,counsellor,minion,lilis
+1 gemcrafter #3 is Good
+2 plague_doctor #8 is Evil #4 is Corrupted
+3 plague_doctor #6 is Not Corrupted
+4 bombardier
+6 lover NO Evils adjacent to me
+7 knight
+8 fortune_teller Is #8 or #9 Evil?: False
+9 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon

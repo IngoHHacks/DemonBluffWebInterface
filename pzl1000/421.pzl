@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: jester,lover,druid,empress,gemcrafter,poet,fortune_teller,wretch,doppelganger,poisoner,lilis
+1 druid
+2 fortune_teller
+3 jester
+4 poet One is Evil: #3, #6 or #8
+6 gemcrafter #8 is Good
+7 poet #6 or #1 is a Poisoner
+[unknown] #killed_by_demon
+8 empress One is Evil: #3, #6 or #4

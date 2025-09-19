@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,gemcrafter,knight,jester,lover,druid,bombardier,doppelganger,plague_doctor,wretch,counsellor,lilis
+1 jester Among: #8, #1, #9: There are 3 Evils
+2 plague_doctor #6 is Not Corrupted
+3 jester Among: #1, #5, #4: There are 0 Evils
+4 lover 1 Evil adjacent to me
+6 druid Among #4, #7, #2 there are NO Outcasts
+7 bombardier
+8 knight
+[unknown] #killed_by_demon
+9 lover 1 Evil adjacent to me

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,fortune_teller,knight,gemcrafter,judge,lover,bombardier,plague_doctor,poisoner,pooka
+1 plague_doctor
+2 knight
+3 gemcrafter #5 is Good
+4 lover 1 Evil adjacent to me
+5 architect Left side is more Evil
+6 fortune_teller
+7 judge
+8 judge

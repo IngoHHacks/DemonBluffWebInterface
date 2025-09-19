@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 5,1,0,1
+num_evil: 1
+num_revealed: 7
+deck: alchemist,druid,enlightened,dreamer,fortune_teller,knitter,wretch,drunk,pooka
+2 dreamer
+[unknown] #killed_by_demon
+3 druid
+4 fortune_teller
+5 knitter There is only 1 pair of Evil
+6 enlightened Closest Evil is equidistant
+7 alchemist I cured 0 Corruptions

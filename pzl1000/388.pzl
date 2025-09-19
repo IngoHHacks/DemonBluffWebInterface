@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bishop,lover,judge,druid,gemcrafter,poet,doppelganger,bombardier,shaman,lilis
+1 bombardier
+2 judge
+3 poet Evils are not adjacent to eachother
+4 gemcrafter #7 is Good
+6 druid
+[unknown] #killed_by_demon
+7 druid
+8 lover 1 Evil adjacent to me

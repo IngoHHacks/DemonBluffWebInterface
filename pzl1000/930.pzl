@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: oracle,dreamer,baker,enlightened,lover,hunter,druid,slayer,bombardier,doppelganger,plague_doctor,twin_minion,minion,pooka
+1 enlightened Closest Evil is equidistant
+2 lover 2 Evils adjacent to me
+3 hunter I am 2 cards away from closest Evil
+4 oracle #5 or #10 is a Twin Minion
+5 baker I was a Baker
+6 plague_doctor #9 is Not Corrupted
+7 slayer I couldn't kill #1
+8 bombardier
+9 druid Among #2, #4, #3 there are NO Outcasts
+10 dreamer #3 could be: Pooka

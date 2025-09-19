@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,poet,hunter,baker,fortune_teller,scout,plague_doctor,doppelganger,minion,poisoner,lilis
+1 poet Lilis is 2 cards away from closest Evil
+2 scout Lilis is 1 card away from closest Evil
+3 baker I was a Fortune Teller
+4 enlightened Closest Evil is equidistant
+6 poet I am 1 card away from Corrupted character
+[unknown] #killed_by_demon
+7 fortune_teller
+8 scout Lilis is 2 cards away from closest Evil
+9 hunter I am 1 card away from closest Evil

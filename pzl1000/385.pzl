@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knight,lover,hunter,oracle,gemcrafter,slayer,dreamer,plague_doctor,bombardier,drunk,twin_minion,minion,baa
+1 lover 1 Evil adjacent to me
+2 lover 2 Evils adjacent to me
+3 dreamer
+4 hunter I am 2 cards away from closest Evil
+5 oracle #5 or #7 is a Minion
+6 knight
+7 dreamer
+8 slayer
+9 gemcrafter #7 is Good

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: enlightened,knitter,baker,dreamer,hunter,wretch,plague_doctor,bombardier,witch,baa
+1 knitter There is only 1 pair of Evil
+2 wretch
+3 dreamer #7 could be: Baa
+4 enlightened Closest Evil is: Counter-clockwise
+5 hunter I am 2 cards away from closest Evil
+6 enlightened Closest Evil is: Counter-clockwise
+[unknown]

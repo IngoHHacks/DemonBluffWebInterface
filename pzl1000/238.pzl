@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,confessor,lover,dreamer,oracle,druid,drunk,wretch,bombardier,minion,baa
+1 wretch
+2 dreamer
+3 lover NO Evils adjacent to me
+4 confessor I am Good
+5 scout Minion is 3 cards away from closest Evil
+6 oracle #1 or #3 is a Minion
+7 druid
+8 confessor I am dizzy

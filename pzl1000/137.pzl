@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: medium,slayer,knight,gemcrafter,scout,wretch,doppelganger,drunk,bombardier,counsellor,baa
+1 knight
+2 slayer
+3 gemcrafter #2 is Good
+4 bombardier
+5 gemcrafter #7 is Good
+6 gemcrafter #4 is Good
+7 scout Counsellor is 1 card away from closest Evil

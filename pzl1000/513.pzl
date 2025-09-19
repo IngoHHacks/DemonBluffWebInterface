@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: enlightened,architect,empress,medium,bard,bishop,slayer,wretch,doppelganger,poisoner,puppeteer,lilis,puppet
+1 slayer I couldn't kill #3
+2 enlightened Closest Evil is equidistant
+3 empress One is Evil: #4, #9 or #8
+4 enlightened Closest Evil is: Clockwise
+6 bard I am 2 cards away from Corrupted character
+7 architect Left side is more Evil
+8 enlightened Closest Evil is: Counter-clockwise
+9 medium #7 is a real Enlightened
+[unknown] #killed_by_demon

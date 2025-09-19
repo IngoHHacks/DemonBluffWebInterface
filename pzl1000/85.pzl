@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,baker,architect,medium,enlightened,lover,fortune_teller,bombardier,doppelganger,plague_doctor,wretch,counsellor,twin_minion,baa
+1 baker I am the original Baker
+2 lover 2 Evils adjacent to me
+3 plague_doctor
+4 scout Counsellor is 2 cards away from closest Evil
+5 enlightened Closest Evil is: Clockwise
+6 baker I was a Medium
+7 fortune_teller
+8 architect Right side is more Evil
+9 scout Twin Minion is 1 card away from closest Evil

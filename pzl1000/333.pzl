@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: fortune_teller,poet,empress,baker,architect,oracle,drunk,bombardier,witch,poisoner,lilis
+1 fortune_teller
+2 baker I am the original Baker
+3 baker I was a Poet
+4 oracle #9 or #2 is a Poisoner
+6 empress One is Evil: #6, #4 or #3
+7 baker I was an Architect
+8 baker I was a Poet
+[unknown] #killed_by_demon
+[unknown]

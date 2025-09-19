@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: medium,hunter,bard,dreamer,scout,alchemist,wretch,bombardier,plague_doctor,puppeteer,baa,puppet
+1 medium #3 is a real Hunter
+2 wretch
+3 hunter I am 1 card away from closest Evil
+4 scout Baa is 1 card away from closest Evil
+5 dreamer #2 could be: Puppeteer
+6 bard I am 2 cards away from Corrupted character
+7 alchemist I cured 0 Corruptions

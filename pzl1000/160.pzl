@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,dreamer,alchemist,jester,lover,gemcrafter,plague_doctor,wretch,bombardier,minion,twin_minion,baa
+1 gemcrafter #2 is Good
+2 bombardier
+3 knitter Evils are not adjacent to eachother
+4 dreamer
+5 knitter There is only 1 pair of Evil
+6 alchemist I cured 0 Corruptions
+7 jester
+8 lover 1 Evil adjacent to me
+9 plague_doctor

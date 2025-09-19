@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: gemcrafter,poet,judge,lover,druid,medium,bishop,bombardier,wretch,shaman,twin_minion,lilis
+1 wretch
+2 gemcrafter #5 is Good
+3 druid
+4 poet #2 is a real Gemcrafter
+6 gemcrafter #9 is Good
+7 lover NO Evils adjacent to me
+8 bishop Between #9, #3, #2 there is: Villager, Outcast and Minion
+9 judge
+[unknown] #killed_by_demon

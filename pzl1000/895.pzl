@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: poet,bard,jester,fortune_teller,empress,gemcrafter,druid,doppelganger,wretch,drunk,poisoner,lilis
+1 druid Among #3, #5, #4 there are NO Outcasts
+2 druid Among #9, #8, #6 there are NO Outcasts
+3 gemcrafter #2 is Good
+4 jester Among: #5, #9, #8: There are 2 Evils
+6 fortune_teller Is #7 or #4 Evil?: True
+[unknown] #killed_by_demon
+7 empress One is Evil: #4, #1 or #5
+8 bard There are no Corrupted characters
+9 wretch

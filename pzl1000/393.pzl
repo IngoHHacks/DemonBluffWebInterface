@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,druid,dreamer,enlightened,lover,architect,drunk,wretch,shaman,lilis
+1 enlightened Closest Evil is: Counter-clockwise
+2 poet One is Evil: #1, #3 or #8
+3 enlightened Closest Evil is: Clockwise
+4 architect Right side is more Evil
+6 dreamer
+[unknown] #killed_by_demon
+7 lover NO Evils adjacent to me
+8 wretch

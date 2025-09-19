@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 3
+num_revealed: 8
+deck: bishop,dreamer,druid,enlightened,jester,knight,bombardier,plague_doctor,wretch,drunk,puppeteer,baa,puppet
+1 knight
+2 jester Among: #4, #6, #5: There is 1 Evil
+3 enlightened Closest Evil is: Counter-clockwise
+4 plague_doctor #2 is Not Corrupted
+5 dreamer #1 could be: Baa
+6 bishop Between #1, #5, #3 there is: Minion, Outcast and Villager
+7 jester Among: #8, #3, #1: There are 0 Evils
+8 druid Among #2, #6, #5 there is: Drunk

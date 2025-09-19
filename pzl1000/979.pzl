@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,confessor,knitter,enlightened,poet,dreamer,plague_doctor,bombardier,wretch,twin_minion,baa
+1 gemcrafter #2 is Good
+2 poet #1 is Good
+3 knitter Evils are not adjacent to eachother
+4 dreamer #3 could be: Baa
+5 dreamer #4 could be: Baa
+6 enlightened Closest Evil is equidistant
+7 confessor I am dizzy
+8 bombardier

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: hunter,architect,dreamer,judge,slayer,confessor,druid,bombardier,drunk,doppelganger,wretch,counsellor,shaman,baa
+1 slayer
+2 confessor I am dizzy
+3 hunter I am 3 cards away from closest Evil
+4 architect Left side is more Evil
+5 architect Right side is more Evil
+6 dreamer
+7 bombardier
+8 druid
+9 slayer

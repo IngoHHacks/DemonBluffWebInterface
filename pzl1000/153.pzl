@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: architect,alchemist,hunter,baker,confessor,poet,doppelganger,plague_doctor,witch,lilis
+1 baker I am the original Baker
+2 baker I am the original Baker
+3 confessor I am Good
+4 baker I was a Baker
+6 baker I was an Alchemist
+[unknown] #killed_by_demon
+7 alchemist I cured 2 Corruptions
+[unknown]

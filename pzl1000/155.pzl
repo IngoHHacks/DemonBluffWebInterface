@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,confessor,architect,judge,baker,empress,bombardier,wretch,plague_doctor,twin_minion,baa
+1 empress One is Evil: #8, #3 or #7
+2 architect Left side is more Evil
+3 baker I am the original Baker
+4 bombardier
+5 plague_doctor
+6 baker I was a Medium
+7 confessor I am dizzy
+8 baker I was a Judge

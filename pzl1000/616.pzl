@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,alchemist,hunter,judge,baker,knight,bombardier,wretch,plague_doctor,doppelganger,counsellor,poisoner,baa
+1 knight
+2 hunter I am 3 cards away from closest Evil
+3 dreamer #8 could be:  a Cabbage
+4 bombardier
+5 bombardier
+6 bombardier
+7 baker I was a Hunter
+8 wretch
+9 alchemist I cured 0 Corruptions

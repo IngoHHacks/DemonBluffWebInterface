@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: lover,poet,baker,enlightened,dreamer,knight,plague_doctor,doppelganger,bombardier,counsellor,shaman,lilis
+1 enlightened Closest Evil is: Clockwise
+2 plague_doctor #1 is Not Corrupted
+3 lover 1 Evil adjacent to me
+4 dreamer #8 could be: Counsellor
+6 baker I was an Enlightened
+7 lover 2 Evils adjacent to me
+8 bombardier
+9 dreamer #9 could be: Lilis
+[unknown] #killed_by_demon

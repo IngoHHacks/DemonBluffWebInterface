@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: fortune_teller,oracle,baker,confessor,scout,empress,enlightened,drunk,doppelganger,bombardier,puppeteer,witch,baa,puppet
+2 confessor I am dizzy
+3 scout Puppeteer is 3 cards away from closest Evil
+4 oracle #2 or #8 is a Puppeteer
+5 enlightened Closest Evil is: Counter-clockwise
+6 baker I am the original Baker
+7 fortune_teller
+8 fortune_teller
+[unknown]
+[unknown] #killed_by_demon

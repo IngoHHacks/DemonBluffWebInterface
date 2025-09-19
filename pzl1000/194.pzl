@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: empress,jester,hunter,scout,alchemist,confessor,slayer,bishop,drunk,plague_doctor,poisoner,minion,lilis
+1 bishop Between #9, #6, #7 there is: Villager, Outcast and Minion
+2 plague_doctor
+3 confessor I am dizzy
+4 empress One is Evil: #7, #6 or #2
+6 scout Poisoner is 2 cards away from closest Evil
+7 jester
+8 hunter I am 3 cards away from closest Evil
+[unknown] #killed_by_demon
+9 alchemist I cured 0 Corruptions

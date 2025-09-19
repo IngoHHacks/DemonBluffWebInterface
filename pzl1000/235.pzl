@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: jester,alchemist,enlightened,empress,lover,gemcrafter,drunk,bombardier,plague_doctor,puppeteer,pooka,puppet
+2 bombardier
+3 enlightened Closest Evil is: Counter-clockwise
+4 plague_doctor
+5 empress One is Evil: #5, #7 or #3
+[unknown] #killed_by_demon
+6 gemcrafter #1 is Good
+7 alchemist I cured 0 Corruptions
+8 lover NO Evils adjacent to me

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: scout,enlightened,hunter,bishop,slayer,oracle,druid,doppelganger,drunk,plague_doctor,shaman,witch,lilis
+1 bishop Between #6, #8, #2 there is: Villager, Outcast and Minion
+2 oracle #5 or #6 is a Witch
+3 hunter I am 1 card away from closest Evil
+4 plague_doctor #8 is Evil #6 is Corrupted
+6 bishop Between #8, #6, #2 there is: Outcast, Minion and Villager
+7 enlightened Closest Evil is: Counter-clockwise
+8 scout Shaman is 2 cards away from closest Evil
+[unknown] #killed_by_demon
+[unknown]

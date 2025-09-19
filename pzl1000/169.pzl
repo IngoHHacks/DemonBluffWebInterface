@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,slayer,bard,witness,lover,baker,scout,wretch,doppelganger,bombardier,witch,counsellor,lilis
+2 scout Counsellor is 1 card away from closest Evil
+3 bard There are no Corrupted characters
+4 scout Witch is 3 cards away from closest Evil
+[unknown] #killed_by_demon
+5 bombardier
+7 lover 2 Evils adjacent to me
+8 lover 2 Evils adjacent to me
+9 wretch
+[unknown] #killed_by_demon
+[unknown]

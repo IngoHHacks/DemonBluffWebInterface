@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,witness,baker,lover,judge,druid,wretch,drunk,plague_doctor,counsellor,pooka
+1 wretch
+2 druid Among #8, #7, #3 there is: Wretch
+3 lover 2 Evils adjacent to me
+4 enlightened Closest Evil is: Counter-clockwise
+5 baker I am the original Baker
+6 plague_doctor #5 is Not Corrupted
+7 druid Among #5, #1, #7 there is: Wretch
+8 baker I was a Lover

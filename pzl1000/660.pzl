@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: gemcrafter,judge,medium,empress,bishop,slayer,doppelganger,plague_doctor,wretch,puppeteer,pooka
+1 judge #6 is Lying
+2 bishop Between #7, #2, #5 there is: Outcast, Minion and Villager
+3 gemcrafter #4 is Good
+4 slayer I couldn't kill #3
+5 medium #1 is a real Judge
+6 plague_doctor #8 is Not Corrupted
+7 empress One is Evil: #4, #6 or #9
+8 wretch
+9 gemcrafter #8 is Good

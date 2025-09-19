@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: druid,poet,knight,alchemist,bishop,judge,wretch,plague_doctor,bombardier,minion,baa
+1 alchemist I cured 2 Corruptions
+2 knight
+3 bishop Between #2, #7, #5 there is: Minion, Villager and Outcast
+4 druid Among #7, #4, #6 there is: Plague Doctor
+5 judge #6 is saying Truth
+6 plague_doctor #3 is Not Corrupted
+7 poet 1 Evil adjacent to me

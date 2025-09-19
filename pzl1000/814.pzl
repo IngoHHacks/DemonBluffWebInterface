@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: lover,poet,bishop,bard,druid,hunter,drunk,doppelganger,bombardier,minion,pooka
+1 bard I am 4 cards away from Corrupted character
+2 poet #3 is a real Bombardier
+3 bombardier
+4 lover 2 Evils adjacent to me
+5 druid Among #1, #4, #7 there are NO Outcasts
+6 bard I am 2 cards away from Corrupted character
+7 hunter I am 1 card away from closest Evil
+8 hunter I am 2 cards away from closest Evil
+9 bishop Between #7, #6, #1 there is: Minion, Outcast and Villager

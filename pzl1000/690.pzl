@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: empress,gemcrafter,lover,enlightened,architect,dreamer,poet,drunk,wretch,puppeteer,pooka,puppet
+1 enlightened Closest Evil is: Clockwise
+2 lover NO Evils adjacent to me
+3 dreamer #8 could be: Pooka
+4 gemcrafter #1 is Good
+5 architect Left side is more Evil
+6 poet #4 is Evil
+7 poet #5 is Good
+8 empress One is Evil: #4, #3 or #2

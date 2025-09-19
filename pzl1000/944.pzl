@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,scout,knitter,baker,oracle,medium,enlightened,doppelganger,bombardier,wretch,plague_doctor,counsellor,baa
+1 baker I was a Knitter
+2 knitter There is only 1 pair of Evil
+3 wretch
+4 scout Counsellor is 2 cards away from closest Evil
+5 alchemist I cured 0 Corruptions
+6 enlightened Closest Evil is: Counter-clockwise
+7 bombardier
+8 medium #2 is a real Knitter

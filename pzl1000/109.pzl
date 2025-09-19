@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: knight,baker,confessor,druid,fortune_teller,scout,gemcrafter,judge,drunk,doppelganger,puppeteer,pooka,puppet
+1 knight
+2 druid
+3 fortune_teller
+4 judge
+5 scout Puppet is 2 cards away from closest Evil
+6 gemcrafter #5 is Good
+7 baker I am the original Baker
+8 baker I was a Confessor

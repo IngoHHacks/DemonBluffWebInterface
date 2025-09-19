@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: poet,baker,architect,fortune_teller,medium,bombardier,plague_doctor,pooka
+1 bombardier
+2 medium #4 is a real Fortune Teller
+3 baker I am the original Baker
+4 baker I was a Fortune Teller
+5 baker I was a Fortune Teller
+6 architect Left side is more Evil

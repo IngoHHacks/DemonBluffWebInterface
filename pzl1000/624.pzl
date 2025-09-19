@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: slayer,bishop,gemcrafter,bard,judge,knitter,bombardier,wretch,plague_doctor,doppelganger,minion,witch,baa
+1 judge #2 is saying Truth
+2 slayer I killed Evil at #6
+3 wretch
+4 bishop Between #1, #8, #9 there is: Outcast, Villager and Minion
+5 plague_doctor #1 is Evil #1 is Corrupted
+8 #dead minion|judge #4 is saying Truth
+7 gemcrafter #1 is Good
+8 knitter There are 3 pairs of Evil
+[unknown]

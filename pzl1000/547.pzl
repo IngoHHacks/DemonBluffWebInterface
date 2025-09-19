@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: knight,confessor,scout,slayer,bard,baker,medium,bombardier,wretch,plague_doctor,counsellor,pooka
+1 medium #7 is a real Knight
+2 bard There are no Corrupted characters
+3 plague_doctor #7 is Evil #2 is Corrupted
+4 baker I am the original Baker
+5 baker I was a Confessor
+6 baker I was a Bard
+7 knight
+8 bombardier

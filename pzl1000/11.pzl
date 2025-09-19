@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,judge,baker,oracle,gemcrafter,bishop,plague_doctor,doppelganger,wretch,witch,twin_minion,baa
+1 oracle #6 or #3 is a Witch
+2 bishop Between #4, #9, #6 there is: Villager, Outcast and Minion
+3 knight
+4 knight
+5 judge
+6 baker I am the original Baker
+7 baker I was a Knight
+8 baker I was a Gemcrafter
+[unknown]

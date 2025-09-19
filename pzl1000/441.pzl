@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,poet,gemcrafter,baker,druid,judge,alchemist,oracle,wretch,bombardier,plague_doctor,witch,poisoner,lilis
+1 plague_doctor
+2 dreamer
+3 judge
+4 gemcrafter #5 is Good
+6 baker I was an Alchemist
+7 druid
+[unknown] #killed_by_demon
+8 poet Witch is 1 card away from closest Evil
+9 bombardier
+[unknown]

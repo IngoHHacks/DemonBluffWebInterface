@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 3
+num_revealed: 7
+deck: scout,bishop,confessor,lover,oracle,plague_doctor,drunk,bombardier,puppeteer,baa,puppet
+1 lover 1 Evil adjacent to me
+2 plague_doctor
+3 plague_doctor
+4 scout Baa is 1 card away from closest Evil
+5 bishop Between #6, #7, #4 there is: Minion, Outcast and Villager
+6 confessor I am Good
+7 oracle #1 or #3 is a Puppet

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,poet,oracle,architect,judge,knitter,wretch,drunk,bombardier,poisoner,baa
+1 oracle #8 or #4 is a Poisoner
+2 wretch
+3 architect Right side is more Evil
+4 poet #2 or #4 is a Poisoner
+5 gemcrafter #8 is Good
+6 judge #8 is Lying
+7 judge #8 is Lying
+8 knitter There is only 1 pair of Evil

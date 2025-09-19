@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: poet,gemcrafter,oracle,knight,bishop,empress,medium,drunk,plague_doctor,shaman,pooka
+1 plague_doctor
+2 bishop Between #7, #1, #2 there is: Outcast, Villager and Minion
+3 medium #5 is a real Gemcrafter
+4 oracle #6 or #2 is a Shaman
+5 gemcrafter #7 is Good
+6 medium #7 is a real Empress
+7 empress One is Evil: #8, #6 or #4
+8 poet I am 1 card away from closest Evil

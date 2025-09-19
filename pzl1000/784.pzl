@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,empress,bard,scout,fortune_teller,knitter,medium,wretch,doppelganger,bombardier,drunk,counsellor,baa
+1 hunter I am 1 card away from closest Evil
+2 bard I am 1 card away from Corrupted character
+3 bombardier
+4 fortune_teller Is #8 or #1 Evil?: False
+5 empress One is Evil: #1, #8 or #7
+6 knitter Evils are not adjacent to eachother
+7 medium #2 is a real Bard
+8 hunter I am 1 card away from closest Evil

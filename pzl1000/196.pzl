@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: slayer,gemcrafter,scout,lover,bard,bombardier,drunk,wretch,plague_doctor,doppelganger,counsellor,baa
+2 wretch
+3 plague_doctor
+4 scout Baa is 1 card away from closest Evil
+5 gemcrafter #2 is Good
+6 slayer
+[unknown] #killed_by_demon
+7 plague_doctor
+8 scout Counsellor is 2 cards away from closest Evil

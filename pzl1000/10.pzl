@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,confessor,gemcrafter,alchemist,scout,knitter,oracle,doppelganger,drunk,wretch,puppeteer,lilis,puppet
+1 wretch
+2 confessor I am Good
+3 gemcrafter #8 is Good
+4 dreamer
+6 knitter There are 2 pairs of Evil
+7 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+8 oracle #6 or #9 is a Puppeteer
+9 scout Puppet is 3 cards away from closest Evil

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: bard,alchemist,hunter,lover,architect,jester,plague_doctor,bombardier,wretch,twin_minion,baa
+1 bard There are no Corrupted characters
+2 lover 1 Evil adjacent to me
+3 alchemist I cured 0 Corruptions
+4 plague_doctor
+5 architect Both sides are equally Evil
+6 hunter I am 1 card away from closest Evil
+7 bard I am 3 cards away from Corrupted character
+8 jester

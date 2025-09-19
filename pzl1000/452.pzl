@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,knitter,enlightened,jester,judge,bishop,gemcrafter,plague_doctor,bombardier,minion,twin_minion,pooka
+1 judge
+2 confessor I am dizzy
+3 knitter There is only 1 pair of Evil
+4 enlightened Closest Evil is: Counter-clockwise
+5 confessor I am Good
+6 bombardier
+7 jester
+8 gemcrafter #7 is Good
+9 bishop Between #5, #6, #8 there is: Outcast, Villager and Minion

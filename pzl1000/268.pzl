@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: enlightened,medium,scout,empress,bard,alchemist,jester,wretch,bombardier,doppelganger,drunk,twin_minion,counsellor,baa
+1 jester
+2 scout Counsellor is 3 cards away from closest Evil
+3 empress One is Evil: #2, #5 or #7
+4 enlightened Closest Evil is: Counter-clockwise
+5 medium #4 is a real Enlightened
+6 bard I am 2 cards away from Corrupted character
+7 bard There are no Corrupted characters
+8 medium #4 is a real Enlightened
+9 wretch

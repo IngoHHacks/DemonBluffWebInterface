@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: lover,medium,dreamer,scout,druid,knight,enlightened,plague_doctor,bombardier,puppeteer,lilis,puppet
+1 scout Puppet is 1 card away from closest Evil
+2 lover 1 Evil adjacent to me
+3 medium #6 is a real Knight
+4 bombardier
+6 druid Among #7, #8, #4 there is: Bombardier
+7 knight
+8 dreamer #5 could be: Puppeteer
+[unknown] #killed_by_demon

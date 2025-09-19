@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: scout,gemcrafter,architect,enlightened,baker,druid,oracle,medium,drunk,plague_doctor,bombardier,twin_minion,counsellor,lilis
+1 oracle #5 or #7 is a Twin Minion
+2 medium #8 is a real Gemcrafter
+3 plague_doctor #6 is Not Corrupted
+4 architect Left side is more Evil
+6 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon
+7 druid Among #2, #3, #9 there is: Plague Doctor
+8 gemcrafter #2 is Good
+9 scout Counsellor is 2 cards away from closest Evil

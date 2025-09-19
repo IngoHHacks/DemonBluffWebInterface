@@ -71,7 +71,7 @@ namespace DemonBluffStateExporter
                 }
 
                 outStr += $"\nnum_evil: {totalEvil}";
-                outStr += $"\nnum_revealed: {Gameplay.CurrentReveal}"; // n % 4 for night state
+                outStr += $"\nnum_revealed: {Gameplay.CurrentReveal}"; // n % 5 for night state
                 outStr += $"\ndeck: {string.Join(",", deck)}";
                 if (writeHealth.Value)
                 {

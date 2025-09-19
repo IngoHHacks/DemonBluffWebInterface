@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: empress,confessor,fortune_teller,druid,slayer,scout,lover,oracle,knight,drunk,doppelganger,shaman,poisoner,lilis
+1 confessor I am dizzy
+2 knight
+3 slayer I couldn't kill #1
+4 scout Lilis is 3 cards away from closest Evil
+6 lover NO Evils adjacent to me
+7 knight
+8 fortune_teller Is #10 or #6 Evil?: False
+9 druid Among #2, #9, #4 there are NO Outcasts
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon #hidden_evil

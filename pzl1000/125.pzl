@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: baker,fortune_teller,confessor,architect,enlightened,alchemist,bard,drunk,plague_doctor,twin_minion,lilis
+1 fortune_teller
+2 plague_doctor
+3 bard I am 3 cards away from Corrupted character
+4 enlightened Closest Evil is: Clockwise
+6 alchemist I cured 2 Corruptions
+7 confessor I am dizzy
+[unknown] #killed_by_demon
+8 architect Both sides are equally Evil

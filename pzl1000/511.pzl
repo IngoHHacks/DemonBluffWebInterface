@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: empress,gemcrafter,bard,bishop,knight,druid,wretch,plague_doctor,bombardier,doppelganger,counsellor,baa
+1 bishop Between #1, #8, #6 there is: Villager, Minion and Outcast
+2 bombardier
+3 empress One is Evil: #8, #5 or #2
+4 druid Among #6, #5, #3 there is: Doppelganger
+5 bishop Between #6, #7, #1 there is: Villager, Outcast and Minion
+6 wretch
+7 knight
+8 gemcrafter #1 is Good

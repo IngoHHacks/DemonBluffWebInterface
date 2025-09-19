@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: confessor,enlightened,judge,bishop,empress,architect,plague_doctor,doppelganger,wretch,shaman,lilis
+1 architect Right side is more Evil
+2 bishop Between #9, #6, #1 there is: Outcast, Minion and Villager
+3 judge #7 is saying Truth
+4 empress One is Evil: #2, #7 or #1
+6 enlightened Closest Evil is equidistant
+7 plague_doctor #9 is Not Corrupted
+[unknown] #killed_by_demon
+8 wretch
+9 empress One is Evil: #4, #3 or #1

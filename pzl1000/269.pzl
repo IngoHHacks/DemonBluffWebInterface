@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: oracle,hunter,alchemist,bard,baker,judge,wretch,plague_doctor,doppelganger,shaman,baa
+1 oracle #2 or #4 is a Shaman
+2 bard There are no Corrupted characters
+3 baker I am the original Baker
+4 alchemist I cured 0 Corruptions
+5 baker I was a Hunter
+6 oracle #2 or #7 is a Shaman
+7 baker I was a Bard
+8 baker I was a Bard

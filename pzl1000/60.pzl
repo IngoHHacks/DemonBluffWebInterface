@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bishop,medium,slayer,bard,knitter,fortune_teller,oracle,gemcrafter,plague_doctor,wretch,minion,shaman,lilis
+1 oracle #4 or #5 is a Minion
+2 bishop Between #5, #9, #7 there is: Minion, Outcast and Villager
+3 knitter There is only 1 pair of Evil
+4 wretch
+6 medium #7 is a real Bard
+7 gemcrafter #4 is Good
+8 bard There are no Corrupted characters
+[unknown] #killed_by_demon
+9 fortune_teller

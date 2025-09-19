@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: lover,poet,baker,confessor,gemcrafter,architect,bombardier,plague_doctor,witch,pooka
+1 confessor I am dizzy
+2 architect Left side is more Evil
+3 gemcrafter #7 is Good
+4 lover 2 Evils adjacent to me
+5 poet Evils are not adjacent to eachother
+6 baker I am the original Baker
+7 architect Left side is more Evil
+[unknown]

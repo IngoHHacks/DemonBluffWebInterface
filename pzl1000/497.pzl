@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: slayer,lover,enlightened,baker,empress,knitter,dreamer,gemcrafter,bombardier,plague_doctor,doppelganger,poisoner,shaman,lilis
+1 dreamer
+2 lover 1 Evil adjacent to me
+3 baker I am the original Baker
+4 lover NO Evils adjacent to me
+6 enlightened Closest Evil is: Clockwise
+7 plague_doctor
+[unknown] #killed_by_demon
+8 knitter There is only 1 pair of Evil
+9 gemcrafter #4 is Good
+[unknown] #killed_by_demon

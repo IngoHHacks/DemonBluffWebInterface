@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: baker,slayer,medium,jester,knight,architect,plague_doctor,doppelganger,wretch,witch,baa
+1 slayer I killed Evil at #6
+2 baker I am the original Baker
+3 knight
+4 medium #6 is a real Medium
+5 architect Left side is more Evil
+7 #dead baa|medium #2 is a real Baker
+7 baker I was a Jester
+[unknown]

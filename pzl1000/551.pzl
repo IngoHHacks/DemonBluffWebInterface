@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: lover,druid,bard,enlightened,empress,judge,hunter,doppelganger,bombardier,plague_doctor,puppeteer,minion,baa
+1 hunter I am 4 cards away from closest Evil
+2 lover NO Evils adjacent to me
+3 enlightened Closest Evil is: Clockwise
+4 bard I am 4 cards away from Corrupted character
+5 bombardier
+6 judge #4 is Lying
+7 enlightened Closest Evil is: Clockwise
+8 plague_doctor #6 is Not Corrupted
+9 druid Among #1, #5, #3 there are NO Outcasts
+10 empress One is Evil: #4, #9 or #1

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,lover,scout,oracle,slayer,empress,fortune_teller,drunk,doppelganger,twin_minion,lilis
+1 scout Twin Minion is 2 cards away from closest Evil
+2 fortune_teller
+3 fortune_teller
+4 oracle #7 or #2 is a Twin Minion
+6 medium #4 is a real Oracle
+[unknown] #killed_by_demon
+7 slayer
+8 empress One is Evil: #6, #3 or #4

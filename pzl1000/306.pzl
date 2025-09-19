@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: empress,hunter,judge,scout,bishop,medium,knight,drunk,doppelganger,witch,pooka
+1 hunter I am 3 cards away from closest Evil
+2 medium #1 is a real Hunter
+3 judge
+4 scout Pooka is 4 cards away from closest Evil
+5 empress One is Evil: #7, #2 or #8
+6 bishop Between #7, #8, #5 there is: Villager, Outcast and Minion
+7 knight
+[unknown]

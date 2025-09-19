@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 3
+num_revealed: 9
+deck: bard,hunter,medium,alchemist,jester,slayer,knight,wretch,doppelganger,plague_doctor,puppeteer,lilis,puppet
+1 plague_doctor #6 is Not Corrupted
+2 bard I am 2 cards away from Corrupted character
+3 medium #5 is a real Alchemist
+4 jester Among: #3, #5, #2: There are 2 Evils
+6 alchemist I cured 0 Corruptions
+[unknown] #killed_by_demon
+7 knight
+8 slayer I couldn't kill #5
+9 hunter I am 2 cards away from closest Evil

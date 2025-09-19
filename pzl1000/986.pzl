@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,scout,oracle,hunter,poet,gemcrafter,doppelganger,drunk,wretch,shaman,baa
+1 hunter I am 2 cards away from closest Evil
+2 scout Baa is 1 card away from closest Evil
+3 dreamer #8 could be: Shaman
+4 gemcrafter #3 is Good
+5 dreamer #2 could be: Shaman
+6 wretch
+7 poet 2 Evils adjacent to me
+8 oracle #2 or #4 is a Shaman

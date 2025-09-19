@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: confessor,poet,hunter,empress,enlightened,bard,witness,doppelganger,plague_doctor,bombardier,minion,puppeteer,pooka,puppet
+1 plague_doctor
+2 poet I am 1 card away from Corrupted character
+3 hunter I am 1 card away from closest Evil
+4 enlightened Closest Evil is: Clockwise
+5 bard I am 1 card away from Corrupted character
+6 poet #3 is Good
+7 witness #4 was affected by an Evil
+8 confessor I am dizzy
+9 bombardier
+10 empress One is Evil: #7, #5 or #8

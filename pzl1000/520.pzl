@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: empress,druid,slayer,oracle,confessor,bard,alchemist,plague_doctor,bombardier,twin_minion,minion,lilis
+1 empress One is Evil: #9, #7 or #10
+2 confessor I am Good
+3 bombardier
+4 empress One is Evil: #3, #1 or #9
+6 alchemist I cured 0 Corruptions
+7 slayer I couldn't kill #4
+[unknown] #killed_by_demon
+8 bard There are no Corrupted characters
+9 oracle #4 or #1 is a Minion
+[unknown] #killed_by_demon #hidden_evil

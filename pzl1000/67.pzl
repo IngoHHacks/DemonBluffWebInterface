@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,architect,fortune_teller,hunter,druid,poet,gemcrafter,drunk,bombardier,witch,shaman,lilis
+1 druid
+2 druid
+3 poet Between #7, #2, #6 there is: Minion, Villager and Outcast
+4 dreamer
+6 hunter I am 1 card away from closest Evil
+[unknown] #killed_by_demon
+7 architect Right side is more Evil
+8 architect Right side is more Evil
+[unknown]

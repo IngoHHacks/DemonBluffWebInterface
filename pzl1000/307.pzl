@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: confessor,slayer,fortune_teller,knight,hunter,wretch,bombardier,plague_doctor,drunk,shaman,baa
+1 fortune_teller
+2 knight
+3 confessor I am Good
+4 wretch
+5 plague_doctor
+6 knight
+7 slayer

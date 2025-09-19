@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: dreamer,bard,architect,empress,bishop,jester,fortune_teller,wretch,bombardier,puppeteer,pooka,puppet
+1 bard I am 3 cards away from Corrupted character
+2 dreamer
+3 wretch
+4 fortune_teller
+5 architect Right side is more Evil
+6 bishop Between #1, #5 there is: Villager and Minion
+7 empress One is Evil: #6, #1 or #5
+8 jester

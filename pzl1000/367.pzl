@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: bishop,hunter,dreamer,medium,knitter,gemcrafter,architect,oracle,plague_doctor,doppelganger,poisoner,minion,lilis
+1 gemcrafter #2 is Good
+2 knitter There are 2 pairs of Evil
+3 oracle #4 or #7 is a Minion
+4 bishop Between #8, #7, #3 there is: Outcast, Villager and Minion
+6 architect Right side is more Evil
+[unknown] #killed_by_demon
+7 dreamer
+8 architect Right side is more Evil
+9 medium #1 is a real Gemcrafter

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: judge,architect,dreamer,confessor,witness,knitter,bishop,wretch,bombardier,shaman,witch,lilis
+1 knitter Evils are not adjacent to eachother
+2 confessor I am Good
+3 architect Left side is more Evil
+4 witness #4 was affected by an Evil
+6 witness #4 was affected by an Evil
+7 dreamer
+8 bishop Between #2, #6, #3 there is: Villager, Minion and Outcast
+9 wretch
+[unknown]
+[unknown] #killed_by_demon

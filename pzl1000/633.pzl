@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 3
+num_revealed: 8
+deck: judge,enlightened,baker,bard,lover,scout,wretch,drunk,doppelganger,puppeteer,baa,puppet
+1 baker I was a Judge
+2 judge #3 is Lying
+3 scout Puppeteer is 3 cards away from closest Evil
+4 scout Puppeteer is 1 card away from closest Evil
+5 enlightened Closest Evil is: Counter-clockwise
+6 enlightened Closest Evil is: Counter-clockwise
+7 bard There are no Corrupted characters
+8 lover 1 Evil adjacent to me

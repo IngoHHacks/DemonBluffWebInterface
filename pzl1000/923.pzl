@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knitter,dreamer,fortune_teller,scout,medium,hunter,bombardier,drunk,wretch,poisoner,baa
+1 knitter Evils are not adjacent to eachother
+2 fortune_teller Is #3 or #4 Evil?: False
+3 knitter There is only 1 pair of Evil
+4 medium #7 is a real Hunter
+5 scout Baa is 3 cards away from closest Evil
+6 dreamer #5 could be: Poisoner
+7 hunter I am 1 card away from closest Evil

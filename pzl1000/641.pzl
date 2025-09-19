@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: slayer,baker,poet,knitter,alchemist,architect,knight,plague_doctor,bombardier,doppelganger,minion,lilis
+1 slayer I couldn't kill #4
+2 knitter Evils are not adjacent to eachother
+3 alchemist I cured 1 Corruption
+4 plague_doctor #1 is Not Corrupted
+6 poet One is Evil: #3, #6 or #2
+7 architect Left side is more Evil
+8 baker I was an Alchemist
+[unknown] #killed_by_demon
+9 bombardier

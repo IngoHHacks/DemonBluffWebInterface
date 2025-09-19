@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: knight,oracle,hunter,judge,empress,plague_doctor,wretch,bombardier,minion,baa
+1 judge
+2 oracle #4 or #6 is a Minion
+3 empress One is Evil: #6, #4 or #2
+4 bombardier
+5 hunter I am 2 cards away from closest Evil
+6 knight
+7 plague_doctor

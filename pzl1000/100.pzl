@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: scout,knight,judge,enlightened,confessor,oracle,gemcrafter,drunk,plague_doctor,twin_minion,puppeteer,lilis,puppet
+1 knight
+2 enlightened Closest Evil is: Clockwise
+3 scout Twin Minion is 2 cards away from closest Evil
+4 plague_doctor
+6 oracle #7 or #10 is a Puppet
+7 judge
+[unknown] #killed_by_demon
+8 gemcrafter #9 is Good
+9 gemcrafter #8 is Good
+[unknown] #killed_by_demon #hidden_evil

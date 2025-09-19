@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,knitter,druid,lover,poet,slayer,wretch,doppelganger,twin_minion,lilis
+1 knitter Evils are not adjacent to eachother
+2 alchemist I cured 0 Corruptions
+3 knitter Evils are not adjacent to eachother
+4 lover 1 Evil adjacent to me
+6 poet Twin Minion is 3 cards away from closest Evil
+7 druid
+8 poet There is only 1 pair of Evil
+[unknown] #killed_by_demon

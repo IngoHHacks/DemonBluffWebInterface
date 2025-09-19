@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: fortune_teller,baker,medium,scout,knight,jester,plague_doctor,bombardier,puppeteer,minion,lilis,puppet
+1 medium #8 is a real Scout
+2 medium #8 is a real Scout
+3 baker I am the original Baker
+4 fortune_teller
+6 plague_doctor
+[unknown] #killed_by_demon
+7 baker I was a Fortune Teller
+8 scout Puppet is 1 card away from closest Evil
+9 medium #8 is a real Scout

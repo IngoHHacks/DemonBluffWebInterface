@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: oracle,judge,hunter,jester,slayer,lover,architect,wretch,bombardier,doppelganger,counsellor,shaman,lilis
+2 architect Left side is more Evil
+3 oracle #9 or #7 is a Counsellor
+4 architect Left side is more Evil
+5 jester
+7 jester
+8 judge
+9 wretch
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon
+10 bombardier

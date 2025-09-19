@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: poet,bard,dreamer,lover,baker,confessor,gemcrafter,slayer,drunk,plague_doctor,minion,poisoner,lilis
+1 dreamer #6 could be: Minion
+2 confessor I am dizzy
+3 baker I am the original Baker
+4 plague_doctor #1 is Not Corrupted
+6 gemcrafter #9 is Good
+7 baker I was a Bard
+[unknown] #killed_by_demon
+8 poet Between #8, #3, #10 there is: Minion, Outcast and Villager
+9 lover 2 Evils adjacent to me
+[unknown] #killed_by_demon

@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: judge,fortune_teller,empress,oracle,bard,druid,confessor,dreamer,poet,drunk,wretch,poisoner,witch,lilis
+1 wretch
+2 judge #3 is saying Truth
+3 fortune_teller Is #5 or #10 Evil?: True
+4 bard I am 2 cards away from Corrupted character
+6 druid Among #4, #7, #9 there are NO Outcasts
+7 empress One is Evil: #5, #7 or #2
+8 oracle #2 or #9 is a Witch
+9 confessor I am dizzy
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

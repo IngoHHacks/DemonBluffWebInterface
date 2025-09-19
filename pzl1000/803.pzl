@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: knitter,jester,oracle,enlightened,fortune_teller,bishop,medium,doppelganger,plague_doctor,bombardier,poisoner,minion,baa
+1 knitter There are 2 pairs of Evil
+2 bishop Between #3, #5, #8 there is: Outcast, Minion and Villager
+3 fortune_teller Is #2 or #9 Evil?: False
+4 jester Among: #3, #8, #6: There is 1 Evil
+5 oracle #2 or #7 is a Poisoner
+6 medium #2 is a real Bishop
+7 plague_doctor #2 is Evil #1 is Corrupted
+8 medium #1 is a real Knitter
+9 enlightened Closest Evil is: Counter-clockwise

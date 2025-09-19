@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,confessor,bishop,jester,baker,dreamer,alchemist,doppelganger,plague_doctor,bombardier,poisoner,baa
+1 jester Among: #2, #5, #7: There is 1 Evil
+2 confessor I am Good
+3 baker I was a Bishop
+4 architect Right side is more Evil
+5 dreamer #5 could be: Poisoner
+6 bombardier
+7 bishop Between #3, #2, #6 there is: Minion, Villager and Outcast
+8 alchemist I cured 1 Corruption

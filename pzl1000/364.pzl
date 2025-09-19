@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: confessor,druid,lover,bishop,scout,jester,slayer,drunk,wretch,poisoner,pooka
+1 scout Poisoner is 1 card away from closest Evil
+2 slayer
+3 bishop Between #4, #1, #6 there is: Villager, Outcast and Minion
+4 jester
+5 confessor I am Good
+6 lover NO Evils adjacent to me
+7 druid
+8 bishop Between #4, #5, #1 there is: Villager, Outcast and Minion

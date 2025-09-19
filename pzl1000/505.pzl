@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,jester,confessor,knitter,baker,lover,plague_doctor,drunk,doppelganger,bombardier,witch,counsellor,lilis
+1 knight
+2 knight
+3 plague_doctor #8 is Evil #4 is Corrupted
+4 knitter Evils are not adjacent to eachother
+6 confessor I am dizzy
+7 jester Among: #9, #2, #7: There is 1 Evil
+[unknown] #killed_by_demon
+8 bombardier
+[unknown]

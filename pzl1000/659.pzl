@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: bishop,judge,scout,lover,hunter,fortune_teller,baker,plague_doctor,bombardier,wretch,shaman,lilis
+1 judge #2 is Lying
+2 hunter I am 1 card away from closest Evil
+3 plague_doctor #5 is Evil #9 is Corrupted
+4 bombardier
+6 scout Lilis is 1 card away from closest Evil
+7 baker I am the original Baker
+8 lover NO Evils adjacent to me
+9 baker I was a Fortune Teller
+[unknown] #killed_by_demon

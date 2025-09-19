@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: alchemist,jester,judge,fortune_teller,bard,hunter,confessor,bombardier,drunk,plague_doctor,twin_minion,shaman,baa
+1 bombardier
+2 confessor I am dizzy
+3 fortune_teller
+4 alchemist I cured 2 Corruptions
+5 plague_doctor
+6 hunter I am 1 card away from closest Evil
+7 judge
+8 jester
+9 jester

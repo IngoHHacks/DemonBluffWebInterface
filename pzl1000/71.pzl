@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,confessor,empress,lover,bishop,medium,poet,plague_doctor,bombardier,twin_minion,lilis
+1 empress One is Evil: #4, #3 or #2
+2 plague_doctor
+3 medium #5 is a real Bishop
+4 lover NO Evils adjacent to me
+6 bishop Between #3, #2, #7 there is: Outcast, Villager and Minion
+7 poet #5 or #7 is a Twin Minion
+8 enlightened Closest Evil is: Counter-clockwise
+[unknown] #killed_by_demon

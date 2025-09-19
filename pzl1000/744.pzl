@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: fortune_teller,judge,oracle,confessor,medium,gemcrafter,bishop,bombardier,wretch,plague_doctor,puppeteer,shaman,baa,puppet
+1 bishop Between #9, #3 there is: Villager and Minion
+2 gemcrafter #1 is Good
+3 wretch
+4 fortune_teller Is #3 or #2 Evil?: False
+5 fortune_teller Is #1 or #6 Evil?: True
+6 confessor I am dizzy
+7 oracle #5 or #9 is a Puppet
+8 medium #5 is a real Fortune Teller
+9 oracle #7 or #3 is a Puppeteer

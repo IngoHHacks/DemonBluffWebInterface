@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: poet,gemcrafter,oracle,witness,knitter,slayer,doppelganger,bombardier,plague_doctor,witch,baa
+1 oracle #6 or #4 is a Witch
+2 poet There are no Corrupted characters
+3 gemcrafter #7 is Good
+4 slayer I couldn't kill #7
+5 witness #1 was affected by an Evil
+6 bombardier
+[unknown]

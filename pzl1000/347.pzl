@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: lover,enlightened,architect,bard,judge,knight,gemcrafter,drunk,bombardier,witch,lilis
+1 bard There are no Corrupted characters
+2 lover NO Evils adjacent to me
+3 knight
+4 enlightened Closest Evil is: Clockwise
+6 architect Left side is more Evil
+7 judge
+[unknown]
+[unknown] #killed_by_demon

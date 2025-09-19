@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: lover,scout,architect,dreamer,enlightened,witness,plague_doctor,drunk,bombardier,twin_minion,baa
+1 architect Left side is more Evil
+2 lover 2 Evils adjacent to me
+3 dreamer
+4 plague_doctor
+5 scout Baa is 2 cards away from closest Evil
+6 witness #7 was affected by an Evil
+7 enlightened Closest Evil is: Counter-clockwise

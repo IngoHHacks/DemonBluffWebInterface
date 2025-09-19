@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: hunter,alchemist,bishop,dreamer,judge,druid,bombardier,doppelganger,poisoner,witch,lilis
+1 dreamer #5 could be: Lilis
+2 bombardier
+3 bishop Between #6, #1, #2 there is: Minion, Outcast and Villager
+4 hunter I am 1 card away from closest Evil
+6 alchemist I cured 1 Corruption
+7 judge #1 is Lying
+8 bishop Between #9, #4, #1 there is: Villager, Minion and Outcast
+[unknown]
+[unknown] #killed_by_demon

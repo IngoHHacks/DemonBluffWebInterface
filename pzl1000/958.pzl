@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: architect,dreamer,bard,scout,gemcrafter,wretch,doppelganger,bombardier,witch,baa
+1 dreamer #7 could be: Witch
+2 bombardier
+3 scout Witch is 3 cards away from closest Evil
+4 scout Baa is 1 card away from closest Evil
+5 architect Both sides are equally Evil
+6 gemcrafter #2 is Good
+[unknown]

@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: poet,architect,knight,lover,judge,alchemist,plague_doctor,wretch,doppelganger,puppeteer,counsellor,lilis,puppet
+1 lover NO Evils adjacent to me
+2 knight
+3 architect Left side is more Evil
+4 plague_doctor
+[unknown] #killed_by_demon
+6 alchemist I cured 1 Corruption
+7 alchemist I cured 1 Corruption
+8 poet #4 or #2 is a Puppeteer
+9 judge

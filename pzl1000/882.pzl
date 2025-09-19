@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: druid,oracle,bishop,medium,judge,lover,empress,bombardier,doppelganger,poisoner,twin_minion,lilis
+1 empress One is Evil: #5, #2 or #8
+2 judge #6 is Lying
+3 oracle #4 or #2 is a Poisoner
+4 lover 1 Evil adjacent to me
+6 bishop Between #7, #4, #1 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+7 bombardier
+8 medium #3 is a real Oracle
+9 empress One is Evil: #4, #6 or #3

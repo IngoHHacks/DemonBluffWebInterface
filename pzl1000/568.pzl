@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: gemcrafter,scout,alchemist,confessor,lover,medium,wretch,plague_doctor,bombardier,shaman,baa
+1 scout Shaman is 3 cards away from closest Evil
+2 confessor I am Good
+3 gemcrafter #5 is Good
+4 bombardier
+5 medium #7 is a real Gemcrafter
+6 alchemist I cured 2 Corruptions
+7 gemcrafter #4 is Good

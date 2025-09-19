@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: knight,scout,confessor,jester,witness,dreamer,lover,plague_doctor,wretch,drunk,poisoner,puppeteer,baa,puppet
+1 confessor I am dizzy
+2 plague_doctor #8 is Not Corrupted
+3 lover 1 Evil adjacent to me
+4 witness #2 was affected by an Evil
+5 jester Among: #1, #3, #7: There are 0 Evils
+6 scout Puppet is 3 cards away from closest Evil
+7 knight
+8 scout Puppeteer is 1 card away from closest Evil
+9 dreamer #8 could be: Puppeteer

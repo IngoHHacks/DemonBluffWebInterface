@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: dreamer,bishop,confessor,baker,slayer,knight,hunter,bombardier,plague_doctor,minion,poisoner,lilis
+1 knight
+2 hunter I am 2 cards away from closest Evil
+3 confessor I am Good
+4 baker I was a Hunter
+6 bishop Between #9, #6, #8 there is: Minion, Outcast and Villager
+7 bombardier
+8 dreamer
+[unknown] #killed_by_demon
+9 dreamer

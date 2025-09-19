@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: alchemist,knight,confessor,oracle,judge,jester,hunter,plague_doctor,drunk,poisoner,pooka
+1 jester
+2 judge
+3 confessor I am dizzy
+4 oracle #6 or #2 is a Poisoner
+5 confessor I am Good
+6 alchemist I cured 1 Corruption
+7 hunter I am 4 cards away from closest Evil
+8 knight

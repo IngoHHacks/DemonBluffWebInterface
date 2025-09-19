@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: confessor,dreamer,gemcrafter,lover,hunter,medium,bard,doppelganger,wretch,shaman,minion,lilis
+1 lover 1 Evil adjacent to me
+2 dreamer #9 could be: Lilis
+3 bard There are no Corrupted characters
+4 confessor I am dizzy
+6 dreamer #7 could be: Lilis
+7 bard There are no Corrupted characters
+8 gemcrafter #9 is Good
+9 hunter I am 3 cards away from closest Evil
+[unknown] #killed_by_demon

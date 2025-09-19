@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: empress,lover,medium,fortune_teller,bard,baker,architect,bombardier,plague_doctor,drunk,shaman,minion,baa
+1 fortune_teller
+2 lover 1 Evil adjacent to me
+3 architect Both sides are equally Evil
+4 empress One is Evil: #9, #8 or #5
+5 bombardier
+6 bard I am 5 cards away from Corrupted character
+7 plague_doctor
+8 architect Right side is more Evil
+9 bard I am 2 cards away from Corrupted character
+10 baker I was a Bard

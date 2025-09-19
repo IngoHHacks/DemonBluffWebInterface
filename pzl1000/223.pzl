@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: knight,fortune_teller,enlightened,bishop,dreamer,druid,empress,doppelganger,bombardier,plague_doctor,puppeteer,minion,baa,puppet
+2 bishop Between #5, #1, #9 there is: Minion, Villager and Outcast
+3 druid
+4 knight
+5 empress One is Evil: #2, #5 or #8
+[unknown] #killed_by_demon
+6 dreamer
+7 knight
+8 enlightened Closest Evil is equidistant
+9 knight
+10 fortune_teller

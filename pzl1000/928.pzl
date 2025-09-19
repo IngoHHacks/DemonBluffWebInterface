@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: poet,witness,knight,oracle,jester,confessor,judge,bombardier,doppelganger,wretch,witch,twin_minion,baa
+1 judge #2 is saying Truth
+2 jester Among: #6, #9, #4: There are 2 Evils
+3 poet Between #2, #8, #6 there is: Outcast, Villager and Minion
+4 knight
+5 judge #1 is saying Truth
+6 confessor I am Good
+7 knight
+8 oracle #4 or #8 is a Twin Minion
+[unknown]

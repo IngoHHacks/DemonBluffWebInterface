@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: gemcrafter,fortune_teller,knight,dreamer,oracle,alchemist,poet,empress,bombardier,plague_doctor,drunk,shaman,minion,lilis
+1 empress One is Evil: #3, #6 or #7
+2 gemcrafter #8 is Good
+3 dreamer #2 could be: Lilis
+4 oracle #5 or #3 is a Shaman
+6 poet I am 1 card away from closest Evil
+7 oracle #7 or #5 is a Shaman
+8 knight
+9 bombardier
+[unknown] #killed_by_demon

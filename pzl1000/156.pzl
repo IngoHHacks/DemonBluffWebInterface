@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: slayer,medium,alchemist,knight,judge,architect,doppelganger,bombardier,witch,lilis
+1 medium #2 is a real Judge
+2 judge
+3 alchemist I cured 0 Corruptions
+4 bombardier
+6 slayer
+7 knight
+[unknown]
+[unknown] #killed_by_demon

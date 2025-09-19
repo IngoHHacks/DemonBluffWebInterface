@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: alchemist,poet,judge,bishop,oracle,knitter,scout,wretch,plague_doctor,bombardier,doppelganger,counsellor,witch,baa
+1 knitter There is only 1 pair of Evil
+2 bishop Between #3, #5, #4 there is: Minion, Outcast and Villager
+3 alchemist I cured 1 Corruption
+4 oracle #3 or #2 is a Witch
+5 judge
+6 bishop Between #4, #3, #1 there is: Outcast, Villager and Minion
+7 scout Witch is 3 cards away from closest Evil
+8 knitter There is only 1 pair of Evil
+[unknown]

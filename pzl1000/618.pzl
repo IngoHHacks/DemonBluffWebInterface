@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 4
+num_revealed: 10
+deck: confessor,lover,oracle,scout,bishop,poet,enlightened,bombardier,plague_doctor,minion,puppeteer,lilis,puppet
+1 oracle #9 or #6 is a Puppeteer
+2 oracle #9 or #10 is a Minion
+3 enlightened Closest Evil is: Counter-clockwise
+4 lover 1 Evil adjacent to me
+6 bishop Between #3, #1, #9 there is: Outcast, Minion and Villager
+7 bishop Between #10, #3, #9 there is: Villager, Outcast and Minion
+8 poet There are 2 pairs of Evil
+9 bombardier
+[unknown] #killed_by_demon
+[unknown] #killed_by_demon

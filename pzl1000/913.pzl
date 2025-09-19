@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knight,bishop,jester,druid,slayer,knitter,scout,lover,bombardier,drunk,doppelganger,twin_minion,witch,lilis
+1 bishop Between #9, #7, #6 there is: Villager, Minion and Outcast
+2 knight
+3 slayer I couldn't kill #8
+4 bombardier
+6 jester Among: #1, #4, #8: There is 1 Evil
+7 scout Lilis is 3 cards away from closest Evil
+8 druid Among #6, #2, #3 there is: Doppelganger
+[unknown] #killed_by_demon
+[unknown]

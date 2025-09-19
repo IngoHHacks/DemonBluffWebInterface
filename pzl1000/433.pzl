@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: jester,knitter,dreamer,oracle,lover,baker,bombardier,plague_doctor,doppelganger,shaman,twin_minion,lilis
+1 oracle #4 or #3 is a Shaman
+2 jester
+3 jester
+4 knitter Evils are not adjacent to eachother
+6 bombardier
+7 plague_doctor
+8 oracle #4 or #6 is a Twin Minion
+9 baker I was an Oracle
+[unknown] #killed_by_demon

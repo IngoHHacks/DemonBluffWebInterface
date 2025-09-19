@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: architect,bishop,gemcrafter,scout,bard,empress,enlightened,plague_doctor,doppelganger,bombardier,shaman,baa
+1 enlightened Closest Evil is: Counter-clockwise
+2 architect Both sides are equally Evil
+3 scout Shaman is 4 cards away from closest Evil
+4 plague_doctor #5 is Not Corrupted
+5 gemcrafter #1 is Good
+6 bishop Between #3, #4, #5 there is: Outcast, Minion and Villager
+7 empress One is Evil: #6, #2 or #5
+8 scout Baa is 2 cards away from closest Evil

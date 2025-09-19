@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: fortune_teller,oracle,alchemist,bishop,jester,lover,slayer,drunk,plague_doctor,wretch,bombardier,minion,counsellor,lilis
+1 fortune_teller Is #7 or #5 Evil?: True
+2 plague_doctor #10 is Not Corrupted
+3 alchemist I cured 2 Corruptions
+4 lover NO Evils adjacent to me
+6 bishop Between #4, #2, #7 there is: Villager, Minion and Outcast
+7 wretch
+8 bombardier
+[unknown] #killed_by_demon
+9 slayer I couldn't kill #5
+[unknown] #killed_by_demon #hidden_evil

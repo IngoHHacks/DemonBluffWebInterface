@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: witness,empress,knight,bard,scout,gemcrafter,bishop,wretch,doppelganger,minion,lilis
+2 knight
+3 gemcrafter #3 is Good
+4 wretch
+5 empress One is Evil: #8, #1 or #7
+[unknown] #killed_by_demon
+7 bishop Between #8, #4 there is: Minion and Villager
+[unknown] #killed_by_demon
+8 scout Minion is 1 card away from closest Evil

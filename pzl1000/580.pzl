@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: medium,dreamer,knitter,knight,gemcrafter,poet,bombardier,plague_doctor,shaman,lilis
+1 knitter There is only 1 pair of Evil
+2 poet Closest Evil is equidistant
+3 knight
+4 gemcrafter #7 is Good
+6 medium #1 is a real Knitter
+[unknown] #killed_by_demon
+7 gemcrafter #6 is Good
+8 plague_doctor #4 is Not Corrupted

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,medium,confessor,gemcrafter,knight,witness,wretch,drunk,bombardier,minion,baa
+1 knight
+2 jester
+3 witness #3 was affected by an Evil
+4 gemcrafter #1 is Good
+5 knight
+6 confessor I am Good
+7 medium #5 is a real Knight

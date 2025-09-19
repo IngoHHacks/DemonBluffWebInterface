@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: dreamer,bishop,knitter,slayer,architect,medium,drunk,bombardier,wretch,twin_minion,baa
+1 slayer I couldn't kill #5
+2 knitter There are 2 pairs of Evil
+3 medium #2 is a real Knitter
+4 dreamer #5 could be: Twin Minion
+5 bishop Between #5, #8 there is: Minion and Villager
+6 architect Both sides are equally Evil
+7 wretch
+8 dreamer #3 could be: Baa

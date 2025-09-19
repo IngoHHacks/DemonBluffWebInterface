@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: knight,empress,lover,architect,medium,alchemist,plague_doctor,bombardier,doppelganger,witch,baa
+2 plague_doctor
+3 architect Left side is more Evil
+4 empress One is Evil: #5, #4 or #6
+[unknown] #killed_by_demon
+5 alchemist I cured 1 Corruption
+6 knight
+[unknown]

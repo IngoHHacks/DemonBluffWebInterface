@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: enlightened,scout,knight,dreamer,confessor,architect,bishop,plague_doctor,drunk,shaman,pooka
+2 knight
+3 dreamer
+4 plague_doctor
+5 confessor I am Good
+6 knight
+7 scout Pooka is 1 card away from closest Evil
+[unknown] #killed_by_demon
+8 enlightened Closest Evil is equidistant

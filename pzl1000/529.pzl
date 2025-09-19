@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,architect,bard,dreamer,baker,hunter,slayer,bombardier,plague_doctor,twin_minion,lilis
+1 baker I am the original Baker
+2 gemcrafter #8 is Good
+3 dreamer #4 could be: Twin Minion
+4 plague_doctor #7 is Not Corrupted
+6 bard I am 2 cards away from Corrupted character
+7 slayer I couldn't kill #4
+[unknown] #killed_by_demon
+8 hunter I am 4 cards away from closest Evil

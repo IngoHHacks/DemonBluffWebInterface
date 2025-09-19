@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: knitter,fortune_teller,scout,empress,dreamer,hunter,doppelganger,bombardier,plague_doctor,witch,shaman,baa
+1 fortune_teller
+2 empress One is Evil: #3, #1 or #9
+3 plague_doctor
+4 scout Shaman is 2 cards away from closest Evil
+5 empress One is Evil: #7, #6 or #1
+6 knitter There is only 1 pair of Evil
+7 hunter I am 1 card away from closest Evil
+8 knitter Evils are not adjacent to eachother
+[unknown]

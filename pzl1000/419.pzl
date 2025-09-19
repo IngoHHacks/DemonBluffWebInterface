@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: scout,judge,gemcrafter,druid,dreamer,doppelganger,plague_doctor,pooka
+1 druid
+2 dreamer
+3 scout Pooka is 3 cards away from closest Evil
+4 judge
+5 plague_doctor
+6 gemcrafter #4 is Good

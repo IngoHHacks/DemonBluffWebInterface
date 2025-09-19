@@ -1,0 +1,15 @@
+# Village Data:
+num_chars: 6,1,2,1
+num_evil: 3
+num_revealed: 10
+deck: dreamer,judge,gemcrafter,jester,medium,confessor,knitter,druid,bombardier,doppelganger,shaman,twin_minion,lilis
+1 judge #8 is saying Truth
+2 confessor I am Good
+3 druid Among #6, #10, #7 there is: Doppelganger
+4 confessor I am Good
+6 bombardier
+7 medium #3 is a real Druid
+8 knitter Evils are not adjacent to eachother
+[unknown] #killed_by_demon
+9 gemcrafter #1 is Good
+[unknown] #killed_by_demon #hidden_evil

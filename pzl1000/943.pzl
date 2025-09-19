@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: slayer,alchemist,medium,dreamer,bard,gemcrafter,enlightened,bombardier,wretch,doppelganger,puppeteer,poisoner,lilis,puppet
+1 bombardier
+2 gemcrafter #9 is Good
+9 #dead puppeteer|bard I am 1 card away from Corrupted character
+4 enlightened Closest Evil is: Counter-clockwise
+6 medium #4 is a real Enlightened
+[unknown] #killed_by_demon
+7 alchemist I cured 1 Corruption
+8 dreamer #5 could be: Lilis
+9 slayer I killed Evil at #3

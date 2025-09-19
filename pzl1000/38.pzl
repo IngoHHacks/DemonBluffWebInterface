@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 9
+deck: jester,empress,bard,slayer,knitter,druid,knight,doppelganger,plague_doctor,puppeteer,twin_minion,lilis,puppet
+1 plague_doctor
+2 knight
+3 bard I am 1 card away from Corrupted character
+4 jester
+6 druid
+[unknown] #killed_by_demon
+7 empress One is Evil: #5, #3 or #2
+8 slayer
+9 knight

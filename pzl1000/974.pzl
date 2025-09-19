@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 7
+deck: jester,knitter,dreamer,gemcrafter,bishop,scout,wretch,doppelganger,witch,lilis
+1 jester Among: #3, #4, #7: There is 1 Evil
+2 gemcrafter #4 is Good
+3 bishop Between #2, #8 there is: Minion and Villager
+4 dreamer #8 could be:  a Cabbage
+6 scout Witch is 2 cards away from closest Evil
+[unknown] #killed_by_demon
+7 bishop Between #3, #6, #4 there is: Minion, Outcast and Villager
+[unknown]

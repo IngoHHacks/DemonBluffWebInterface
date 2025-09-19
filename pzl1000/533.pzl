@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: poet,knitter,bishop,medium,slayer,knight,judge,drunk,wretch,twin_minion,minion,lilis
+1 bishop Between #1, #4 there is: Villager and Minion
+9 #dead twin_minion|knitter There are 2 pairs of Evil
+3 judge #9 is Lying
+4 wretch
+6 poet Evils are not adjacent to eachother
+7 bishop Between #7, #5, #1 there is: Minion, Villager and Outcast
+[unknown] #killed_by_demon
+8 slayer I killed Evil at #2
+9 medium #6 is a real Bishop

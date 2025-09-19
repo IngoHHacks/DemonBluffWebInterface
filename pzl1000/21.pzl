@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 4
+num_revealed: 8
+deck: scout,empress,fortune_teller,knight,lover,architect,plague_doctor,wretch,bombardier,puppeteer,witch,baa,puppet
+1 knight
+2 plague_doctor
+3 architect Right side is more Evil
+4 empress One is Evil: #2, #1 or #7
+5 lover 1 Evil adjacent to me
+6 scout Puppet is 1 card away from closest Evil
+7 fortune_teller
+8 architect Right side is more Evil
+[unknown]

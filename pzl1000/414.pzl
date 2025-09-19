@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 4,2,1,1
+num_evil: 2
+num_revealed: 8
+deck: witness,lover,medium,enlightened,fortune_teller,knight,wretch,drunk,plague_doctor,doppelganger,twin_minion,baa
+1 witness NO character was affected by an Evil
+2 knight
+3 medium #4 is a real Enlightened
+4 enlightened Closest Evil is: Counter-clockwise
+5 plague_doctor
+6 lover 1 Evil adjacent to me
+7 fortune_teller
+8 enlightened Closest Evil is: Clockwise

@@ -1,0 +1,12 @@
+# Village Data:
+num_chars: 4,1,1,1
+num_evil: 2
+num_revealed: 6
+deck: fortune_teller,jester,scout,poet,bishop,baker,doppelganger,drunk,bombardier,witch,baa
+1 fortune_teller
+2 baker I am the original Baker
+3 poet #2 is Evil
+4 scout Baa is 3 cards away from closest Evil
+5 jester
+6 baker I was a Bishop
+[unknown]

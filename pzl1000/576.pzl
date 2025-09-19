@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: hunter,knitter,oracle,empress,jester,scout,lover,wretch,doppelganger,minion,lilis
+1 scout Lilis is 2 cards away from closest Evil
+2 hunter I am 1 card away from closest Evil
+3 lover NO Evils adjacent to me
+4 empress One is Evil: #3, #5 or #1
+6 hunter I am 1 card away from closest Evil
+7 oracle #8 or #3 is a Minion
+[unknown] #killed_by_demon
+8 jester Among: #4, #7, #6: There is 1 Evil

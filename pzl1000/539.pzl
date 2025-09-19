@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,2,1,1
+num_evil: 2
+num_revealed: 9
+deck: baker,lover,medium,empress,confessor,knitter,bombardier,doppelganger,drunk,twin_minion,pooka
+1 confessor I am Good
+2 baker I was a Confessor
+3 lover 1 Evil adjacent to me
+4 baker I am the original Baker
+5 baker I was an Empress
+6 baker I was a Confessor
+7 knitter There is only 1 pair of Evil
+8 knitter There is only 1 pair of Evil
+9 bombardier

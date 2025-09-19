@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 9
+deck: baker,confessor,alchemist,bard,gemcrafter,bishop,jester,doppelganger,wretch,plague_doctor,bombardier,poisoner,counsellor,baa
+1 bombardier
+2 gemcrafter #4 is Good
+3 alchemist I cured 1 Corruption
+4 baker I was a Jester
+5 bard I am 2 cards away from Corrupted character
+6 plague_doctor
+7 bishop Between #8, #7, #5 there is: Minion, Outcast and Villager
+8 confessor I am Good
+9 bishop Between #5, #7, #8 there is: Outcast, Minion and Villager

@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: gemcrafter,bishop,medium,slayer,architect,dreamer,enlightened,bombardier,drunk,minion,lilis
+1 slayer
+2 medium #8 is a real Enlightened
+3 gemcrafter #2 is Good
+4 bishop Between #2, #8, #6 there is: Minion, Villager and Outcast
+6 dreamer
+7 architect Left side is more Evil
+8 enlightened Closest Evil is: Clockwise
+[unknown] #killed_by_demon

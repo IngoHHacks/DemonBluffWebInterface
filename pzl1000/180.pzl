@@ -1,0 +1,13 @@
+# Village Data:
+num_chars: 5,1,1,1
+num_evil: 2
+num_revealed: 8
+deck: scout,slayer,druid,jester,knitter,dreamer,doppelganger,plague_doctor,wretch,counsellor,lilis
+1 slayer
+2 knitter Evils are not adjacent to eachother
+3 scout Lilis is 2 cards away from closest Evil
+4 plague_doctor
+6 dreamer
+7 wretch
+[unknown] #killed_by_demon
+8 druid

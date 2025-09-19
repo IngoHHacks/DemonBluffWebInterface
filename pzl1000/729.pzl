@@ -1,0 +1,14 @@
+# Village Data:
+num_chars: 5,1,2,1
+num_evil: 3
+num_revealed: 8
+deck: druid,lover,gemcrafter,enlightened,witness,fortune_teller,bard,wretch,doppelganger,bombardier,plague_doctor,witch,counsellor,baa
+1 fortune_teller Is #2 or #3 Evil?: False
+2 wretch
+3 enlightened Closest Evil is: Clockwise
+4 lover 1 Evil adjacent to me
+5 lover NO Evils adjacent to me
+6 gemcrafter #5 is Good
+7 bard There are no Corrupted characters
+8 enlightened Closest Evil is equidistant
+[unknown]

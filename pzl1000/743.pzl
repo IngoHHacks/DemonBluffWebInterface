@@ -1,0 +1,11 @@
+# Village Data:
+num_chars: 4,1,0,1
+num_evil: 1
+num_revealed: 6
+deck: bishop,druid,knight,jester,gemcrafter,wretch,doppelganger,pooka
+1 druid Among #6, #4, #3 there are NO Outcasts
+2 jester Among: #5, #3, #4: There are 3 Evils
+3 bishop Between #6, #2, #1 there is: Demon, Outcast and Villager
+4 gemcrafter #6 is Good
+5 knight
+6 gemcrafter #3 is Good
