@@ -1,0 +1,15 @@
+{
+    "hidden": false,
+    "id": "doppelganger",
+    "name": "Doppelganger",
+    "type": "Outcast",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "RandomRole #InPlay #Good #Villager",
+    "registeras": "None",
+    "description": "Game Start: I Disguise as a random Good Villager currently in play.",
+    "hints": "Always considers themselves as a Disguised role.",
+    "can_be_used_as_disguise": false
+}

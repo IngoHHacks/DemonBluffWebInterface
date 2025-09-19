@@ -1,0 +1,1 @@
+return char:seen_as_evil()

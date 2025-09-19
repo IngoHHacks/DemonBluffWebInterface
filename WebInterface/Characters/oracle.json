@@ -1,0 +1,44 @@
+{
+    "hidden": false,
+    "id": "oracle",
+    "name": "Oracle",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn that 1 out of 2 characters is a specific Minion role.",
+    "hints": "If Lies: Both characters in my info are Good",
+    "parameters": [
+        "optional_character",
+        "optional_character",
+        "optional_minion_role"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Role"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "role"
+    ],
+    "statement": [
+        ["$1 == 0", "There are no Minions"],
+        ["$2 == 0", "There are no Minions"],
+        ["$3 == 'None'", "There are no Minions"],
+        ["default", "#$1 or #$2 is @3"]
+    ],
+    "statement_regex": "^(?:#(\\d+) or #(\\d+) is an? ((?: |\\w)+)|There are (no Minions))$",
+    "regex_arg_map": {
+        "1": [2],
+        "3": [0, 1, 2]
+    },
+    "regex_transforms": {
+        "no Minions": "None"
+    },
+    "category": "Learn 2 characters:\\1 is a specific Minion role"
+}

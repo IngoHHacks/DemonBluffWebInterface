@@ -1,0 +1,79 @@
+[gd_scene load_steps=3 format=3 uid="uid://0xr5tjdhspj2"]
+
+[ext_resource type="Script" uid="uid://8jbbiqi5pvt6" path="res://Objects/IconPicker.gd" id="1_8ttft"]
+[ext_resource type="PackedScene" uid="uid://c7ytwxd04r01c" path="res://Objects/ClickableTextureRect.tscn" id="2_i28d4"]
+
+[node name="IconPicker" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8ttft")
+icon_selectable_scene = ExtResource("2_i28d4")
+
+[node name="Panel" type="Panel" parent="."]
+z_index = 101
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+offset_right = -400.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="Panel"]
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 157.0
+offset_bottom = 27.1
+text = "Pick an icon:"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 5.0
+offset_top = 35.0
+offset_right = -5.0
+offset_bottom = -55.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HFlowContainer" type="HFlowContainer" parent="Panel/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+alignment = 1
+
+[node name="Clear" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -50.0
+offset_right = 50.0
+offset_bottom = -10.0
+grow_vertical = 0
+text = "CLEAR"
+
+[node name="Cancel" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 100.0
+offset_top = -50.0
+offset_right = 180.0
+offset_bottom = -10.0
+grow_vertical = 0
+text = "CANCEL"
+
+[connection signal="pressed" from="Panel/Clear" to="." method="_on_clear_pressed"]
+[connection signal="pressed" from="Panel/Cancel" to="." method="_on_cancel_pressed"]

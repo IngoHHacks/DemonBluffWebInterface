@@ -1,0 +1,88 @@
+[gd_scene load_steps=3 format=3 uid="uid://c4teht2orduec"]
+
+[ext_resource type="Script" uid="uid://shy4ly8n28l" path="res://Objects/CardPicker.gd" id="1_4j4h4"]
+[ext_resource type="PackedScene" uid="uid://mcrtiysshhtn" path="res://Objects/CardHolder.tscn" id="2_3lhgd"]
+
+[node name="CardPicker" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4j4h4")
+card_holder = ExtResource("2_3lhgd")
+
+[node name="Panel" type="Panel" parent="."]
+z_index = 100
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+offset_right = -400.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 157.0
+offset_bottom = 27.1
+text = "Pick a card, any card:"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 5.0
+offset_top = 35.0
+offset_right = -5.0
+offset_bottom = -55.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HFlowContainer" type="HFlowContainer" parent="Panel/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+alignment = 1
+
+[node name="Clear" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -50.0
+offset_right = 50.0
+offset_bottom = -10.0
+grow_vertical = 0
+text = "CLEAR"
+
+[node name="Cancel" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 100.0
+offset_top = -50.0
+offset_right = 180.0
+offset_bottom = -10.0
+grow_vertical = 0
+text = "CANCEL"
+
+[node name="KeepOldAsDisguise" type="CheckButton" parent="Panel"]
+layout_mode = 0
+offset_left = 200.0
+offset_top = 526.0
+offset_right = 608.0
+offset_bottom = 566.0
+text = "Make the current character its disguise (if possible)?"
+
+[connection signal="pressed" from="Panel/Clear" to="." method="_on_clear_pressed"]
+[connection signal="pressed" from="Panel/Cancel" to="." method="_on_cancel_pressed"]

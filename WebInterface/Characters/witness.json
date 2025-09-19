@@ -1,0 +1,32 @@
+{
+    "hidden": false,
+    "id": "witness",
+    "name": "Witness",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn a character that was affected by an Evil ability.",
+    "hints": "Can Learn:|- Who is the Puppet|- Corrupted character by an Evil|- Villager turned into Outcast by Counsellor|- Cloned character by Shaman|- Who was killed by an Evil",
+    "parameters": [
+        "optional_character"
+    ],
+    "parameter_names": [
+        "Character"
+    ],
+    "arg_names": [
+        "char"
+    ],
+    "statement": [
+        ["$1 == 0", "No character was affected by an Evil"],
+        ["default", "#$1 was affected by an Evil"]
+    ],
+    "statement_regex": "^(?:(No) character was affected by an Evil|#(\\d+) was affected by an Evil)$",
+    "regex_transforms": {
+        "No": 0
+    },
+    "category": "Learn 1 character\\affected by an Evil ability"
+}

@@ -1,0 +1,33 @@
+{
+    "hidden": false,
+    "id": "confessor",
+    "name": "Confessor",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Never",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "If I am Evil or Corrupted: \"I am dizzy\"",
+    "hints": "I can not Lie.",
+    "parameters": [
+        "boolean"
+    ],
+    "parameter_names": [
+        "Is Dizzy"
+    ],
+    "arg_names": [
+        "dizzy"
+    ],
+    "statement": [
+        ["$1 == true", "I am dizzy"],
+        ["default", "I am Good"]
+    ],
+    "statement_regex": "^I am (dizzy|Good)$",
+    "regex_transforms": {
+        "dizzy": true,
+        "Good": false
+    },
+    "category": "Say if I am dizzy"
+}

@@ -1,0 +1,14 @@
+{
+    "hidden": false,
+    "id": "lilis",
+    "name": "Lilis",
+    "type": "Demon",
+    "alignment": "Evil",
+    "seen_alignment": "Evil",
+    "corruption": "Never",
+    "lying": "Always",
+    "disguise": "RandomRole #Good",
+    "registeras": "None",
+    "description": "At Night: Kill a random unrevealed character. Deal 2 damage to you.|I Lie and Disguise.",
+    "hints": "Will prioritize killing Good characters. Will not kill herself when she's the only card left."
+}

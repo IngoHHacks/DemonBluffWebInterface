@@ -1,0 +1,36 @@
+{
+    "hidden": false,
+    "id": "plague_doctor",
+    "name": "Plague Doctor",
+    "type": "Outcast",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Game Start: 1 Good Villager is Corrupted. Pick 1 character:: If it's Corrupted, Learn an Evil character.",
+    "hints": "I always see myself as NOT Corrupted, even if I am Evil.",
+    "parameters": [
+        "character",
+        "optional_character"
+    ],
+    "parameter_names": [
+        "Selected Character",
+        "Evil Character (if selected is Corrupted)"
+    ],
+    "arg_names": [
+        "char1",
+        "char2"
+    ],
+    "statement": [
+        ["$2 != null", "#$2 is Evil\n#$1 is Corrupted"],
+        ["default", "#$1 is Not Corrupted"]
+    ],
+    "statement_regex": "^(?:#(\\d+) is Evil(?:\\n| )#(\\d+) is Corrupted|#(\\d+) is Not Corrupted)$",
+    "regex_arg_map": {
+        "1": [0],
+        "2": [1, 0]
+    },
+    "category": "Pick 1 character:\\If it's Corrupted, Learn an Evil character"
+}

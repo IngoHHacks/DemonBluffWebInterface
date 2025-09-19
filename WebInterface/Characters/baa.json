@@ -1,0 +1,14 @@
+{
+    "hidden": false,
+    "id": "baa",
+    "name": "Baa",
+    "type": "Demon",
+    "alignment": "Evil",
+    "seen_alignment": "Evil",
+    "corruption": "Never",
+    "lying": "Always",
+    "disguise": "RandomRole #Good",
+    "registeras": "None",
+    "description": "One fake Outcast is added to the Deck view. I Lie and Disguise.",
+    "hints": ""
+}

@@ -1,0 +1,14 @@
+{
+    "hidden": false,
+    "id": "puppeteer",
+    "name": "Puppeteer",
+    "type": "Minion",
+    "alignment": "Evil",
+    "seen_alignment": "Evil",
+    "corruption": "Never",
+    "lying": "Always",
+    "disguise": "RandomRole #Good",
+    "registeras": "None",
+    "description": "Game Start: Random adjacent Villager becomes a Puppet (It's Evil, but can not Lie). I Lie and Disguise.",
+    "hints": ""
+}

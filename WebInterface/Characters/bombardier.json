@@ -1,0 +1,14 @@
+{
+    "hidden": false,
+    "id": "bombardier",
+    "name": "Bombardier",
+    "type": "Outcast",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Lose if you Execute me.",
+    "hints": ""
+}

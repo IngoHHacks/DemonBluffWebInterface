@@ -1,0 +1,26 @@
+{
+    "Lua.diagnostics.globals": [
+        "this",
+        "village",
+        "UNKNOWN",
+        "INVALID",
+        "ArrayUtils",
+        "char",
+        "char1",
+        "char2",
+        "char3",
+        "cured",
+        "direction",
+        "distance",
+        "dizzy",
+        "evil",
+        "has_evil",
+        "killed",
+        "num_adjacent_evils",
+        "num_evils",
+        "original",
+        "role",
+        "side",
+        "truthful"
+    ]
+}

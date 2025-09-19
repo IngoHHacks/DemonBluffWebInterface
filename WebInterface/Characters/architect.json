@@ -1,0 +1,33 @@
+{
+    "hidden": false,
+    "id": "architect",
+    "name": "Architect",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn which side of the circle is more Evil. Learn 'Equal' if both sides are equally Evil.",
+    "hints": "My measurement includes the two characters at the exact midpoints of the circle as well.",
+    "parameters": [
+        "side"
+    ],
+    "parameter_names": [
+        "Side"
+    ],
+    "arg_names": [
+        "side"
+    ],
+    "statement": [
+        ["$1 == 'Left'", "Left side is more Evil"],
+        ["$1 == 'Right'", "Right side is more Evil"],
+        ["default", "Both sides are equally Evil"]
+    ],
+    "statement_regex": "^(Left|Right|Both) (?:side|sides) (?:are equally Evil|is more Evil)$",
+    "regex_transforms": {
+        "Both": "Equal"
+    },
+    "category": "Learn side that is\\more Evil"
+}

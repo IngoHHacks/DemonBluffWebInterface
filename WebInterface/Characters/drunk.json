@@ -1,0 +1,15 @@
+{
+    "hidden": false,
+    "id": "drunk",
+    "name": "Drunk",
+    "type": "Outcast",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Always",
+    "lying": "Always",
+    "disguise": "RandomRole #NotInPlay #Villager",
+    "registeras": "None",
+    "description": "I Disguise as a random not in play Villager. I am Corrupted and I Lie. I can not be Cured.",
+    "hints": "You receive 4 damage instead of 5 when you Execute me.",
+    "can_be_used_as_disguise": false
+}

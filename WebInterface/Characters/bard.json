@@ -1,0 +1,33 @@
+{
+    "hidden": false,
+    "id": "bard",
+    "name": "Bard",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn how far I am from the closest Corrupted character.",
+    "hints": "",
+    "parameters": [
+        "number|0"
+    ],
+    "parameter_names": [
+        "Distance"
+    ],
+    "arg_names": [
+        "distance"
+    ],
+    "statement": [
+        ["$1 == 0", "There are no Corrupted characters"],
+        ["$1 == 1", "I am $1 card away from Corrupted character"],
+        ["default", "I am $1 cards away from Corrupted character"]
+    ],
+    "statement_regex": "^(?:There are (no) Corrupted characters|I am (\\d+) cards? away from Corrupted character)$",
+    "regex_transforms": {
+        "no": 0
+    },
+    "category": "Learn distance\\to closest Corrupted"
+}

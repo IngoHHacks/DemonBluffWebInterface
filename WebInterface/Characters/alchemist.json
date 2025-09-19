@@ -1,0 +1,29 @@
+{
+    "hidden": false,
+    "id": "alchemist",
+    "name": "Alchemist",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Villagers to the left and right of me [Range 2] are cured from Corruption. Learn how many I cured.",
+    "hints": "Range 2: 2 Villagers to the left of me and 2 Villagers to the right of me are affected.",
+    "parameters": [
+        "number|0|4"
+    ],
+    "parameter_names": [
+        "Amount Cured"
+    ],
+    "arg_names": [
+        "cured"
+    ],
+    "statement": [
+        ["$1 == 1", "I cured $1 Corruption"],
+        ["default", "I cured $1 Corruptions"]  
+    ],
+    "statement_regex": "^I cured (\\d+) Corruptions?$",
+    "category": "Learn how many characters I cured from Corruption"
+}

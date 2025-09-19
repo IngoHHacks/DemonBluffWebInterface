@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7ytwxd04r01c"]
+
+[ext_resource type="Script" uid="uid://cwbsm43oqmop7" path="res://Objects/ClickableTextureRect.gd" id="1_olhan"]
+
+[node name="ClickableTextureRect" type="TextureRect"]
+custom_minimum_size = Vector2(64, 64)
+expand_mode = 1
+script = ExtResource("1_olhan")
+
+[connection signal="gui_input" from="." to="." method="_on_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_mouse_exited"]

@@ -1,0 +1,31 @@
+{
+    "hidden": false,
+    "id": "medium",
+    "name": "Medium",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn a Good character and its role.",
+    "hints": "If Lies: My info includes Disguised character",
+    "parameters": [
+        "character",
+        "good_role"
+    ],
+    "parameter_names": [
+        "Character",
+        "Role"
+    ],
+    "arg_names": [
+        "char",
+        "role"
+    ],
+    "statement": [
+        ["default", "#$1 is a real $2"]
+    ],
+    "statement_regex": "^#(\\d+) is a real ((?: |\\w)+)$",
+    "category": "Learn 1 character\\that is Good, learning its role"
+}

@@ -1,0 +1,292 @@
+[gd_scene load_steps=27 format=3 uid="uid://d0ug3n0ddipru"]
+
+[ext_resource type="Script" uid="uid://bwrxpx3j10uo0" path="res://Objects/StatementEditor.gd" id="1_4rypq"]
+[ext_resource type="Texture2D" uid="uid://bbjm62yy28rkh" path="res://Characters/alchemist.png" id="1_lxc88"]
+[ext_resource type="Texture2D" uid="uid://b307bbk1kftqw" path="res://Characters/architect.png" id="2_kxv78"]
+[ext_resource type="Texture2D" uid="uid://epxurmu2trg5" path="res://Characters/baker.png" id="3_87oud"]
+[ext_resource type="Texture2D" uid="uid://bnha5603x6hm5" path="res://Characters/bard.png" id="4_w82q7"]
+[ext_resource type="Texture2D" uid="uid://ufcklixpa0cm" path="res://Characters/bishop.png" id="5_q165n"]
+[ext_resource type="Texture2D" uid="uid://rhwxl7rxhnj1" path="res://Characters/confessor.png" id="6_5o3yk"]
+[ext_resource type="Texture2D" uid="uid://dgxnjth1ex46b" path="res://Characters/dreamer.png" id="7_yapb3"]
+[ext_resource type="Texture2D" uid="uid://dleo0b21vva5j" path="res://Characters/druid.png" id="8_ahdiu"]
+[ext_resource type="Texture2D" uid="uid://ct4rjeul4a26q" path="res://Characters/empress.png" id="9_cjxv4"]
+[ext_resource type="Texture2D" uid="uid://cp3n8r22pcopd" path="res://Characters/enlightened.png" id="10_sga2a"]
+[ext_resource type="Texture2D" uid="uid://cchet21lq5b2u" path="res://Characters/fortune_teller.png" id="11_li70q"]
+[ext_resource type="Texture2D" uid="uid://d0wq2tpqpmuyi" path="res://Characters/gemcrafter.png" id="12_gs8ds"]
+[ext_resource type="Texture2D" uid="uid://bn4sqnynmhlud" path="res://Characters/hunter.png" id="13_hlel8"]
+[ext_resource type="Texture2D" uid="uid://cmu4ve1dqp71o" path="res://Characters/jester.png" id="14_ckmt2"]
+[ext_resource type="Texture2D" uid="uid://74kqru27xtee" path="res://Characters/judge.png" id="15_1mlmn"]
+[ext_resource type="Texture2D" uid="uid://d3m5k2xai6hfg" path="res://Characters/knitter.png" id="16_hkxsy"]
+[ext_resource type="Texture2D" uid="uid://cqvrslmp5an0x" path="res://Characters/lover.png" id="17_045bn"]
+[ext_resource type="Texture2D" uid="uid://ds1ktnli2eug6" path="res://Characters/medium.png" id="18_128mb"]
+[ext_resource type="Texture2D" uid="uid://ct314mkw2yusi" path="res://Characters/oracle.png" id="19_qq42x"]
+[ext_resource type="Texture2D" uid="uid://coyr0fge5uwnl" path="res://Characters/scout.png" id="20_putiy"]
+[ext_resource type="Texture2D" uid="uid://cnskr2qind4jo" path="res://Characters/slayer.png" id="21_61vm7"]
+[ext_resource type="Texture2D" uid="uid://4m3tc4chbcfl" path="res://Characters/witness.png" id="22_4rypq"]
+[ext_resource type="Texture2D" uid="uid://bup1rbs62rqwx" path="res://Characters/plague_doctor.png" id="23_61vm7"]
+[ext_resource type="Texture2D" uid="uid://bn7ggcrtlu5l5" path="res://Characters/poet.png" id="25_4hgem"]
+[ext_resource type="Texture2D" uid="uid://omsfos6im3rh" path="res://Icons/Magnifying Glass Flat White 256.png" id="25_kuej6"]
+
+[node name="StatementEditor" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4rypq")
+
+[node name="Panel" type="Panel" parent="."]
+z_index = 100
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+offset_right = -400.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="Panel"]
+layout_mode = 1
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 124.0
+offset_bottom = 28.0
+theme_override_font_sizes/font_size = 24
+text = "Statement Editor"
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 5.0
+offset_top = 48.0
+offset_right = 52.0
+offset_bottom = 71.0
+text = "Preset:"
+horizontal_alignment = 1
+
+[node name="PresetSelect" type="OptionButton" parent="Panel"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 0
+offset_left = 56.0
+offset_top = 48.0
+offset_right = 256.0
+offset_bottom = 74.6348
+theme_override_constants/icon_max_width = 24
+selected = 0
+item_count = 24
+popup/item_0/text = "Alchemist"
+popup/item_0/icon = ExtResource("1_lxc88")
+popup/item_0/id = 0
+popup/item_1/text = "Architect"
+popup/item_1/icon = ExtResource("2_kxv78")
+popup/item_1/id = 1
+popup/item_2/text = "Baker"
+popup/item_2/icon = ExtResource("3_87oud")
+popup/item_2/id = 2
+popup/item_3/text = "Bard"
+popup/item_3/icon = ExtResource("4_w82q7")
+popup/item_3/id = 3
+popup/item_4/text = "Bishop"
+popup/item_4/icon = ExtResource("5_q165n")
+popup/item_4/id = 4
+popup/item_5/text = "Confessor"
+popup/item_5/icon = ExtResource("6_5o3yk")
+popup/item_5/id = 5
+popup/item_6/text = "Dreamer"
+popup/item_6/icon = ExtResource("7_yapb3")
+popup/item_6/id = 6
+popup/item_7/text = "Druid"
+popup/item_7/icon = ExtResource("8_ahdiu")
+popup/item_7/id = 7
+popup/item_8/text = "Empress"
+popup/item_8/icon = ExtResource("9_cjxv4")
+popup/item_8/id = 8
+popup/item_9/text = "Enlightened"
+popup/item_9/icon = ExtResource("10_sga2a")
+popup/item_9/id = 9
+popup/item_10/text = "Fortune Teller"
+popup/item_10/icon = ExtResource("11_li70q")
+popup/item_10/id = 10
+popup/item_11/text = "Gemcrafter"
+popup/item_11/icon = ExtResource("12_gs8ds")
+popup/item_11/id = 11
+popup/item_12/text = "Hunter"
+popup/item_12/icon = ExtResource("13_hlel8")
+popup/item_12/id = 12
+popup/item_13/text = "Jester"
+popup/item_13/icon = ExtResource("14_ckmt2")
+popup/item_13/id = 13
+popup/item_14/text = "Judge"
+popup/item_14/icon = ExtResource("15_1mlmn")
+popup/item_14/id = 14
+popup/item_15/text = "Knitter"
+popup/item_15/icon = ExtResource("16_hkxsy")
+popup/item_15/id = 15
+popup/item_16/text = "Lover"
+popup/item_16/icon = ExtResource("17_045bn")
+popup/item_16/id = 16
+popup/item_17/text = "Medium"
+popup/item_17/icon = ExtResource("18_128mb")
+popup/item_17/id = 17
+popup/item_18/text = "Oracle"
+popup/item_18/icon = ExtResource("19_qq42x")
+popup/item_18/id = 18
+popup/item_19/text = "Scout"
+popup/item_19/icon = ExtResource("20_putiy")
+popup/item_19/id = 19
+popup/item_20/text = "Slayer"
+popup/item_20/icon = ExtResource("21_61vm7")
+popup/item_20/id = 20
+popup/item_21/text = "Witness"
+popup/item_21/icon = ExtResource("22_4rypq")
+popup/item_21/id = 21
+popup/item_22/text = "Plague Doctor"
+popup/item_22/icon = ExtResource("23_61vm7")
+popup/item_22/id = 22
+popup/item_23/text = "Special (Poet)"
+popup/item_23/icon = ExtResource("25_4hgem")
+popup/item_23/id = 9999
+
+[node name="Label2" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 6.0
+offset_top = 494.0
+offset_right = 105.0
+offset_bottom = 517.0
+text = "Manual Entry:"
+horizontal_alignment = 1
+
+[node name="Set" type="Button" parent="Panel/Label2"]
+layout_mode = 0
+offset_left = 425.0
+offset_right = 465.0
+offset_bottom = 23.0
+disabled = true
+text = "Set"
+icon_alignment = 1
+expand_icon = true
+
+[node name="ManualEntry" type="TextEdit" parent="Panel"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 0
+offset_left = 112.0
+offset_top = 488.0
+offset_right = 420.0
+offset_bottom = 523.0
+placeholder_text = "#1 is Good"
+
+[node name="Label3" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 281.0
+offset_top = 50.0
+offset_right = 333.0
+offset_bottom = 73.0
+text = "Search:"
+horizontal_alignment = 1
+
+[node name="Search" type="Button" parent="Panel/Label3"]
+layout_mode = 0
+offset_left = 60.0
+offset_top = -15.0
+offset_right = 100.0
+offset_bottom = 25.0
+toggle_mode = true
+icon = ExtResource("25_kuej6")
+icon_alignment = 1
+expand_icon = true
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 5.0
+offset_top = 85.0
+offset_right = -10.0
+offset_bottom = -125.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VFlowContainer" type="VFlowContainer" parent="Panel/ScrollContainer"]
+custom_minimum_size = Vector2(0, 80)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/v_separation = 8
+
+[node name="Preview" type="Label" parent="Panel"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 1
+anchors_preset = -1
+offset_left = 10.0
+offset_top = 455.0
+offset_right = 210.0
+offset_bottom = 481.635
+grow_vertical = 0
+
+[node name="Confirm" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 535.0
+offset_right = 70.0
+offset_bottom = 561.635
+text = "Set"
+
+[node name="Clear" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 0
+offset_left = 90.0
+offset_top = 535.0
+offset_right = 150.0
+offset_bottom = 561.635
+text = "Clear"
+
+[node name="Cancel" type="Button" parent="Panel"]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 0
+offset_left = 170.0
+offset_top = 535.0
+offset_right = 230.0
+offset_bottom = 561.635
+text = "Cancel"
+
+[node name="ManualDesc" type="Label" parent="Panel"]
+layout_mode = 0
+offset_left = 321.0
+offset_top = 527.0
+offset_right = 471.0
+offset_bottom = 550.0
+text = "Not valid!"
+horizontal_alignment = 1
+
+[node name="SearchPreset" type="Tree" parent="."]
+visible = false
+z_index = 100
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -16.0
+offset_top = 10.0
+offset_right = -10.0
+offset_bottom = -10.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_constants/icon_max_width = 24
+hide_root = true
+auto_tooltip = false
+
+[connection signal="item_selected" from="Panel/PresetSelect" to="." method="_on_preset_select_item_selected"]
+[connection signal="pressed" from="Panel/Label2/Set" to="." method="_on_set_pressed"]
+[connection signal="text_changed" from="Panel/ManualEntry" to="." method="_on_manual_entry_text_changed"]
+[connection signal="toggled" from="Panel/Label3/Search" to="." method="_on_search_toggled"]
+[connection signal="pressed" from="Panel/Confirm" to="." method="_on_confirm_pressed"]
+[connection signal="pressed" from="Panel/Clear" to="." method="_on_clear_pressed"]
+[connection signal="pressed" from="Panel/Cancel" to="." method="_on_cancel_pressed"]
+[connection signal="item_selected" from="SearchPreset" to="." method="_on_search_preset_item_selected"]

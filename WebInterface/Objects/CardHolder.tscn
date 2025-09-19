@@ -1,0 +1,33 @@
+[gd_scene load_steps=2 format=3 uid="uid://mcrtiysshhtn"]
+
+[ext_resource type="PackedScene" uid="uid://cmnq40dpvy7un" path="res://Objects/Card.tscn" id="1_spoay"]
+
+[node name="CardHolder" type="Control"]
+custom_minimum_size = Vector2(131, 153)
+layout_mode = 3
+anchor_left = 0.551
+anchor_top = 0.433
+anchor_right = 0.551
+anchor_bottom = 0.433
+offset_left = -65.28
+offset_top = -76.76
+offset_right = 65.72
+offset_bottom = 76.24
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Card" parent="." instance=ExtResource("1_spoay")]
+position = Vector2(65, 76)
+scale = Vector2(0.2, 0.2)
+
+[node name="CardNum" parent="Card" index="14"]
+visible = false
+
+[node name="Clickable" parent="Card" index="17"]
+offset_left = -313.5
+offset_top = -367.5
+offset_right = 313.5
+offset_bottom = 367.5
+
+[editable path="Card"]
+[editable path="Card/CardEdit"]

@@ -1,0 +1,34 @@
+{
+    "hidden": false,
+    "id": "fortune_teller",
+    "name": "Fortune Teller",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 2 characters:: Learn if any of them is Evil",
+    "hints": "",
+    "parameters": [
+        "character",
+        "character",
+        "boolean"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Has Evil"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "has_evil"
+    ],
+    "statement": [
+        ["default", "Is #$1 or #$2 Evil?: $3"]
+    ],
+    "statement_regex": "^Is #(\\d+) or #(\\d+) Evil\\?: (True|False)$",
+    "category": "Pick 2 characters:\\Learn if any of them is Evil"
+}

@@ -1,0 +1,46 @@
+{
+    "hidden": false,
+    "id": "bishop",
+    "name": "Bishop",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn up to 3 characters. Among them are 1 Villager, 1 Outcast, and 1 Evil if possible.",
+    "hints": "If Lies: All characters in my info are Villagers",
+    "parameters": [
+        "character",
+        "character",
+        "optional_character",
+        "evil_type"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Character 3",
+        "Evil Type"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "char3",
+        "evil"
+    ],
+    "statement": [
+        ["$3 == 0", "Between #$1, #$2 there is: Villager and $4"],
+        ["default", "Between #$1, #$2, #$3 there is: Villager, Outcast and $4"]
+    ],
+    "statement_regex": "^Between #(\\d+), #(\\d+)(?:, #(\\d+))? there is: (\\w+)(?:, (\\w+))? and (\\w+)$",
+    "regex_arg_map": {
+        "3": [0, 1, 3],
+        "4": [0, 1, 2, 3]
+    },
+    "regex_transforms": {
+        "Villager": null,
+        "Outcast": null
+    },
+    "category": "Learn up to 3 characters\\with 1 Villager, 1 Outcast, 1 Evil if possible"
+}

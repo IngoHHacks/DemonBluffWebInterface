@@ -1,0 +1,572 @@
+[gd_scene load_steps=17 format=3 uid="uid://cuwrk1vdio8u2"]
+
+[ext_resource type="Texture2D" uid="uid://bal0o5fqup7sg" path="res://Sprites/penta.png" id="1_3wdrw"]
+[ext_resource type="Script" uid="uid://c4i4tjvgclg2" path="res://Scenes/Village.gd" id="1_g6esj"]
+[ext_resource type="PackedScene" uid="uid://cmnq40dpvy7un" path="res://Objects/Card.tscn" id="2_ptt31"]
+[ext_resource type="PackedScene" uid="uid://mcrtiysshhtn" path="res://Objects/CardHolder.tscn" id="3_c183e"]
+[ext_resource type="Texture2D" uid="uid://bod4hjlrkle57" path="res://Sprites/fullscreen.png" id="3_nd6jl"]
+[ext_resource type="Texture2D" uid="uid://dmo1smk13c0fi" path="res://Sprites/IconVillager.png" id="4_2ileq"]
+[ext_resource type="PackedScene" uid="uid://c4teht2orduec" path="res://Objects/CardPicker.tscn" id="4_fdddk"]
+[ext_resource type="Texture2D" uid="uid://c2j85rgx540rs" path="res://Sprites/unmute.png" id="4_holt8"]
+[ext_resource type="Texture2D" uid="uid://cfp2638ri2iwu" path="res://Sprites/IconOutcast.png" id="5_c8hu4"]
+[ext_resource type="PackedScene" uid="uid://d0ug3n0ddipru" path="res://Objects/StatementEditor.tscn" id="5_taq63"]
+[ext_resource type="Texture2D" uid="uid://dpyvyc4dqr53i" path="res://Sprites/IconMinion.png" id="6_4e4q5"]
+[ext_resource type="Texture2D" uid="uid://dj5yfkekm76q7" path="res://Sprites/IconBoss.png" id="7_80t11"]
+[ext_resource type="PackedScene" uid="uid://csh2st115aykt" path="res://Objects/MarkerEditor.tscn" id="13_2cy4q"]
+[ext_resource type="Shader" uid="uid://bmqihb3xhscus" path="res://Shaders/Progress.gdshader" id="13_4e4q5"]
+[ext_resource type="Texture2D" uid="uid://ytmhp5o4jnin" path="res://Sprites/_notex.png" id="14_80t11"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_80t11"]
+shader = ExtResource("13_4e4q5")
+shader_parameter/bg_texture = ExtResource("14_80t11")
+shader_parameter/fill_ratio = 1.0
+shader_parameter/start_angle = 0.0
+shader_parameter/max_angle = 360.0
+shader_parameter/invert_fill = false
+shader_parameter/reflect_x = true
+shader_parameter/reflect_y = false
+shader_parameter/offset = Vector2(0, 0)
+
+[node name="Village" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_g6esj")
+card_template = ExtResource("2_ptt31")
+card_holder = ExtResource("3_c183e")
+
+[node name="Penta" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -400.0
+offset_top = -200.0
+offset_bottom = 200.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("1_3wdrw")
+expand_mode = 1
+
+[node name="Dummy" type="Node" parent="."]
+
+[node name="VillageConfig" type="Panel" parent="Dummy"]
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -400.0
+grow_horizontal = 0
+grow_vertical = 2
+
+[node name="Ver" type="VBoxContainer" parent="Dummy/VillageConfig"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -84.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Village Configuration"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="MarginContainer2" type="MarginContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Hor4" type="HBoxContainer" parent="Dummy/VillageConfig/Ver/MarginContainer2"]
+layout_mode = 2
+theme_override_constants/separation = 16
+alignment = 1
+
+[node name="Import" type="Button" parent="Dummy/VillageConfig/Ver/MarginContainer2/Hor4"]
+custom_minimum_size = Vector2(180, 50)
+layout_mode = 2
+text = "Import Village String"
+
+[node name="Export" type="Button" parent="Dummy/VillageConfig/Ver/MarginContainer2/Hor4"]
+custom_minimum_size = Vector2(180, 50)
+layout_mode = 2
+text = "Export Village String"
+
+[node name="Hor1" type="HBoxContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+alignment = 1
+
+[node name="Lbl" type="Label" parent="Dummy/VillageConfig/Ver/Hor1"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "# Characters:"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="NumCharacters" type="SpinBox" parent="Dummy/VillageConfig/Ver/Hor1"]
+custom_minimum_size = Vector2(75, 0)
+layout_mode = 2
+min_value = 4.0
+value = 10.0
+rounded = true
+alignment = 1
+
+[node name="NumCharactersSet" type="Button" parent="Dummy/VillageConfig/Ver/Hor1"]
+custom_minimum_size = Vector2(80, 50)
+layout_mode = 2
+text = "Set"
+
+[node name="Hor2" type="HFlowContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+alignment = 1
+
+[node name="Lbl" type="Label" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 32
+text = "Counts:"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="IcoVil" type="TextureRect" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("4_2ileq")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="Vils" type="SpinBox" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+value = 9.0
+rounded = true
+alignment = 1
+
+[node name="IcoOut" type="TextureRect" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("5_c8hu4")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="Outs" type="SpinBox" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+rounded = true
+alignment = 1
+
+[node name="IcoMin" type="TextureRect" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("6_4e4q5")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="Mins" type="SpinBox" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+value = 1.0
+rounded = true
+alignment = 1
+
+[node name="IcoDem" type="TextureRect" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("7_80t11")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="Dems" type="SpinBox" parent="Dummy/VillageConfig/Ver/Hor2"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+rounded = true
+alignment = 1
+
+[node name="DeckLbl" type="Label" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+text = "Deck:"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Deck" type="HFlowContainer" parent="Dummy/VillageConfig/Ver/ScrollContainer"]
+custom_minimum_size = Vector2(0, 100)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+
+[node name="Hor3" type="HBoxContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+theme_override_constants/separation = 18
+alignment = 1
+
+[node name="Add" type="Button" parent="Dummy/VillageConfig/Ver/Hor3"]
+custom_minimum_size = Vector2(80, 50)
+layout_mode = 2
+text = "Add"
+
+[node name="Clear Unused" type="Button" parent="Dummy/VillageConfig/Ver/Hor3"]
+custom_minimum_size = Vector2(80, 50)
+layout_mode = 2
+text = "Clear Unused"
+
+[node name="MarginContainer" type="MarginContainer" parent="Dummy/VillageConfig/Ver"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="SOLVE" type="Button" parent="Dummy/VillageConfig/Ver/MarginContainer"]
+custom_minimum_size = Vector2(80, 50)
+layout_mode = 2
+text = "SOLVE!"
+
+[node name="Mute" type="Button" parent="Dummy/VillageConfig"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -154.0
+offset_top = -74.0
+offset_right = -90.0
+offset_bottom = -10.0
+grow_horizontal = 0
+grow_vertical = 0
+icon = ExtResource("4_holt8")
+
+[node name="Fullscreen" type="Button" parent="Dummy/VillageConfig"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -74.0
+offset_top = -74.0
+offset_right = -10.0
+offset_bottom = -10.0
+grow_horizontal = 0
+grow_vertical = 0
+icon = ExtResource("3_nd6jl")
+
+[node name="CardPicker" parent="Dummy" instance=ExtResource("4_fdddk")]
+visible = false
+
+[node name="StatementEditor" parent="Dummy" instance=ExtResource("5_taq63")]
+visible = false
+
+[node name="MarkerEditor" parent="Dummy" instance=ExtResource("13_2cy4q")]
+visible = false
+
+[node name="ImportDisp" type="Control" parent="Dummy"]
+visible = false
+z_index = 50
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="Panel" parent="Dummy/ImportDisp"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+offset_left = -4.0
+offset_top = -4.0
+offset_right = -4.0
+offset_bottom = -4.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Err" type="Panel" parent="Dummy/ImportDisp/Panel"]
+visible = false
+z_index = 500
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -200.0
+offset_bottom = -60.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Label" type="Label" parent="Dummy/ImportDisp/Panel/Err"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 32
+text = "CAN'T IMPORT:
+REASON"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="TextEdit" type="TextEdit" parent="Dummy/ImportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -200.0
+grow_horizontal = 2
+grow_vertical = 2
+placeholder_text = "# Example Village Data:
+num_chars: 4,2,1,1
+deck: hunter,architect,druid,slayer,bishop,plague_doctor,wretch,bombardier,doppelganger,puppeteer,baa,puppet
+1 plague_doctor
+2 bishop Between #2, #4, #8 there is: Villager, Minion and Outcast
+3 wretch
+4 hunter I am 1 card away from closest Evil
+5 druid
+6 architect Right side is more Evil
+7 architect Both sides are equally Evil
+8 slayer"
+
+[node name="DoImport" type="Button" parent="Dummy/ImportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.3
+anchor_top = 1.0
+anchor_right = 0.45
+anchor_bottom = 1.0
+offset_top = -50.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+disabled = true
+text = "Import!"
+
+[node name="Cancel" type="Button" parent="Dummy/ImportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.55
+anchor_top = 1.0
+anchor_right = 0.7
+anchor_bottom = 1.0
+offset_top = -50.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Cancel"
+
+[node name="ExportDisp" type="Control" parent="Dummy"]
+visible = false
+z_index = 50
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="Panel" parent="Dummy/ExportDisp"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.1
+anchor_top = 0.1
+anchor_right = 0.9
+anchor_bottom = 0.9
+offset_left = -4.0
+offset_top = -4.0
+offset_right = -4.0
+offset_bottom = -4.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextEdit" type="TextEdit" parent="Dummy/ExportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -80.0
+grow_horizontal = 2
+grow_vertical = 2
+placeholder_text = "No data!"
+editable = false
+
+[node name="Copy" type="Button" parent="Dummy/ExportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.3
+anchor_top = 1.0
+anchor_right = 0.45
+anchor_bottom = 1.0
+offset_top = -50.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Copy"
+
+[node name="Close" type="Button" parent="Dummy/ExportDisp/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.55
+anchor_top = 1.0
+anchor_right = 0.7
+anchor_bottom = 1.0
+offset_top = -50.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Close"
+
+[node name="CopiedLabel" type="Label" parent="Dummy/ExportDisp/Panel"]
+visible = false
+layout_mode = 0
+offset_left = 357.0
+offset_top = 572.0
+offset_right = 412.0
+offset_bottom = 594.1
+text = "Copied!"
+
+[node name="SolveOverlay" type="Panel" parent="Dummy"]
+visible = false
+z_index = 2500
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ProgressTex" type="TextureRect" parent="Dummy/SolveOverlay"]
+material = SubResource("ShaderMaterial_80t11")
+custom_minimum_size = Vector2(400, 400)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_3wdrw")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="Dummy/SolveOverlay"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 72
+text = "Solving...
+0.0%"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="SolHideHint" type="Label" parent="Dummy"]
+visible = false
+custom_minimum_size = Vector2(400, 0)
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -43.2
+offset_right = 410.0
+offset_bottom = -10.0
+grow_vertical = 0
+theme_override_font_sizes/font_size = 24
+text = "Right-click to hide the solution."
+vertical_alignment = 2
+
+[node name="Err" type="Panel" parent="."]
+visible = false
+z_index = 500
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -500.0
+offset_top = -300.0
+offset_right = 100.0
+offset_bottom = 300.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Label" type="Label" parent="Err"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 48
+text = "CAN'T SOLVE:
+REASON"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="Center" type="Marker2D" parent="."]
+position = Vector2(-200, 0)
+
+[node name="Cards" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_right = -200.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/MarginContainer2/Hor4/Import" to="." method="_on_import_pressed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/MarginContainer2/Hor4/Export" to="." method="_on_export_pressed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/Hor1/NumCharactersSet" to="." method="_on_num_characters_set_pressed"]
+[connection signal="value_changed" from="Dummy/VillageConfig/Ver/Hor2/Vils" to="." method="_on_vils_value_changed"]
+[connection signal="value_changed" from="Dummy/VillageConfig/Ver/Hor2/Outs" to="." method="_on_outs_value_changed"]
+[connection signal="value_changed" from="Dummy/VillageConfig/Ver/Hor2/Mins" to="." method="_on_mins_value_changed"]
+[connection signal="value_changed" from="Dummy/VillageConfig/Ver/Hor2/Dems" to="." method="_on_dems_value_changed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/Hor3/Add" to="." method="_on_add_pressed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/Hor3/Clear Unused" to="." method="_on_clear_unused_pressed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Ver/MarginContainer/SOLVE" to="." method="_on_solve_pressed"]
+[connection signal="pressed" from="Dummy/VillageConfig/Fullscreen" to="." method="_on_fullscreen_pressed"]
+[connection signal="card_cleared" from="Dummy/CardPicker" to="." method="_on_card_picker_card_cleared"]
+[connection signal="card_selected" from="Dummy/CardPicker" to="." method="_on_card_picker_card_selected"]
+[connection signal="clear" from="Dummy/StatementEditor" to="." method="_on_statement_editor_clear"]
+[connection signal="done" from="Dummy/StatementEditor" to="." method="_on_statement_editor_done"]
+[connection signal="text_changed" from="Dummy/ImportDisp/Panel/TextEdit" to="." method="_on_text_edit_text_changed"]
+[connection signal="pressed" from="Dummy/ImportDisp/Panel/DoImport" to="." method="_on_do_import_pressed"]
+[connection signal="pressed" from="Dummy/ImportDisp/Panel/Cancel" to="." method="_on_cancel_pressed"]
+[connection signal="pressed" from="Dummy/ExportDisp/Panel/Copy" to="." method="_on_copy_pressed"]
+[connection signal="pressed" from="Dummy/ExportDisp/Panel/Close" to="." method="_on_close_pressed"]

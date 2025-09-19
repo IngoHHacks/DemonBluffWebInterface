@@ -1,0 +1,1 @@
+return village:num_adjacent_meeting_condition(function(c) return c:seen_as_evil() end) == num_adjacent_evils

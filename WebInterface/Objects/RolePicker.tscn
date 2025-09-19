@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dawd717woomci"]
+
+[ext_resource type="Script" uid="uid://bkkgra5k5y2bw" path="res://Objects/RolePicker.gd" id="1_dh580"]
+
+[node name="RolePicker" type="OptionButton"]
+custom_minimum_size = Vector2(200, 0)
+theme_override_constants/icon_max_width = 24
+script = ExtResource("1_dh580")

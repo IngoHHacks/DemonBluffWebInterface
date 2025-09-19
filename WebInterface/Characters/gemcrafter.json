@@ -1,0 +1,28 @@
+{
+    "hidden": false,
+    "id": "gemcrafter",
+    "name": "Gemcrafter",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn 1 Good character.",
+    "hints": "",
+    "parameters": [
+        "character"
+    ],
+    "parameter_names": [
+        "Character"
+    ],
+    "arg_names": [
+        "char"
+    ],
+    "statement": [
+        ["default", "#$1 is Good"]
+    ],
+    "statement_regex": "^#(\\d+) is Good$",
+    "category": "Learn 1 character\\that is Good"
+}

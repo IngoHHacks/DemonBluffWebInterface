@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3rrj6f7s5fhn"]
+
+[ext_resource type="Script" uid="uid://d0nfbat0gr0at" path="res://Objects/EvilRolePicker.gd" id="1_esy4d"]
+
+[node name="EvilRolePicker" type="OptionButton"]
+custom_minimum_size = Vector2(200, 0)
+theme_override_constants/icon_max_width = 24
+script = ExtResource("1_esy4d")

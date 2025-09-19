@@ -1,0 +1,29 @@
+{
+    "hidden": false,
+    "id": "hunter",
+    "name": "Hunter",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn how far I am from the nearest Evil.",
+    "hints": "",
+    "parameters": [
+        "number|1"
+    ],
+    "parameter_names": [
+        "Distance"
+    ],
+    "arg_names": [
+        "distance"
+    ],
+    "statement": [
+        ["$1 == 1", "I am $1 card away from closest Evil"],
+        ["default", "I am $1 cards away from closest Evil"]
+    ],
+    "statement_regex": "^I am (\\d+) cards? away from closest Evil$",
+    "category": "Learn distance\\to closest Evil"
+}

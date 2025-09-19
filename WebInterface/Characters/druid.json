@@ -1,0 +1,41 @@
+{
+    "hidden": false,
+    "id": "druid",
+    "name": "Druid",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 3 characters:: Learn 1 random Outcast among them (if any)",
+    "hints": "Wretch does not appear as an Outcast for her.",
+    "parameters": [
+        "character",
+        "character",
+        "character",
+        "optional_outcast_role"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Character 3",
+        "Outcast Role (if any)"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "char3",
+        "role"
+    ],
+    "statement": [
+        ["$4 == 'None'", "Among #$1, #$2, #$3 there are NO Outcasts"],
+        ["default", "Among #$1, #$2, #$3 there is: $4"]
+    ],
+    "statement_regex": "^Among #(\\d+), #(\\d+), #(\\d+) there (?:are (NO) Outcasts|is: ((?: |\\w)+))$",
+    "regex_transforms": {
+        "NO": "None"
+    },
+    "category": "Pick 3 characters:\\Learn 1 random Outcast among them (if any)"
+}

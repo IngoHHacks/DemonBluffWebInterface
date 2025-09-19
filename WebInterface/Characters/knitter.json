@@ -1,0 +1,33 @@
+{
+    "hidden": false,
+    "id": "knitter",
+    "name": "Knitter",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn how many Evils are adjacent to each other",
+    "hints": "",
+    "parameters": [
+        "number|0"
+    ],
+    "parameter_names": [
+        "Number of Adjacent Evils"
+    ],
+    "arg_names": [
+        "num_adjacent_evils"
+    ],
+    "statement": [
+        ["$1 == 0", "Evils are not adjacent to eachother"],
+        ["$1 == 1", "There is only 1 pair of Evil"],
+        ["default", "There are $1 pairs of Evil"]
+    ],
+    "statement_regex": "^(?:Evils are (not) adjacent to eachother|There (?:is only|are) (\\d+) pairs? of Evil)$",
+    "regex_transforms": {
+        "not": 0
+    },
+    "category": "Learn how many Evils\\are adjacent to each other"
+}

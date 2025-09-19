@@ -1,0 +1,32 @@
+{
+    "hidden": false,
+    "id": "dreamer",
+    "name": "Dreamer",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 1 character:: Learn an Evil role. If Evil picked, Learn correct info.",
+    "hints": "",
+    "parameters": [
+        "character",
+        "evil_role"
+    ],
+    "parameter_names": [
+        "Character",
+        "Role"
+    ],
+    "arg_names": [
+        "char",
+        "role"
+    ],
+    "statement": [
+        ["$2 == 'Wretch'", "#$1 could be: a Cabbage"],
+        ["default", "#$1 could be: $2"]
+    ],
+    "statement_regex": "^#(\\d+) could be: (?:an? )?((?: |\\w)+)$",
+    "category": "Pick 1 character:\\Learn an Evil role. If Evil picked, Learn correct info"
+}

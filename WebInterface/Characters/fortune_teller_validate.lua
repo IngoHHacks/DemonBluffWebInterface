@@ -1,0 +1,1 @@
+return (char1:seen_as_evil() or char2:seen_as_evil()) == has_evil

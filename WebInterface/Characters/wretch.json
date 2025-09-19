@@ -1,0 +1,15 @@
+{
+    "hidden": false,
+    "id": "wretch",
+    "name": "Wretch",
+    "type": "Outcast",
+    "alignment": "Good",
+    "seen_alignment": "Evil",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "RandomRole #Evil #Minion",
+    "description": "I Register as a random Evil Minion to other characters.",
+    "hints": "I can not Register as Good or as Wretch to other characters. I only Register as Minion or an Evil.",
+    "can_be_used_as_disguise": false
+}

@@ -1,0 +1,14 @@
+{
+    "hidden": true,
+    "id": "puppet",
+    "name": "Puppet",
+    "type": "Minion",
+    "alignment": "Evil",
+    "seen_alignment": "Evil",
+    "corruption": "Never",
+    "lying": "Never",
+    "disguise": "RandomRole #Villager",
+    "registeras": "None",
+    "description": "I Disguise as a Villager. I don't Lie.",
+    "hints": "Can only be created by the Puppeteer."
+}

@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://dgppgmbr6hkek"]
+
+[node name="ArgNumber" type="HFlowContainer"]
+custom_minimum_size = Vector2(400, 0)
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = -29.0
+offset_bottom = 2.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 2
+text = "CHARACTER #"
+
+[node name="SpinBox" type="SpinBox" parent="."]
+layout_mode = 2
+min_value = 1.0
+value = 1.0

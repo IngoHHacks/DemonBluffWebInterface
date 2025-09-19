@@ -1,0 +1,253 @@
+[gd_scene load_steps=7 format=3 uid="uid://bo4wkyk24j2b1"]
+
+[ext_resource type="Texture2D" uid="uid://4gklbs1qr8g" path="res://Sprites/IconCard.png" id="2_ihky1"]
+[ext_resource type="Texture2D" uid="uid://wt1baxws30k4" path="res://Sprites/disguise.png" id="3_1slcc"]
+[ext_resource type="Texture2D" uid="uid://65hd8tqm1im3" path="res://Sprites/IconDead.png" id="4_fill3"]
+[ext_resource type="Texture2D" uid="uid://dw362fon6w2o3" path="res://Sprites/RevealOrder.png" id="5_0wrpt"]
+[ext_resource type="Texture2D" uid="uid://c70o84qycqn5e" path="res://Sprites/textbox.png" id="5_wjqoe"]
+[ext_resource type="Texture2D" uid="uid://d0n0iv641awf1" path="res://Sprites/mark_icon.png" id="6_0wrpt"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -180.0
+offset_top = -10.0
+offset_right = -180.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(2, 2)
+
+[node name="Change" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = -170.0
+offset_top = -310.0
+offset_right = -10.0
+offset_bottom = -150.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(0.8, 0.8, 0.8, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 32
+text = "CHANGE"
+icon = ExtResource("2_ihky1")
+icon_alignment = 1
+expand_icon = true
+
+[node name="Disguise" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 10.0
+offset_top = -310.0
+offset_right = 170.0
+offset_bottom = -150.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 32
+text = "DISGUISE"
+icon = ExtResource("3_1slcc")
+icon_alignment = 1
+expand_icon = true
+
+[node name="Speech" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = -170.0
+offset_top = -130.0
+offset_right = -10.0
+offset_bottom = 30.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_constants/h_separation = 0
+theme_override_constants/line_spacing = -14
+theme_override_font_sizes/font_size = 24
+text = "STATEMENT
+ "
+icon = ExtResource("5_wjqoe")
+icon_alignment = 1
+expand_icon = true
+
+[node name="Corruption" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 10.0
+offset_top = -130.0
+offset_right = 170.0
+offset_bottom = 30.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 24
+text = "<corrupted>"
+icon_alignment = 1
+expand_icon = true
+
+[node name="Dead" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = -170.0
+offset_top = 50.0
+offset_right = -10.0
+offset_bottom = 210.0
+theme_override_colors/font_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0.666667, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 48
+text = "DEAD"
+icon = ExtResource("4_fill3")
+icon_alignment = 1
+expand_icon = true
+
+[node name="MarkEvil" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 50.0
+offset_right = 170.0
+offset_bottom = 210.0
+theme_override_colors/font_color = Color(1, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(1, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(1, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(1, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(1, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(1, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 48
+text = "[EVIL]"
+icon_alignment = 1
+expand_icon = true
+
+[node name="RevealLater" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 70)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 50.0
+offset_right = 170.0
+offset_bottom = 120.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 24
+text = "+"
+icon = ExtResource("5_0wrpt")
+icon_alignment = 1
+expand_icon = true
+
+[node name="RevealEarlier" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 70)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 140.0
+offset_right = 170.0
+offset_bottom = 210.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 24
+text = "-"
+icon = ExtResource("5_0wrpt")
+icon_alignment = 1
+expand_icon = true
+
+[node name="Real" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 190.0
+offset_top = -310.0
+offset_right = 350.0
+offset_bottom = -150.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 32
+text = "<REAL>"
+icon_alignment = 1
+expand_icon = true
+
+[node name="Uncorrupted" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 190.0
+offset_top = -130.0
+offset_right = 350.0
+offset_bottom = 30.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 22
+text = "<uncorrupted>"
+icon_alignment = 1
+expand_icon = true
+
+[node name="Marker" type="Button" parent="."]
+custom_minimum_size = Vector2(160, 160)
+layout_mode = 0
+offset_left = 190.0
+offset_top = 50.0
+offset_right = 350.0
+offset_bottom = 210.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_focus_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
+theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
+theme_override_constants/outline_size = 16
+theme_override_font_sizes/font_size = 24
+text = "MARKER"
+icon = ExtResource("6_0wrpt")
+icon_alignment = 1
+expand_icon = true

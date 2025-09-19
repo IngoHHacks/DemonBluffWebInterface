@@ -1,0 +1,28 @@
+{
+    "hidden": false,
+    "id": "poet",
+    "name": "Poet",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn random info.",
+    "hints": "",
+    "parameters": [
+        "character"
+    ],
+    "parameter_names": [
+        "Character"
+    ],
+    "arg_names": [
+        "char"
+    ],
+    "statement": [
+        ["default", "#$1 is Evil"]
+    ],
+    "statement_regex": "^#(\\d+) is Evil$",
+    "category": "Learn 1 character\\that is Evil"
+}

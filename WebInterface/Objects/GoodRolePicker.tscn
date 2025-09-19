@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dv2b6s6kf6wjq"]
+
+[ext_resource type="Script" uid="uid://cbfwdpames6hu" path="res://Objects/GoodRolePicker.gd" id="1_qmkpm"]
+
+[node name="GoodRolePicker" type="OptionButton"]
+custom_minimum_size = Vector2(200, 0)
+theme_override_constants/icon_max_width = 24
+script = ExtResource("1_qmkpm")

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://80f3jexnydkg"]
+
+[ext_resource type="Script" uid="uid://dpbsy2dhlovyx" path="res://Objects/MinionRolePicker.gd" id="1_1g88n"]
+
+[node name="MinionRolePicker" type="OptionButton"]
+custom_minimum_size = Vector2(200, 0)
+theme_override_constants/icon_max_width = 24
+script = ExtResource("1_1g88n")

@@ -1,0 +1,14 @@
+{
+    "hidden": false,
+    "id": "knight",
+    "name": "Knight",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "I can't die.",
+    "hints": "If I am Executed while Corrupted: I deal 4 additional damage to the you"
+}

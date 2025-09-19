@@ -1,0 +1,38 @@
+{
+    "hidden": false,
+    "id": "jester",
+    "name": "Jester",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 3 characters:: Learn how many of them are Evil",
+    "hints": "",
+    "parameters": [
+        "character",
+        "character",
+        "character",
+        "number|0|3"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Character 3",
+        "Number of Evils"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "char3",
+        "num_evils"
+    ],
+    "statement": [
+        ["$4 == 1", "Among: #$1, #$2, #$3: There is 1 Evil"],
+        ["default", "Among: #$1, #$2, #$3: There are $4 Evils"]
+    ],
+    "statement_regex": "^Among: #(\\d+), #(\\d+), #(\\d+): There (?:is|are) (\\d+) Evils?$",
+    "category": "Pick 3 characters:\\Learn how many of them are Evil"
+}

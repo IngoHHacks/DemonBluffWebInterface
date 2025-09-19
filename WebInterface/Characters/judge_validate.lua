@@ -1,0 +1,1 @@
+return char:should_lie() == not truthful

@@ -1,0 +1,1 @@
+return true -- The Confessor always tells the truth

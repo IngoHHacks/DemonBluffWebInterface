@@ -1,0 +1,33 @@
+{
+    "hidden": false,
+    "id": "lover",
+    "name": "Lover",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn how many Evil characters I am adjacent to",
+    "hints": "",
+    "parameters": [
+        "number|0|2"
+    ],
+    "parameter_names": [
+        "Number of Adjacent Evils"
+    ],
+    "arg_names": [
+        "num_adjacent_evils"
+    ],
+    "statement": [
+        ["$1 == 0", "NO Evils adjacent to me"],
+        ["$1 == 1", "1 Evil adjacent to me"],
+        ["default", "$1 Evils adjacent to me"]
+    ],
+    "statement_regex": "^(?:(NO) Evils adjacent to me|(\\d+) Evils? adjacent to me)$",
+    "regex_transforms": {
+        "NO": 0
+    },
+    "category": "Learn how many characters adjacent to me\\are Evil"
+}

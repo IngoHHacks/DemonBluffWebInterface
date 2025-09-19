@@ -1,0 +1,36 @@
+{
+    "hidden": false,
+    "id": "judge",
+    "name": "Judge",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 1 character:: Learn if they're Lying.",
+    "hints": "",
+    "parameters": [
+        "character",
+        "boolean"
+    ],
+    "parameter_names": [
+        "Character",
+        "Saying Truth"
+    ],
+    "arg_names": [
+        "char",
+        "truthful"
+    ],
+    "statement": [
+        ["$2 == false", "#$1 is Lying"],
+        ["default", "#$1 is saying Truth"]
+    ],
+    "statement_regex": "^#(\\d+) is (Lying|saying Truth)$",
+    "regex_transforms": {
+        "Lying": "False",
+        "saying Truth": "True"
+    },
+    "category": "Pick 1 character:\\Learn if they're Lying"
+}

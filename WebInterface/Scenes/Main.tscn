@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=3 uid="uid://bhriee1hbjhr7"]
+
+[ext_resource type="Script" uid="uid://c1phihq7twe37" path="res://Scenes/Main.gd" id="1_idj7w"]
+[ext_resource type="Texture2D" uid="uid://b437s55j2f0pd" path="res://Sprites/bg.png" id="2_kln2b"]
+[ext_resource type="PackedScene" uid="uid://cuwrk1vdio8u2" path="res://Scenes/Village.tscn" id="3_kln2b"]
+[ext_resource type="AudioStream" uid="uid://o07qa1283dpb" path="res://Audio/Spooky 2.wav" id="4_rgh2o"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_idj7w")
+
+[node name="BGTex" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_kln2b")
+expand_mode = 1
+
+[node name="Village" parent="." instance=ExtResource("3_kln2b")]
+
+[node name="BGM" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_rgh2o")
+
+[connection signal="pressed" from="Village/Dummy/VillageConfig/Mute" to="." method="_on_mute_pressed"]
+
+[editable path="Village"]

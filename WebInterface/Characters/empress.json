@@ -1,0 +1,34 @@
+{
+    "hidden": false,
+    "id": "empress",
+    "name": "Empress",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Learn 3 characters:. Only 1 is Evil",
+    "hints": "If Lies: All characters in my info are Good",
+    "parameters": [
+        "character",
+        "character",
+        "character"
+    ],
+    "parameter_names": [
+        "Character 1",
+        "Character 2",
+        "Character 3"
+    ],
+    "arg_names": [
+        "char1",
+        "char2",
+        "char3"
+    ],
+    "statement": [
+        ["default", "One is Evil: #$1, #$2 or #$3"]
+    ],
+    "statement_regex": "^One is Evil: #(\\d+), #(\\d+) or #(\\d+)$",
+    "category": "Learn 3 characters:\\Only 1 is Evil"
+}

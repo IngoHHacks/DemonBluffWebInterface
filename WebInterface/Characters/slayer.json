@@ -1,0 +1,39 @@
+{
+    "hidden": false,
+    "id": "slayer",
+    "name": "Slayer",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Pick 1 character:: If Evil is picked, Execute it.",
+    "hints": "If Lies: I can not kill my target",
+    "parameters": [
+        "character",
+        "boolean"
+    ],
+    "parameter_names": [
+        "Character",
+        "Executed"
+    ],
+    "arg_names": [
+        "char",
+        "killed"
+    ],
+    "statement": [
+        ["$2 == true", "I killed Evil at #$1"],
+        ["default", "I couldn't kill #$1"]
+    ],
+    "statement_regex": "^(?:I (killed) Evil at #(\\d+)|I (couldn't) kill #(\\d+))$",
+    "regex_transforms": {
+        "killed": "True",
+        "couldn't": "False"
+    },
+    "regex_arg_map": {
+        "2": [1, 0]
+    },
+    "category": "Pick 1 character:\\If Evil is picked, Execute it"
+}

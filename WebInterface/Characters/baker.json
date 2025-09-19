@@ -1,0 +1,36 @@
+{
+    "hidden": false,
+    "id": "baker",
+    "name": "Baker",
+    "type": "Villager",
+    "alignment": "Good",
+    "seen_alignment": "Good",
+    "corruption": "Allowed",
+    "lying": "Allowed",
+    "disguise": "None",
+    "registeras": "None",
+    "description": "Reveal: 1 random Unrevealed Good Villager becomes a Baker. Learn which Villager I was.",
+    "hints": "If Lies: I say that I was a random Villager role.",
+    "parameters": [
+        "boolean",
+        "role"
+    ],
+    "parameter_names": [
+        "Original Baker?",
+        "Original Role"
+    ],
+    "arg_names": [
+        "original",
+        "role"
+    ],
+    "statement": [
+        ["$1 == true", "I am the original Baker"],
+        ["default", "I was @2"]
+    ],
+    "statement_regex": "^I (?:(was) an? ((?: |\\w)+)|(am) the original (Baker))$",
+    "regex_transforms": {
+        "was": false,
+        "am": true
+    },
+    "category": "Say my original role"
+}
