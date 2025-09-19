@@ -1,3 +1,8 @@
+'''
+Clickable.gd
+This script makes a UI element clickable and emits a signal when clicked.
+'''
+
 extends Control
 
 signal pressed

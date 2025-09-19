@@ -1,3 +1,8 @@
+'''
+LuaBridge.gd
+This script provides a bridge between Godot and Lua, allowing Lua scripts to be executed within the Godot environment.
+'''
+
 extends Node
 
 const Character = Characters.Character

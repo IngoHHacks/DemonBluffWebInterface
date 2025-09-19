@@ -1,3 +1,8 @@
+'''
+IconPicker.gd
+This script provides a UI for selecting an icon from a predefined set of images.
+'''
+
 extends Control
 
 @export var icon_selectable_scene : PackedScene

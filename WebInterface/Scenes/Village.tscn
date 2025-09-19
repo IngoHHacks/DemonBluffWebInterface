@@ -89,6 +89,7 @@ theme_override_constants/margin_left = 8
 theme_override_constants/margin_top = 8
 theme_override_constants/margin_right = 8
 theme_override_constants/margin_bottom = 8
+metadata/_edit_group_ = true
 
 [node name="Hor4" type="HBoxContainer" parent="Dummy/VillageConfig/Ver/MarginContainer2"]
 layout_mode = 2

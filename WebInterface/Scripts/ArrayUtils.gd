@@ -1,3 +1,9 @@
+'''
+ArrayUtils.gd
+This script provides utility functions for array manipulation.
+All functions can handle both Godot Arrays and LuaTables.
+'''
+
 class_name ArrayUtils
 
 # Returns a new array with unique elements from the input array.

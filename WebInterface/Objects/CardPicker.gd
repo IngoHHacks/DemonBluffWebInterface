@@ -1,3 +1,8 @@
+'''
+CardPicker.gd
+This script manages a card picker UI component, allowing users to select a character card based on filters.
+'''
+
 extends Control
 
 const CharacterData = Characters.CharacterData

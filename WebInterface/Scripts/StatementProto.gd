@@ -1,3 +1,8 @@
+'''
+StatementProto.gd
+This script defines a prototype for creating Statement instances with predefined character data and arguments that can be built into full Statement objects.
+'''
+
 class_name StatementProto
 
 const Character = Characters.Character

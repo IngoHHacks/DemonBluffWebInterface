@@ -1,10 +1,16 @@
+'''
+Main.gd
+This script manages the root scene of the interface, handling background music playback and mute functionality.
+For the main logic, refer to Village.gd.
+'''
+
+
 extends Node
 
 var mute := false
 
 func _ready():
     $BGM.play()
-
 
 func _on_mute_pressed() -> void:
     mute = not mute

@@ -1,3 +1,8 @@
+'''
+TypeUtils.gd
+This script provides utility functions for type manipulation and casting. (Just one function for now.)
+'''
+
 class_name TypeUtils
 
 static func cast_to_type_of(of : Variant, variable : Variant) -> Variant:

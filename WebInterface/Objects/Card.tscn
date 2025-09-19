@@ -567,6 +567,7 @@ offset_bottom = 360.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("6_yah4i")
+metadata/_edit_lock_ = true
 
 [connection signal="pressed" from="CardEdit/Corruption" to="." method="_on_corruption_pressed"]
 [connection signal="pressed" from="CardEdit/Dead" to="." method="_on_dead_pressed"]

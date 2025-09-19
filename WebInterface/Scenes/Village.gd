@@ -1,3 +1,9 @@
+'''
+Village.gd
+This script manages the main logic for the village scene, including character management, deck handling, and puzzle solving.
+It also defines the Village and SolutionEntry classes used for village state and solution representation. They can be accessed with 'VillageScene.Village' and 'VillageScene.SolutionEntry'.
+'''
+
 extends Control
 
 class_name VillageScene
@@ -272,7 +278,6 @@ class Village:
                     _cache_skip = true # Skip next because we already know it doesn't meet the condition
         return count
 
-
     func solve(scene) -> Array:
         var last_update = Time.get_ticks_msec()
         var solutions : Array = []
@@ -517,8 +522,6 @@ class Village:
         )
 
         return states
-
-
 
 var village : Village = Village.new()
 var err_time := 0.0

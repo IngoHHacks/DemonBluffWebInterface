@@ -1,7 +1,15 @@
+'''
+Characters.gd
+This script manages character data and logic for a game, including loading character definitions from JSON+PNG+Lua files,
+statements, disguises, and validation of character roles and statements.
+It defines classes for Character and CharacterData, and provides utility functions for character management.
+'''
+
 extends Node
 
 const Village = VillageScene.Village
 
+# Not used right now
 const StartGameActOrder = [
     "baa",
     "counsellor",
@@ -196,7 +204,6 @@ class CharacterData:
     func _init(id: String):
         self.id = id
 
-
     static var _good_dummy : CharacterData = null
     static var _evil_dummy : CharacterData = null
     static func make_unknown(hidden_evil: bool) -> CharacterData:
@@ -222,7 +229,6 @@ class CharacterData:
         else:
             _good_dummy = unknown
         return unknown
-
 
 var characters : Dictionary[String, CharacterData] = {}
 

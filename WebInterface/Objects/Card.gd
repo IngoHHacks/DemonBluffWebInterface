@@ -1,3 +1,8 @@
+'''
+Card.gd
+This script manages the display and interaction of character cards in the village scene.
+'''
+
 extends Node2D
 
 class_name Card

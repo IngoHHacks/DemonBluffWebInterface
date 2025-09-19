@@ -1,3 +1,8 @@
+'''
+MarkerEditor.gd
+This script manages the marker editing UI for a card in the interface.
+'''
+
 extends Control
 
 var card_ref : Node = null

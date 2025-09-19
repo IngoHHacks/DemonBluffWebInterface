@@ -44,6 +44,7 @@ offset_right = -5.0
 offset_bottom = -55.0
 grow_horizontal = 2
 grow_vertical = 2
+metadata/_edit_group_ = true
 
 [node name="HFlowContainer" type="HFlowContainer" parent="Panel/ScrollContainer"]
 layout_mode = 2

@@ -1,3 +1,8 @@
+'''
+StatementEditor.gd
+This script provides a UI for selecting and configuring character statements for a card in the interface.
+'''
+
 extends Control
 
 const Village = VillageScene.Village
@@ -90,7 +95,6 @@ func init(village : Village, card : Card):
     else:
         $Panel/PresetSelect.selected = string_to_id[statement.character.id]
         set_setting_values(statement.args)
-
 
 func _on_preset_select_item_selected(index: int) -> void:
     settings.clear()

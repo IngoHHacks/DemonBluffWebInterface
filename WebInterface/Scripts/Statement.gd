@@ -1,3 +1,8 @@
+'''
+Statement.gd
+This script defines a Statement class used for logic validation and dynamic text generation in the game.
+'''
+
 class_name Statement
 
 const Character = Characters.Character

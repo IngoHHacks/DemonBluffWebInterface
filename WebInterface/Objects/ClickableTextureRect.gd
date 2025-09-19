@@ -1,3 +1,8 @@
+'''
+ClickableTextureRect.gd
+This script extends TextureRect to make it clickable and change its color on mouse hover.
+'''
+
 extends TextureRect
 
 class_name ClickableTextureRect
