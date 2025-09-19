@@ -124,10 +124,10 @@ namespace DemonBluffStateExporter
                             }
                         }
                     }
-                    if (writeToFile.Value)
-                    {
-                        WritePuzzleToFile(outStr);
-                    }
+                }
+                if (writeToFile.Value)
+                {
+                    WritePuzzleToFile(outStr);
                 }
                 if (writeSolution.Value)
                 {
