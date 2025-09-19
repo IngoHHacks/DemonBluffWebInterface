@@ -25,9 +25,9 @@ Assets not from the game are public domain, creative commons, made by contributo
 
 ## License
 CC0 (Public Domain)  
-Full license in `LICENSE` file.
 That means you can do whatever you want with this code and assets, including using it in commercial projects, without any restrictions, but please note the credits above regarding asset ownership.  
-No warranty is provided. Use at your own risk.
+No warranty is provided. Use at your own risk.  
+Full license in `LICENSE` file.
 
 ## Important Note
 I am totally the best player of Demon Bluff ever and this tool is just to help you be as good as me lol :]  
