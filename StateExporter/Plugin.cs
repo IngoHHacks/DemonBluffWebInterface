@@ -33,6 +33,7 @@ namespace DemonBluffStateExporter
             writeHealth = settings.CreateEntry("WriteHealth", false, "Write health info to output (might break with obfuscation)");
             writeSolution = settings.CreateEntry("WriteSolution", false, "Write the solution (hidden roles) to output (to file only; #id#.sol). Ignored if WriteToFile is false");
             settings.SetFilePath("UserData/DemonBluffStateExporter.cfg");
+            settings.LoadFromFile();
             settings.SaveToFile();
         }
 
