@@ -4,7 +4,7 @@ This repository contains the web interface for the Demon Bluff Solver/Helper/Vis
 ## Projects
 `StateExporter` is a MelonLoader mod that exports the game state to the clipboard. This can be pasted into the web interface importer to load the village state for visualization and solving.  
 The exporter only exports known information. Characters that are not revealed show up as unknown and characters that bluff will show up as their bluff (unless executed).  
-A compiled version of the mod can be found in Releases
+A compiled version of the mod can be found in [Releases](https://github.com/IngoHHacks/DemonBluffWebInterface/releases)
 
 `WebInterface` is the Godot project that contains the web interface. It can be exported to HTML5 with WebAssembly (WASM) for use in a web browser.
 The current production version is hosted at https://ingoh.net/dbwi
