@@ -39,6 +39,7 @@ class Character:
             
     var disguise : CharacterData = null
     var dead := false
+    var killed_by_demon := false
     var corrupted := false
     var never_disguised := false
     var never_corrupted := false
@@ -67,6 +68,7 @@ class Character:
         c._character = _character
         c.disguise = disguise
         c.dead = dead
+        c.killed_by_demon = killed_by_demon
         c.corrupted = corrupted
         c.never_disguised = never_disguised
         c.never_corrupted = never_corrupted
@@ -80,6 +82,13 @@ class Character:
         c.assumed_cured = assumed_cured
         c.assumed_cured_by = assumed_cured_by
         c.assumed_corrupted_by = assumed_corrupted_by
+        c.maybe_affected_by_evil = maybe_affected_by_evil
+        c.maybe_corrupted = maybe_corrupted
+        c.maybe_cured = maybe_cured
+        c.maybe_cured_by = maybe_cured_by
+        c.maybe_corrupted_by = maybe_corrupted_by
+        c.num_cured = num_cured
+        c.num_maybe_cured = num_maybe_cured
         return c
 
     func get_effective_character() -> CharacterData:
@@ -147,14 +156,13 @@ class Character:
             return is_evil() or assumed_corrupted == is_dizzy
         # Counsellor must sit next to at least one Outcast
         if character.id == "counsellor":
-            var unknown_outcasts := village.num_outcasts > village.num_of_type("Outcast")
             return village.get_adjacent_to(self).filter(func(c):
-                return c.character.type == "Outcast" or c.character.unknown and not c.hidden_evil and unknown_outcasts
+                return c.character.type == "Outcast" or c.character.unknown and not c.hidden_evil
             ).size() > 0
         # Puppeteer must sit next to Puppet (or two unconvertable characters)
         if character.id == "puppeteer":
             return village.get_adjacent_to(self).filter(func(c):
-                return c.character.id == "puppet" or c.character.unknown and c.hidden_evil
+                return c.character.id == "puppet" or c.character.unknown
             ).size() > 0 or village.get_adjacent_to(self).filter(func(c):
                 return c.character.type != "Villager"
             ).size() == 2
@@ -164,7 +172,7 @@ class Character:
                 return c.character.id == "puppeteer" or c.character.unknown and c.hidden_evil
             ).size() > 0
         # Doppelganger must copy the role of another character
-        if character.id == "doppelganger":
+        if character.id == "doppelganger" and not disguise.unknown:
             return village.characters.filter(func(c):
                 return c.id != id and c.character.id == disguise.id or c.character.unknown and not c.hidden_evil or c.character.id == "baker"
             ).size() > 0

@@ -8,7 +8,7 @@ if village:too_many_duplicates_if(this, role) then
     return false
 end
 -- If everything is met, we still can't be sure if they spoke the truth if there are multiple Bakers after the first one or if they claim to be a baker
-if village:num_of_role("baker") > 1 then
+if village:num_of_role("baker", true) > 1 then
     if ArrayUtils:any(before, function(c) return c.character.id == "baker" or (c.character.id == "doppelganger" and c.disguise.id == "baker") end) then
         return UNKNOWN
     end

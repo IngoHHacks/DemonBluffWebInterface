@@ -14,6 +14,26 @@ const CharacterData = Characters.CharacterData
 @export var card_template : PackedScene
 @export var card_holder : PackedScene
 
+class Solution:
+    var entries : Array[SolutionEntry] = []
+
+    func _init(entries: Array[SolutionEntry] = []):
+        self.entries = entries
+
+    func get_string(village : Village):
+        var str := ""
+        for i in village.characters.size():
+            if str != "":
+                str += "\n"
+            var entry = entries[i]
+            if entry.actual_role == null or village.characters[i].character.unknown and entry.actual_role.disguise == "None":
+                str += "[real]"
+            else:
+                str += entry.actual_role.id
+            if entry.corrupted:
+                str += " #corrupted"
+        return str
+        
 class SolutionEntry:
     var actual_role : CharacterData = null # null if same as assigned role
     var corrupted := false
@@ -45,7 +65,7 @@ class Village:
         for char in characters:
             v.characters.append(char.duplicate())
         v.num_revealed = num_revealed
-        # Deck doesn't need to be copied because it's irrelevant to solving
+        v.deck = deck
         return v
         
     func next_reveal_order() -> int:
@@ -278,9 +298,9 @@ class Village:
                     _cache_skip = true # Skip next because we already know it doesn't meet the condition
         return count
 
-    func solve(scene) -> Array:
+    func solve(scene : Node = null) -> Array[Solution]:
         var last_update = Time.get_ticks_msec()
-        var solutions : Array = []
+        var solutions : Array[Solution] = []
         var solver_village = self.duplicate()
         var unknown_disguised = deck.filter(func(c : CharacterData):
             return c.disguise != "None" and not characters.any(func(ch : Character):
@@ -289,12 +309,13 @@ class Village:
         )
         if characters.any(func(c : Character):
             return c.character.unknown
-        ) and deck.any(func(c : CharacterData):
-            return c.id == "plague_doctor"
-        ) and not characters.any(func(c : Character):
-            return c.character.id == "plague_doctor"
         ):
-            unknown_disguised.append(Characters.characters["plague_doctor"])
+            if deck.any(func(c : CharacterData):
+                return c.id == "plague_doctor" and not unknown_disguised.any(func(uc : CharacterData):
+                    return uc.id == c.id
+                )
+            ):
+                unknown_disguised.append(Characters.characters["plague_doctor"])
         var undisguised_villagers := characters.filter(func(c : Character):
             return c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
         ).map(func(c : Character):
@@ -311,7 +332,7 @@ class Village:
             # Allow UI to update
             # This used to be a thread, but web is iffy with threads (Lua extension breaks if threads are enabled for the web export, plus cross-origin isolation being necessary for threads to work at all)
             # Works pretty well though, if a bit less responsive than a thread
-            if Time.get_ticks_msec() - last_update > 10:
+            if scene != null and Time.get_ticks_msec() - last_update > 10:
                 last_update = Time.get_ticks_msec()
                 scene.solve_prog = i / float(iters.size())
                 await scene.get_tree().process_frame
@@ -328,18 +349,22 @@ class Village:
                     solver_village.characters[j].character = characters[j].character
                     solver_village.characters[j].disguise = characters[j].disguise
             if invalid_disguise:
-                scene.solve_prog = (i+1) / float(iters.size())
+                if scene != null:
+                    scene.solve_prog = (i+1) / float(iters.size())
                 continue
             if not _solve_is_valid_early(solver_village):
-                scene.solve_prog = (i+1) / float(iters.size())
+                if scene != null:
+                    scene.solve_prog = (i+1) / float(iters.size())
                 continue
             for state in _solve_corruption_states(solver_village):
                 if _solve_is_valid_late(state):
-                    var sol = state.characters.map(func(c : Character):
+                    var sol : Array[SolutionEntry] = []
+                    sol.assign(state.characters.map(func(c : Character):
                         return SolutionEntry.new(c._character if c.character != characters[c.id - 1].character else null, c.assumed_corrupted or (c.maybe_corrupted and c.character.unknown)
-                    ))
-                    solutions.append(sol)
-            scene.solve_prog = (i+1) / float(iters.size())
+                    )))
+                    solutions.append(Solution.new(sol))
+            if scene != null:
+                scene.solve_prog = (i+1) / float(iters.size())
         return solutions
 
     func _solve_is_valid_early(village: Village) -> bool:
@@ -412,10 +437,10 @@ class Village:
         if pookas.size() > 0:
             var pooka = states[0].characters[pookas[0].id - 1]
             var adj = states[0].get_adjacent_to(pooka).filter(func(c : Character):
-                return c.character.hidden and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
+                return c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
             )
             for ac in adj:
-                if ac.character.hidden and not ac.hidden_evil:
+                if ac.character.unknown and not ac.hidden_evil:
                     ac.maybe_corrupted = true
                     ac.maybe_corrupted_by = pooka
                     ac.maybe_affected_by_evil = true
@@ -427,11 +452,11 @@ class Village:
         if poisoners.size() > 0:
             var poisoner = states[0].characters[poisoners[0].id - 1]
             var adj = states[0].get_adjacent_to(poisoner).filter(func(c : Character):
-                return c.character.hidden and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
+                return c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
             )
             if adj.size() == 2:
                 states = [states[0].duplicate(), states[0].duplicate()]
-                if adj[0].character.hidden and not adj[0].hidden_evil:
+                if adj[0].character.unknown and not adj[0].hidden_evil:
                     states[0].characters[adj[0].id - 1].maybe_corrupted = true
                     states[0].characters[adj[0].id - 1].maybe_corrupted_by = poisoner
                     states[0].characters[adj[0].id - 1].maybe_affected_by_evil = true
@@ -439,7 +464,7 @@ class Village:
                     states[0].characters[adj[0].id - 1].assumed_corrupted = true
                     states[0].characters[adj[0].id - 1].assumed_corrupted_by = poisoner
                     states[0].characters[adj[0].id - 1].affected_by_evil = true
-                if adj[1].character.hidden and not adj[1].hidden_evil:
+                if adj[1].character.unknown and not adj[1].hidden_evil:
                     states[1].characters[adj[1].id - 1].maybe_corrupted = true
                     states[1].characters[adj[1].id - 1].maybe_corrupted_by = poisoner
                     states[1].characters[adj[1].id - 1].maybe_affected_by_evil = true
@@ -449,7 +474,7 @@ class Village:
                     states[1].characters[adj[1].id - 1].affected_by_evil = true
             else:
                 for ac in adj:
-                    if ac.character.hidden and not ac.hidden_evil:
+                    if ac.character.unknown and not ac.hidden_evil:
                         ac.maybe_corrupted = true
                         ac.maybe_corrupted_by = poisoner
                         ac.maybe_affected_by_evil = true
@@ -467,9 +492,9 @@ class Village:
                     if i + 1 == plague_doctor.id:
                         continue
                     var c = state.characters[i]
-                    if c.character.hidden and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager":
+                    if c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager":
                         var new_state = state.duplicate()
-                        if c.character.hidden and not c.hidden_evil:
+                        if c.character.unknown and not c.hidden_evil:
                             new_state.characters[i].maybe_corrupted = true
                             new_state.characters[i].maybe_corrupted_by = plague_doctor
                         else:
@@ -477,9 +502,21 @@ class Village:
                             new_state.characters[i].assumed_corrupted_by = plague_doctor
 
                         new_states.append(new_state)
+                if village.get_characters_of_role("baker").size() > 1 or village.get_characters_of_role("puppet").size() > 0:
+                    # Bakers can convert unrevealed Corrupted characters to uncorrupted Baker
+                    # Puppeteers can convert corrupted Good characters to uncorrupted Puppet
+                    new_states.append(state.duplicate())
             states = new_states
         var alchemists = village.get_characters_of_role("alchemist")
         alchemists.reverse() # Cure happens in counter-clockwise order starting from the topmost character
+        alchemists.sort_custom(func(a, b):
+            # Doppelgangers always go last
+            if a.character.id == "doppelganger" and b.character.id != "doppelganger":
+                return 1
+            if b.character.id == "doppelganger" and a.character.id != "doppelganger":
+                return -1
+            return 0
+        )
         if alchemists.size() > 0:
             for state in states:
                 for alch in alchemists:
@@ -634,7 +671,6 @@ func commit_village(village : Village, deck : Array[CharacterData]):
     _silent = false
     for char in deck:
         add_to_deck(char)
-    village.deck = deck.duplicate()
 
 func make_cards(card_count: int, village : Village) -> Array[Node]:
     var scale = 0.15
@@ -723,7 +759,7 @@ func _on_card_picker_card_selected(character: CharacterData, include_disguise :=
                 selected_card.set_disguise(old)
         else:
             selected_card.set_disguise(character)
-        if not village.deck.has(character):
+        if not village.deck.any(func (c): return c.id == character.id):
             add_to_deck(character)
             village.deck.append(character)
         selected_card.reveal()
@@ -807,7 +843,6 @@ func clear_deck() -> void:
     for card in $Dummy/VillageConfig/Ver/ScrollContainer/Deck.get_children():
         var c = card.get_node("Card")
         card.queue_free()
-        village.deck.erase(c.data.character)
         
 var _silent = false # Unfortunately, set_value_no_signal doesn't update the spinbox arrow button states correctly, so we need to manually prevent recursion
 
@@ -1026,7 +1061,7 @@ func _solve() -> Array:
         
     return await village.solve(self)
 
-func _done_solving(solutions : Array) -> void:
+func _done_solving(solutions) -> void:
     if solutions.size() == 0:
         show_error("No valid solutions found.")
         $Dummy/SolveOverlay.hide()
@@ -1040,7 +1075,8 @@ func _done_solving(solutions : Array) -> void:
     possible_actual_roles.resize(village.num_characters)
     var possible_corrupted : Array[bool] = []
     possible_corrupted.resize(village.num_characters)
-    for sol in solutions:
+    for solobj in solutions:
+        var sol = solobj.entries
         for i in village.num_characters:
             if sol[i].corrupted and sol[i].actual_role == null:
                 possible_corrupted[i] = true
@@ -1067,15 +1103,15 @@ func _on_text_edit_text_changed() -> void:
     $Dummy/ImportDisp/Panel/DoImport.disabled = $Dummy/ImportDisp/Panel/TextEdit.text.is_empty()
 
 func _on_do_import_pressed() -> void:
-    var result = import_village($Dummy/ImportDisp/Panel/TextEdit.text)
-    if result == "OK":
+    var result = import_village($Dummy/ImportDisp/Panel/TextEdit.text, self)
+    if result is Village:
         $Dummy/ImportDisp.hide()
         $Dummy/ImportDisp/Panel/TextEdit.text = ""
     else:
         import_err_time = 5.0
         $Dummy/ImportDisp/Panel/Err/Label.text = "CAN'T IMPORT:\n" + result
 
-func import_village(text: String) -> String:
+static func import_village(text: String, scene : VillageScene = null) -> Variant:
     var counts_str = null
     var deck_str = null
     var chars_strs = []
@@ -1137,6 +1173,8 @@ func import_village(text: String) -> String:
                 tag = tag.strip_edges().to_lower()
                 if tag == "#dead" or tag == "#killed_by_demon":
                     characters[i].dead = true
+                    if tag == "#killed_by_demon":
+                        characters[i].killed_by_demon = true
                 elif tag == "#hidden_evil":
                     characters[i].hidden_evil = true
                 elif tag == "#corrupted":
@@ -1165,6 +1203,8 @@ func import_village(text: String) -> String:
                 return "Invalid character line: '" + line + "'. '#hidden_evil' tag can only be used with '[unknown]' characters."
             elif tag == "#dead" or tag == "#killed_by_demon":
                 characters[i].dead = true
+                if tag == "#killed_by_demon":
+                    characters[i].killed_by_demon = true
             elif tag == "#corrupted":
                 characters[i].corrupted = true
             elif tag == "#never_disguised":
@@ -1212,8 +1252,10 @@ func import_village(text: String) -> String:
                 if statement == null:
                     return "Invalid character line: '" + line + "'. Invalid statement."
                 characters[i].statement = statement.build(characters[i])
-    commit_village(village_builder, deck)
-    return "OK"
+    village_builder.deck = deck.duplicate()
+    if scene != null:
+        scene.commit_village(village_builder, deck)
+    return village_builder
 
 func export_village() -> String:
     var lines : Array[String] = ["# Village Data:"]

@@ -94,6 +94,10 @@ func _process(delta):
             $Revealed.modulate = Color(0.7, 0.3, 0.3)
             $Unrevealed.modulate = Color(0.7, 0.3, 0.3)
             $Dead.modulate = Color(0.7, 0.7, 0.7)
+            if data.killed_by_demon:
+                $Dead/Lilis.visible = true
+            else:
+                $Dead/Lilis.visible = false
         else:
             $Dead.visible = false
             $Revealed.modulate = Color(1.0, 1.0, 1.0)

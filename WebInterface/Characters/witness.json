@@ -21,7 +21,7 @@
         "char"
     ],
     "statement": [
-        ["$1 == 0", "No character was affected by an Evil"],
+        ["$1 == 0", "NO character was affected by an Evil"],
         ["default", "#$1 was affected by an Evil"]
     ],
     "statement_regex": "^(?:(No) character was affected by an Evil|#(\\d+) was affected by an Evil)$",
