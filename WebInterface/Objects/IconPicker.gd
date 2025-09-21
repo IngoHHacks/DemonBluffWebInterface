@@ -23,8 +23,9 @@ func _ready():
 
 func load_icons():
     for file in DirAccess.open("res://Icons/").get_files():
-        if file.ends_with(".png"):
-            icons.append(load("res://Icons/" + file))
+        # Web exports are a bit weird and only include .import files, but the PNGs can still be loaded via load()
+        if file.ends_with(".import"):
+            icons.append(load("res://Icons/" + file.substr(0, file.length() - ".import".length())))
         
 
 func _on_icon_picked(icon):
