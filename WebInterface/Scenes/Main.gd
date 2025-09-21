@@ -16,6 +16,6 @@ func _on_mute_pressed() -> void:
     mute = not mute
     AudioServer.set_bus_mute(0, mute)
     if mute:
-        $Village/Dummy/VillageConfig/Mute.icon = load("res://Sprites/mute.png")
+        $Village/Dummy/VillageConfig/Mute.icon = load("res://Icons/Sound Off Flat White 256.png")
     else:
-        $Village/Dummy/VillageConfig/Mute.icon = load("res://Sprites/unmute.png")
+        $Village/Dummy/VillageConfig/Mute.icon = load("res://Icons/Sound Flat White 256.png")

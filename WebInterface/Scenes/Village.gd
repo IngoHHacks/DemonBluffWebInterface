@@ -620,6 +620,10 @@ func _ready():
 
 func _process(delta):
     handle_inputs()
+    if DisplayServer.window_get_mode() == DisplayServer.WINDOW_MODE_FULLSCREEN:
+        $Dummy/VillageConfig/Fullscreen.icon = load("res://Icons/Arrows Shrink Flat White 256.png")
+    else:
+        $Dummy/VillageConfig/Fullscreen.icon = load("res://Icons/Arrows Expand Flat White 256.png")
     if err_time > 0.0:
         $Err.visible = true
         $Err.modulate.a = min(1.0, err_time * 2.0)
@@ -750,7 +754,7 @@ func hide_solution() -> void:
 var current_closest_card : Node = null
 
 func closest_card() -> Node:
-    if $Dummy/CardPicker.visible or $Dummy/StatementEditor.visible or $Dummy/SolveOverlay.visible or $Dummy/ImportDisp.visible or $Dummy/ExportDisp.visible or $Dummy/MarkerEditor.visible:
+    if $Dummy/CardPicker.visible or $Dummy/StatementEditor.visible or $Dummy/SolveOverlay.visible or $Dummy/ImportDisp.visible or $Dummy/ExportDisp.visible or $Dummy/MarkerEditor.visible or $Dummy/PaintCanvas.canvas_enabled:
         return null
     var mouse_pos = get_viewport().get_mouse_position()
     var closest_card = null
@@ -1350,3 +1354,8 @@ func _on_close_pressed() -> void:
 func _on_copy_pressed() -> void:
     DisplayServer.clipboard_set($Dummy/ExportDisp/Panel/TextEdit.text)
     copied_time = 2.0
+
+const GITHUB_URL = "https://github.com/IngoHHacks/DemonBluffWebInterface"
+
+func _on_github_pressed() -> void:
+    OS.shell_open(GITHUB_URL)

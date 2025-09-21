@@ -1,0 +1,247 @@
+[gd_scene load_steps=10 format=3 uid="uid://bauxnow000jof"]
+
+[ext_resource type="Script" uid="uid://dawwd05rlor4x" path="res://Scenes/PaintCanvas.gd" id="1_jsb77"]
+[ext_resource type="Script" uid="uid://uqd6hyqvtok6" path="res://Scenes/Canvas.gd" id="2_1py2s"]
+[ext_resource type="Texture2D" uid="uid://dd60ddl6hd33m" path="res://Icons/Paintbrush Flat White 256.png" id="2_v411x"]
+[ext_resource type="Texture2D" uid="uid://ds6vuouy6ahqy" path="res://Icons/Eye Flat White 256.png" id="3_252nm"]
+[ext_resource type="Texture2D" uid="uid://crofvfsuk124" path="res://Icons/Blocked Flat White 256.png" id="4_ao84v"]
+[ext_resource type="Texture2D" uid="uid://dngw5peqnv0in" path="res://Icons/Gear Flat White 256.png" id="4_axfdl"]
+[ext_resource type="Texture2D" uid="uid://cq0fcbd5u6u6g" path="res://Icons/Undo Flat White 256.png" id="4_sbg7f"]
+[ext_resource type="Texture2D" uid="uid://cjbrvs63xbw4e" path="res://Icons/Trash Flat White 256.png" id="5_sbg7f"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1py2s"]
+bg_color = Color(0, 0, 0, 0)
+border_width_left = 4
+border_width_top = 4
+border_width_right = 4
+border_width_bottom = 4
+border_color = Color(1, 0, 0, 1)
+expand_margin_left = 4.0
+expand_margin_top = 4.0
+expand_margin_right = 4.0
+expand_margin_bottom = 4.0
+
+[node name="PaintCanvas" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_jsb77")
+
+[node name="Canvas" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("2_1py2s")
+
+[node name="Border" type="Panel" parent="Canvas"]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_1py2s")
+
+[node name="Paint" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -70.0
+offset_right = 70.0
+offset_bottom = -10.0
+grow_vertical = 0
+focus_mode = 0
+icon = ExtResource("2_v411x")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="PaintOpts" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 90.0
+offset_top = -70.0
+offset_right = 150.0
+offset_bottom = -10.0
+grow_vertical = 0
+focus_mode = 0
+icon = ExtResource("4_axfdl")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="PaintOptsPopup" type="Panel" parent="PaintOpts"]
+visible = false
+custom_minimum_size = Vector2(300, 100)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -190.0
+offset_right = 300.0
+offset_bottom = -60.0
+grow_vertical = 0
+pivot_offset = Vector2(0, 300)
+
+[node name="MarginContainer" type="MarginContainer" parent="PaintOpts/PaintOptsPopup"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="V1" type="VBoxContainer" parent="PaintOpts/PaintOptsPopup/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="H1" type="HBoxContainer" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H1"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+text = "Color:"
+
+[node name="ColorPickerButton" type="ColorPickerButton" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H1"]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 2
+flat = true
+color = Color(1, 0, 0, 0.5)
+
+[node name="H2" type="HBoxContainer" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1"]
+layout_mode = 2
+
+[node name="Size" type="Label" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H2"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+text = "Size:"
+
+[node name="HSlider" type="HSlider" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H2"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+min_value = 1.0
+value = 4.0
+rounded = true
+tick_count = 10
+ticks_on_borders = true
+ticks_position = 3
+
+[node name="H3" type="HBoxContainer" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1"]
+layout_mode = 2
+
+[node name="Shapify" type="Label" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H3"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+text = "Shapify: "
+
+[node name="CheckButton" type="CheckButton" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H3"]
+layout_mode = 2
+button_pressed = true
+flat = true
+
+[node name="H4" type="HBoxContainer" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1"]
+layout_mode = 2
+
+[node name="Reset" type="Button" parent="PaintOpts/PaintOptsPopup/MarginContainer/V1/H4"]
+layout_mode = 2
+text = "Reset to Defaults"
+
+[node name="Hide" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 170.0
+offset_top = -70.0
+offset_right = 230.0
+offset_bottom = -10.0
+grow_vertical = 0
+focus_mode = 0
+icon = ExtResource("3_252nm")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="Off" type="TextureRect" parent="Hide"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("4_ao84v")
+expand_mode = 1
+
+[node name="Undo" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 250.0
+offset_top = -70.0
+offset_right = 310.0
+offset_bottom = -10.0
+grow_vertical = 0
+focus_mode = 0
+icon = ExtResource("4_sbg7f")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[node name="Clear" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 330.0
+offset_top = -70.0
+offset_right = 390.0
+offset_bottom = -10.0
+grow_vertical = 0
+focus_mode = 0
+icon = ExtResource("5_sbg7f")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[connection signal="gui_input" from="Canvas" to="." method="_on_gui_input"]
+[connection signal="mouse_entered" from="Paint" to="." method="_on_paint_mouse_entered"]
+[connection signal="mouse_exited" from="Paint" to="." method="_on_paint_mouse_exited"]
+[connection signal="pressed" from="Paint" to="." method="_on_paint_pressed"]
+[connection signal="mouse_entered" from="PaintOpts" to="." method="_on_paint_opts_mouse_entered"]
+[connection signal="mouse_exited" from="PaintOpts" to="." method="_on_paint_opts_mouse_exited"]
+[connection signal="pressed" from="PaintOpts" to="." method="_on_paint_opts_pressed"]
+[connection signal="color_changed" from="PaintOpts/PaintOptsPopup/MarginContainer/V1/H1/ColorPickerButton" to="." method="_on_color_picker_button_color_changed"]
+[connection signal="value_changed" from="PaintOpts/PaintOptsPopup/MarginContainer/V1/H2/HSlider" to="." method="_on_h_slider_value_changed"]
+[connection signal="toggled" from="PaintOpts/PaintOptsPopup/MarginContainer/V1/H3/CheckButton" to="." method="_on_check_button_toggled"]
+[connection signal="pressed" from="PaintOpts/PaintOptsPopup/MarginContainer/V1/H4/Reset" to="." method="_on_reset_pressed"]
+[connection signal="mouse_entered" from="Hide" to="." method="_on_hide_mouse_entered"]
+[connection signal="mouse_exited" from="Hide" to="." method="_on_hide_mouse_exited"]
+[connection signal="pressed" from="Hide" to="." method="_on_hide_pressed"]
+[connection signal="mouse_entered" from="Undo" to="." method="_on_undo_mouse_entered"]
+[connection signal="mouse_exited" from="Undo" to="." method="_on_undo_mouse_exited"]
+[connection signal="pressed" from="Undo" to="." method="_on_undo_pressed"]
+[connection signal="mouse_entered" from="Clear" to="." method="_on_clear_mouse_entered"]
+[connection signal="mouse_exited" from="Clear" to="." method="_on_clear_mouse_exited"]
+[connection signal="pressed" from="Clear" to="." method="_on_clear_pressed"]
