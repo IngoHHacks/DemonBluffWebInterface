@@ -69,6 +69,10 @@ Characters can have the following tags:
 The order of tags does not matter, but they must be directly after [unknown] or the character role.
 When writing a parser, you must ignore unknown tags to allow for future extensions.
 
+### Disguises (Bluffs)
+Characters can be disguised (bluffing) as another character. This is denoted by writing the real character role followed by the bluff role separated by a `|` character. Example: `minion|bishop` means the character is a Minion disguised as a Bishop.  
+If no disguise is defined, the character may be considered as real or as a disguise unless the `#never_disguised` tag is present.
+
 ### Solution File Format
 Solutions files are much simpler. They only contain a list of real character roles in clockwise order starting from the game's #1 position. If the real role is the same as the character's bluff, it is denoted as `[real]`. If a character is corrupted, it is tagged with `#corrupted`. Comments can be added with '#' at the start of a line.
 Example:
