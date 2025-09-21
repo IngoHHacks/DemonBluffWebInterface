@@ -324,8 +324,14 @@ class Village:
                 return ch.character.id == c.id and ch.disguise != null
             )
         )
+        if deck.any(func(c : CharacterData):
+            return c.id == "puppeteer"
+        ) and not deck.any(func(c : CharacterData):
+            return c.id == "puppet"
+        ):
+            unknown_disguised.append(Characters.characters["puppet"])
         var undisguised_villagers := characters.filter(func(c : Character):
-            return c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
+            return not c.dead and c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
         ).map(func(c : Character):
             return c.id
         )
@@ -780,6 +786,10 @@ func _on_card_clicked(card: Node) -> void:
     select_mode = 0
     $Dummy/CardPicker.set_filter(null)
     $Dummy/CardPicker.set_clear_enabled(true)
+    if not card.data.character.unknown and card.data.character.can_be_used_as_disguise:
+        $Dummy/CardPicker.set_keep_old_as_disguise_enabled(true)
+    else:
+        $Dummy/CardPicker.set_keep_old_as_disguise_enabled(false)
     $Dummy/CardPicker.visible = true
     
 func _on_set_statement_clicked(card: Node) -> void:
@@ -792,6 +802,7 @@ func _on_disguise_clicked(card: Node) -> void:
     select_mode = 1
     $Dummy/CardPicker.set_filter(card.data.character.disguise)
     $Dummy/CardPicker.set_clear_enabled(true)
+    $Dummy/CardPicker.set_keep_old_as_disguise_enabled(false)
     $Dummy/CardPicker.visible = true
 
 func _on_marker_clicked(card: Node) -> void:
@@ -876,6 +887,7 @@ func _on_add_pressed() -> void:
     $Dummy/CardPicker.visible = true
     $Dummy/CardPicker.set_filter(null, village.deck)
     $Dummy/CardPicker.set_clear_enabled(false)
+    $Dummy/CardPicker.set_keep_old_as_disguise_enabled(false)
     
 func _on_clear_unused_pressed() -> void:
     hide_solution()
@@ -904,9 +916,6 @@ func _on_vils_value_changed(value: float) -> void:
     if _silent:
         return
     village.num_villagers = int(value)
-    var delta = update_counts("Villagers")
-    if delta > 0:
-        village.num_villagers -= delta # Shouldn't happen, but just in case
     _silent = true
     update_count_spinners()
     _silent = false
@@ -917,9 +926,6 @@ func _on_outs_value_changed(value: float) -> void:
     if _silent:
         return
     village.num_outcasts = int(value)
-    var delta = update_counts("Outcasts")
-    if delta > 0:
-        village.num_outcasts -= delta # Shouldn't happen, but just in case
     _silent = true
     update_count_spinners()
     _silent = false
@@ -929,9 +935,6 @@ func _on_mins_value_changed(value: float) -> void:
     if _silent:
         return
     village.num_minions = int(value)
-    var delta = update_counts("Minions")
-    if delta > 0:
-        village.num_minions -= delta # Shouldn't happen, but just in case
     _silent = true
     update_count_spinners()
     _silent = false
@@ -941,96 +944,10 @@ func _on_dems_value_changed(value: float) -> void:
     if _silent:
         return
     village.num_demons = int(value)
-    var delta = update_counts("Demons")
-    if delta > 0:
-        village.num_demons -= delta # Shouldn't happen, but just in case
     _silent = true
     update_count_spinners()
     _silent = false
-
-func update_counts(from : String) -> int:
-    var sum = village.num_villagers + village.num_outcasts + village.num_minions + village.num_demons
-    var demon_count = village.num_minions + village.num_demons
-    var actual_demon_count = village.get_actual_evil_count(true)
-    if demon_count < max(1, actual_demon_count):
-        if from != "Villagers" and village.num_villagers > 0:
-            village.num_villagers -= 1
-            if from != "Minions":
-                village.num_minions = 1
-            else:
-                village.num_demons = 1
-        elif from != "Outcasts" and village.num_outcasts > 0:
-            village.num_outcasts -= 1
-            if from != "Minions":
-                village.num_minions = 1
-            else:
-                village.num_demons = 1
-        elif village.num_villagers > 0:
-            village.num_villagers -= 1
-            if from != "Minions":
-                village.num_minions = 1
-            else:
-                village.num_demons = 1
-        elif village.num_outcasts > 0:
-            village.num_outcasts -= 1
-            if from != "Minions":
-                village.num_minions = 1
-            else:
-                village.num_demons = 1
-        else:
-            push_error("Impossible state: No Villagers or Outcasts to convert to Minion")
-    if sum > village.num_characters:
-        var delta = sum - village.num_characters
-        if from != "Villagers":
-            if delta > village.num_villagers:
-                delta -= village.num_villagers
-                village.num_villagers = 0
-            else:
-                village.num_villagers -= delta
-                return 0
-        if from != "Outcasts":
-            if delta > village.num_outcasts:
-                delta -= village.num_outcasts
-                village.num_outcasts = 0
-            else:
-                village.num_outcasts -= delta
-                return 0
-        if from != "Minions":
-            if delta > village.num_minions:
-                delta -= village.num_minions
-                village.num_minions = 0
-            else:
-                village.num_minions -= delta
-                return 0
-        if from != "Demons":
-            if delta > village.num_demons:
-                delta -= village.num_demons
-                village.num_demons = 0
-            else:
-                village.num_demons -= delta
-                return 0
-        return delta
-    if sum < village.num_characters:
-        var delta = village.num_characters - sum
-        if from != "Villagers":
-            village.num_villagers += delta
-            if village.num_villagers == village.num_characters:
-                village.num_villagers = village.num_characters - 1
-                if from != "Outcasts":
-                    village.num_outcasts = 1
-                else:
-                    village.num_minions = 1
-            return 0
-        if from != "Outcasts":
-            village.num_outcasts += delta
-            if village.num_outcasts == village.num_characters:
-                village.num_outcasts = village.num_characters - 1
-                if from != "Villagers":
-                    village.num_villagers = 1
-                else:
-                    village.num_minions = 1
-    return 0
-
+    
 func update_count_spinners() -> void:
     $Dummy/VillageConfig/Ver/Hor2/Vils.value = village.num_villagers
     $Dummy/VillageConfig/Ver/Hor2/Outs.value = village.num_outcasts
@@ -1056,6 +973,10 @@ func _solve() -> Array:
         if char.disguise == null and char.character.disguise != "None":
             show_error("All characters with disguises must have their disguise set.")
             return [null]
+
+    if village.num_villagers + village.num_outcasts + village.num_minions + village.num_demons != village.num_characters:
+        show_error("The total number of Villagers, Outcasts, Minions, and Demons must equal the total number of characters.")
+        return [null]
 
     var num_minions = village.characters.reduce(func(acc: int, char: Character):
         if not char.hidden_evil and char.character.type == "Minion" and not char.character.id == "puppet": # Puppet counts as Villager for this purpose

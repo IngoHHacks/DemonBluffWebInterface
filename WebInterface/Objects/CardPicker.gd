@@ -59,10 +59,13 @@ func matches_filter(character: CharacterData, filter: String) -> bool:
 
 func set_clear_enabled(enabled: bool) -> void:
     $Panel/Clear.visible = enabled
+
+func set_keep_old_as_disguise_enabled(enabled: bool) -> void:
     $Panel/KeepOldAsDisguise.visible = enabled
 
 func _on_card_picked(card):
-    card_selected.emit(card.data.character, $Panel/KeepOldAsDisguise.button_pressed)
+    var keep_old = $Panel/KeepOldAsDisguise.button_pressed and $Panel/KeepOldAsDisguise.visible
+    card_selected.emit(card.data.character, keep_old)
     visible = false
 
 func _on_clear_pressed() -> void:

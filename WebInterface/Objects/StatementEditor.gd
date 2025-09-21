@@ -91,10 +91,10 @@ func init(village : Village, card : Card):
             $Panel/PresetSelect.selected = string_to_id[char.id]
         else:
             $Panel/PresetSelect.selected = 0
-        _on_preset_select_item_selected($Panel/PresetSelect.selected)
     else:
         $Panel/PresetSelect.selected = string_to_id[statement.character.id]
         set_setting_values(statement.args)
+    _on_preset_select_item_selected($Panel/PresetSelect.selected)
 
 func _on_preset_select_item_selected(index: int) -> void:
     settings.clear()

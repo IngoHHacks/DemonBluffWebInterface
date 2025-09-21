@@ -9,7 +9,7 @@
     "lying": "Allowed",
     "disguise": "None",
     "registeras": "None",
-    "description": "Learn if closest Evil to me is Clockwise or Counter-Clockwise. Learn 'Equidistant' if Evils are at the same distance from me.",
+    "description": "Learn if closest Evil to me is Clockwise or Counter-clockwise. Learn 'Equidistant' if Evils are at the same distance from me.",
     "hints": "",
     "parameters": [
         "direction"
@@ -24,6 +24,6 @@
         ["$1 == 'equidistant'", "Closest Evil is equidistant"],
         ["default", "Closest Evil is: $1"]
     ],
-    "statement_regex": "^Closest Evil is:? (Clockwise|Counter-Clockwise|equidistant)$",
+    "statement_regex": "^Closest Evil is:? (Clockwise|Counter-clockwise|equidistant)$",
     "category": "Learn direction to\\closest Evil"
 }

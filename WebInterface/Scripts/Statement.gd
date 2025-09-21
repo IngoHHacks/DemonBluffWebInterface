@@ -55,7 +55,22 @@ func is_true(village : Village) -> int:
     return LuaBridge.run_statement_validation_logic(character, speaker, village, get_args_dict(village))
 
 func get_args() -> Array:
-    return args
+    var args_list = []
+    for i in range(args.size()):
+        if i >= arg_names.size():
+            continue
+        if arg_names[i].begins_with("direction") and args[i] is String:
+            if args[i].to_lower() == "clockwise":
+                args_list.append("Clockwise")
+            elif args[i].to_lower() == "counter-clockwise":
+                args_list.append("Counter-clockwise")
+            else:
+                args_list.append(args[i].to_lower().replace(" ", "_"))
+        elif arg_names[i].begins_with("side") and args[i] is String:
+            args_list.append(args[i].to_pascal_case())
+        else:
+            args_list.append(args[i])
+    return args_list
 
 func get_args_dict(village : Village) -> Dictionary:
     var dict = {}
@@ -69,6 +84,15 @@ func get_args_dict(village : Village) -> Dictionary:
                 dict[arg_names[i]] = null
             else:
                 dict[arg_names[i]] = village.characters[args[i] - 1]
+        elif arg_names[i].begins_with("direction") and args[i] is String:
+            if args[i].to_lower() == "clockwise":
+                dict[arg_names[i]] = "Clockwise"
+            elif args[i].to_lower() == "counter-clockwise":
+                dict[arg_names[i]] = "Counter-clockwise"
+            else:
+                dict[arg_names[i]] = args[i].to_lower().replace(" ", "_")
+        elif arg_names[i].begins_with("side") and args[i] is String:
+            dict[arg_names[i]] = args[i].to_pascal_case()
         else:
             dict[arg_names[i]] = args[i]
     return dict

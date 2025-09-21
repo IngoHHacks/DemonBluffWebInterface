@@ -176,6 +176,12 @@ class Character:
             return village.characters.filter(func(c):
                 return c.id != id and c.character.id == disguise.id or c.character.unknown and not c.hidden_evil or c.character.id == "baker"
             ).size() > 0
+        # Demons may not disguise as real Villager roles or Outcasts
+        if character.type == "Demon" and disguise != null:
+            if disguise.type != "Villager" or village.characters.any(func(c):
+                return c.character.id == disguise.id
+            ):
+                return false
         return true
 
     func adjacent_to_role(village : Village, role: String) -> bool:
