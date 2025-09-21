@@ -124,7 +124,7 @@ class Character:
             return false
         if character.lying == "Always":
             return true
-        return assumed_corrupted
+        return assumed_corrupted or maybe_corrupted
 
     func is_statement_valid(village: Village) -> bool:
         if statement == null:
@@ -208,6 +208,7 @@ class CharacterData:
     var regex_transforms = {}
     var regex_arg_map = {}
     var can_be_used_as_disguise := true
+    var considered_for_unknown := false
 
     func _init(id: String):
         self.id = id
@@ -284,6 +285,7 @@ func _ready():
             characters[name].regex_transforms = json.get("regex_transforms", {})
             characters[name].regex_arg_map = json.get("regex_arg_map", {})
             characters[name].can_be_used_as_disguise = json.get("can_be_used_as_disguise", true)
+            characters[name].considered_for_unknown = json.get("considered_for_unknown", false)
             
 func _card_order(a: Node, b: Node) -> bool:
     var char1 : CharacterData = a.get_node("Card").data.character

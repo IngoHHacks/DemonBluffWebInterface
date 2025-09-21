@@ -36,7 +36,45 @@ static func permutations(arr, n: int) -> Array:
         remaining.remove_at(i)
         for perm in permutations(remaining, n - 1):
             result.append([current] + perm)
-    return result
+    return ArrayUtils.unique(result)
+
+# Returns the permutations of the input array with n picked elements, with repetition allowed.
+static func permutations_with_repetition(arr, n: int) -> Array:
+    if arr is LuaTable:
+        arr = arr.to_array()
+    arr = ArrayUtils.unique(arr) # Ensure uniqueness to avoid redundant permutations
+    if n <= 0:
+        return []
+    if n == 1:
+        var arr2 = []
+        for item in arr:
+            arr2.append([item])
+        return arr2
+    var result = []
+    for i in range(arr.size()):
+        var current = arr[i]
+        for perm in permutations_with_repetition(arr, n - 1):
+            result.append([current] + perm)
+    return ArrayUtils.unique(result)
+
+# Returns the combinations of the input array with n picked elements.
+static func combinations(arr, n: int) -> Array:
+    if arr is LuaTable:
+        arr = arr.to_array()
+    if n <= 0 or n > arr.size():
+        return []
+    if n == 1:
+        var arr2 = []
+        for item in arr:
+            arr2.append([item])
+        return arr2
+    var result = []
+    for i in range(arr.size() - n + 1):
+        var current = arr[i]
+        var remaining = arr.slice(i + 1, arr.size())
+        for comb in combinations(remaining, n - 1):
+            result.append([current] + comb)
+    return ArrayUtils.unique(result)
 
 static func count(arr, callable) -> int:
     if arr is LuaTable:

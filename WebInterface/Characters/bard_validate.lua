@@ -1,6 +1,12 @@
 -- If distance is 0, no character should be Corrupted
 if distance == 0 then
-    return ArrayUtils:none(village.characters, function(c) return c.assumed_corrupted and c ~= this end)
+    if ArrayUtils:any(village.characters, function(c) return c.assumed_corrupted and c ~= this end) then
+        return false
+    end
+    if ArrayUtils:any(village.characters, function(c) return c.maybe_corrupted and c ~= this end) then
+        return UNKNOWN
+    end
+    return true
 end
 local check = village:get_adjacent_to(this, distance - 1)
 local maybe_false = false

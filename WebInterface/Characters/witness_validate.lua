@@ -2,6 +2,9 @@ if char == nil then
     if village:current_duplicates() > 0 and village:has_character_of_role("shaman") then
         return false -- The character duplicated by Shaman should've been witnessed
     end
+    if village:has_character_of_role("puppet") then
+        return false -- The character created by Puppet should've been witnessed
+    end
     if ArrayUtils:any(village.characters, function(c) return c.affected_by_evil end) then
         return false -- Characters affected by evil should've been witnessed
     end
@@ -10,7 +13,7 @@ if char == nil then
     end
     return true
 end
-if char.affected_by_evil then
+if char.affected_by_evil or char.character.id == "puppet" then
     return true
 end
 if char.dead and char.killed_by_demon then

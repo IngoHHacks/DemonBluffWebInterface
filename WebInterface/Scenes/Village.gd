@@ -26,21 +26,29 @@ class Solution:
             if str != "":
                 str += "\n"
             var entry = entries[i]
-            if entry.actual_role == null or village.characters[i].character.unknown and entry.actual_role.disguise == "None":
+            if entry.actual_role == null and village.characters[i].disguise == null or village.characters[i].character.unknown and entry.actual_role.disguise == "None":
                 str += "[real]"
             else:
-                str += entry.actual_role.id
+                if entry.actual_role == null:
+                    str += village.characters[i].character.id
+                else:
+                    str += entry.actual_role.id
             if entry.corrupted:
-                str += " #corrupted"
+                if entry.maybe_corrupted:
+                    str += " #maybe_corrupted"
+                else:
+                    str += " #corrupted"
         return str
         
 class SolutionEntry:
     var actual_role : CharacterData = null # null if same as assigned role
     var corrupted := false
+    var maybe_corrupted := false
 
-    func _init(actual_role: CharacterData = null, corrupted := false):
+    func _init(actual_role: CharacterData = null, corrupted := false, maybe_corrupted := false):
         self.actual_role = actual_role
         self.corrupted = corrupted
+        self.maybe_corrupted = maybe_corrupted
 
 class Village:
     var cards : Array[Node] = []
@@ -262,17 +270,26 @@ class Village:
             if condition.call(c):
                 return distance
         return -1
-
-    func get_characters_of_role(role: String) -> Array[Character]:
+    
+    func get_characters_of_roles(roles: Array, include_doppels := true) -> Array[Character]:
         var chars : Array[Character] = []
         for c in characters:
-            if c.character.id == role or (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == role):
+            for role in roles:
+                if c.character.id == role or (include_doppels and (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == role)):
+                    chars.append(c)
+                    break
+        return chars
+
+    func get_characters_of_role(role: String, include_doppels := true) -> Array[Character]:
+        var chars : Array[Character] = []
+        for c in characters:
+            if c.character.id == role or (include_doppels and (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == role)):
                 chars.append(c)
         return chars
         
-    func get_character_of_role(role: String) -> Character:
+    func get_character_of_role(role: String, include_doppels := true) -> Character:
         for c in characters:
-            if c.character.id == role or (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == role):
+            if c.character.id == role or (include_doppels and (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == role)):
                  return c
         return null
 
@@ -307,64 +324,77 @@ class Village:
                 return ch.character.id == c.id and ch.disguise != null
             )
         )
-        if characters.any(func(c : Character):
-            return c.character.unknown
-        ):
-            if deck.any(func(c : CharacterData):
-                return c.id == "plague_doctor" and not unknown_disguised.any(func(uc : CharacterData):
-                    return uc.id == c.id
-                )
-            ):
-                unknown_disguised.append(Characters.characters["plague_doctor"])
         var undisguised_villagers := characters.filter(func(c : Character):
             return c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
         ).map(func(c : Character):
             return c.id
         )
+        var unrevealed_characters := characters.filter(func(c : Character):
+            return c.character.unknown
+        ).map(func(c : Character):
+            return c.id
+        )
+        var unknown_unrevealed_possible = []
+        if characters.any(func(c : Character):
+            return c.character.unknown
+        ):
+            for c in deck:
+                if c.considered_for_unknown:
+                    if not unknown_disguised.any(func(uc : CharacterData):
+                        return uc.id == c.id
+                    ):
+                        unknown_unrevealed_possible.append(c)
         var max_disguised = unknown_disguised.size()
         var min_disguised = get_deck_evil_count() - get_actual_evil_count()
         var extra : Array[int] = []
         undisguised_villagers.resize(undisguised_villagers.size() + max_disguised - min_disguised)
-        var iters = ArrayUtils.unique(ArrayUtils.permutations(undisguised_villagers, max_disguised))
+        var iters = ArrayUtils.permutations(undisguised_villagers, max_disguised)
+        unrevealed_characters.resize(unrevealed_characters.size() + unknown_unrevealed_possible.size())
+        var unr_iters = ArrayUtils.permutations_with_repetition(unrevealed_characters, unknown_unrevealed_possible.size())
         if iters == []:
             iters = [[]]
+        if unr_iters == []:
+            unr_iters = [[]]
         for i in range(iters.size()):
-            # Allow UI to update
-            # This used to be a thread, but web is iffy with threads (Lua extension breaks if threads are enabled for the web export, plus cross-origin isolation being necessary for threads to work at all)
-            # Works pretty well though, if a bit less responsive than a thread
-            if scene != null and Time.get_ticks_msec() - last_update > 10:
-                last_update = Time.get_ticks_msec()
-                scene.solve_prog = i / float(iters.size())
-                await scene.get_tree().process_frame
-            var iter : Array = iters[i]
-            var invalid_disguise = false
-            for j in range(num_characters):
-                if iter.has(j + 1):
-                    if characters[j].never_disguised or (characters[j].hidden_evil and not unknown_disguised[iter.find(j + 1)].alignment == "Evil") or (characters[j].dead and unknown_disguised[iter.find(j + 1)].alignment == "Evil" and not characters[j].hidden_evil) or not Characters.valid_disguise_for(unknown_disguised[iter.find(j + 1)], characters[j].character):
-                        invalid_disguise = true
-                        break
-                    solver_village.characters[j].disguise = characters[j].character
-                    solver_village.characters[j].character = unknown_disguised[iter.find(j + 1)]
-                else:
+            for u in range(unr_iters.size()):
+                # Allow UI to update
+                # This used to be a thread, but web is iffy with threads (Lua extension breaks if threads are enabled for the web export, plus cross-origin isolation being necessary for threads to work at all)
+                # Works pretty well though, if a bit less responsive than a thread
+                if scene != null and Time.get_ticks_msec() - last_update > 10:
+                    last_update = Time.get_ticks_msec()
+                    scene.solve_prog = i / float(iters.size())
+                    await scene.get_tree().process_frame
+                var iter : Array = iters[i]
+                var unr : Array = unr_iters[u]
+                var invalid_disguise = false
+                for j in range(num_characters):
                     solver_village.characters[j].character = characters[j].character
                     solver_village.characters[j].disguise = characters[j].disguise
-            if invalid_disguise:
+                    if unr.has(j + 1):
+                        solver_village.characters[j].character = unknown_unrevealed_possible[unr.find(j + 1)]
+                    if iter.has(j + 1):
+                        if solver_village.characters[j].never_disguised or (solver_village.characters[j].hidden_evil and not unknown_disguised[iter.find(j + 1)].alignment == "Evil") or (solver_village.characters[j].dead and unknown_disguised[iter.find(j + 1)].alignment == "Evil" and not solver_village.characters[j].hidden_evil) or not Characters.valid_disguise_for(unknown_disguised[iter.find(j + 1)], solver_village.characters[j].character):
+                            invalid_disguise = true
+                            break
+                        solver_village.characters[j].disguise = characters[j].character
+                        solver_village.characters[j].character = unknown_disguised[iter.find(j + 1)]
+                if invalid_disguise:
+                    if scene != null:
+                        scene.solve_prog = (i+1) / float(iters.size())
+                    continue
+                if not _solve_is_valid_early(solver_village):
+                    if scene != null:
+                        scene.solve_prog = (i+1) / float(iters.size())
+                    continue
+                for state in _solve_corruption_states(solver_village):
+                    if _solve_is_valid_late(state):
+                        var sol : Array[SolutionEntry] = []
+                        sol.assign(state.characters.map(func(c : Character):
+                            return SolutionEntry.new(c._character if c.character != characters[c.id - 1].character else null, c.assumed_corrupted or (c.maybe_corrupted and c.character.unknown), c.maybe_corrupted)
+                        ))
+                        solutions.append(Solution.new(sol))
                 if scene != null:
                     scene.solve_prog = (i+1) / float(iters.size())
-                continue
-            if not _solve_is_valid_early(solver_village):
-                if scene != null:
-                    scene.solve_prog = (i+1) / float(iters.size())
-                continue
-            for state in _solve_corruption_states(solver_village):
-                if _solve_is_valid_late(state):
-                    var sol : Array[SolutionEntry] = []
-                    sol.assign(state.characters.map(func(c : Character):
-                        return SolutionEntry.new(c._character if c.character != characters[c.id - 1].character else null, c.assumed_corrupted or (c.maybe_corrupted and c.character.unknown)
-                    )))
-                    solutions.append(Solution.new(sol))
-            if scene != null:
-                scene.solve_prog = (i+1) / float(iters.size())
         return solutions
 
     func _solve_is_valid_early(village: Village) -> bool:
@@ -437,9 +467,11 @@ class Village:
         if pookas.size() > 0:
             var pooka = states[0].characters[pookas[0].id - 1]
             var adj = states[0].get_adjacent_to(pooka).filter(func(c : Character):
-                return c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
+                return c.character.id == "puppet" or c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
             )
             for ac in adj:
+                if ac.character.id == "puppet":
+                    continue # Puppets cannot be corrupted
                 if ac.character.unknown and not ac.hidden_evil:
                     ac.maybe_corrupted = true
                     ac.maybe_corrupted_by = pooka
@@ -452,28 +484,32 @@ class Village:
         if poisoners.size() > 0:
             var poisoner = states[0].characters[poisoners[0].id - 1]
             var adj = states[0].get_adjacent_to(poisoner).filter(func(c : Character):
-                return c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
+                return c.character.id == "puppet" or c.character.unknown and not c.hidden_evil or c.character.corruption == "Allowed" and c.character.type == "Villager"
             )
             if adj.size() == 2:
                 states = [states[0].duplicate(), states[0].duplicate()]
-                if adj[0].character.unknown and not adj[0].hidden_evil:
-                    states[0].characters[adj[0].id - 1].maybe_corrupted = true
-                    states[0].characters[adj[0].id - 1].maybe_corrupted_by = poisoner
-                    states[0].characters[adj[0].id - 1].maybe_affected_by_evil = true
-                else:
-                    states[0].characters[adj[0].id - 1].assumed_corrupted = true
-                    states[0].characters[adj[0].id - 1].assumed_corrupted_by = poisoner
-                    states[0].characters[adj[0].id - 1].affected_by_evil = true
-                if adj[1].character.unknown and not adj[1].hidden_evil:
-                    states[1].characters[adj[1].id - 1].maybe_corrupted = true
-                    states[1].characters[adj[1].id - 1].maybe_corrupted_by = poisoner
-                    states[1].characters[adj[1].id - 1].maybe_affected_by_evil = true
-                else:
-                    states[1].characters[adj[1].id - 1].assumed_corrupted = true
-                    states[1].characters[adj[1].id - 1].assumed_corrupted_by = poisoner
-                    states[1].characters[adj[1].id - 1].affected_by_evil = true
+                if adj[0].character.id != "puppet": # Puppets cannot be corrupted
+                    if adj[0].character.unknown and not adj[0].hidden_evil:
+                        states[0].characters[adj[0].id - 1].maybe_corrupted = true
+                        states[0].characters[adj[0].id - 1].maybe_corrupted_by = poisoner
+                        states[0].characters[adj[0].id - 1].maybe_affected_by_evil = true
+                    else:
+                        states[0].characters[adj[0].id - 1].assumed_corrupted = true
+                        states[0].characters[adj[0].id - 1].assumed_corrupted_by = poisoner
+                        states[0].characters[adj[0].id - 1].affected_by_evil = true
+                if adj[1].character.id != "puppet": # Puppets cannot be corrupted
+                    if adj[1].character.unknown and not adj[1].hidden_evil:
+                        states[1].characters[adj[1].id - 1].maybe_corrupted = true
+                        states[1].characters[adj[1].id - 1].maybe_corrupted_by = poisoner
+                        states[1].characters[adj[1].id - 1].maybe_affected_by_evil = true
+                    else:
+                        states[1].characters[adj[1].id - 1].assumed_corrupted = true
+                        states[1].characters[adj[1].id - 1].assumed_corrupted_by = poisoner
+                        states[1].characters[adj[1].id - 1].affected_by_evil = true
             else:
                 for ac in adj:
+                    if ac.character.id == "puppet":
+                        continue # Puppets cannot be corrupted
                     if ac.character.unknown and not ac.hidden_evil:
                         ac.maybe_corrupted = true
                         ac.maybe_corrupted_by = poisoner
@@ -502,12 +538,17 @@ class Village:
                             new_state.characters[i].assumed_corrupted_by = plague_doctor
 
                         new_states.append(new_state)
-                if village.get_characters_of_role("baker").size() > 1 or village.get_characters_of_role("puppet").size() > 0:
+                if village.get_characters_of_role("baker").size() > 1 or village.get_characters_of_role("puppet").size() > 0 or village.get_characters_of_role("counsellor").size() > 0:
                     # Bakers can convert unrevealed Corrupted characters to uncorrupted Baker
                     # Puppeteers can convert corrupted Good characters to uncorrupted Puppet
+                    # Counsellors can convert unrevealed Good characters to uncorrupted Outcast
                     new_states.append(state.duplicate())
             states = new_states
-        var alchemists = village.get_characters_of_role("alchemist")
+        var alchemists = village.get_characters_of_roles(["alchemist", "baker"])
+        # Exclude Doppelganger Bakers (Doppelganger Alchemists are allowed)
+        alchemists = alchemists.filter(func(c : Character):
+            return not (c.character.id == "doppelganger" and c.disguise != null and c.disguise.id == "baker")
+        )
         alchemists.reverse() # Cure happens in counter-clockwise order starting from the topmost character
         alchemists.sort_custom(func(a, b):
             # Doppelgangers always go last
@@ -517,9 +558,15 @@ class Village:
                 return -1
             return 0
         )
-        if alchemists.size() > 0:
-            for state in states:
-                for alch in alchemists:
+        if alchemists.size() > 0 and village.deck.any(func(c : CharacterData):
+            return c.id == "alchemist"
+        ):
+            for alch in alchemists:
+                var old : Array[Village] = []
+                if alch.character.id == "baker":
+                    for state in states:
+                        old.append(state.duplicate())
+                for state in states:
                     alch = state.characters[alch.id - 1]
                     if alch.assumed_corrupted:
                         continue # Corrupted Alchemist can't cure
@@ -537,6 +584,8 @@ class Village:
                             ac.assumed_cured = true
                             ac.assumed_cured_by = alch
                             ac.assumed_corrupted = false
+                if old != null and old.size() > 0:
+                    states = old + states
         var puppets = village.get_characters_of_role("puppet")
         if puppets.size() > 0:
             var p = puppets[0]

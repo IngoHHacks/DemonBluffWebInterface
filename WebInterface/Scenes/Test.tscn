@@ -1,0 +1,44 @@
+[gd_scene load_steps=2 format=3 uid="uid://bw314jqn1c1md"]
+
+[sub_resource type="GDScript" id="GDScript_ot306"]
+script/source = "extends Node
+
+func _ready():
+    var tests_ok = true
+    var test_arr = [1, 2, 2, 3]
+    var perms = ArrayUtils.permutations(test_arr, 3)
+    var combs = ArrayUtils.combinations(test_arr, 3)
+    var perms_rep = ArrayUtils.permutations_with_repetition(test_arr, 3)
+    var unique = ArrayUtils.unique(test_arr)
+    if perms.size() != 12:
+        tests_ok = false
+        print(\"Permutations test failed: expected 12, got \", perms.size())
+    if combs.size() != 3:
+        tests_ok = false
+        print(\"Combinations test failed: expected 3, got \", combs.size())
+    if perms_rep.size() != 27:
+        tests_ok = false
+        print(\"Permutations with repetition test failed: expected 27, got \", perms_rep.size())
+    if unique.size() != 3:
+        tests_ok = false
+        print(\"Unique test failed: expected 3, got \", unique.size())
+    print(\"Tests done!\")
+"
+
+[node name="Test" type="Node"]
+script = SubResource("GDScript_ot306")
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -11.5
+offset_right = 20.0
+offset_bottom = 11.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 72
+text = "TESTS PENDING..."

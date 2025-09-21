@@ -1,8 +1,8 @@
 # Village Data:
-num_chars: 5,1,2,1
+num_chars: 4,1,0,1
 num_evil: 1
 num_revealed: 0
-deck: knight,enlightened,bishop,baker,scout,plague_doctor,wretch,minion,puppeteer,baa,pooka,gemcrafter,bard,druid,doppelganger
+deck: jester,gemcrafter,bard,druid,enlightened,doppelganger,pooka
 1 jester Among: #6, #3, #5: There are 2 Evils
 2 gemcrafter #1 is Good
 3 bard I am 1 card away from Corrupted character
