@@ -331,7 +331,7 @@ class Village:
         ):
             unknown_disguised.append(Characters.characters["puppet"])
         var undisguised_villagers := characters.filter(func(c : Character):
-            return not c.dead and c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
+            return not (c.dead and c.reveal_order > 0) and c.disguise == null and c.character.can_be_used_as_disguise and not c.never_disguised
         ).map(func(c : Character):
             return c.id
         )
